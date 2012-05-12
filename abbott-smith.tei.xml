@@ -1310,19 +1310,16 @@
  </div>
 </front>
 
-<pb n="1" /> <!-- typed="" checked="" --> 
+<pb n="1" /> <!-- typed="DCO" checked="" --> 
 
 <body>
 <head>MANUAL GREEK LEXICON OF THE NEW TESTAMENT</head> 
 
+<div type="letter"><!--***Need to close this-->
+<head>Α</head>
 
  <entry n="α"> 
- 	<form>
- 		<orth>
- 			<foreign xml:lang="grc">Α, α, ἄλφα</foreign>
- 		</orth> (q.v.), 
- 		<foreign xml:lang="grc">τό</foreign>, indecl., 
- 	</form>
+ 	<form><foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, indecl., </form>
  	<gramGrp></gramGrp>
  	<sense><def>alpha</def>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">α ́</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses:
  	</sense>
@@ -1334,8 +1331,100 @@
  	</sense> 
  	<sense n="3">3. An intensive force (LS, s. <foreign xml:lang="grc">α</foreign>), as in <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense> 
  </entry>
+ 
+ <entry n="Ἀαρών"> 
+ 	<form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense><def>Aaron</def> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† 
+ 	</sense>
+ </entry> 
+ 
+  <entry n="Ἀβαδδών"> 
+ 	<form><foreign xml:lang="grc">Ἀβαδδών</foreign> (Heb. <foreign xml:lang="heb">אֲבַדֹּון</foreign>, <emph>destruction</emph>; LXX, <foreign xml:lang="grc">ἀπώλεια</foreign>, only in Wisdom Lit., of the place of the ruined dead: <ref osisRef="Job.26.6">Jb 26:6</ref>, <ref osisRef="Job.28.22">28:22</ref>, <ref osisRef="Job.31.12">31:12</ref>, <ref osisRef="Ps.88:12">Ps 88:12</ref>, <ref osisRef="Prov.15.11">Pr 15:11</ref>*), indecl.; </form>
+ 	<gramGrp></gramGrp>
+ 	<sense>
+ 	in NT, <def>Abaddon</def>, the angel of the Abyss: <ref osisRef="Rev.9.11">Re 9:11</ref>.†
+ 	</sense>
+ </entry> 
+ 
+  <entry n="αβαρής"> 
+ 	<form>*<foreign xml:lang="grc">αβαρής, -ές</foreign> (&lt; <foreign xml:lang="grc">βαρός</foreign>),  	</form>
+ 	<gramGrp></gramGrp>
+ 	<sense><def>without weight</def>; metaph. (MM, <emph>VGT</emph>, s.v.) <def>not burdensome</def>: <ref osisRef="2Cor.11.9">II Co 11:9</ref>.†
+ 	</sense> 
+ </entry>  
+ 
+  <entry n="Ἀββά"> 
+ 	<form><foreign xml:lang="grc">Ἀββά</foreign> (T, <foreign xml:lang="grc">-ᾶ</foreign>), indecl. (Aram, <foreign xml:lang="arc">אַבָּא</foreign>, emphatic form of <foreign xml:lang="arc">אַב</foreign> = Heb. <foreign xml:lang="heb">אָב</foreign>, <emph>father</emph>), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense>used in the phrase <foreign xml:lang="grc">Ἀ. ὁ παήρ</foreign>, <def>Abba, Father</def> (v. Swete on Mk, I.c.): <ref osisRef="Mark.14.36">Mk 14:36</ref>, <ref osisRef="Rom.8.15">Ro 8:15</ref>, <ref osisRef="Gal.4.6">Ga 4:6</ref>. †
+ 	</sense> 
+ </entry>  
 
-<!-- Template Entry
+  <entry n="Ἀβειληνή"> 
+ 	<form><foreign xml:lang="grc">Ἀβειληνή</foreign> (T, Rec. <foreign xml:lang="grc">Ἀβι-</foreign>), <foreign xml:lang="grc">--ῆς, ἡ</foreign>, (sc. <foreign xml:lang="grc">χώρα</foreign>), 
+ 	</form>
+ 	<gramGrp></gramGrp>
+ 	<sense><def>Abilene</def>, a district in the Anti-Lebanon : <ref osisRef="Luke.3.1">Lk 3:1</ref>. †
+ 	</sense> 
+ </entry>  
+
+  <entry n="Ἄβελ"> 
+ 	<form><foreign xml:lang="grc">Ἄβελ</foreign>, (WH,<foreign xml:lang="grc"> Ἅ-</foreign>), <foreign xml:lang="grc">ὁ</foreign>, indecl. (<foreign xml:lang="heb">הֶבֶל</foreign>), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense>
+ 	<def>Abel</def>  (<ref osisRef="Gen.4.4-Gen.4.10">Ge 4:2-10</ref>): <ref osisRef="Heb.11.4">He 11:4</ref>, <ref osisRef="Heb.12.24">12:24</ref>; <foreign xml:lang="grc">αἵμα  Ἄ</foreign>., <ref osisRef="Matt.23.35">Mt 23:35</ref>, <ref osisRef="Luke.11.51">Lk 11:51</ref>. †
+ 	</sense> 
+ </entry>  
+
+  <entry n="Ἀβιά"> 
+ 	<form><foreign xml:lang="grc">Ἀβιά</foreign> (Heb. <foreign xml:lang="heb">אֲבִיָּה</foreign>, <foreign xml:lang="heb">אֲבִיָּהוּ</foreign>), <foreign xml:lang="grc">ὁ</foreign>, indecl. (in FlJ, <foreign xml:lang="grc">Ἀβίας, -α</foreign>), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense>
+ 	<def>Abia, Abijah</def>.
+ 	</sense>
+ 	<sense n="1">
+ 		1. Son of Eehoboam (<ref osisRef="2Kgs.14.1">III Ki 14:1</ref>): <ref osisRef="Matt.1.7">Mt 1:7</ref>.
+ 	</sense> 
+ 	<sense n="2">
+	 	2. A priest of the line of Eleazar (<ref osisRef="1Chr.24.3">I Ch 24:3</ref>, <ref osisRef="1Chr.24.10">10</ref>): <ref osisRef="Luke.1.5">Lk 1:5</ref>. †</sense>
+ </entry>  
+
+  <entry n="Ἀβιάθαρ"> 
+ 	<form><foreign xml:lang="grc">Ἀβιάθαρ, ὁ</foreign>, indecl. (Heb. <foreign xml:lang="heb">אֶבְיָתָר</foreign>), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense><def>Abiathar</def> (<ref osisRef="1Kgs.21.1">I Ki 21:1</ref>): <ref osisRef="Mark.2.26">Mk 2:26</ref>. †
+ 	</sense> 
+ </entry>  
+
+  <entry n="Ἀβιληνή"> 
+ 	<form><foreign xml:lang="grc">Ἀβιληνή</foreign> v.s. <foreign xml:lang="grc">Ἀβειληνή</foreign>.
+ 	</form>
+ 	<gramGrp></gramGrp>
+ 	<sense></sense>
+ </entry> 
+
+  <entry n="Ἀβιούδ"> 
+ 	<form><foreign xml:lang="grc">Ἀβιούδ, ὁ</foreign>, indecl. (Heb. <foreign xml:lang="heb">אֲבִיָּהוּד</foreign>), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense>
+ 	<def>Abiud, Abihud</def>
+ 	<ref osisRef="Matt.1.13">Mt 1.:13</ref>. †
+ 	</sense> 
+ </entry> 
+ 
+  <entry n="Ἀβραάμ"> 
+ 	<form><foreign xml:lang="grc">Ἀβραάμ (Heb. <foreign xml:lang="heb">אַבְרָהָם</foreign>), ὁ</foreign>, indecl. (in FlJ, <foreign xml:lang="grc">Ἄβραμος, -ου</foreign>; MM, <emph>VGT</emph>, s.v.), </form>
+ 	<gramGrp></gramGrp>
+ 	<sense>
+ 	<def>Abraham</def> 
+ 	(<ref osisRef="Gen.17.5">Ge 17:5</ref> al.): <ref osisRef="Matt.1.1-Matt.1.2">Mt 1:1, 2</ref> al.
+ 	</sense> 
+ </entry> 
+ 
+<pb n="2" /> 
+<!-- typed="" checked="" -->
+ <!-- Template Entry
   <entry n=""> 
  	<form>
  		<orth>
@@ -1345,51 +1434,13 @@
  	<gramGrp></gramGrp>
  	<sense>
  	<def></def>
- 	<ref osisRef=""></ref>
+ 	<ref osisRef="">
  	</sense>
  	<sense n="1">
  		1. †
  	</sense> 
  </entry> 
  -->
- 
- <entry n="Ἀαρών"> 
- 	<form>
- 		<orth>
- 			<foreign xml:lang="grc">Ἀαρών</foreign>
- 		</orth> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>),
- 	</form>
- 	<gramGrp></gramGrp>
- 	<sense><def>Aaron</def> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† 
- 	</sense>
- </entry> 
- 
-ἈapolK (Heb. ]niN), indecl. (in FIJ, -wvos), Aaron (Ex 4", al.): Lk 15, Ac 7*», He 5* 7^1 9*.+ 
-
-ἈPaSSwv (Heb. ]niN , destruction ; LXX, dTrwXcia, only in Wisdom Lit., of the place of the ruined dead : Jb 26''' 2822 3112^ pg 8812, Pr 1511*), indecl. ; in NT, Abaddon, the angel of the Abyss : Ee 9^\f *dpapiis, -€s «;8dpos), without weight; metaph. (MM, VGT, s.v.) not burdensome : 11 Co ll^.t 
-
-*tἈj3pd (T, -a), indecl. (Aram, xnx, emphatic form of n^t = Heb. 
-
-21&lt; , father), used in the phrase Ἀ. 6 irarrjp, Abba, Father (v. Swete on Mk, I.e.) : Mk 1436, Eo 8^5, Ga d^.t 
-
-ἈPeiXtjn] (T, Eec. ἈySt-), -^s, Tj (sc. x^^po), Abilene, a district in the Anti-Lebanon : Lk 3^t 
-
-"ApeX (WH, "A-), 6, indecl. (Heb. ^3^1), Abel (Ge 42-10) : He 11* 1224; af/.a-Ἀ., Mt 2335, Lk lisi.t 
-
-Ἀpid (Heb. njns? , in;n&gt;?), 6, indecl. (in FIJ, Ἀ^Stas, -a), Abia, 
-
-Abijah. 1. Son of Eehoboam (iii Ki 14^) : Mt 1^. 2. A priest of the 
-line of Eleazar (i Ch 24^. lO) ; Lk l^.t 
-
-Ἀ(3id0ap, 6, indecl. (Heb. in^^5N), Abiathar (i Ki 21^) : Mk 226.t 
-
-ἈPiXt]!/!!, V.8. Ἀ^eLXrjvrj. 
-
-ἈpiouS, 6, indecl. (Heb. inn-^nN), Abiicd, Abihud : Mt l".t 
-
-Ἀppadfi (Heb. Dn^^X), 6, indecl. (in FIJ, Ἀ/Spafio's, -ov; MM, VGT, S.V.), Abraham (Ge 17^ al.) : Mt l^- 2 al. 
-
-<pb n="2" /> <!-- typed="" checked="" -->
 
 a-Poaaos, -ov (&lt;[Ion. /3v(ra-6&lt;i = ^vdoi), 1. in cl., boundless, bottom- 
 less (e.g. 5. TTcXayos, a. ttXoStos, ^sch.). 2. [In LXX (for Dinp , Ge l^, 
