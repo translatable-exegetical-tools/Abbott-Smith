@@ -1320,7 +1320,7 @@
 
  <entry n="α"> 
  	<form><foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, indecl., </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense><def>alpha</def>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">α ́</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses:
  	</sense>
  	<sense n="1">
@@ -1334,14 +1334,14 @@
  
  <entry n="Ἀαρών"> 
  	<form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense><def>Aaron</def> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† 
  	</sense>
  </entry> 
  
   <entry n="Ἀβαδδών"> 
  	<form><foreign xml:lang="grc">Ἀβαδδών</foreign> (Heb. <foreign xml:lang="heb">אֲבַדֹּון</foreign>, <emph>destruction</emph>; LXX, <foreign xml:lang="grc">ἀπώλεια</foreign>, only in Wisdom Lit., of the place of the ruined dead: <ref osisRef="Job.26.6">Jb 26:6</ref>, <ref osisRef="Job.28.22">28:22</ref>, <ref osisRef="Job.31.12">31:12</ref>, <ref osisRef="Ps.88:12">Ps 88:12</ref>, <ref osisRef="Prov.15.11">Pr 15:11</ref>*), indecl.; </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense>
  	in NT, <def>Abaddon</def>, the angel of the Abyss: <ref osisRef="Rev.9.11">Re 9:11</ref>.†
  	</sense>
@@ -1349,14 +1349,14 @@
  
   <entry n="αβαρής"> 
  	<form>*<foreign xml:lang="grc">αβαρής, -ές</foreign> (&lt; <foreign xml:lang="grc">βαρός</foreign>),  	</form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense><def>without weight</def>; metaph. (MM, <emph>VGT</emph>, s.v.) <def>not burdensome</def>: <ref osisRef="2Cor.11.9">II Co 11:9</ref>.†
  	</sense> 
  </entry>  
  
   <entry n="Ἀββά"> 
  	<form><foreign xml:lang="grc">Ἀββά</foreign> (T, <foreign xml:lang="grc">-ᾶ</foreign>), indecl. (Aram, <foreign xml:lang="arc">אַבָּא</foreign>, emphatic form of <foreign xml:lang="arc">אַב</foreign> = Heb. <foreign xml:lang="heb">אָב</foreign>, <emph>father</emph>), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense>used in the phrase <foreign xml:lang="grc">Ἀ. ὁ παήρ</foreign>, <def>Abba, Father</def> (v. Swete on Mk, I.c.): <ref osisRef="Mark.14.36">Mk 14:36</ref>, <ref osisRef="Rom.8.15">Ro 8:15</ref>, <ref osisRef="Gal.4.6">Ga 4:6</ref>. †
  	</sense> 
  </entry>  
@@ -1364,14 +1364,14 @@
   <entry n="Ἀβειληνή"> 
  	<form><foreign xml:lang="grc">Ἀβειληνή</foreign> (T, Rec. <foreign xml:lang="grc">Ἀβι-</foreign>), <foreign xml:lang="grc">--ῆς, ἡ</foreign>, (sc. <foreign xml:lang="grc">χώρα</foreign>), 
  	</form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense><def>Abilene</def>, a district in the Anti-Lebanon : <ref osisRef="Luke.3.1">Lk 3:1</ref>. †
  	</sense> 
  </entry>  
 
   <entry n="Ἄβελ"> 
  	<form><foreign xml:lang="grc">Ἄβελ</foreign>, (WH,<foreign xml:lang="grc"> Ἅ-</foreign>), <foreign xml:lang="grc">ὁ</foreign>, indecl. (<foreign xml:lang="heb">הֶבֶל</foreign>), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense>
  	<def>Abel</def>  (<ref osisRef="Gen.4.4-Gen.4.10">Ge 4:2-10</ref>): <ref osisRef="Heb.11.4">He 11:4</ref>, <ref osisRef="Heb.12.24">12:24</ref>; <foreign xml:lang="grc">αἵμα  Ἄ</foreign>., <ref osisRef="Matt.23.35">Mt 23:35</ref>, <ref osisRef="Luke.11.51">Lk 11:51</ref>. †
  	</sense> 
@@ -1379,7 +1379,7 @@
 
   <entry n="Ἀβιά"> 
  	<form><foreign xml:lang="grc">Ἀβιά</foreign> (Heb. <foreign xml:lang="heb">אֲבִיָּה</foreign>, <foreign xml:lang="heb">אֲבִיָּהוּ</foreign>), <foreign xml:lang="grc">ὁ</foreign>, indecl. (in FlJ, <foreign xml:lang="grc">Ἀβίας, -α</foreign>), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense>
  	<def>Abia, Abijah</def>.
  	</sense>
@@ -1392,7 +1392,7 @@
 
   <entry n="Ἀβιάθαρ">
  	<form><foreign xml:lang="grc">Ἀβιάθαρ, ὁ</foreign>, indecl. (Heb. <foreign xml:lang="heb">אֶבְיָתָר</foreign>), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense><def>Abiathar</def> (<ref osisRef="1Kgs.21.1">I Ki 21:1</ref>): <ref osisRef="Mark.2.26">Mk 2:26</ref>. †
  	</sense> 
  </entry>  
@@ -1400,13 +1400,13 @@
   <entry n="Ἀβιληνή"> 
  	<form><foreign xml:lang="grc">Ἀβιληνή</foreign> v.s. <foreign xml:lang="grc">Ἀβειληνή</foreign>.
  	</form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense></sense>
  </entry> 
 
   <entry n="Ἀβιούδ"> 
  	<form><foreign xml:lang="grc">Ἀβιούδ, ὁ</foreign>, indecl. (Heb. <foreign xml:lang="heb">אֲבִיָּהוּד</foreign>), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense>
  	<def>Abiud, Abihud</def>
  	<ref osisRef="Matt.1.13">Mt 1:13</ref>. †
@@ -1415,7 +1415,7 @@
  
   <entry n="Ἀβραάμ"> 
  	<form><foreign xml:lang="grc">Ἀβραάμ (Heb. <foreign xml:lang="heb">אַבְרָהָם</foreign>), ὁ</foreign>, indecl. (in FlJ, <foreign xml:lang="grc">Ἄβραμος, -ου</foreign>; MM, <emph>VGT</emph>, s.v.), </form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense>
  	<def>Abraham</def> 
  	(<ref osisRef="Gen.17.5">Ge 17:5</ref> al.): <ref osisRef="Matt.1.1-Matt.1.2">Mt 1:1, 2</ref> al.
@@ -1427,7 +1427,7 @@
  <!-- Template Entry
   <entry n=""> 
  	<form><foreign xml:lang="grc"></foreign></form>
- 	<gramGrp></gramGrp>
+ 	<gramGrp/>
  	<sense><def></def><ref osisRef=""></sense>
  	<sense n="1">1. †</sense> 
  </entry> 
@@ -1435,50 +1435,46 @@
 
  <entry n="ἄβυσσος"> 
  	<form><foreign xml:lang="grc">ἄ-βυσσος, -ον</foreign> (Ion. <foreign xml:lang="grc">βυσσός</foreign> = <foreign xml:lang="grc">βυθός</foreign>, </form>
- 	<gramGrp></gramGrp>
- 	<sense n="1">1. in cl., <def>boundless, bottomless</def> (e.g. <foreign xml:lang="grc">ἄ. πέλαγος, ἄ. πλοῦτος</foreign> Aesch.).
- 	<sense n="2">2. [In LXX (for <foreign xml:lang="heb">תְּהוֹם</foreign>, <ref osisRef="Gen.1.2">Ge 1:2</ref>, al.; exc. <ref osisRef="Isa/44.27">Is 44:27</ref>, <ref osisRef="Job.41.22">Jb 41:22</ref> for <foreign xml:lang="heb">צוּלָה</foreign>, <foreign xml:lang="heb">מְצוּלָה</foreign>, <ref osisRef="Job.36.16">Jb 36:16 for <foreign xml:lang="heb">רַחַב</foreign>) and] NT, as subst. (MM, <emph>VGT</emph>, s.v.), <foreign xml:lang="grc">ἡ ἄ.</foreign> (sc. <foreign xml:lang="grc">χώρα</foreign>), <def>the abyss</def>; (a) of the sea (<ref osisRef="Gen.1.2">Ge 1:2</ref>); (b) of the underworld, as the abode of the dead: <ref osisRef="Rom.10.7">Ro 10:7</ref> (a paraphrase of <ref osisRef="Deut.30.13">De 30:13</ref> LXX) ; as the abode of demons, <ref osisRef="Luke.8.31">Lk 8:31</ref>, <ref osisRef="Rev.9.1">Re 9:1, <ref osisRef="Rev.9.2">2</ref>, <ref osisRef="Rev.9.11">11</ref>, <ref osisRef="Rev.11.7">11:7</ref>, <ref osisRef="Rev.17.8">17:8</ref>, <ref osisRef="Rev.20.1">20:1</ref>, <ref osisRef="Rev.20.3">3</ref> (Cremer, 2). †</sense> 
+ 	<gramGrp/>
+ 	<sense n="1">1. in cl., <def>boundless, bottomless</def> (e.g. <foreign xml:lang="grc">ἄ. πέλαγος, ἄ. πλοῦτος</foreign> Aesch.).</sense>
+ 	<sense n="2">2. [In LXX (for <foreign xml:lang="heb">תְּהוֹם</foreign>, <ref osisRef="Gen.1.2">Ge 1:2</ref>, al.; exc. <ref osisRef="Isa.44.27">Is 44:27</ref>, <ref osisRef="Job.41.22">Jb 41:22</ref> for <foreign xml:lang="heb">צוּלָה</foreign>, <foreign xml:lang="heb">מְצוּלָה</foreign>, <ref osisRef="Job.36.16">Jb 36:16</ref> for <foreign xml:lang="heb">רַחַב</foreign>) and] NT, as subst. (MM, <emph>VGT</emph>, s.v.), <foreign xml:lang="grc">ἡ ἄ.</foreign> (sc. <foreign xml:lang="grc">χώρα</foreign>), <def>the abyss</def>; (a) of the sea (<ref osisRef="Gen.1.2">Ge 1:2</ref>); (b) of the underworld, as the abode of the dead: <ref osisRef="Rom.10.7">Ro 10:7</ref> (a paraphrase of <ref osisRef="Deut.30.13">De 30:13</ref> LXX) ; as the abode of demons, <ref osisRef="Luke.8.31">Lk 8:31</ref>, <ref osisRef="Rev.9.1">Re 9:1</ref>, <ref osisRef="Rev.9.2">2</ref>, <ref osisRef="Rev.9.11">11</ref>, <ref osisRef="Rev.11.7">11:7</ref>, <ref osisRef="Rev.17.8">17:8</ref>, <ref osisRef="Rev.20.1">20:1</ref>, <ref osisRef="Rev.20.3">3</ref> (Cremer, 2). †</sense> 
  </entry> 
 
-ἈYapos, -ov, 6, Agabus : Ac ll^s 21io.+ 
+  <entry n="Ἄγαβος"> 
+ 	<form><foreign xml:lang="grc">Ἄγαβος, -ον, ὁ</foreign></form>
+ 	<gramGrp/>
+ 	<sense><def>Agabus</def>: <ref osisRef="Acts.11.28">Ac 11:28</ref>, <ref osisRef="Acts.21.10">21:10</ref>. †</sense> 
+ </entry>  
 
-*t dyaeoepY^w, -w, to do Qood, show kindness : 1 Ti 6^^ (Cremer, 8).t 
+ <entry n="ἀγαθοεργέω"> 
+ 	<form>*†<foreign xml:lang="grc">ἀγαθοεργέω, -ῶ</foreign>, </form>
+ 	<gramGrp/>
+ 	<sense><def>to do good, show kindness</def>: <ref osisRef="1Tim.6.18">1 Ti 6:18</ref> (Cremer, 8). †</sense> 
+ </entry>
 
-d,Ya0o-Troi^(i», -w ( = cl. ayadbv ttoulv, evepyeTetv) , [in LXX : Nu 10^^, 
+ <entry n="ἀγαθὀποιέω"> 
+ 	<form><foreign xml:lang="grc">ἀγαθὀ-ποιέω, -ῶ</foreign> (= cl. <foreign xml:lang="grc">ἀγαθὸν ποιεῖν, εὐεργετεῖν</foreign>), [in LXX: <ref osisRef="Num.10.32">Nu 10:32</ref>, <ref osisRef="Judg.17.13">Jg 17:13</ref> A, <ref osisRef="Zeph.1.12">Ze 1:12</ref> (<foreign xml:lang="heb">יטב</foreign> hi.), <ref osisRef="Tob.12.13">To 12:13</ref> B, <ref osisRef="1Macc.11.33">I Mac 11:33</ref>, <ref osisRef="2Macc.1.2">II Mac 1:2</ref>*;] </form>
+ 	<gramGrp/>
+ 	<sense><def>to do good</def>; (a) univ. : <ref osisRef="1Pet.2.15">I Pe 2:15</ref>, <ref osisRef="1Pet.2.20">20</ref>, <ref osisRef="1Pet.3.6">3:6</ref>, <ref osisRef="1Pet.3.17">17</ref>, <ref osisRef="3John.1.11">III Jo 11</ref>; (b) for another's benefit: <ref osisRef="Mark.3.4">Mk 3:4</ref> (T, <foreign xml:lang="grc">ἀγαθὸν ποιῆσαι</foreign>), <ref osisRef="Luke.6.9">Lk 6:9</ref>; (c) acc. pers., <ref osisRef="Luke.6.33">Lk 6:33</ref>, <ref osisRef="Luke.6.35">35</ref> (Cremer, 8). †</sense> 
+ </entry>
+ 
+<entry n="ἀγαθοποιία"> 
+ 	<form>*† <foreign xml:lang="grc">ἀγαθοποιία, -ας, ἡ</foreign> (&lt; <foreign xml:lang="grc">ἀγαθοποιός</foreign>), </form>
+ 	<gramGrp/>
+ 	<sense><def>well-doing</def>: <ref osisRef="1Pet.4.19">I Pe 4:19</ref>. †</sense> 
+ </entry>  
 
-Jg 171=^ A, Ze 112 (^j2i hi.), To 12i»B, i Mac lp3, n Mac 1^*;] to do 
+   <entry n="ἀγαθοποιός"> 
+ 	<form>**† <foreign xml:lang="grc">ἀγαθοποιός, -όν</foreign> = cl. <foreign xml:lang="grc">ἀγαθουργός</foreign>, [in LXX, of a woman who deals pleasantly in order to corrupt, <ref osisRef="Sir.42.14">Si 42:14</ref>* ;] </form>
+ 	<gramGrp/>
+ 	<sense><def>doing well, acting rightly</def> (Plut.): <ref osisRef="1Pet.2.14">I Pe 2:14</ref> (Cremer, 8; MM, <emph>VGT</emph>, s.v.). †</sense> 
+ </entry>  
 
-good ; (a) univ. : i Pe 2i*' 20 36, 17^ m Jo ^i ; (b) for another's benefit : 
-
-Mk 3* (T, S.ya06v TTOL^o-ai), Lk 69 ; (c) ace. pers., Lk 6^3. 35 (Cremer, 8).+ 
-
-*t dYaOoTToua, -as, 17 (■&lt; ayadoiroio?), well-doing : I Pe 4i9.t 
-**t dYaOoTTOios, -01', = cl. ayaOovpyo^, [in LXX, of a woman who 
-deals pleasantly in order to corrupt, Si 42^'^ * ;] doing well, acting rightly 
-(Plut.) : I Pe 21* (Cremer, 8 ; MM, VGT, s.v.).t 
-
-dYaeos, -■&gt;?, -ov, [in LXX chiefly for niia ;] in general, good, in 
-physical and in moral sense, used of persons, things, acts, conditions, 
-etc., applied to that which is regarded as " perfect in its kind, so as to 
-produce pleasure and satisfaction, . . . that which, in itself good, is also 
-at once for the good and the advantage of him who comes in contact 
-with it" (Cremer, 3): yi?, Lk 8^; 8ey8pov, Mt 7^^; /capSta, Lk 8^^; 
-Sdo-is, Ja 117 . ^^p^^^ Lk 10*2 ; ^pyor (freq. in PL), Phi 1^ ; eXms, 11 Th 2i« ; 
-er^&lt;javp6&lt;i, Mt 1235 ; fxvda, I Th 3« (cf. II Mac P^) ; as subst., t6 d., that 
-which is morally good, beneficial, acceptable to God, Eo 122 . ^py&lt;{^£o-. 
-Oai TO a., Eo 210, Eph 428; Trpdaa-eiv, Eo 9^, II Co 5^^ ; 8lwk€lv, I Th S^^; 
-IXLfjLeia-OaL, III Jo ^ ; KoWaa-Oai. T(Z d., Eo 12^ ; ipoirav Trepl tov a., Mt IQl^ ; 
-Slolkovo's CIS TO a., Eo 13* ; TO d. crov, thy favour, benefit, Phm 1* ; 
-pi., Ta a., of goods, possessions, Lk 12^^; of spiritual benefits, Eo IQi*, 
-He 9" IQi. d. is opp. to ■n-ovr]p6s, Mt 5** 20^5 ; xa/cos, Eo 7^^ ; (f^aiXo?, 
-Eo 911, II Co 510 (cf. MM, VGT, s.v.). 
-
-Syn. : KttXo's, 8tKaios. K. properly refers to goodliness as mani- 
-fested in form : d. to inner excellence (cf. the cl. KaX6&lt;s Kaya66&lt;5 and 
-ev KapBta k. kol d., Lk 81^). In Eo 6^, where it is contrasted with 8., 
-d. implies a kindliness and attractiveness not necessarily possessed 
-by the SiKaios, who merely measures up to a high standard of rectitude 
-(cf. dyadwcrvvr]). 
+   <entry n="ἀγαθός"> 
+ 	<form><foreign xml:lang="grc">ἀγαθός, -ή, -όν</foreign>, [in LXX chiefly for <foreign xml:lang="heb">טוֹב</foreign>;]</form>
+ 	<gramGrp/>
+ 	<sense>in general, <def>good</def>, in physical and in moral sense, used of persons, things, acts, conditions, etc., applied to that which is regarded as "perfect in its kind, so as to produce pleasure and satisfaction, . . . that which, in itself good, is also at once for the good and the advantage of him who comes in contact with it" (Cremer, 3): <foreign xml:lang="grc">γῆ</foreign>, <ref osisRef="Luke.8.8">Lk 8:8</ref>; <foreign xml:lang="grc">δένδρον</foreign>, <ref osisRef="Matt.7.18">Mt 7:18</ref>; <foreign xml:lang="grc">καρδία</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>; <foreign xml:lang="grc">δόσις</foreign>, <ref osisRef="Jas.1.17">Ja 1:17</ref>; <foreign xml:lang="grc">μέρις</foreign>, <ref osisRef="Luke.10.42">Lk 10:42</ref>; <foreign xml:lang="grc">ἔργον</foreign> (freq. in Pl.), <ref osisRef="Phil.1.6">Phi 1:6</ref>; <foreign xml:lang="grc">ἐλπίς</foreign>, <ref osisRef="2Thess.2.16">II Th 2:16</ref>; <foreign xml:lang="grc">θησαυρός</foreign>, <ref osisRef="Mat.12.35">Mt 12:35</ref>; <foreign xml:lang="grc">μνεία</foreign>, <ref osisRef="1Thess.3.6">I Th 3:6</ref> (cf. <ref osisRef="2Macc.7.20">II Mac 7·20</ref>); as subst., <foreign xml:lang="grc">τὸ ἀ</foreign>, that which is morally good, beneficial, acceptable to God, <ref osisRef="Rom.12.2">Ro 12:2</ref>; <foreign xml:lang="grc">ἐργάζεσθαι τὸ ἀ</foreign>, <ref osisRef="Rom.2.10">Ro 2:10</ref>, <ref osisRef="Eph.4.28">Eph 4:28</ref>; <foreign xml:lang="grc">πράσσειν</foreign>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="2Cor.5.10">II Co 5:10</ref>; <foreign xml:lang="grc">διώκειν</foreign>, <ref osisRef="1Thess.5.15">I Th 5:15</ref>; <foreign xml:lang="grc">μιμεῖσθαι</foreign>, <ref osisRef="3John.1.11">III Jo 11</ref>; <foreign xml:lang="grc">κολλᾶσθαι τῷ ἀ</foreign>, <ref osisRef="Rom.12.9">Ro 12:9</ref>; <foreign xml:lang="grc">ερωτᾶν περὶ τοῦ ἀ.</foreign>, <ref osisRef="Matt.19.17">Mt 19:17</ref>; <foreign xml:lang="grc">διάκονος εἰς τὸ ἀ.</foreign>, <ref osisRef="Rom.13.4">Ro 13:4</ref>; <foreign xml:lang="grc">τὸ ἀ. σου</foreign>, <def>thy favour, benefit</def>, <ref osisRef="Phlm.1.14">Phm 14</ref>; pl., <foreign xml:lang="grc">τὸ ἀ.</foreign>, of goods, possessions, <ref osisRef="Luke.12.18">Lk 12:18</ref>; of spiritual benefits, <ref osisRef="Rom.10.15">Ro 10:15</ref>, <ref osisRef="Heb.9.11">He 9:11</ref>, <ref osisRef="Heb.10.1">10:1</ref>. <foreign xml:lang="grc">ἀ</foreign> is opp. to <foreign xml:lang="grc">πονήρος</foreign>, <ref osisRef="Matt.5.45">Mt 5:45</ref>, <ref osisRef="Matt.20.15">20:5</ref>; <foreign xml:lang="grc">κακός</foreign>, <ref osisRef="Rom.7.19">Ro 7:19</ref>; <foreign xml:lang="grc">φαῦλος</foreign>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="2Cor.5.10">II Co 5:10</ref> (cf. MM, <emph>VGT</emph>, s.v.).</sense><lb />Syn.: <foreign xml:lang="grc">καλός, δίκαιος. κ.</foreign> properly refers to goodliness as manifested in form: <foreign xml:lang="grc">ἀ.</foreign> to inner excellence (cf. the cl. <foreign xml:lang="grc">καλὸς κἀγαθός</foreign> and <foreign xml:lang="grc">ἐν καρδία κ. καὶ ἀ.</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>). In <ref osisRef="Rom.5.7">Ro 5:7</ref>, where it is contrasted with <foreign xml:lang="grc">δ.</foreign>, <foreign xml:lang="grc">ἀ.</foreign> implies a kindliness and attractiveness not necessarily possessed by the <foreign xml:lang="grc">δίκαιος</foreign>, who merely measures up to a high standard of rectitude (cf. <foreign xml:lang="grc">ἀγαθωσύνη</foreign>). 
+ </entry>   
 
 *f 6.yaQoupyi&lt;o, -5, Contracted form (rare, v. WH, App., 145) of 
 ayaOoep- (q.v.), to do good : Ac 14i''.t 
