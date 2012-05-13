@@ -1422,16 +1422,7 @@
  	</sense> 
  </entry> 
  
-<pb n="2" /> 
-<!-- typed="" checked="" -->
- <!-- Template Entry
-  <entry n=""> 
- 	<form><foreign xml:lang="grc"></foreign></form>
- 	<gramGrp/>
- 	<sense><def></def><ref osisRef=""></sense>
- 	<sense n="1">1. †</sense> 
- </entry> 
- -->
+<pb n="2" /> <!-- typed="DCO" checked="" -->
 
  <entry n="ἄβυσσος"> 
  	<form><foreign xml:lang="grc">ἄ-βυσσος, -ον</foreign> (Ion. <foreign xml:lang="grc">βυσσός</foreign> = <foreign xml:lang="grc">βυθός</foreign>, </form>
@@ -1476,25 +1467,32 @@
  	<sense>in general, <def>good</def>, in physical and in moral sense, used of persons, things, acts, conditions, etc., applied to that which is regarded as "perfect in its kind, so as to produce pleasure and satisfaction, . . . that which, in itself good, is also at once for the good and the advantage of him who comes in contact with it" (Cremer, 3): <foreign xml:lang="grc">γῆ</foreign>, <ref osisRef="Luke.8.8">Lk 8:8</ref>; <foreign xml:lang="grc">δένδρον</foreign>, <ref osisRef="Matt.7.18">Mt 7:18</ref>; <foreign xml:lang="grc">καρδία</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>; <foreign xml:lang="grc">δόσις</foreign>, <ref osisRef="Jas.1.17">Ja 1:17</ref>; <foreign xml:lang="grc">μέρις</foreign>, <ref osisRef="Luke.10.42">Lk 10:42</ref>; <foreign xml:lang="grc">ἔργον</foreign> (freq. in Pl.), <ref osisRef="Phil.1.6">Phi 1:6</ref>; <foreign xml:lang="grc">ἐλπίς</foreign>, <ref osisRef="2Thess.2.16">II Th 2:16</ref>; <foreign xml:lang="grc">θησαυρός</foreign>, <ref osisRef="Mat.12.35">Mt 12:35</ref>; <foreign xml:lang="grc">μνεία</foreign>, <ref osisRef="1Thess.3.6">I Th 3:6</ref> (cf. <ref osisRef="2Macc.7.20">II Mac 7·20</ref>); as subst., <foreign xml:lang="grc">τὸ ἀ</foreign>, that which is morally good, beneficial, acceptable to God, <ref osisRef="Rom.12.2">Ro 12:2</ref>; <foreign xml:lang="grc">ἐργάζεσθαι τὸ ἀ</foreign>, <ref osisRef="Rom.2.10">Ro 2:10</ref>, <ref osisRef="Eph.4.28">Eph 4:28</ref>; <foreign xml:lang="grc">πράσσειν</foreign>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="2Cor.5.10">II Co 5:10</ref>; <foreign xml:lang="grc">διώκειν</foreign>, <ref osisRef="1Thess.5.15">I Th 5:15</ref>; <foreign xml:lang="grc">μιμεῖσθαι</foreign>, <ref osisRef="3John.1.11">III Jo 11</ref>; <foreign xml:lang="grc">κολλᾶσθαι τῷ ἀ</foreign>, <ref osisRef="Rom.12.9">Ro 12:9</ref>; <foreign xml:lang="grc">ερωτᾶν περὶ τοῦ ἀ.</foreign>, <ref osisRef="Matt.19.17">Mt 19:17</ref>; <foreign xml:lang="grc">διάκονος εἰς τὸ ἀ.</foreign>, <ref osisRef="Rom.13.4">Ro 13:4</ref>; <foreign xml:lang="grc">τὸ ἀ. σου</foreign>, <def>thy favour, benefit</def>, <ref osisRef="Phlm.1.14">Phm 14</ref>; pl., <foreign xml:lang="grc">τὸ ἀ.</foreign>, of goods, possessions, <ref osisRef="Luke.12.18">Lk 12:18</ref>; of spiritual benefits, <ref osisRef="Rom.10.15">Ro 10:15</ref>, <ref osisRef="Heb.9.11">He 9:11</ref>, <ref osisRef="Heb.10.1">10:1</ref>. <foreign xml:lang="grc">ἀ</foreign> is opp. to <foreign xml:lang="grc">πονήρος</foreign>, <ref osisRef="Matt.5.45">Mt 5:45</ref>, <ref osisRef="Matt.20.15">20:5</ref>; <foreign xml:lang="grc">κακός</foreign>, <ref osisRef="Rom.7.19">Ro 7:19</ref>; <foreign xml:lang="grc">φαῦλος</foreign>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="2Cor.5.10">II Co 5:10</ref> (cf. MM, <emph>VGT</emph>, s.v.).</sense><lb />Syn.: <foreign xml:lang="grc">καλός, δίκαιος. κ.</foreign> properly refers to goodliness as manifested in form: <foreign xml:lang="grc">ἀ.</foreign> to inner excellence (cf. the cl. <foreign xml:lang="grc">καλὸς κἀγαθός</foreign> and <foreign xml:lang="grc">ἐν καρδία κ. καὶ ἀ.</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>). In <ref osisRef="Rom.5.7">Ro 5:7</ref>, where it is contrasted with <foreign xml:lang="grc">δ.</foreign>, <foreign xml:lang="grc">ἀ.</foreign> implies a kindliness and attractiveness not necessarily possessed by the <foreign xml:lang="grc">δίκαιος</foreign>, who merely measures up to a high standard of rectitude (cf. <foreign xml:lang="grc">ἀγαθωσύνη</foreign>). 
  </entry>   
 
-*f 6.yaQoupyi&lt;o, -5, Contracted form (rare, v. WH, App., 145) of 
-ayaOoep- (q.v.), to do good : Ac 14i''.t 
+ <entry n="ἀγαθουργέω"> 
+ 	<form>*† <foreign xml:lang="grc">ἀγαθουργέω, -ῶ</foreign>, contracted form (rare, v. WH, <emph>App</emph>., 145) of <foreign xml:lang="grc">ἀγαθοερ-</foreign> (q.v.), </form>
+ 	<gramGrp/>
+ 	<sense><def>to do good</def>: <ref osisRef="Acts.14.17">Ac 14:17</ref>. †</sense> 
+ </entry>
+ 
+<entry n="ἀγαθωσύνη"> 
+ 	<form>† <foreign xml:lang="grc">ἀγαθωσύνη</foreign> (on the termination, v.s. <foreign xml:lang="grc">ἁγιότης</foreign>, and cf . WH, <emph>App</emph>., 152; MM, <emph>VGT</emph>, s.v.), <foreign xml:lang="grc">-ης, ἡ</foreign> (&lt; <foreign xml:lang="grc">ἀγαθός</foreign>), [in LXX for <foreign xml:lang="heb">טוֹבָה</foreign>, <foreign xml:lang="heb">טוֹב</foreign>, <foreign xml:lang="heb">טוּב</foreign>, only in Heb. bks.;] </form>
+ 	<gramGrp/>
+ 	<sense><def>goodness</def> (representing "the kindlier, as <foreign xml:lang="grc">δικαιοσύνη</foreign>, the sterner element in the ideal character," AE, <emph>Eph</emph>., <ref osisRef="Eph.5.9">5:9</ref>; on its relation to <foreign xml:lang="grc">χρηστότης</foreign>, v. Tr., <emph>Syn</emph>., §lxiii): <ref osisRef="Rom.15.14">Ro 15:14</ref>, <ref osisRef="Gal.5.22">Ga 5:22</ref>, <ref osisRef="2Thess.1.11">II Th 1:11</ref>. †</sense> 
+ </entry>
 
-t ayaQiocTuvr] (on the termination, v.s. dytoTi;?, and cf . WH, App., 
-152 ; MM, VGT, s.v.), -77s, v « dya^o's), [in LXX for nnil3 , niM , MM , 
+<entry n=" ἀγαλλίασις"> 
+ 	<form>† <foreign xml:lang="grc">ἀγαλλίασις, -εως, ἡ</foreign> (&lt; <foreign xml:lang="grc">ἀγαλλιάω</foreign>), [in LXX (most freq. in Pss. and <pb n="3" /> <!-- typed="" checked="" -->often coupled with <foreign xml:lang="grc">εὐφροσύνη</foreign>, as <ref osisRef="Ps.45.15">Ps 44(45):15) chiefly for <foreign xml:lang="grc">גִּיל</foreign> ;] </form>
+ 	<gramGrp/>
+ 	<sense><def>exultation, exuberant joy</def>: <ref osisRef="Luke.1.44">Lk 1:44</ref>, <ref osisRef="Acts.2.46">Ac 2:46</ref>, <ref osisRef="Heb.1.9">He 1:9</ref>, <ref osisRef="Jude.1.24">Ju 24</ref>; <foreign xml:lang="grc">χαρὰ καὶ ἀ.</foreign>, <ref osisRef="Luke.1.14">Lk 1:14</ref> (Cremer, 592). †</sense> 
+ </entry> 
 
-only in Heb. bks. ;] goodness (representing " the kindlier, as St/&lt;aiocrw7;, 
-the sterner element in the ideal character," AE, Eph., 5^ ; on its rela- 
-tion to ^prjaroT-q^, v. Tr., Syn., §lxiii) : Eo 151*, q^ 522^ „ Th in.t 
-
-tdyaXXiaffis, -cws, rj {&lt;^dyaXXia.ia), [in LXX (most freq. in Pss. and 
-
-
-
-<pb n="3" /> <!-- typed="" checked="" --> 
-
-often coupled with €icf&gt;poa-vvrj, as Ps 44 (45)^^) chiefly for b'^S ;] exulta- 
-tion, exuberant joy : Lk 1*^ Ac 2^", He 1^ Ju "*; x^pa xal a., Lk 1^* 
-(Cremer, 592). t 
+ <!-- Template Entry
+  <entry n=""> 
+ 	<form><foreign xml:lang="grc"></foreign></form>
+ 	<gramGrp/>
+ 	<sense><def></def><ref osisRef=""></sense>
+ 	<sense n="1">1. †</sense> 
+ </entry> 
+ --> 
 
 t dyaXXido), -w, Hellenistic form of cl. aydWw, to glorify, mid. -o/tai, 
 to exult in ; [in LXX (most freq. in Pss.) chiefly for b^3 , ]:i pi. ;] to 
