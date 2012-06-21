@@ -1564,9 +1564,11 @@
  </entry> 
  --> 
  
-dyairTiTos, -rj, -6v (&lt;&lt; dyaTraw), [in LXX chiefly for TH^ , TTI;] beloved (v. M, Pr., 221); 
-(a) by God : of Christ, Mt 3^" ; of men, Ko 1; 
-(b) by Christians, of one another : i Co 4^* ; freq. as form of address, ib. IQi* ; opp. to lx^p6';, Ro ll^s (v. AE, Eph., 229 ; Cremer, 17 ; MM, VGT, s.v.). 
+dyairTiTos, -rj, -6v (&lt;&lt; dyaTraw), [in LXX chiefly for TH^ , TTI;] 
+beloved (v. M, Pr., 221) ; (a) by God : of Christ, Mt 3^" ; of men, Ko 1^ ; 
+{h) by Christians, of one another : i Co 4^* ; freq. as form of address, 
+ib. IQi* ; opp. to lx^p6';, Ro ll^s (v. AE, Eph., 229 ; Cremer, 17 ; MM, 
+VGT, s.v.). 
 
 "Ayap (Kec. "A-), rj, indecl. (in FIJ, Ἀyapa, -qs', Heb. "IJn), Hagar 
 
@@ -2004,9 +2006,7 @@ jmverless: Ac 148; fig_^ Rq 15^ (MM, VGT, s.v.). 2. Of things, im-
 possible: Mt 192«, Mk 1027, Lk 1827, j^o g^, He 6*'i8 10* ll^.t 
 
 a8w (Attic form of Ion. and poet. deiSo)), [in LXX chiefly for 
-"VU ;] to sing, (a) intrans., c. dat. (MM, VGT, s.v.), of praise to God : 
-
-Eph 519, Col 316 ; (b) trans., c. cogn. ace. : w8^v, Re 5^ 14^ IS^.t 
+"VU ;] to sing, (a) intrans., c. dat. (MM, VGT, s.v.), of praise to God: Eph 519, Col 316 ; (b) trans., c. cogn. ace. : w8^v, Re 5^ 14^ IS^.t 
 
 de{, adv., [in LXX : Is 42^* (Qbisrn) 511^ (Tpn), Ps 94 (95)io, al. ;] 
 
@@ -7571,9 +7571,6 @@ SaKTuXios, -ov, o «8aKTvXos), [in LXX chiefly for nySM;] a
 ring : Lk 1522.t 
 
 7 
-
-
-
 <pb n="98" /> <!-- typed="" checked="" --> 
 
 SdKTuXos, -ov, 6, [in LXX chiefly for yny^ ;] a finger : Mt 23*, 
@@ -7634,26 +7631,16 @@ AaueiS (Eec. Aaj8t8), 6, indecl. (Heb. in). David, King of Israel :
 Mt 1^ 123, et al. ; a-Krjv^i A., Ac 15i« ; /cXcl? A., Ee 3^ ; dpovo^ A., Lk 1^2 ; 
 pit,a A., Ee 55; fSaatXeia A., Mk 1110; v':6s A., the Messiah (Ps. Sol., 
 1723 ; for other reff. in Jewish lit., v. Dalman, Words, 317), Mt li 92^, 
-et al. ; ev A., i.e. the Psalter, He 4^ 
+et al. ; ev A., i.e. the Psalter, He 4^  
 
-8^ (before vowels 8' ; on the general neglect of the elision in NT, 
-V. WH, Ajyp., 146 ; Tdf ,, Pr., 96), post-positive conjunctive particle ; 
-
-
-
-<pb n="99" /> <!-- typed="" checked="" --> 
-
-1. copulative, but, in the next place, and, now (Abbott, JG, 104) : 
-Mt 12 «■, II Co 615. IS, II Pe l*-7; in repetition for emphasis, Ro 321. 22 
-930, I Co 2«, Ga 22, Phi 28 ; in transition to something new, Mt l^^ 2^^ 
-Lk 131, Jo 71*, Ac 6\ Ro 828, i Co 7^ S^, al. ; in explanatory parenthesis 
-or addition, Jo 3^9, Ro b^, i Co 1^2, Eph 2* 5=^2^ al.; &lt;I)s U, Jo 2^; koL 
-. . . Se, but also, Mt 10^8, Lk I'S, Jo 6", Ro 1123, al.; Kal iav 8i, yea 
-even if, Jo 8^^. 2. Adversative, but, on the other hand, prop., answering 
-to a foregoing fiiv (q.v.), and distinguishing a word or clause from one 
-preceding (in NT most freq. without yiteV; Bl., § 77, 12) : eav 8c, Mt 
-614,23^ al.; cyw (o^, etc.) 8e, Mt 522 6^, Mk 82^, al.; b 8c, auros 8e', Mk 
-1«, Lk 4^0, al.; after a negation, Mt 6^9. 20^ Rq 3*, i Th 521, al. 
+  <entry n="δέ|G1161"> 
+  	<note type="occurencesNT">2797</note>
+  	<form><orth>δέ</orth> (before vowels <foreign xml:lang="grc">δ’</foreign>; on the general neglect of the elision in NT, v. WH, <emph>App.</emph>, 146 ; Tdf., <emph>Pr.</emph>, 96), </form>
+ 	<gramGrp><pos>post-positive conjunctive particle</pos>; <pb n="99" /> <!-- typed="" checked="" --></gramGrp> 
+ 	<sense n="1">1. copulative, <def>but, in the next place, and, now</def> (Abbott, <def>JG</def>, 104): <ref osisRef="Matt.1.2">Mt 1:2</ref>ff., <ref osisRef="2Cor.6.15">II Co 6:15</ref>, <ref osisRef="2Cor.6.16">16</ref>, <ref osisRef="2Pet.1.5-2Pet.1.7">II Pe 1:5-7</ref>; in repetition for emphasis, <ref osisRef="Rom.3.21">Ro 3:21</ref>, <ref osisRef="Rom.3.22">22</ref>, <ref osisRef="Rom.9.30">9:30</ref>, <ref osisRef="1Cor.2.6">I Co 2:6</ref>, <ref osisRef="Gal.2.2">Ga 2:2</ref>, <ref osisRef="Phil.2.8">Phi 2:8</ref>; in transition to something new, <ref osisRef="Matt.1.18">Mt 1:18</ref>, <ref osisRef="Matt.2.19">2:19</ref>, <ref osisRef="Luke.13.1">Lk 13:1</ref>, <ref osisRef="John.7.14">Jo 7:14</ref>, <ref osisRef="Acts.6.1">Ac 6:1</ref>, <ref osisRef="Rom.8.28">Ro 8:28</ref>, <ref osisRef="1Cor.7.1">I Co 7:1</ref>, <ref osisRef="1Cor.8.1">8:1</ref>, al.; in explanatory parenthesis or addition, <ref osisRef="John.3.19">Jo 3:19</ref>, <ref osisRef="Rom.5.8">Ro 5:8</ref>, <ref osisRef="1Cor.1.12">I Co 1:12</ref>, <ref osisRef="Eph.2.4">Eph 2:4</ref>, <ref osisRef="Eph.5.32">5:32</ref>, al.; <foreign xml:lang="grc">ὡς δέ</foreign>, <ref osisRef="John.2.9">Jo 2:9</ref>; <foreign xml:lang="grc">καὶ . . . δέ</foreign>, but also, <ref osisRef="Matt.10.18">Mt 10:18</ref>, <ref osisRef="Luke.1.76">Lk 1:76</ref>, <ref osisRef="John.6.51">Jo 6:51</ref>, <ref osisRef="Rom.11.23">Ro 11:23</ref>, al.; <foreign xml:lang="grc">καὶ ἐὰν δέ</foreign>, <def>yea even if</def>, <ref osisRef="John.8.16">Jo 8:16</ref>. </sense>
+ 	<sense n="2">2. Adversative, <def>but, on the other hand</def>, prop., answering to a foregoing <foreign xml:lang="grc">μέν</foreign> (q.v.), and distinguishing a word or clause from one preceding (in NT most freq. without <foreign xml:lang="grc">μέν</foreign>; Bl., §77, 12) : <foreign xml:lang="grc">ἐὰν δέ</foreign>, <ref osisRef="Matt.6.14">Mt 6:14</ref>, <ref osisRef="Matt.6.23">23</ref>, al.; <foreign xml:lang="grc">ἐγὼ</foreign> (<foreign xml:lang="grc">σὺ</foreign>, etc.) <foreign xml:lang="grc">δέ</foreign>, <ref osisRef="Matt.5.22">Mt 5:22</ref>, <ref osisRef="Matt.6.6">6:6</ref>, <ref osisRef="Mark.8.29">Mk 8:29</ref>, al.; <foreign xml:lang="grc">ὁ δέ, αὐτὸς δέ</foreign>, <ref osisRef="Mark.1.45">Mk 1:45</ref>, <ref osisRef="Luke.4.40">Lk 4:40</ref>, al.; after a negation, <ref osisRef="Matt.6.19">Mt 6:19</ref>, <ref osisRef="Matt.6.20">20</ref>, <ref osisRef="Rom.3.4">Ro 3:4</ref>, <ref osisRef="1Thess.5.21">I Th 5:21</ref>, al.</sense>
+ </entry> 
+ 
 
 S^Tjo-is, -cfc)s, 7} {&lt;Chioixai), [in LXX for nsnp , nST, n^Sl?, etc.;] 
 
@@ -9912,49 +9899,37 @@ peaceful : He 12ii, Ja Si^.t
 *cipTji'oiroi6s, -6v, peace-making, a peacemaker : Mt S^.t 
 cipu (fut. epw), V.S. Xeyoi, p. 496. 
 
-6is, prep. c. ace, expressing entrance, direction, limit, into, unto, 
-to, upon, towards, for, among (Lat. in, c. ace). I. Of place. 1. After 
-verbs of motion ; (a) of entrance into : Mt 823 97^ ^k 1*^, Lk 21^ 83i, 
-al.; (b) of approach, to or towards: Mk lli, Lk 68 1928, Jo Ipi 21«, 
-al. ; (c) before pi. and collective nouns, among : Mk 47 8^^&gt; 20, Lk 11*^, 
-Jo 2123, al . ^^^ Qf a limit reached, unto, on, upon : Mt 81^ 21^, 
-Mk 111 1316^ Lk 1410, Jo 63 1132, al. ; c. ace. pers. (as in Ep. and Ion.), 
-Ac 2315, Ro 512 1619, II Co 101* ; (e) elliptical : cTrto-ToXat cts AafiacrKov, 
-Ac 92 ; rj SiaKovia fiov fj eis 'I., Ro 1531 ; metaph., of entrance into 
-a certain state or condition, or of approach or direction towards 
-some end (Thayer, B, i, 1; ii, 1), ets t. ovofia, M, Pr., 200. 2. Of 
-direction; (a) after verbs of seeing: Mt 6'^^, Mk 6*1, Lk 9i''«&lt;'2, 
-Jo 1322, al.; metaph., of the mind, He 1126 122, al.; (6) after verbs 
-of speaking: Mt 13io 14^, i Th 29, al. 3. After verbs of rest; 
-(a) in "pregnant" construction, implying previous motion (cl.; v. 
-WM, 516; Bl., § 39, 3; M, Pr., 234 f.) : Mt 223 413^ ^ Th 2\ 
-II Ti 111, ge 11^^ al. ; (b) by an assimilation general in late Gk (v. 
-Bl., M, Pr., 11. c.) = £v : Lk 1** 423, Ac 20i« 211^, Jo V^ (but v. Westc, 
-in 1.), al. II. Of time, /or, unto; 1. accentuating the duration ex- 
-pressed by the ace. : cis t. alZva, Mt 2119 ; ct? ycveas ^at y., Lk 1^° ; 
-£ts T. 8tr;veKes, He 73, al. 2. Of a point or limit of time, unto, up to, 
-iintil : Mt 63*, Ac 43, 252i, py 110 216^ i Th 41^, 11 Ti I12 ; of entrance 
-into a future period, eis to fieWov (v.s. fxeXXo}), next (year), Lk 13^ (but 
-V. ICC, in 1.) ; cis t. fiera^ o-a/SySaroi/, on the next Sabbath, Ac 13*2 . ^i^ ^^ 
-TTctXiv (v.s. 7raA.1v), II Co 132. III. Of result, after verbs of changing, 
-joining, dividing, etc. : crrpec^civ cis, Ee 11® ; fMerao--, Ac 22o, Ja 4* ; /xeraX- 
-Xda-creiv, Ro 12*' ; crxi^tiv cts 8vo, Mt 27^1, al. ; predicatively with elvai, 
-Ac 823. ly Qf relation, to, towards, for, in regard to (so in cl., but 
-more freq. in late Gk., eis encroaching on the simple dat., which it 
-
-
-
-<pb n="134" /> <!-- typed="" checked="" --> 
-
-has wholly displaced in MGr. ; Jannaris, Gr., § 1541 ; Robertson 
-Gr., 594; Deiss., BS, 117 f.) : Lk T^o, Ro 4'^o 152.26, i Co 16\ Eph S^^ 
-al. ; dyd-n-r] ets, Ro 5^, al. ; XP^o-Tos, Eph 4^2 . ,^pov€tv eis, Ro 121* 
-Oappfiv, II Co 10^ V. Of the end or object : €u^€tos c(s, Lk 143* 
-o-d&lt;/&gt;os, Ro 1619; lo-x^civ, Mt 5^3; d'i toDto, Mk l^s, al.; dc^opi'Cciv ets 
-Ro 1^; indicating purpose, cts &lt;f)6^ov, Ro 8^^ ; eis tvSti^iv, Ro 32^- 
-€ts T(5, c. inf. (= Tm or dlo-re; Bl., § 71, 5; M, Pr., 218 ff.) : Mt 20i« 
-Ro 111, J Qq gi8^ a,l. VI. Adverbial phrases : £ts tcἈos, eis to 7rdA.1v, etc 
-(v.s. TfAos, TrdXiv, etc.). 
+  <entry n="εἰς|G1519|G1520">
+  	<note type="occurencesNT">2112</note>
+  	<form><orth>εἰς</orth>, </form>
+ 	<gramGrp><pos>prep.</pos> c. acc., </gramGrp>
+ 	<sense>expressing entrance, direction, limit, <def>into, unto, to, upon, towards, for, among</def> (Lat. <foreign xml:lang="lat">in</foreign>, c. acc.). </sense> 
+ 	<sense n="I">I. Of place. 
+ 		<sense n="1">1. After verbs of motion; 
+ 			<sense n="a">(a) of entrance into: <ref osisRef="Matt.8.23">Mt 8:23</ref>, <ref osisRef="Matt.9.7">9:7</ref>, <ref osisRef="Mark.1.45">Mk 1:45</ref>, <ref osisRef="Luke.2.15">Lk 2:15</ref>, <ref osisRef="Luke.8.31">8:31</ref>, al.; </sense>
+ 			<sense n="b">(b) of approach, <def>to</def> or <def>towards</def>: <ref osisRef="Mark.11.1">Mk 11:1</ref>, <ref osisRef="Luke.6.8">Lk 6:8</ref>, <ref osisRef="Luke.19.28">19:28</ref>, <ref osisRef="John.11.31">Jo 11:31</ref>, <ref osisRef="John.21.6">21:6</ref>, al.; </sense> 
+ 			<sense n="c">(c) before pl. and collective nouns, <def>among</def>: <ref osisRef="Mark.4.7">Mk 4:7</ref>, <ref osisRef="Mark.8.19">8:19</ref>, <ref osisRef="Mark.8.20">20</ref>, <ref osisRef="Luke.11.49">Lk 11:49</ref>, <ref osisRef="John.21.23">Jo 21:23</ref>, al.; </sense> 
+ 			<sense n="d">(d) Of a limit reached, <def>unto, on, upon</def>: <ref osisRef="Matt.8.18">Mt 8:18</ref>, <ref osisRef="Matt.21.1">21:1</ref>, <ref osisRef="Mark.11.1">Mk 11:1</ref>, <ref osisRef="Mark.13.16">13:16</ref>, <ref osisRef="Luke.14.10">Lk 14:10</ref>, <ref osisRef="John.6.3">Jo 6:3</ref>, <ref osisRef="John.11.32">11:32</ref>, al.; c. acc. pers. (as in Ep. and Ion.), <ref osisRef="Acts.23.15">Ac 23:15</ref>, <ref osisRef="Rom.5.12">Ro 5:12</ref>, <ref osisRef="Rom.16.19">16:19</ref>, <ref osisRef="2Cor.10.14">II Co 10:14</ref>; </sense> 
+ 			<sense n="e">(e) elliptical: <foreign xml:lang="grc">ἐπιστολαὶ εἰς Δαμασκόν</foreign>, <ref osisRef="Acts.9.2">Ac 9:2</ref>; <foreign xml:lang="grc">ἡ διακονία μου ἡ εἰς Ἱ.</foreign>, <ref osisRef="Rom.15.31">Ro 15:31</ref>; metaph., of entrance into a certain state or condition, or of approach or direction towards some end (Thayer, B, i, 1; ii, 1), <foreign xml:lang="grc">εἰς τ. ὄνομα</foreign>, M, <emph>Pr.</emph>, 200. </sense>
+ 		</sense>
+ 		<sense n="2">2. Of direction; 
+ 			<sense n="a">(a) after verbs of seeing: <ref osisRef="Matt.6.26">Mt 6:26</ref>, <ref osisRef="Mark.6.41">Mk 6:41</ref>, <ref osisRef="Luke.9.16">Lk 9:16</ref>, <ref osisRef="Luke.9.62">62</ref>, <ref osisRef="John.13.22">Jo 13:22</ref>, al.; metaph., of the mind, <ref osisRef="Heb.11.26">He 11:26</ref>, <ref osisRef="Heb.12.2">12:2</ref>, al.; </sense> 
+ 			<sense n="b">(b) after verbs of speaking: <ref osisRef="Matt.13.10">Mt 13:10</ref>, <ref osisRef="Matt.14.9">14:9</ref>, <ref osisRef="1Thess.2.9">I Th 2:9</ref>, al.</sense>
+ 		</sense>
+ 		<sense n="3">3. After verbs of rest; 
+ 			<sense n="a">(a) in "pregnant" construction, implying previous motion (cl.; v. WM, 516; Bl., §39, 3; M, <emph>Pr.</emph>, 234f.): <ref osisRef="Matt.2.23">Mt 2:23</ref>, <ref osisRef="Matt.4.13">4:13</ref>, <ref osisRef="2Thess.2.4">II Th 2:4</ref>, <ref osisRef="2Tim.1.11">II Ti 1:11</ref>, <ref osisRef="Heb.11.9">He 11:9</ref>, al.; </sense> 
+ 			<sense n="b">(b) by an assimilation general in late Gk (v. Bl., M, <emph>Pr.</emph>, ll. c.) = <foreign xml:lang="grc">ἐν</foreign>: <ref osisRef="Luke.1.44">Lk 1:44</ref>, <ref osisRef="Luke.4.23">4:23</ref>, <ref osisRef="Acts.20.16">Ac 20:16</ref>, <ref osisRef="Acts.21.17">21:17</ref>, <ref osisRef="John.1.18">Jo 1:18</ref> (but v. Westc, in l.), al. </sense>
+ 		</sense>
+ 	</sense>
+ 	<sense n="II">II. Of time, <def>for, unto</def>; 
+ 		<sense n="1">1. accentuating the duration expressed by the acc.: <foreign xml:lang="grc">εἰς τ. αἰῶνα</foreign>, <ref osisRef="Matt.21.19">Mt 21:19</ref>; <foreign xml:lang="grc">εἰς γενεὰς καὶ γ.</foreign>, <ref osisRef="Luke.1.50">Lk 1:50</ref>; <foreign xml:lang="grc">εἰς τ. διηνεκές</foreign>, <ref osisRef="Heb.7.3">He 7:3</ref>, al. </sense> 
+ 		<sense n="2">2. Of a point or limit of time, <def>unto, up to, until</def>: <ref osisRef="Matt.6.34">Mt 6:34</ref>, <ref osisRef="Acts.4.3">Ac 4:3</ref>, <ref osisRef="Acts.25.21">25:21</ref>, <ref osisRef="Phil.1.10">Phi 1:10</ref>, <ref osisRef="Phil.2.16">2:16</ref>, <ref osisRef="1Thess.4.15">I Th 4:15</ref>, <ref osisRef="2Tim.1.12">II Ti 1:12</ref>; of entrance into a future period, <foreign xml:lang="grc">σεις τὸ μέλλον</foreign> (v.s. <foreign xml:lang="gtc">μέλλω</foreign>), <def>next (year)</def>, <ref osisRef="Luke.13.9">Lk 13:9</ref> (but c. <emph>ICC</emph>, in l.); <foreign xml:lang="grc">εἰς τ. μεταξὺ σάββατον</foreign>, <def>on the next Sabbath</def>, <ref osisRef="Acts.13.42">Ac 13:42</ref>; <foreign xml:lang="grc"> εἰς τὸ πάλιν</foreign> (v.s. <foreign xml:lang="grc">πάλιν</foreign>, <ref osisRef="2Cor.13.2">II Co 13:2</ref>. </sense> 
+ 	<sense n="III">III. Of result, after verbs of changing, joining, dividing, etc.: <foreign xml:lang="grc">στρέφειν εἰς</foreign>, <ref osisRef="Rev.11.6">Re 11:6</ref>; <foreign xml:lang="grc">μετας-</foreign>, <ref osisRef="Acts.2.20">Ac 2:20</ref>, <ref osisRef="Jas.4.9">Ja 4:9</ref>; <foreign xml:lang="grc">μεταλλάσσειν</foreign>, <ref osisRef="Rom.1.26">Ro 1:26</ref>; <foreign xml:lang="grc">σχίζειν εἰς δύο</foreign>, <ref osisRef="Matt.27.51">Mt 27:51</ref>, al.; predicatively with <foreign xml:lang="grc">εἴναι</foreign>, <ref osisRef="Acts.8.23">Ac 8:23</ref>. </sense> 
+ 	<sense n="IV">IV. Of relation, <def>to, towards, for, in regard to</def> (so in cl., but more freq. in late Gk., <foreign xml:lang="grc">εἰς</foreign> encroaching on the simple dat., which it <pb n="134" /> <!-- typed="" checked="" -->has wholly displaced in MGr.; Jannaris, <emph>Gr.</emph>, §1541; Robertson, <emph>Gr.</emph>, 594; Deiss., <emph>BS</emph>, 117f.): <ref osisRef="Luke.7.30">Lk 7:30</ref>, <ref osisRef="Rom.4.20">Ro 4:20</ref>, <ref osisRef="Rom.15.2">15:2</ref>, <ref osisRef="Rom.15.26">26</ref>, <ref osisRef="1Cor.16.1">I Co 16:1</ref>, <ref osisRef="Eph.3.16">Eph 3:16</ref>, al.; <foreign xml:lang="grc">ἀγάπη εἰς</foreign>, <ref osisRef="Rom.5.8">Ro 5:8</ref>, al.; <foreign xml:lang="grc">χρηστός</foreign>, <ref osisRef="Eph.4.32">Eph 4:32</ref>; <foreign xml:lang="grc">φρονεῖν εἰς</foreign>, <ref osisRef="Rom.12.16">Ro 12:16</ref>; <foreign xml:lang="grc">θαρρεῖν</foreign>, <ref osisRef="2Cor.10.1">II Co 10:1</ref>. </sense> 
+ 	<sense n="V">V. Of the end or object: <foreign xml:lang="grc">εὔθετος εἰς</foreign>, <ref osisRef="Luke.14.34">Lk 14:34</ref>; <foreign xml:lang="grc">σόφος</foreign>, <ref osisRef="Rom.16.19">Ro 16:19</ref>; <foreign xml:lang="grc">ἰσχύειν</foreign>, <ref osisRef="Matt.5.13">Mt 5:13</ref>; <foreign xml:lang="grc">εἰς τοῦτο</foreign>, <ref osisRef="Mark.1.38">Mk 1:38</ref>, al.; <foreign xml:lang="grc">ἀφορίζειν εἰς</foreign>, <ref osisRef="Rom.1.1">Ro 1:1</ref>; indicating purpose, <foreign xml:lang="grc">εἰς φόβον</foreign>, <ref osisRef="Rom.8.15">Ro 8:15</ref>; <foreign xml:lang="grc">εἰς ἔνδειξιν</foreign>, <ref osisRef="Rom.3.25">Ro 3:25</ref>; <foreign xml:lang="grc">εἰς τό</foreign>, c. inf. (= <foreign xml:lang="grc">ἵνα</foreign> or <foreign xml:lang="grc">ὥστε</foreign>; Bl., §71, 5; M, <emph>Pr.</emph>, 218ff.): <ref osisRef="Matt.20.19">Mt 20:19</ref>, <ref osisRef="Rom.1.11">Ro 1:11</ref>, <ref osisRef="1Cor.9.18">I Co 9:18</ref>, al. </sense>
+ 	<sense n="VI">VI. Adverbial phrases: <foreign xml:lang="grc">εἰς τέλος, εἰς τὸ πάλιν</foreign>, etc (v.s. <foreign xml:lang="grc">τέλος, πάλιν</foreign>, etc.).</sense>
+ 	</sense>
+ </entry>
 
 els, /Aid, h, gen. eids, fiia?, evo's, cardinal numeral, one; 1. one, aa 
 opp. to many : Mt 25l^ Ro 512, i Co 10^, al. ; as subst., Ro 51^, Eph 
@@ -11019,63 +10994,44 @@ into (cf. Ge 2', Wi 15i\ al.), breathe upon : Jo 2022.t
 Wi 12^'^*;] 1. innate (Wi, I.e.). 2. rooted, implanted: Ja I21 (v. 
 Mayor, in l.).t 
 
-iv, prep, (the most freq. of all in NT), c, dat. ( = Heb. 3 , Lat. 
-
-in, c. abl.). I. Of place, c. dat. rei, pers., in, within, on, at, by, among : 
-iv T. TToAei, Lk 7" ; T. 64&gt;6aXixC&gt;, Mt 7^ ; t. KoiXia, Mt 12"" ; t. 6pu, 
-II Pe 1^8; T. ^poVo), Ee 321 ; r.Se^.a r. ^eoC, Ro S^* ; iv vfxv, Lk 1^ ; 
-of books, iv T. ySi^Xt'w, Ga S^^ ; t. vo/aw, Mt 12^, al. ; ev tois t. narpos 
-/xou, in my Father's house (EV ; cf. M, Pr., 103), Lk 2*^; trop., of the 
-region of thought or feeling, ev t. KapSta (-ats), Mt 52^, 11 Co 4", al. ; 
-T. oTJvei87;o-€o-iv, II Co 5" ; after verbs of motion, instead of cts (con- 
-structio pircegnans, a usage extended in late Gk. beyond the limits 
-observed in cl. ; ef. Bl., § 41, 1 ; M, Th., 12), ciTroo-reAAw . . . iv, 
-Mt 101" . 8g'S,^Ke^ ^y r. xEipt (cf. Tt6l£Vai ev xepai, Hom., II., i, 441, al.), 
-Jo 3^^ ; id. after verbs of coming and going (not in cl.), tla-rjXOt, Lk 
-9*®; i$r}\6iv, Lk 7^"^. II. Of state, condition, form, occupation, etc.: 
-ev ^WTj, Ro 51** ; ev T. Oavarw, I Jo 3^* ; ev 7retpao-/i,or?, I Pe I*' ; ev elpT^vrj, 
-Mk 525; ^'^ g^^^ Phi 4l9;'^v TrpavTTjTi, Ja 3^3; ^ fjLvarrjpioi, I Co 2^• 
-e'v T. StSax^, Mk 42 ; of a part as contained in a whole, ev t. a/xTreXw, 
-Jo 15* ; ev evi o-w/Aart, Ro 12* ; of accompanying objects or persons 
-(simple dat. in cl.), with, iv ai/xart. He 92^; ev 6eVa ;(tAiao-tv, Lk 14*1 
-(cf. Ju 1*, Ac 71*) ; similarly (cl.), of clothing, armour, arms, ev o-roXats, 
-Mk 12^8 ; ev ia-OiJTL Xap-irpa, Ja 22 ; ev fiaxaiprj, Lk 22*^ ; ev pd/SSio, I Co 
-421 (cf. ev t6$oi&lt;;, Xen., Mem., 3, 9, 2) ; of manner (cl.), ev rdxei 
-(= raxews), Lk 18^ (cf. Bl., § 41, 1) ; of spiritual influence, eV irvev/xarL, 
-Eo 8® ; ev TT. cLKaOdpTu), Mk 123 . q{ ti^g mystical relation of the Christian 
-life and the believer himself, to God and Christ (cf. ICC, Bo., 160 f. ; 
-
-
-
-<pb n="151" /> <!-- typed="" checked="" --> 
-
-Mayor on Ju^; M, Pr., 103) : cV Xptorw ('It^o-ov), cv Kvpiw, Ro 3^* &amp;^^, 
-I Co 31 4i», II Co 122, Ga 2i7, Eph 6^1, Col 4^, i Th ^^\ al. ' 111. Of the 
-agent, instrument or means (an extension of cl. ev of instr. — v. LS, 
-s.v. Ill — corresponding to similar use of Heb. 2), by, with : ev vfuv 
-
-KpivtToj. 6 KOVfiO'i (= cl. Trapd, C. dat.), I Co 6^ ; ev t. ap^ovTL t. SaL/xovcwv, 
-Mt 9** ; cv atfJ-aTi, He 9'^'^ ; ev vSan, Mt 3^^, al. ; iv p.a^aLpa dwoKTeveL (cf. 
-the absol. ev p.., ev pd/SSw, supr., II, which some would classify here), 
-Re 13^** (cf. 6^). Allied to this usage and distinctly Semitic are the 
-
-following: r]y6pa(ja&lt;: . . . ev T. atp-aTL aov (cf. BDB, S.V. 5, III, 3), 
-
-Re 59 ; op.oXoydv ev (= Aram. 2 ""TX ; cf. McNeile on Mt, I.e. ; M, Pr., 
-104), Mt 10=^", Lk 128; ^^^Vai Iv (= cl. ace, so Ja 5^), Mt 5^4, al. ; 
-also at the rate of, amounting to, Mk 4* (WH; vv. 11., els, ev), Ac 
-7U(LXX)_ IV. Of time, (a) in or during a period: ev t. rjp-ipa {wktl), 
-Jo 11^, al. ; ev (Ta/3/3dTo), Mt 12^, al. ; ev tw /teTa^u, meamvhile, Jo 4^^; 
-{h) at the time of an event : Iv t. irapovcria, i Co IS'^^ ; ev t. dvao-Tao-ei, 
-Mt 22^8; (c) c. art. inf., (a) pres. (so sometimes in cl., but not as in 
-NT = Iws; V. M, Pr., 215), whUe : Mt 13*, Mk 6*8, Ga 4}% al. ; (/?) aor., 
-7vhen, after : Lk 9^", al. ; (d) within (cl.) : Mt 27*'^, V. In composition : 
-(i) meaning : (a) with adjective s, it signifies usually the possession of a 
-quality, as evoAios, evSo^os ; (6) with verbs, continuance in (seq. cv) or 
-motion into (seq. ets), as c/x/xeVw, ip.(3aiv(o. (ii) Assimilation : ev becomes 
-e/A- before y8, p., -ir, &lt;f), ij/ ; iy- before y, k, $, x', eX- before X. But in the 
-older MSS of NT, followed by modern editions, assimilation is some- 
-times neglected, as in evypac^w, evKaivi^w, etc. 
+  <entry n="ἐν|G1722"> 
+  	<note type="occurencesNT">2918</note>
+  	<form><orth>ἐν</orth>, </form>
+ 	<gramGrp><pos>prep</pos>, (the most freq. of all in NT), c. dat. (= Heb. <foreign xml:lang="heb">בְּ</foreign>, Lat. <foreign xml:lang="lat">in</foreign>, c. abl.). </gramGrp>
+ 	<sense n="I">I. Of place, c. dat. rei, pers., 
+ 	<def>in, within, on, at, by, among</def>: 
+ 	<foreign xml:lang="grc">ἐν τ. πόλει</foreign>, 
+ 	<ref osisRef="Luke.7.37">Lk 7:37</ref>; 
+ 	<foreign xml:lang="grc">τ. οφθαλμῷ</foreign>, 
+ 	<ref osisRef="Matt.7.3">Mt 7:3</ref>; <foreign xml:lang="grc">τ. κοιλίᾳ</foreign>, <ref osisRef="Matt.12.40">Mt 12:40</ref>; <foreign xml:lang="grc">τ. ὄρει</foreign>, <ref osisRef="2Pet.1.18">II Pe 1:18</ref>; <foreign xml:lang="grc">τ. θρόνῳ</foreign>, <ref osisRef="Rev.3.21">Re 3:21</ref>; <foreign xml:lang="grc">τ. δεξιᾷ τ. θεοῦ</foreign>, <ref osisRef="Rom.8.34">Ro 8:34</ref>; <foreign xml:lang="grc"> ἐν ἡμῖν</foreign><note>Abbott-Smith has <foreign xml:lang="grc">ὑμῖν</foreign>.</note>, <ref osisRef="Luke.1.1">Lk 1:1</ref>; of books, <foreign xml:lang="grc"> ἐν τ. βιβλίῳ</foreign>, <ref osisRef="Gal.3.10">Ga 3:10</ref>; <foreign xml:lang="grc">τ. νόμῳ</foreign>, <ref osisRef="Matt.12.5">Mt 12:5</ref>, al.; <foreign xml:lang="grc"> ἐν τοῖς τ. Πατρός</foreign>, <def>in my Father's house</def> (RV; cf. M, <emph>Pr.</emph>, 103), <ref osisRef="Luke.2.49">Lk 2:49</ref>; trop., of the region of thought or feeling, <foreign xml:lang="grc"> ἐν τ. καρδίᾳ (-αις)</foreign>, <ref osisRef="Matt.5.28">Mt 5:28</ref>, <ref osisRef="2Cor.4.6">II Co 4:6</ref>, al.; <foreign xml:lang="grc">τ. συνειδήσεσιν</foreign>, <ref osisRef="2Cor.5.11">II Co 5:11</ref>; after verbs of motion, instead of <foreign xml:lang="grc">εἰς</foreign> (<foreign xml:lang="lat">constructio praegnans</foreign>, a usage extended in late Gk. beyond the limits observed in cl.; cf. Bl., §41, 1; M, <emph>Th.</emph>, 12), <foreign xml:lang="grc"> ἀποστέλλω . . . ἐν</foreign>, <ref osisRef="Matt.10.16">Mt 10:16</ref>. <foreign xml:lang="grc">δέδωκεν ἐν τ. χειρί</foreign> (cf. <foreign xml:lang="grc">τιθέναι ἐν χερσί</foreign>, Hom., <emph>Il.</emph>, i, 441, al.), <ref osisRef="John.3.35">Jo 3:35</ref>; id. after verbs of coming and going (not in cl.), <foreign xml:lang="grc">εἰσῆλθε</foreign>, <ref osisRef="Luke.9.46">Lk 9:46</ref>; <foreign xml:lang="grc">ἐξῆλθεν</foreign>, <ref osisRef="Luke.7.17">Lk 7:17</ref>. </sense>
+ 	<sense n="II">II. Of state, condition, form, occupation, etc.: <foreign xml:lang="grc"> ἐν ζωῇ</foreign>, 
+ 	<ref osisRef="Rom.5.10">Ro 5:10</ref>; <foreign xml:lang="grc">ἐν τ. θανάτῳ</foreign>, 
+ 	<ref osisRef="1John.3.14">I Jo 3:14</ref>; <foreign xml:lang="grc">ἐν πειρασμοῖς</foreign>, 
+ 	<ref osisRef="1Pet.1.6">I Pe 1:6</ref>; <foreign xml:lang="grc">ἐν εἰρήνῃ</foreign>, 
+ 	<ref osisRef="Mark.5.25">Mk 5:25</ref>; <foreign xml:lang="grc">ἐν δόξῃ</foreign>, 
+ 	<ref osisRef="Phil.4.19">Phi 4:19</ref>; <foreign xml:lang="grc">ἐν πραΰτητι</foreign>, 
+ 	<ref osisRef="Jas.3.13">Ja 3:13</ref>; <foreign xml:lang="grc">ἐν μυστηρίῳ</foreign>, 
+ 	<ref osisRef="1Cor.2.7">I Co 2:7</ref>; <foreign xml:lang="grc">ἐν τ. διδαχῇ</foreign>, 
+ 	<ref osisRef="Mark.4.2">Mk 4:2</ref>; of a part as contained in a whole, <foreign xml:lang="grc">ἐν τ. ἀμπέλῳ</foreign>, 
+ 	<ref osisRef="John.15.4">Jo 15:4</ref>; <foreign xml:lang="grc">ἐν ἑνὶ σώματι</foreign>, 
+ 	<ref osisRef="Rom.12.4">Ro 12:4</ref>; of accompanying objects or persons (simple dat. in cl.), <def>with</def>, <foreign xml:lang="grc">ἐν αἵματι</foreign>, 
+ 	<ref osisRef="Heb.9.25">He 9:25</ref>; <foreign xml:lang="grc">ἐν δέκα χιλιάσιν</foreign>, 
+ 	<ref osisRef="Luke.14.31">Lk 14:31</ref> (cf. 
+ 	<ref osisRef="Jude.1.14">Ju 14</ref>, 
+ 	<ref osisRef="Acts.7.14">Ac 7:14</ref>); similarly (cl.), of clothing, armour, arms, <foreign xml:lang="grc">ἐν στολαῖς</foreign>, 
+ 	<ref osisRef="Mark.12.38">Mk 12:38</ref>; <foreign xml:lang="grc">ἐν ἐσθῆτι λαμπρᾷ</foreign>, <ref osisRef="Jas.2.2">Ja 2:2</ref>; <foreign xml:lang="grc">ἐν μαξαίρῃ</foreign>, <ref osisRef="Luke.22.49">Lk 22:49</ref>; <foreign xml:lang="grc">ἐν ῥάβδῳ</foreign>, <ref osisRef="1Cor.4.21">I Co 4:21</ref> (cf. <foreign xml:lang="grc">ἐν τόξοις</foreign>, Xen., <emph>Mem.</emph>, 3, 9, 2); of manner (cl.), <foreign xml:lang="grc">ἐν τάχει (= ταχέως)</foreign>, <ref osisRef="Luke.18.8">Lk 18:8</ref> (cf. Bl., §41, 1); of spiritual influence, <foreign xml:lang="grc">ἐν πνεύματι</foreign>, <ref osisRef="Rom.8.9">Ro 8:9</ref>; <foreign xml:lang="grc">ἐν π. ἀκαθάρτῳ</foreign>, <ref osisRef="Mark.1.23">Mk 1:23</ref>; of the mystical relation of the Christian life and the believer himself, to God and Christ (cf. <emph>ICC</emph>, <emph>Ro.</emph>, 160f.; <pb n="151" /> <!-- typed="" checked="" --> Mayor on <ref osisRef="Jude.1.1">Ju 1</ref>; M, <emph>Pr.</emph>, 103): <foreign xml:lang="grc">ἐν Χριστῷ</foreign>, <ref osisRef="Rom.3.24">Ro 3:24</ref>, <ref osisRef="Rom.6.11">6:11</ref>, <ref osisRef="1Cor.3.1">I Co 3:1</ref>, <ref osisRef="1Cor.4.10">4:10</ref>, <ref osisRef="2Cor.12.2">II Co 12:2</ref>, <ref osisRef="Gal.2.17">Ga 2:17</ref>, <ref osisRef="Eph.6.21">Eph 6:21</ref>, <ref osisRef="Col.4.7">Col 4:7</ref>, <ref osisRef="1Thess.4.16">I Th 4:16</ref>, al. </sense>
+	<sense n="III">III. Of the agent, instrument or means (an extension of cl. <foreign xml:lang="grc">ἐν</foreign> of instr.—v. LS, s.v. Ill—corresponding to similar use of Heb. <foreign xml:lang="heb">בְּ</foreign>), <def>by, with</def>: <foreign xml:lang="grc">ἐν ὑμῖν κρίνεται ὁ κόσμος</foreign> (= cl. <foreign xml:lang="grc">παρά</foreign>, C. dat.), <ref osisRef="1Cor.6.2">I Co 6:2</ref>; <foreign xml:lang="grc">ἐν τ. ἄρχοντι τ. δαιμονίων</foreign>, <ref osisRef="Matt.9.34">Mt 9:34</ref>; <foreign xml:lang="grc">ἐν αἵματι</foreign>, <ref osisRef="Heb.9.22">He 9:22</ref>; <foreign xml:lang="grc">ἐν ὕδατι</foreign>, <ref osisRef="Matt.3.11">Mt 3:11</ref>, al.; <foreign xml:lang="grc">ἐν μαχαίρᾳ ἀποκτενεῖ</foreign> (cf. the absol. <foreign xml:lang="grc">ἐν μ., ἐν ῥάβδῳ</foreign>, supr., II, which some would classify here), <ref osisRef="Rev.13.10">Re 13:10</ref> (cf. <ref osisRef="Rev.6.8">6:8</ref>). Allied to this usage and distinctly Semitic are the following: <foreign xml:lang="grc">ἠγόρασας . . . ἐν τ. αἵματι σου</foreign> (cf. <emph>BDB</emph>, s.v. <foreign xml:lang="heb">בְּ</foreign>, III, 3), <ref osisRef="Rev.5.9">Re 5:9</ref>; <foreign xml:lang="grc">ὁμολογεῖν ἐν</foreign> (= Aram. <foreign xml:lang="ara">אודי בּ</foreign>; cf. McNeile on Mt, I.c.; M, <emph>Pr.</emph>, 104), <ref osisRef="Matt.10.32">Mt 10:32</ref>, <ref osisRef="Luke.12.8">Lk 12:8</ref>; <foreign xml:lang="grc">ὀμνύναι ἐν</foreign> (= cl. acc., so <ref osisRef="Jas.5.12">Ja 5:12</ref>), <ref osisRef="Matt.5.34">Mt 5:34</ref>, al.; also <def>at the rate of, amounting to</def>, <ref osisRef="Mark.4.8">Mk 4:8</ref> (WH; vv. ll., <foreign xml:lang="grc">εἰς, ἒν</foreign>), <ref osisRef="Acts.7.14">Ac 7:14</ref> (LXX). </sense>
+ 	<sense n="IV">IV. Of time, 
+ 		<sense n="a">(a) <def>in</def> or <def>during</def> a period: <foreign xml:lang="grc">ἐν τ. ἡμέρᾳ (νυκτί)</foreign>, <ref osisRef="John.11.9">Jo 11:9</ref>, al.; <foreign xml:lang="grc">ἐν σαββάτῳ</foreign>, <ref osisRef="Matt.12.2">Mt 12:2</ref>, al.; <foreign xml:lang="grc">ἐν τῷ μεταξύ</foreign>, <def>meanwhile</def>, <ref osisRef="John.4.31">Jo 4:31</ref>; </sense>
+ 		<sense n="b">(b) at the time of an event: <foreign xml:lang="grc">ἐν τ. παρουσίᾳ</foreign>, <ref osisRef="1Cor.15.23">I Co 15:23</ref>; <foreign xml:lang="grc">ἐν τ. ἀναστάσει</foreign>, <ref osisRef="Matt.22.28">Mt 22:28</ref>; </sense>
+ 		<sense n="c">(c) c. art. inf., 
+ 		 		<sense n="α">(α) pres. (so sometimes in cl., but not as in NT = <foreign xml:lang="grc">ἕως</foreign>; V. M, <emph>Pr.</emph>, 215), <def>while</def>: <ref osisRef="Matt.13.4">Mt 13:4</ref>, <ref osisRef="Mark.6.48">Mk 6:48</ref>, <ref osisRef="Gal.4.18">Ga 4:18</ref>, al.; </sense>
+ 		 		<sense n="β">(β) aor., <def>when, after</def>: <ref osisRef="Luke.9.36">Lk 9:36</ref>, al.; </sense>
+ 		</sense>
+ 		<sense n="d">(d) <def>within</def> (cl.): <ref osisRef="Matt.27.40">Mt 27:40</ref>, </sense>
+ 	</sense>
+ 	<sense n="V">V. In composition: (1) meaning : (a) with adjectives, it signifies usually the possession of a quality, as <foreign xml:lang="grc">ἐνάλιος, ἐν́δοξος</foreign>; (b) with verbs, continuance in (seq. <foreign xml:lang="grc">ἐν</foreign>) or motion into (seq. <foreign xml:lang="grc">εἰς</foreign>), as <foreign xml:lang="grc">ἐμμένω, ἐμβαίνω</foreign>. (ii) Assimilation : <foreign xml:lang="grc">ἐν</foreign> becomes <foreign xml:lang="grc">ἐμ-</foreign> before <foreign xml:lang="grc">β, μ, π, φ, ψ</foreign>; <foreign xml:lang="grc">ἐγ-</foreign> before <foreign xml:lang="grc">γ, κ, ξ, χ</foreign>; <foreign xml:lang="grc">ἐλ-</foreign> before <foreign xml:lang="grc">λ</foreign>. But in the older MSS of NT, followed by modern editions, assimilation is sometimes neglected, as in <foreign xml:lang="grc">ἐνγράφω, ἐγκαινίζω</foreign>, etc.</sense>
+ </entry>
 
 t iy-ayKa\iioiiai « dyKaXr,), [in LXX for pnn pi., Pr G^O 24*8 '33) * .j 
 to take into one's arms : Mk 93" lO^^'.t 
@@ -13658,6 +13614,8 @@ I.e.) ; pi., II Co 912, I Ti 2^ (Cremer, 904).t
 1. = €v;^apts, winning, gracious, agreeable (Pr, I.e.). 2. grateful, 
 thankful : Col S^^.f 
 
+
+
 <pb n="191" /> <!-- typed="" checked="" --> 
 
 eoxn, -^s, v (•&lt; evxofxai), [in LXX chiefly for l^j ;] 1. a prayer : 
@@ -15872,10 +15830,7 @@ degree, Mk i^s, i Co 12ii'i8, al.; of time (Ne 5«, n Mac l^i), Ac 1^\
  	 	  </sense>
   	<sense n="II">II. Adjunctive, <def>also, even, still</def>: <ref osisRef="Matt.5.39">Mt 5:39</ref>, <ref osisRef="Matt.5.40">40</ref>; <ref osisRef="Mark.2.28">Mk 2:28</ref>, al. mult.; esp. c. pron., adv., etc., <ref osisRef="Matt.20.4">Mt 20:4</ref>, <ref osisRef="John.7.47">Jo 7:47</ref>, al; <foreign xml:lang="grc">ὡς κ.</foreign>, <ref osisRef="Acts.11.17">Ac 11:17</ref>; <foreign xml:lang="grc">καθὼς κ.</foreign>, <ref osisRef="Rom.15.7">Ro 15:7</ref>; <foreign xml:lang="grc">οὑτω κ.</foreign>, <ref osisRef="Rom.6.11">Ro 6:11</ref>; <foreign xml:lang="grc">διὸ κ.</foreign>, <ref osisRef="Luke.1.35">Lk 1:35</ref>; <foreign xml:lang="grc">ὁ κ.</foreign> (Deiss., <emph>BS</emph>, 313ff.), <ref osisRef="Acts.13.9">Ac 13:9</ref>; pleonastically, <foreign xml:lang="grc">μετὰ κ.</foreign>. (Bl., §77, 7; Deiss., <emph>BS</emph>, 265f,), <ref osisRef="Phi.4.3">Phl 4:3</ref>; <foreign xml:lang="grc">τί κ.</foreign>, <ref osisRef="1Cor15.29">1 Co 15:29</ref>; <foreign xml:lang="grc">ἀλλὰ κ.</foreign>, <ref osisRef="Luke.14.22">Lk 14:22</ref>, <ref osisRef="John.5.18">Jo 5:18</ref>, al.; <foreign xml:lang="grc">καίγε</foreign> (M, <emph>Pr.</emph>, 230; Burton, §437), <ref osisRef="Acts.17.27">Ac 17:27</ref>; <foreign xml:lang="grc">καίπερ</foreign>, <ref osisRef="Heb.5.8">He 5:8</ref>; <foreign xml:lang="grc">κ. ἐάν</foreign>, v.s. <foreign xml:lang="grc">ἐάν</foreign>.</sense>
  	</sense>
- </entry>
-  
- 
-
+ </entry> 
 
 Kaiti&lt;}>os (T, Kat-), -a o, Gaiaphas (on the name, v. Exp. Times, X, 185) : Mt 263. sr, Lk 32, Jo 11*9, 18i3,i4,24,28^ Ac 46.t KaiV (T, KAV), 6, indecl. (in FIJ, K(£is, -los), (Heb. W; Ge 4^), Gain: He 11*, i Jo 3^2, Ju ^i.t
 
@@ -22344,35 +22299,28 @@ V. LS, s.v. ; and cf. MM, xviii), her eft, friendless, desolate: Jo 14i^t
 opx^ofjiai, -ovfiai, [in LXX for ipi , etc. ;] to dance ; Mt 11^^ 14*', 
 Mk 622, Lk 732.t 
 
-OS, rj, o, the postpositive article {ap6pov vTroraKTiKov). 
-
-I. As demonstr. pron. = oStos, dSe, this, that, also for aurds, 
-chiefly in nom. : os 8c, but he (cf. ^ Se d?, freq. in Plat.), Mk 152^, Jo 
-511 ; 8? /tev . . . S? 8e, the one . . . the other, Mt 21^5 22^ 25^5, Lk 2333, 
-Ac 27*\ Ro 145, I Co 1121, II Co 2i8, Ju 22; neut., 8 /;i^ . . . 8 8i, the 
-one . . . the other, some . . . some, Mt 13^' 23^ Ro 92^; os (o) /xev . . . 
-(5Uos (aAAo)) . . . £T€pos (-0), Mk 4.\ Lk 8^, i Co 128-io ; oSs/xcV, absol., 
-I Co 1228 ; S5 ^^ . . . 6 8i, Ro 142. 
-
-II. As relat. pron., who, which, what, that ; 1. agreeing in gender 
-with its antecedent, but differently governed as to case : Mt 2^*, Lk 9®, 
-Ac 20^8, Ro 22^, al. mult. 2. In variation from the common con- 
-struction ; (a) in gender, agreeing with a noun in apposition to the 
-antecedent : Mk 15^", Ga 3^", Eph 6^^, al. ; constr. ad sensum : Jo 6^, 
-Col 2^^, I Ti 3^6, Re 13^*, al. ; (b) in number, constr. ad sensum : Ac 
-153", II Pe 31 ; (c) in case, by attraction to the case of the antecedent 
-(Bl., § 50, 2) : Jo 418, Ac 321, Ro 15i8, i Co 6^9, Eph l^, al. 3. The 
-neut. d with nouns of other gender and wdth phrases, which thing, 
-which term : Mk 3^7 12*2, Jq 139^ Col 3^*, al. ; with a sentence, Ac 232, 
-Ga 21*^, I Jo 28, al. 4. With ellipse of a demonstrative (oSros or cxctvos), 
-before or after: before, Mt 202 3, Lk 7*3, Ro lO^*, al.; after, Mt 1038, 
-Mk 9***, Jo 1922, Ro 2\ al. 5. Expressing purpose, end or cause : Mt 
-1110 (^/j,o ^ ij^df^ /jg may), Mk I2, He 12^ al. 6. C. prep, as peri- 
-phrasis for conjc. : avff wv ( = dvri TovTOiv wv), because, Lk I2*, al. ; 
-wherefore, Lk 123 ; e&lt;^' w, since, for that, Ro 5^2 ; d^' ov, since (tem- 
-poral), Lk 1325 ; l^ oZ, whence, Phi 320 ; etc. 7. With particles : 8s av 
-{lav), v.s. S.V, lav ; OS Kai, Mk 3^9, Jo 2120, JJq 52^ al. ; 8s Kal airo^, Mt 
-27^'^. 8. Gen., ov, absol., as adv. (v.s. 01!). 
+  <entry n="ὅς|G3739"> 
+  	<note type="occurencesNT">1913</note>
+  	<form><orth>ὅς, ἥ, ὅ</orth>, </form>
+ 	<gramGrp>the postpositive <pos>article</pos> (<foreign xml:lang="grc">ἄρθρον ὑποτακτικόν</foreign>).</gramGrp><lb/>
+ 	<sense n="I">I. As demonstr. pron. = <foreign xml:lang="grc">οὗτος, ὅδε</foreign>, <def>this, that</def>, also for <foreign xml:lang"grc">αὐτός</foreign>, chiefly in nom.: <foreign xml:lang="grc">ὅς δέ</foreign>, <def>but he</def> (cf. <foreign xml:lang="grc">ἦ δὲ ὅς</foreign>, freq. in Plat.), <ref osisRef="Mark.15.23">Mk 15:23</ref>, <ref osisRef="John.5.11">Jo 5:11</ref>; <foreign xml:lang="grc">ὃς μὲν . . . ὃς δέ</foreign>, <def>the one . . . the other</def>, <ref osisRef="Matt.21.35">Mt 21:35</ref>, <ref osisRef="Matt.22.5">22:5</ref>, <ref osisRef="Matt.25.15">25:15</ref>, <ref osisRef="Luke.23.33">Lk 23:33</ref>, <ref osisRef="Acts.27.14">Ac 27:14</ref>, <ref osisRef="Rom.14.5">Ro 14:5</ref>, <ref osisRef="1Cor.11.21">I Co 11:21</ref>, <ref osisRef="2Cor.2.18">II Co 2:18</ref>, <ref osisRef="Jude.1.22">Ju 22</ref>; neut., <foreign xml:lang="grc">ὃ μὲν . . . ὃ δέ</foreign>, <def>the one . . . the other, some . . . some</def>, <ref osisRef="Matt.13.8">Mt 13:8</ref>, <ref osisRef="Matt.13.23">23</ref>, <ref osisRef="Rom.9.21">Ro 9:21</ref>; <foreign xml:lang="grc">ὃς (ὃ) μὲν . . . (ἄλλος (ἄλλο)) . . . ἕτερος</foreign>, <ref osisRef="Mark.4.4">Mk 4:4</ref>, <ref osisRef="Luke.8.5">Lk 8:5</ref>, <ref osisRef="1Cor.12.8-1Cor.12.10">I Co 12:8-10</ref>; <foreign xml:lang="grc">οὓς μέν</foreign>, absol., <ref osisRef="1Cor.12.28">I Co 12:28</ref>; <foreign xml:lang="grc">ὃς μὲν . . . ὁ δέ</foreign>, <ref osisRef="Rom.14.2">Ro 14:2</ref>.</sense><lb/>
+ 	<sense n="II">II. As relat. pron., <def>who, which, what, that</def>; 
+ 		<sense n="1">1. agreeing in gender with its antecedent, but differently governed as to case: <ref osisRef="Matt.***RESUME***">Mt 2^*, <ref osisRef="">Lk 9®, <ref osisRef="">Ac 20^8, <ref osisRef="">Ro 22^, al. mult.</sense> 
+ 		<sense n="2">2. In variation from the common construction; 
+ 			<sense n="a">(a) in gender, agreeing with a noun in apposition to the antecedent : Mk 15^", Ga 3^", Eph 6^^, al. ; constr. ad sensum : Jo 6^, Col 2^^, I Ti 3^6, Re 13^*, al.; </sense> 
+ 			<sense n="b">(b) in number, constr. ad sensum : Ac 153", II Pe 31 ;</sense> 
+ 			<sense n="c">(c) in case, by attraction to the case of the antecedent (Bl., § 50, 2) : Jo 418, Ac 321, Ro 15i8, i Co 6^9, Eph l^, al. </sense>
+ 		</sense>
+ 		<sense n="3">3. The neut. d with nouns of other gender and wdth phrases, which thing, which term : Mk 3^7 12*2, Jq 139^ Col 3^*, al. ; with a sentence, Ac 232, Ga 21*^, I Jo 28, al. </sense> 
+ 		<sense n="4">4. With ellipse of a demonstrative (oSros or cxctvos), before or after: before, Mt 202 3, Lk 7*3, Ro lO^*, al.; after, Mt 1038, Mk 9***, Jo 1922, Ro 2\ al. </sense> 
+ 		<sense n="5">5. Expressing purpose, end or cause : Mt 1110 (^/j,o ^ ij^df^ /jg may), Mk I2, He 12^ al. </sense> 
+ 		<sense n="6">6. C. prep, as periphrasis for conjc. : avff wv ( = dvri TovTOiv wv), because, Lk I2*, al. ; wherefore, Lk 123 ; e&lt;^' w, since, for that, Ro 5^2 ; d^' ov, since (temporal), Lk 1325 ; l^ oZ, whence, Phi 320 ; etc. </sense>
+ 		<sense n="7">7. With particles : 8s av {lav), v.s. S.V, lav ; OS Kai, Mk 3^9, Jo 2120, JJq 52^ al. ; 8s Kal airo^, Mt 27^'^. </sense> 
+ 		<sense n="8">8. Gen., ov, absol., as adv. (v.s. 01!).</sense>
+ 	</sense>
+ 	<ref osisRef="">
+ 	<foreign xml:lang="grc"></foreign>
+ </entry>  
 
 oCTdKis «]dcros), relat. adv., as often as: seq. idv (q.v.), i Co 
 1125,26, Relie.t 
@@ -28652,16 +28600,14 @@ Re ] Qi ; 0-. ev T. vao), fig., Re 312. Metaph., Ga 2^ ; r. dXrjOelai, 1 Ti S^^.
 <pb n="421" /> <!-- typed="" checked="" --> 
 
 iTwiKos (Rec. -iKos, T, StoiVos), -7, -6v, Stoic : Ac IT^^.t 
-o-o, pron. of 2nd pers., thou, you, gen., crov, dat., croi, ace, o-e, 
-pi,, {i/Acts, -wv, -iv, -as (enclitic in oblique cases sing., except after prep. 
-(BL, § 48, 3), though Trpos o-€ occurs in Mt 25^^). Nom. for emphasis 
-or contrast : Jo l^o. « 410 533, 39, 44^ Ac 4^ Eph 5^2 ; so also perhaps crv 
-elTras, Mt 26^*, al. (M, Pr., 86) ; before voc, Mt 2^, Lk V^, Jo 17^, al. ; 
-sometimes without emphasis (M, Pr., 85 f.), as also in cl., but esp. as 
-rendering of Heb. phrase, e.g. rlos fwv cT av (nriN"''35l , Ps 2^"), Ac 13^^. 
+  <entry n="σύ|G4771"> 
+  	<note type="occurencesNT">2907</note>
+  	<form><orth>σύ</orth>, </form>
+ 	<gramGrp><pos>pron.</pos> of 2nd pers.,</gramGrp>
+ 	<sense><def>thou, you</def>, gen., <foreign xml:lang="grc">σοῦ</foreign>, dat., <foreign xml:lang="grc">σοί</foreign>, acc., <foreign xml:lang="grc">σέ</foreign>, pl., <foreign xml:lang="grc">ὑμεῖς, -ῶν, -ῖν, -ᾶς</foreign> (enclitic in oblique cases sing., except after prep. (BL, §48, 3), though <foreign xml:lang="grc">πρὸς σέ</foreign> occurs in <ref osisRef="Matt.25.39">Mt 25:39</ref>). Nom. for emphasis or contrast : <ref osisRef="John.1.30">Jo 1:30</ref>, <ref osisRef="John.4.10">4:10</ref>, <ref osisRef="John.5.33">5:33</ref>, <ref osisRef="John.5.39">39</ref>, <ref osisRef="John.5.44">44</ref>, <ref osisRef="Acts.4.7">Ac 4:7</ref>, <ref osisRef="Eph.5.32">Eph 5:32</ref>; so also perhaps <foreign xml:lang="grc">σὺ εἶπας</foreign>, <ref osisRef="Matt.26.64">Mt 26:64</ref>, al. (M, <emph>Pr.</emph>, 86); before voc., <ref osisRef="Matt.2.6">Mt 2:6</ref>, <ref osisRef="Luke.1.76">Lk 1:76</ref>, <ref osisRef="John.17.5">Jo 17:5</ref>, al.; sometimes without emphasis (M, <emph>Pr.</emph>, 85f.), as also in cl., but esp. as rendering of Heb. phrase, e.g. <foreign xml:lang="grc">υἱός μου εἶ σύ</foreign> (<foreign xml:lang="heb">בְּנִי־אַתָּה</foreign>, <ref osisRef="Ps.2.7">Ps 2:7</ref>), <ref osisRef="Acts.13.33">Ac 13:33</ref>. The gen. (<foreign xml:lang="grc">σοῦ, ὑμῶν</foreign>) is sometimes placed bef. the noun: <ref osisRef="Luke.7.48">Lk 7:48</ref>, <ref osisRef="Luke.12.30">12:30</ref>, al.; so also the enclitic <foreign xml:lang="grc">σοῦ</foreign>, <ref osisRef="Matt.9.6">Mt 9:6</ref>; on <foreign xml:lang="grc">τί ἐμοὶ κ. σοί</foreign>, v.s. <foreign xml:lang="grc">ἐγώ</foreign>.</sense>
+ </entry>
 
-The gen. (a-ov, v/awv) is sometimes placed bef. the noun : Lk 7*^ 12^*^, 
-al. ; so also the enclitic a-ov, Mt 9^ ; on ti ifxol k. a-oi, v.s. tyw. 
+ 
 
 (TUYYcVcia, -as, 17 « o-iTy^"^') ' [^^ LXX chiefly for nriBtjrp;] 1. 
 
