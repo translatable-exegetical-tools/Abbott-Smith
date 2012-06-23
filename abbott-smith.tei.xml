@@ -1564,11 +1564,8 @@
  </entry> 
  --> 
  
-dyairTiTos, -rj, -6v (&lt;&lt; dyaTraw), [in LXX chiefly for TH^ , TTI;] 
-beloved (v. M, Pr., 221) ; (a) by God : of Christ, Mt 3^" ; of men, Ko 1^ ; 
-{h) by Christians, of one another : i Co 4^* ; freq. as form of address, 
-ib. IQi* ; opp. to lx^p6';, Ro ll^s (v. AE, Eph., 229 ; Cremer, 17 ; MM, 
-VGT, s.v.). 
+<entry n="ἀγαπητός"> ἀγαπητός, -ή, -όν (&lt; ἀγαπάω), [in LXX chiefly for יָדִיד, יָתִיד;] beloved (v. M, Pr., 221); (a) by God: of Christ, Mt 3:17; of men, Ro 1:7; 
+(b) by Christians, of one another: I Co 4:14; freq. as form of address, ib. 10:14; opp. to ἐχθρός, Ro 11:28 (v. AR, Eph., 229; Cremer, 17 ; MM, VGT, s.v.). </entry>
 
 "Ayap (Kec. "A-), rj, indecl. (in FIJ, Ἀyapa, -qs', Heb. "IJn), Hagar 
 
@@ -22303,23 +22300,22 @@ Mk 622, Lk 732.t
   	<note type="occurencesNT">1913</note>
   	<form><orth>ὅς, ἥ, ὅ</orth>, </form>
  	<gramGrp>the postpositive <pos>article</pos> (<foreign xml:lang="grc">ἄρθρον ὑποτακτικόν</foreign>).</gramGrp><lb/>
- 	<sense n="I">I. As demonstr. pron. = <foreign xml:lang="grc">οὗτος, ὅδε</foreign>, <def>this, that</def>, also for <foreign xml:lang"grc">αὐτός</foreign>, chiefly in nom.: <foreign xml:lang="grc">ὅς δέ</foreign>, <def>but he</def> (cf. <foreign xml:lang="grc">ἦ δὲ ὅς</foreign>, freq. in Plat.), <ref osisRef="Mark.15.23">Mk 15:23</ref>, <ref osisRef="John.5.11">Jo 5:11</ref>; <foreign xml:lang="grc">ὃς μὲν . . . ὃς δέ</foreign>, <def>the one . . . the other</def>, <ref osisRef="Matt.21.35">Mt 21:35</ref>, <ref osisRef="Matt.22.5">22:5</ref>, <ref osisRef="Matt.25.15">25:15</ref>, <ref osisRef="Luke.23.33">Lk 23:33</ref>, <ref osisRef="Acts.27.14">Ac 27:14</ref>, <ref osisRef="Rom.14.5">Ro 14:5</ref>, <ref osisRef="1Cor.11.21">I Co 11:21</ref>, <ref osisRef="2Cor.2.18">II Co 2:18</ref>, <ref osisRef="Jude.1.22">Ju 22</ref>; neut., <foreign xml:lang="grc">ὃ μὲν . . . ὃ δέ</foreign>, <def>the one . . . the other, some . . . some</def>, <ref osisRef="Matt.13.8">Mt 13:8</ref>, <ref osisRef="Matt.13.23">23</ref>, <ref osisRef="Rom.9.21">Ro 9:21</ref>; <foreign xml:lang="grc">ὃς (ὃ) μὲν . . . (ἄλλος (ἄλλο)) . . . ἕτερος</foreign>, <ref osisRef="Mark.4.4">Mk 4:4</ref>, <ref osisRef="Luke.8.5">Lk 8:5</ref>, <ref osisRef="1Cor.12.8-1Cor.12.10">I Co 12:8-10</ref>; <foreign xml:lang="grc">οὓς μέν</foreign>, absol., <ref osisRef="1Cor.12.28">I Co 12:28</ref>; <foreign xml:lang="grc">ὃς μὲν . . . ὁ δέ</foreign>, <ref osisRef="Rom.14.2">Ro 14:2</ref>.</sense><lb/>
+ 	<sense n="I">I. As demonstr. pron. = <foreign xml:lang="grc">οὗτος, ὅδε</foreign>, <def>this, that</def>, also for <foreign xml:lang="grc">αὐτός</foreign>, chiefly in nom.: <foreign xml:lang="grc">ὅς δέ</foreign>, <def>but he</def> (cf. <foreign xml:lang="grc">ἦ δὲ ὅς</foreign>, freq. in Plat.), <ref osisRef="Mark.15.23">Mk 15:23</ref>, <ref osisRef="John.5.11">Jo 5:11</ref>; <foreign xml:lang="grc">ὃς μὲν . . . ὃς δέ</foreign>, <def>the one . . . the other</def>, <ref osisRef="Matt.21.35">Mt 21:35</ref>, <ref osisRef="Matt.22.5">22:5</ref>, <ref osisRef="Matt.25.15">25:15</ref>, <ref osisRef="Luke.23.33">Lk 23:33</ref>, <ref osisRef="Acts.27.14">Ac 27:14</ref>, <ref osisRef="Rom.14.5">Ro 14:5</ref>, <ref osisRef="1Cor.11.21">I Co 11:21</ref>, <ref osisRef="2Cor.2.18">II Co 2:18</ref>, <ref osisRef="Jude.1.22">Ju 22</ref>; neut., <foreign xml:lang="grc">ὃ μὲν . . . ὃ δέ</foreign>, <def>the one . . . the other, some . . . some</def>, <ref osisRef="Matt.13.8">Mt 13:8</ref>, <ref osisRef="Matt.13.23">23</ref>, <ref osisRef="Rom.9.21">Ro 9:21</ref>; <foreign xml:lang="grc">ὃς (ὃ) μὲν . . . (ἄλλος (ἄλλο)) . . . ἕτερος</foreign>, <ref osisRef="Mark.4.4">Mk 4:4</ref>, <ref osisRef="Luke.8.5">Lk 8:5</ref>, <ref osisRef="1Cor.12.8-1Cor.12.10">I Co 12:8-10</ref>; <foreign xml:lang="grc">οὓς μέν</foreign>, absol., <ref osisRef="1Cor.12.28">I Co 12:28</ref>; <foreign xml:lang="grc">ὃς μὲν . . . ὁ δέ</foreign>, <ref osisRef="Rom.14.2">Ro 14:2</ref>.</sense><lb/>
  	<sense n="II">II. As relat. pron., <def>who, which, what, that</def>; 
- 		<sense n="1">1. agreeing in gender with its antecedent, but differently governed as to case: <ref osisRef="Matt.***RESUME***">Mt 2^*, <ref osisRef="">Lk 9®, <ref osisRef="">Ac 20^8, <ref osisRef="">Ro 22^, al. mult.</sense> 
+ 		<sense n="1">1. agreeing in gender with its antecedent, but differently governed as to case: <ref osisRef="Matt.2.9">Mt 2:9</ref>, <ref osisRef="Luke.9.9">Lk 9:9</ref>, <ref osisRef="Acts.20.18">Ac 20:18</ref>, <ref osisRef="Rom.2.29">Ro 2:29</ref>, al. mult.</sense> 
  		<sense n="2">2. In variation from the common construction; 
- 			<sense n="a">(a) in gender, agreeing with a noun in apposition to the antecedent : Mk 15^", Ga 3^", Eph 6^^, al. ; constr. ad sensum : Jo 6^, Col 2^^, I Ti 3^6, Re 13^*, al.; </sense> 
- 			<sense n="b">(b) in number, constr. ad sensum : Ac 153", II Pe 31 ;</sense> 
- 			<sense n="c">(c) in case, by attraction to the case of the antecedent (Bl., § 50, 2) : Jo 418, Ac 321, Ro 15i8, i Co 6^9, Eph l^, al. </sense>
+ 			<sense n="a">(a) in gender, agreeing with a noun in apposition to the antecedent: <ref osisRef="Mark.15.16">Mk 15:16</ref>, <ref osisRef="Gal.3.16">Ga 3:16</ref>, <ref osisRef="Eph.6.17">Eph 6:17</ref>, al.; constr. ad sensum: <ref osisRef="John.6.9">Jo 6:9</ref>, <ref osisRef="Col.2.19">Col 2:19</ref>, <ref osisRef="1Tim.3.16">I Ti 3:16</ref>, <ref osisRef="Rev.13.14">Re 13:14</ref>, al.; </sense> 
+ 			<sense n="b">(b) in number, constr. ad sensum: <ref osisRef="Acts.15.36">Ac 15:36</ref>, <ref osisRef="2Pet.3.1">II Pe 3:1</ref>; </sense> 
+ 			<sense n="c">(c) in case, by attraction to the case of the antecedent (Bl., § 50, 2): <ref osisRef="John.4.18">Jo 4:18</ref>, <ref osisRef="Acts.3.21">Ac 3:21</ref>, <ref osisRef="Rom.15.18">Ro 15:18</ref>, <ref osisRef="1Cor.6.19">I Co 6:19</ref>, <ref osisRef="Eph.1.8">Eph 1:8</ref>, al. </sense>
  		</sense>
- 		<sense n="3">3. The neut. d with nouns of other gender and wdth phrases, which thing, which term : Mk 3^7 12*2, Jq 139^ Col 3^*, al. ; with a sentence, Ac 232, Ga 21*^, I Jo 28, al. </sense> 
- 		<sense n="4">4. With ellipse of a demonstrative (oSros or cxctvos), before or after: before, Mt 202 3, Lk 7*3, Ro lO^*, al.; after, Mt 1038, Mk 9***, Jo 1922, Ro 2\ al. </sense> 
- 		<sense n="5">5. Expressing purpose, end or cause : Mt 1110 (^/j,o ^ ij^df^ /jg may), Mk I2, He 12^ al. </sense> 
- 		<sense n="6">6. C. prep, as periphrasis for conjc. : avff wv ( = dvri TovTOiv wv), because, Lk I2*, al. ; wherefore, Lk 123 ; e&lt;^' w, since, for that, Ro 5^2 ; d^' ov, since (temporal), Lk 1325 ; l^ oZ, whence, Phi 320 ; etc. </sense>
- 		<sense n="7">7. With particles : 8s av {lav), v.s. S.V, lav ; OS Kai, Mk 3^9, Jo 2120, JJq 52^ al. ; 8s Kal airo^, Mt 27^'^. </sense> 
- 		<sense n="8">8. Gen., ov, absol., as adv. (v.s. 01!).</sense>
+ 		<sense n="3">3. The neut. <foreign xml:lang="grc">ὅ</foreign> with nouns of other gender and with phrases, <def>which thing, which term</def>: <ref osisRef="Mark.3.17">Mk 3:17</ref> <ref osisRef="Mark.12.42">12:42</ref>, <ref osisRef="John.1.39">Jo 1:39</ref>, <ref osisRef="Col.3.14">Col 3:14</ref>, al.; with a sentence, <ref osisRef="Acts.2.32">Ac 2:32</ref>, <ref osisRef="Gal.2.10">Ga 2:10</ref>, <ref osisRef="1John.2.8">I Jo 2:8</ref>, al. </sense> 
+		<sense n="4">4. With ellipse of a demonstrative (<foreign xml:lang="grc">οὗτος</foreign> or <foreign xml:lang="grc">ἐκεῖνος</foreign>), before or after: before, <ref osisRef="Matt.20.23">Mt 20:23</ref>, <ref osisRef="Luke.7.43">Lk 7:43</ref>, <ref osisRef="Rom.10.14">Ro 10:14</ref>, al.; after, <ref osisRef="Matt.10.38">Mt 10:38</ref>, <ref osisRef=
+		"Mark.9.40">Mk 9:40</ref>, <ref osisRef="John.19.22">Jo 19:22</ref>, <ref osisRef="Rom.2.1">Ro 2:1</ref> al. </sense> 
+ 		<sense n="5">5. Expressing purpose, end or cause: <ref osisRef="Matt.11.10">Mt 11:10</ref> (<def>who = that he may</def>), <ref osisRef="Mark.1.2">Mk 1:2</ref>, <ref osisRef="Heb.12.6">He 12:6</ref> al. </sense> 
+ 		<sense n="6">6. C. prep, as periphrasis for conjc.: <foreign xml:lang="grc">ἀνθ’ ὧν</foreign> ( = <foreign xml:lang="grc"> ἀντὶ τούτων ὧν</foreign>), <def>because</def>, <ref osisRef="Luke.1.20">Lk 1:20</ref>, al.; <def>wherefore</def>, <ref osisRef="Luke.12.3">Lk 12:3</ref>; <foreign xml:lang="grc">ἐξ οὗ</foreign>, <def>since, for that</def>, <ref osisRef="Rom.5.12">Ro 5:12</ref>; <foreign xml:lang="grc">ἀφ’ οὗ</foreign>, <def>since</def> (temporal), <ref osisRef="Luke.13.25">Lk 13:25</ref>; <foreign xml:lang="grc">ἐξ οὗ</foreign>, <def>whence</def>, <ref osisRef="Phil.3.20">Phi 3:20</ref>; etc. </sense>
+ 		<sense n="7">7. With particles: <foreign xml:lang="grc">ὃς ἄν (ἐάν)</foreign>, v.s. <foreign xml:lang="grc">ἄν, ἐάν</foreign>; <foreign xml:lang="grc">ὃς καί</foreign>, <ref osisRef="Mark.3.19">Mk 3:19</ref>, <ref osisRef="John.21.20">Jo 21:20</ref>, <ref osisRef="Rom.5.2">Ro 5:2</ref>, al.; <foreign xml:lang="grc">ὃς καὶ αὐτός</foreign>, <ref osisRef="Matt.27.57">Mt 27:57</ref>. </sense> 
+ 		<sense n="8">8. Gen., <foreign xml:lang="grc">οὗ</foreign>, absol., as adv. (v.s. <foreign xml:lang="grc">οὗ</foreign>).</sense>
  	</sense>
- 	<ref osisRef="">
- 	<foreign xml:lang="grc"></foreign>
  </entry>  
 
 oCTdKis «]dcros), relat. adv., as often as: seq. idv (q.v.), i Co 
