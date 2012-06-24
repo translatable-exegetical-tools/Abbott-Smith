@@ -9,7 +9,6 @@
  </entry>
 
 Order	LX	Strong	OccurencesNT	Source
-3612	ὅς	G3739	1913	RESUME
 1883	ἐπί	G1909	1758	
 3629	οὐ	G3756|G3757	1647	
 3627	ὅτι	G3754	1389	
