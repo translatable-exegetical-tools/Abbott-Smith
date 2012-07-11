@@ -1,19 +1,14 @@
   <entry n=""> 
   	<note type="occurencesNT"></note>
   	<form><orth></orth></form>
- 	<gramGrp/>
+ 	<gramGrp><pos></pos></gramGrp>
  	<sense></sense>
  	<sense n="1">1. †</sense>
- 	<ref osisRef="">
+ 	<ref osisRef=""></ref>
  	<foreign xml:lang="grc"></foreign>
  </entry>
 
 Order	LX	Strong	OccurencesNT	Source
-1883	ἐπί	G1909	1758	
-3629	οὐ	G3756|G3757	1647	
-3627	ὅτι	G3754	1389	
-3651	οὗτος	G3778	1387	
-3829	πᾶς	G3956	1361	
 2290	θεός	G2316	1317	
 3234	μή	G3361	1042	
 1037	γάρ	G1063	1041	
@@ -4681,7 +4676,6 @@ Order	LX	Strong	OccurencesNT	Source
 3607	ὁροθεσία	G3734	1	
 3616	ὁσίως	G3743	1	
 3623	ὄσφρησις	G3750	1	
-3631	οὐά	G3758	1	
 3633	οὐδαμῶς	G3760	1	
 3639	οὐκοῦν	G3766	1	
 3646	Οὐρβανός	G3773	1	
