@@ -13,7 +13,7 @@ The lexicon (abbott-smith.tei.xml), including the marked up version in this repo
 Viewing and Downloading
 =
 
-View [the current release](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml) online or download the release from the DOwnloads page.
+View [the current release](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml) online or download the release from the [DOwnloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
 
 Contributing
 =
