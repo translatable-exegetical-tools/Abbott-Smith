@@ -6,7 +6,7 @@ Abbott-Smith's Manual Greek Lexicon
 Summary
 =======
 
-Abbot-Smith is a project to mark up the G. Abbott-Smith's A MANUAL GREEK LEXICON OF THE NEW TESTAMENT(New York: Scribner's, 1922) using TEI. Contributors are welcome. This document records important source information and markup standards. View the current release online at http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml or download the release from the DOwnloads page.
+Abbot-Smith is a project to mark up the G. Abbott-Smith's *A Manual Greek Lexicon of the New Testament* (New York: Scribner's, 1922) using TEI. Contributors are welcome. This document records important source information and markup standards.
 
 Source and Copyright
 =
@@ -15,7 +15,12 @@ The PDF file with a text layer (manualgreeklexic00abborich.pdf) was obtained fro
 
 The lexicon (abbott-smith.tei.xml), including the marked up version in this repository, is in the public domain. 
 
-How to Contribute
+Viewing and Downloading
+=
+
+View [the current release](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml) online or download the release from the DOwnloads page.
+
+Contributing
 =
 
 All are welcome to contribute to this markup project. Those interested should send an email to editors at textonline dot org (deleting the spaces and replacing "at" and "dot" with the appropriate characters). 
