@@ -1,12 +1,7 @@
-Abbott-Smith
-============
+Abbott-Smith - Summary
+======================
 
-Abbott-Smith's Manual Greek Lexicon
-
-Summary
-=======
-
-Abbot-Smith is a project to mark up the G. Abbott-Smith's *A Manual Greek Lexicon of the New Testament* (New York: Scribner's, 1922) using TEI. Contributors are welcome. This document records important source information and markup standards.
+Abbott-Smith is a project to mark up the G. Abbott-Smith's *A Manual Greek Lexicon of the New Testament* (New York: Scribner's, 1922) using TEI. Contributors are welcome. This document records important source information and markup standards.
 
 Source and Copyright
 =
