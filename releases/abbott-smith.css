@@ -1,0 +1,68 @@
+body
+{
+  width: 60%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+h1 
+{
+  display: block;
+  text-align:center;
+  font-style: bold;
+  font-size: 2em;
+}
+
+h2 
+{
+  display: block;
+  text-align:center;
+  font-size: 1.5em;
+}
+
+h3 
+{
+  display: block;
+  text-align:center;
+  font-size: 1em;
+}
+
+h4 
+{
+  display: block;
+  text-align:center;
+  font-size: 1em;
+  font-style: italic;
+}
+
+span.orth
+{
+  font-family:"SBL Greek", "Gentium", serif;
+  font-size: 1.5em;
+}
+
+span.greek
+{
+  font-family:"SBL Greek", "Gentium", serif;
+}
+span.hebrew
+{
+  font-family:"SBL Hebrew", "Ezra SIL", serif;
+}
+span.foreign
+{
+  font-style:italic;
+}
+
+span.pagenum
+{
+   color: red;
+   font-family: sans-serif;
+   font-size: 1em; 
+   vertical-align:bottom;
+}
+
+span.pos
+{
+   color: green;
+}
