@@ -144,7 +144,7 @@
 </xsl:choose>
 </xsl:template>
 
-<xsl:template match="tei:def">
+<xsl:template match="tei:gloss">
     	<i><xsl:value-of select="."/></i>
 </xsl:template>
 
