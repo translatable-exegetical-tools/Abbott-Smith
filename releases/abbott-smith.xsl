@@ -57,10 +57,17 @@
 	<td><xsl:apply-templates/></td>
 </xsl:template>
 
-<xsl:template match="note[@type='occurrencesNT']"/>
-
 <xsl:template match="tei:note">
   <xsl:choose>
+    <xsl:when test="@type='occurrencesNT'">
+      <xsl:element name="sup">
+	<xsl:text> [NT: </xsl:text>
+	  <xsl:element name="span">
+	    <xsl:value-of select="@n"/> <xsl:value-of select="."/>
+	  </xsl:element>
+        <xsl:text>x] </xsl:text>
+      </xsl:element>
+    </xsl:when>
     <xsl:when test="@anchored='true'">
       <xsl:element name="sup">
 	<xsl:text> [</xsl:text>
@@ -142,6 +149,10 @@
     <span class="foreign"><xsl:value-of select="."/></span>
   </xsl:otherwise>
 </xsl:choose>
+</xsl:template>
+
+<xsl:template match="tei:sense">
+    	<b><xsl:value-of select="./@n"/><xsl:text> </xsl:text></b><xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="tei:gloss">
