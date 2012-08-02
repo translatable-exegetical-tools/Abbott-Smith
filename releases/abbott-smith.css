@@ -35,10 +35,15 @@ h4
   font-style: italic;
 }
 
+p
+{
+  font-family:"Times New Roman", "Gentium", serif;
+}
+
 span.orth
 {
   font-family:"SBL Greek", "Gentium", serif;
-  font-size: 1.5em;
+  font-size: 1.4em;
 }
 
 span.greek
@@ -58,7 +63,6 @@ span.pagenum
 {
    color: red;
    font-family: sans-serif;
-   font-size: 1em; 
    vertical-align:bottom;
 }
 
