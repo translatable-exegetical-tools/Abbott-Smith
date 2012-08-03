@@ -1,4 +1,4 @@
-PlanRelease Schedule
+Release Plan
 =
 
 This file maps out a projected release "schedule." It includes a table that identifies words to focus on starting with higher frequency words down to words that occur 10+ times in the NT and then going back and beginning with α and going alphabetically to ω. 
@@ -59,7 +59,7 @@ Source: default is MorphGNT, but KJV is given when that is the source; this data
 <tr><td>4896</td><td>ταῦτα</td><td>G5023</td><td>241</td><td>KJV</td></tr>
 <tr><td>3146</td><td>μέγας</td><td>G3173</td><td>240</td></tr>
 <tr><td>3635</td><td>οὐδείς</td><td>G3762</td><td>234</td></tr>
-<tr><td>14</td><td>ἅγιος</td><td>G40</td><td>G39</td><td>233</td></tr>
+<tr><td>14</td><td>ἅγιος</td><td>G40|G39</td><td>233</td></tr>
 <tr><td>585</td><td>ἀποκρίνομαι</td><td>G611</td><td>232</td></tr>
 <tr><td>3559</td><td>ὄνομα</td><td>G3686</td><td>230</td></tr>
 <tr><td>1071</td><td>γινώσκω</td><td>G1097</td><td>220</td></tr>
@@ -599,7 +599,7 @@ Source: default is MorphGNT, but KJV is given when that is the source; this data
 <tr><td>2940</td><td>κωλύω</td><td>G2967</td><td>23</td></tr>
 <tr><td>3276</td><td>μιμνῄσκομαι</td><td>G3403</td><td>23</td></tr>
 <tr><td>3856</td><td>πεινάω</td><td>G3983</td><td>23</td></tr>
-<tr><td>3881</td><td>πέραν</td><td>G4008</td><td>G4007</td><td>23</td></tr>
+<tr><td>3881</td><td>πέραν</td><td>G4008|G4007</td><td>23</td></tr>
 <tr><td>3889</td><td>περιβάλλω</td><td>G4016</td><td>23</td></tr>
 <tr><td>4505</td><td>σκεῦος</td><td>G4632</td><td>23</td></tr>
 <tr><td>4921</td><td>τελειόω</td><td>G5048</td><td>23</td></tr>
@@ -1279,7 +1279,7 @@ Source: default is MorphGNT, but KJV is given when that is the source; this data
 <tr><td>120</td><td>αἰσχροκερδής</td><td>G146</td><td>3</td></tr>
 <tr><td>121</td><td>αἰσχροκερδῶς</td><td>G147</td><td>1</td></tr>
 <tr><td>122</td><td>αἰσχρολογία</td><td>G148</td><td>1</td></tr>
-<tr><td>124</td><td>αἰσχρός</td><td>G150</td><td>G149</td><td>4</td></tr>
+<tr><td>124</td><td>αἰσχρός</td><td>G150|G149</td><td>4</td></tr>
 <tr><td>125</td><td>αἰσχρότης</td><td>G151</td><td>1</td></tr>
 <tr><td>126</td><td>αἰσχύνη</td><td>G152</td><td>6</td></tr>
 <tr><td>127</td><td>αἰσχύνομαι</td><td>G153</td><td>5</td></tr>
