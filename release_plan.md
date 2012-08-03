@@ -6,11 +6,11 @@ This file maps out a projected release "schedule." It includes a table that iden
 This list is not exhaustive, nor do we expect it to match Abbott-Smith exactly because some lines are taken from Strong's. We simply want to try to match Strong's numbers with the correct lexemes in Abbott-Smith and clean up entries in Abbott-Smith that are not on this list. 
 
 Each row includes the following information: 
-Order: a number to indicate an alphabetical sort order.
-Lexeme: the word in unicode Greek
-StrongsNumber: the number(s) in Strong's Greek Lexicon
-OccurrencesNT: number of occurrences in the GNT
-Source: default is MorphGNT, but KJV is given when that is the source; this data is useful but not authoritative. (This is optional)
+*Order: a number to indicate an alphabetical sort order.
+*Lexeme: the word in unicode Greek
+*StrongsNumber: the number(s) in Strong's Greek Lexicon
+*OccurrencesNT: number of occurrences in the GNT
+*Source: default is MorphGNT, but KJV is given when that is the source; this data is useful but not authoritative. (This is optional)
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
