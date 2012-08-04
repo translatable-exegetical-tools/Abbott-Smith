@@ -19,8 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>1070</td><td>γίνομαι</td><td>G1096</td><td>671</td></tr>
-<tr><td>2417</td><td>ἵνα</td><td>G2443</td><td>663</td></tr>
 <tr><td>209</td><td>ἀλλά</td><td>G235</td><td>638</td></tr>
 <tr><td>2038</td><td>ἔρχομαι</td><td>G2064</td><td>629</td></tr>
 <tr><td>549</td><td>ἀπό</td><td>G575</td><td>616</td><td>KJV</td></tr>
@@ -30,7 +28,6 @@ Each row includes the following information:
 <tr><td>418</td><td>ἄνθρωπος</td><td>G444</td><td>550</td></tr>
 <tr><td>5420</td><td>Χριστός</td><td>G5547</td><td>529</td></tr>
 <tr><td>1461</td><td>εἰ</td><td>G1487</td><td>507</td><td>p. 130</td></tr>
-<tr><td>1462</td><td>εἰ</td><td>G1488</td><td>507</td></tr>
 <tr><td><b>Release v. 0.11</b></td></tr>
 <tr><td>3640</td><td>οὖν</td><td>G3767</td><td>499</td></tr>
 <tr><td>3581</td><td>ὁράω</td><td>G3708</td><td>476</td></tr>
