@@ -156,7 +156,7 @@
 </xsl:template>
 
 <xsl:template match="tei:gloss">
-    	<i><xsl:value-of select="."/></i>
+    	<i><xsl:apply-templates/></i>
 </xsl:template>
 
 <xsl:template match="tei:ref">
