@@ -152,7 +152,7 @@
 	<cell>= cum (<emph>with</emph>).</cell>
  </row>
  <row>
-	<cell>of.</cell>
+	<cell>cf.</cell>
 	<cell>= confer (<emph>compare</emph>).</cell>
  </row>
  <row>
@@ -589,7 +589,7 @@
 	<cell>= Baruch.</cell>
  </row>
  <row>
-	<cell>DaSu</cell>
+	<cell>Da Su</cell>
 	<cell>= Susannah.</cell>
  </row>
  <row>
@@ -725,7 +725,7 @@
 	<cell>= English version (A.V. and R.V.).</cell>
  </row>
  <row>
-	<cell>Or. Ven.</cell>
+	<cell>Gr. Ven.</cell>
 	<cell>= Graecus Venetus.</cell>
  </row>
  <row>
@@ -737,8 +737,8 @@
 	<cell>= Septuagint.</cell>
  </row>
  <row>
-	<cell>R (in LXX</cell>
-	<cell>= Sixtine Ed. of LXX refs.) (1587).</cell>
+	<cell>R (in LXX refs.)</cell>
+	<cell>= Sixtine Ed. of LXX (1587).</cell>
  </row>
  <row>
 	<cell>Rec.</cell>
@@ -791,12 +791,12 @@
 	<cell>= Aelian, ii/A.D.</cell>
  </row>
  <row>
-	<cell>AEsoh.</cell>
-	<cell>= AEschylus, v/B.C.</cell>
+	<cell>Æsoh.</cell>
+	<cell>= Æschylus, v/B.C.</cell>
  </row>
  <row>
-	<cell>AEschin.</cell>
-	<cell>= AEschines, iv/B.C.</cell>
+	<cell>Æschin.</cell>
+	<cell>= Æschines, iv/B.C.</cell>
  </row>
  <row>
 	<cell>Anth.</cell>
@@ -824,7 +824,7 @@
  </row>
  <row>
 	<cell>CIG</cell>
-	<cell>= Corpus Inscriptionum Grsecarum.</cell>
+	<cell>= Corpus Inscriptionum Græcarum.</cell>
  </row>
  <row>
 	<cell>Dio Cass.</cell>
@@ -916,7 +916,7 @@
  </row>
  <row>
 	<cell>Philo.</cell>
-	<cell>= Philo Judseus, i/A.D.</cell>
+	<cell>= Philo Judæus, i/A.D.</cell>
  </row>
  <row>
 	<cell>Pind.</cell>
@@ -998,7 +998,7 @@
 	<cell>= Philology of the Gospels, by F. Blass. Macmillan, 1898.</cell>
  </row>
  <row>
- <cell>Blass, <emph>Or.</emph></cell>
+ <cell>Blass, <emph>Gr.</emph></cell>
 	<cell>= Grammar of N.T. Greek, by F. Blass, tr. by H. St. J. Thackeray. Macmillan, 1898.</cell>
  </row>
  <row>
@@ -1045,7 +1045,7 @@
 	<cell>= Dictionary of the Bible, edited by J. Hastings. 5 vols. (i-iv, <emph>ext.</emph> = extra vol.). Scribners, 1898-1904.</cell>
  </row>
  <row>
-	<cell><emph>DBM</emph> 1-vol.</cell>
+	<cell><emph>DB</emph> 1-vol.</cell>
 	<cell>= Dictionary of the Bible (in one volume), by J. Hastings. Schribners, 1909.</cell>
  </row>
  <row>
@@ -1342,7 +1342,7 @@
  
  <pb n="2" /> <!-- typed="DCO" checked="" -->
 
- <entry n="ἄβυσσος|G12"><note type="occurrencesNT">9</note><form><orth>ἄ-βυσσος, -ον</orth> (Ion. <foreign xml:lang="grc">βυσσός</foreign> = <foreign xml:lang="grc">βυθός</foreign>, </form><gramGrp/> <sense n="1.">in cl., <gloss>boundless, bottomless</gloss> (e.g. <foreign xml:lang="grc">ἄ. πέλαγος, ἄ. πλοῦτος</foreign> Aesch.).</sense> <sense n="2.">[In LXX (for <foreign xml:lang="heb">תְּהוֹם</foreign>, <ref osisRef="Gen.1.2">Ge 1:2</ref>, al.; exc. <ref osisRef="Isa.44.27">Is 44:27</ref>, <ref osisRef="Job.41.22">Jb 41:22</ref> for <foreign xml:lang="heb">צוּלָה</foreign>, <foreign xml:lang="heb">מְצוּלָה</foreign>, <ref osisRef="Job.36.16">Jb 36:16</ref> for <foreign xml:lang="heb">רַחַב</foreign>) and] NT, as subst. (MM, <emph>VGT</emph>, s.v.), <foreign xml:lang="grc">ἡ ἄ.</foreign> (sc. <foreign xml:lang="grc">χώρα</foreign>), <gloss>the abyss</gloss>; (a) of the sea (<ref osisRef="Gen.1.2">Ge 1:2</ref>); (b) of the underworld, as the abode of the dead: <ref osisRef="Rom.10.7">Ro 10:7</ref> (a paraphrase of <ref osisRef="Deut.30.13">De 30:13</ref> LXX) ; as the abode of demons, <ref osisRef="Luke.8.31">Lk 8:31</ref>, <ref osisRef="Rev.9.1">Re 9:1</ref>, <ref osisRef="Rev.9.2">2</ref>, <ref osisRef="Rev.9.11">11</ref>, <ref osisRef="Rev.11.7">11:7</ref>, <ref osisRef="Rev.17.8">17:8</ref>, <ref osisRef="Rev.20.1">20:1</ref>, <ref osisRef="Rev.20.3">3</ref> (Cremer, 2). †</sense></entry> 
+ <entry n="ἄβυσσος|G12"><note type="occurrencesNT">9</note><form><orth>ἄ-βυσσος, -ον</orth> (Ion. <foreign xml:lang="grc">βυσσός</foreign> = <foreign xml:lang="grc">βυθός</foreign>, </form><gramGrp/> <sense n="1.">in cl., <gloss>boundless, bottomless</gloss> (e.g. <foreign xml:lang="grc">ἄ. πέλαγος, ἄ. πλοῦτος</foreign> Æsch.).</sense> <sense n="2.">[In LXX (for <foreign xml:lang="heb">תְּהוֹם</foreign>, <ref osisRef="Gen.1.2">Ge 1:2</ref>, al.; exc. <ref osisRef="Isa.44.27">Is 44:27</ref>, <ref osisRef="Job.41.22">Jb 41:22</ref> for <foreign xml:lang="heb">צוּלָה</foreign>, <foreign xml:lang="heb">מְצוּלָה</foreign>, <ref osisRef="Job.36.16">Jb 36:16</ref> for <foreign xml:lang="heb">רַחַב</foreign>) and] NT, as subst. (MM, <emph>VGT</emph>, s.v.), <foreign xml:lang="grc">ἡ ἄ.</foreign> (sc. <foreign xml:lang="grc">χώρα</foreign>), <gloss>the abyss</gloss>; (a) of the sea (<ref osisRef="Gen.1.2">Ge 1:2</ref>); (b) of the underworld, as the abode of the dead: <ref osisRef="Rom.10.7">Ro 10:7</ref> (a paraphrase of <ref osisRef="Deut.30.13">De 30:13</ref> LXX) ; as the abode of demons, <ref osisRef="Luke.8.31">Lk 8:31</ref>, <ref osisRef="Rev.9.1">Re 9:1</ref>, <ref osisRef="Rev.9.2">2</ref>, <ref osisRef="Rev.9.11">11</ref>, <ref osisRef="Rev.11.7">11:7</ref>, <ref osisRef="Rev.17.8">17:8</ref>, <ref osisRef="Rev.20.1">20:1</ref>, <ref osisRef="Rev.20.3">3</ref> (Cremer, 2). †</sense></entry> 
 
  <entry n="Ἄγαβος|G13"><note type="occurrencesNT">2</note><form><orth>Ἄγαβος, -ον, ὁ</orth></form><gramGrp/> <sense><gloss>Agabus</gloss>: <ref osisRef="Acts.11.28">Ac 11:28</ref>, <ref osisRef="Acts.21.10">21:10</ref>. †</sense></entry> 
 
