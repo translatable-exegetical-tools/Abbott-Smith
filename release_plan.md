@@ -19,8 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>1461</td><td>εἰ</td><td>G1487</td><td>507</td><td>p. 130</td></tr>
-<tr><td><b>Release v. 0.11</b></td></tr>
 <tr><td>3640</td><td>οὖν</td><td>G3767</td><td>499</td></tr>
 <tr><td>3581</td><td>ὁράω</td><td>G3708</td><td>476</td></tr>
 <tr><td>2570</td><td>κατά</td><td>G2596</td><td>473</td></tr>
@@ -1174,14 +1172,6 @@ Each row includes the following information:
 <tr><td>4259</td><td>πρότερον</td><td>G4386</td><td>10</td><td>KJV</td></tr>
 <tr><td><b>Release v. 0.34</b></td></tr>
 <tr><td>***Switch to working by page***</td></tr>
-<tr><td>2</td><td>Ἁγάρ</td><td>G28</td><td>2</td></tr>
-<tr><td>3</td><td>ἀγγαρεύω</td><td>G29</td><td>3</td></tr>
-<tr><td>4</td><td>ἀγγεῖον</td><td>G30</td><td>1</td></tr>
-<tr><td>5</td><td>ἀγγελία</td><td>G31</td><td>2</td></tr>
-<tr><td>7</td><td>ἄγε</td><td>G33</td><td>2</td></tr>
-<tr><td>8</td><td>ἀγέλη</td><td>G34</td><td>7</td></tr>
-<tr><td>9</td><td>ἀγενεαλόγητος</td><td>G35</td><td>1</td></tr>
-<tr><td>10</td><td>ἀγενής</td><td>G36</td><td>1</td></tr>
 <tr><td>15</td><td>ἁγιότης</td><td>G41</td><td>1</td></tr>
 <tr><td>16</td><td>ἁγιωσύνη</td><td>G42</td><td>3</td></tr>
 <tr><td>17</td><td>ἀγκάλη</td><td>G43</td><td>1</td></tr>
