@@ -13,7 +13,7 @@ The lexicon (abbott-smith.tei.xml), including the marked up version in this repo
 Viewing and Downloading
 =
 
-View [the current release](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml) online or download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
+It is not recommended that you use abbott-smith.tei.xml in this folder for anything but cleaning up and marking up entries because it contains text recognized by OCR that needs to be cleaned up. To use the lexicon, [view the current release online](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml) or download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
 
 Contributing
 =
