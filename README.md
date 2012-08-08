@@ -20,6 +20,12 @@ Contributing
 
 All are welcome to contribute to this markup project. Those interested should send an email to editors at textonline dot org (deleting the spaces and replacing "at" and "dot" with the appropriate characters). 
 
+Contributors
+= 
+
+Daniel Owens
+Dardo Sordi
+
 Markup Information
 =
 
