@@ -1629,26 +1629,22 @@
   </sense>
  </entry>
 
-ayios, -a, -ov (&lt;Cto ay&amp;s, religious awe; a^w, to venerate), [in LXX 
-chiefly for Vj^p;] primarily, dedicated to the gods, sacred (Hdt.; rare 
-
-in Att., never in Hom., Hes. and Trag., who use dyvos), hence, holy, 
-characteristic of God, separated to God, worthy of veneration. 1. Its 
-highest application is to God himself, in his purity, majesty, and 
-glory: Lk 1*^, Jo I711, Ee 4^. Hence (a) of things and places which 
-have a claim to reverence as sacred to God, e.g. the Temple: Mt 24i*, 
-He 91; (b) of persons employed by him, as angels: i Th S^^; 
-prophets, Lk V^; apostles, Eph 3^. 2. Applied to persons as sepa- 
-rated to God's service: (a) of Christ, Mk 12^ Jo 6«9, Ac 430; (6) of 
-Christians, Ac 9^3, Ro 1^, He 6^\ Ee 58. 3. In the moral sense of 
-sharing God's purity: Mk 620, Jo I711, Ac 31*, Ee 3^ 4. Of pure, 
-clean sacrifices and offerings: i Co 71*, Eph 1*. 
-
-Stn.: dyvos, pure, both in ceremonial and spiritual sense; 
-i£/)os (sacer), sacred, that which is inviolable because of its (external) 
-relation to God; oo-ios {sanctus as opp. to nefas), that which is based 
-on everlasting ordinances of right. (Cf . Tr., Syn., § Ixxxviii; DB, ii, 
-399 f.; Cremer, 34, 594-601; MM, VGT, s.v.) 
+<entry n="ἅγιος|G40|G39">
+  <note type="occurrencesNT">233</note>
+  <form><orth>ἅγιος, -α, ον</orth>  (&lt; <foreign xml:lang="grc">τό ἅγός</foreign>, <emph>religious awe</emph>; <foreign xml:lang="grc">ἅζω</foreign>, <emph>to venerate</emph>), [in LXX chiefly for <foreign xml:lang="heb">קֹ֫דֶשׁ</foreign> ;] </form>
+  <sense>primarily, <gloss>dedicated to the gods, sacred</gloss> (Hdt.; rare in Att., never in Hom., Hes. and Trag., who use <foreign xml:lang="grc">ἁγνός</foreign>), hence, <gloss>holy</gloss>, characteristic of God, separated to God, worthy of veneration.
+    <sense n="1."> Its highest application is to God himself, in his purity, majesty, and glory: <ref osisRef="Luke.1.49">Lk 1:49</ref>, <ref osisRef="John.17.11">Jo 17:11</ref>, <ref osisRef="Rev.4.8">Re 4:8</ref>. Hence 
+      <sense n="(a)">of things and places which have a claim to reverence as sacred to God, e.g. the Temple: <ref osisRef="Matt.24.15">Mt 24:15</ref>, <ref osisRef="Heb.9.1">He 9:1</ref>; </sense>
+      <sense n="(b)">of persons employed by him, as angels: <ref osisRef="1Thess.3.13">I Th 3:13</ref>; prophets, <ref osisRef="Luke.1.70">Lk 1:70</ref>; apostles, <ref osisRef="Eph.3.5">Eph 3:5</ref>. </sense>
+    </sense>
+    <sense n="2.">Applied to persons as separated to God's service:
+      <sense n="(a)">of Christ, <ref osisRef="Mark.1.24">Mk 1:24</ref>, <ref osisRef="John.6.69">Jo 6:69</ref>, <ref osisRef="Acts.4.30">Ac 4:30</ref>; </sense>
+      <sense n="(b)">of Christians, <ref osisRef="Acts.9.13">Ac 9:13</ref>, <ref osisRef="Rom.1.7">Ro 1:7</ref>, <ref osisRef="Heb.6.10">He 6:10</ref>, <ref osisRef="Rev.5.8">Re 5:8</ref>. </sense>
+    </sense>
+    <sense n="3.">In the moral sense of sharing God's purity: <ref osisRef="Mark.6.20">Mk 6:20</ref>, <ref osisRef="John.17.11">Jo 17:11</ref>, <ref osisRef="Acts.3.14">Ac 3:14</ref>, <ref osisRef="Rev.3.7">Re 3:7</ref>.</sense>
+    <sense n="4.">Of pure, clean sacrifices and offerings: <ref osisRef="1Cor.7.14">I Co 7:14</ref>, <ref osisRef="Eph.1.4">Eph 1:4</ref>. </sense>
+    <lb />Syn.: <foreign xml:lang="grc">ἁγνός</foreign>, <emph>pure</emph>, both in ceremonial and spiritual sense; <foreign xml:lang="grc">ἱερός</foreign> (<foreign xml:lang="lat">sacer</foreign>), <emph>sacred</emph>, that which is inviolable because of its (external) relation to God; <foreign xml:lang="grc">ὅσιος</foreign> (<foreign xml:lang="lat">sanctus</foreign> as opp. to <foreign xml:lang="lat">nefas</foreign>), that which is based on everlasting ordinances of right. (Cf. Tr., <emph>Syn.</emph>, § lxxxviii; <emph>DB</emph>, ii, 399 f.; Cremer, 34, 594-601; MM, <emph>VGT</emph>, s.v.)</sense>
+ </entry>
 
 **t dynJTTjs, -rfTo^, rj (•&lt;dyios), [in LXX: n Mac 152*;] sanctity, 
 holiness, regarded, properly, as an abstract quality (v. next word, and 

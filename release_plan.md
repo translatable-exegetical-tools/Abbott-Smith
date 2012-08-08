@@ -49,7 +49,6 @@ Each row includes the following information:
 <tr><td>4896</td><td>ταῦτα</td><td>G5023</td><td>241</td><td>KJV</td></tr>
 <tr><td>3146</td><td>μέγας</td><td>G3173</td><td>240</td></tr>
 <tr><td>3635</td><td>οὐδείς</td><td>G3762</td><td>234</td></tr>
-<tr><td>14</td><td>ἅγιος</td><td>G40|G39</td><td>233</td></tr>
 <tr><td>585</td><td>ἀποκρίνομαι</td><td>G611</td><td>232</td></tr>
 <tr><td>3559</td><td>ὄνομα</td><td>G3686</td><td>230</td></tr>
 <tr><td>1071</td><td>γινώσκω</td><td>G1097</td><td>220</td></tr>
