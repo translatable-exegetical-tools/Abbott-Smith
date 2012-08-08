@@ -49,7 +49,6 @@ Each row includes the following information:
 <tr><td>4896</td><td>ταῦτα</td><td>G5023</td><td>241</td><td>KJV</td></tr>
 <tr><td>3146</td><td>μέγας</td><td>G3173</td><td>240</td></tr>
 <tr><td>3635</td><td>οὐδείς</td><td>G3762</td><td>234</td></tr>
-<tr><td>14</td><td>ἅγιος</td><td>G40|G39</td><td>233</td></tr>
 <tr><td>585</td><td>ἀποκρίνομαι</td><td>G611</td><td>232</td></tr>
 <tr><td>3559</td><td>ὄνομα</td><td>G3686</td><td>230</td></tr>
 <tr><td>1071</td><td>γινώσκω</td><td>G1097</td><td>220</td></tr>
@@ -1083,7 +1082,6 @@ Each row includes the following information:
 <tr><td>2794</td><td>κλῆσις</td><td>G2821</td><td>11</td></tr>
 <tr><td>3254</td><td>μήπως</td><td>G3381</td><td>11</td><td>KJV</td></tr>
 <tr><td>5322</td><td>φύσις</td><td>G5449</td><td>11</td><td>KJV</td></tr>
-<tr><td>12</td><td>ἁγιασμός</td><td>G38</td><td>10</td></tr>
 <tr><td>27</td><td>ἁγνός</td><td>G53</td><td>10</td></tr>
 <tr><td>60</td><td>ᾅδης</td><td>G86</td><td>10</td></tr>
 <tr><td>76</td><td>ἀδύνατος</td><td>G102</td><td>10</td></tr>

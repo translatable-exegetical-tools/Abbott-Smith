@@ -116,7 +116,7 @@
 </xsl:template>
 
 <xsl:template match="tei:pb">
-	<span class="pagenum"><sub><xsl:text> [p. </xsl:text> <xsl:value-of select="./@n"/><xsl:text>] </xsl:text></sub></span>
+	<span class="pagenum"><xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute> <sub><xsl:text> [p. </xsl:text> <xsl:value-of select="./@n"/><xsl:text>] </xsl:text></sub></span>
 </xsl:template>
 
 <xsl:template match="tei:entry">
@@ -156,7 +156,7 @@
 </xsl:template>
 
 <xsl:template match="tei:gloss">
-    	<i><xsl:value-of select="."/></i>
+    	<i><xsl:apply-templates/></i>
 </xsl:template>
 
 <xsl:template match="tei:ref">

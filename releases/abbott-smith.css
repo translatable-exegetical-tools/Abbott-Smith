@@ -64,6 +64,8 @@ span.pagenum
    color: red;
    font-family: sans-serif;
    vertical-align:bottom;
+   font-style: normal;
+   font-weight: normal;
 }
 
 span.pos
