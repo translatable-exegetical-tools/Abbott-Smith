@@ -38,7 +38,7 @@
 </xsl:template>
 
 <xsl:template match="tei:emph">
-	<i><xsl:apply-templates/></i>
+	<em><xsl:apply-templates/></em>
 </xsl:template>
 
 <xsl:template match="tei:lb">
@@ -61,6 +61,7 @@
   <xsl:choose>
     <xsl:when test="@type='occurrencesNT'">
       <xsl:element name="sup">
+	<xsl:attribute name="class">count</xsl:attribute>
 	<xsl:text> [NT: </xsl:text>
 	  <xsl:element name="span">
 	    <xsl:value-of select="@n"/> <xsl:value-of select="."/>
@@ -116,11 +117,16 @@
 </xsl:template>
 
 <xsl:template match="tei:pb">
-	<span class="pagenum"><xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute> <sub><xsl:text> [p. </xsl:text> <xsl:value-of select="./@n"/><xsl:text>] </xsl:text></sub></span>
+    <a class="pagenum">
+        <xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute>
+        <xsl:attribute name="href">http://archive.org/stream/manualgreeklexic00abborich#page/<xsl:value-of select="./@n" />/mode/1up</xsl:attribute>
+        <xsl:attribute name="target">_blank</xsl:attribute>
+        <sub><xsl:text> [p. </xsl:text> <xsl:value-of select="./@n"/><xsl:text>] </xsl:text></sub>
+    </a>
 </xsl:template>
 
 <xsl:template match="tei:entry">
-    <p>
+    <p class="entry">
     	<xsl:apply-templates/>
     </p>
 </xsl:template>
@@ -141,6 +147,9 @@
 <xsl:choose>
   <xsl:when test="./@xml:lang='heb'">
     	<span class="hebrew"><xsl:value-of select="."/></span>
+  </xsl:when>
+  <xsl:when test="./@xml:lang='arc'">
+    	<span class="aramaic"><xsl:value-of select="."/></span>
   </xsl:when>
   <xsl:when test="./@xml:lang='grc'">
     	<span class="greek"><xsl:value-of select="."/></span>
