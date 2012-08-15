@@ -1646,24 +1646,29 @@
     <lb />Syn.: <foreign xml:lang="grc">ἁγνός</foreign>, <emph>pure</emph>, both in ceremonial and spiritual sense; <foreign xml:lang="grc">ἱερός</foreign> (<foreign xml:lang="lat">sacer</foreign>), <emph>sacred</emph>, that which is inviolable because of its (external) relation to God; <foreign xml:lang="grc">ὅσιος</foreign> (<foreign xml:lang="lat">sanctus</foreign> as opp. to <foreign xml:lang="lat">nefas</foreign>), that which is based on everlasting ordinances of right. (Cf. Tr., <emph>Syn.</emph>, § lxxxviii; <emph>DB</emph>, ii, 399 f.; Cremer, 34, 594-601; MM, <emph>VGT</emph>, s.v.)</sense>
  </entry>
 
-**t dynJTTjs, -rfTo^, rj (•&lt;dyios), [in LXX: n Mac 152*;] sanctity, 
-holiness, regarded, properly, as an abstract quality (v. next word, and 
-cf. lift.. Notes, 49; MM, VGT, s.v.): n Co 1^2, He 12io.t 
+<entry n="ἁγιότης|G41">
+  <note type="occurrencesNT">1</note>
+  <form>**† <orth>ἁγιότης, -ητος, ἡ</orth> (&lt; <foreign xml:lang="grc">ἅγιος</foreign>), [in LXX: ΙΙ Mac 15:2 *;]  </form>
+  <sense><gloss>sanctity</gloss>, <gloss>holiness</gloss>, regarded, properly, as an abstract quality (v. next word, and cf. Lft. Notes, 49; MM, <emph>VGT</emph>, s.v.): <ref osisRef="2Cor.1.12">II Co 1:12</ref>, <ref osisRef="Heb.12.10">He 12:10</ref>. †</sense>
+ </entry>
 
-t dYiuffu'Ktj (cf. dyaew&lt;rvvr]), -rj^, rj « aytos), [in LXX: Ps 29 (30)* 
-96(97)12 (nrij?), 95(96)« (ijr), 144 (145)^ (Tin), n Mac 312*;] holiness, 
+<entry n="ἁγιωσύνη|G42">
+  <note type="occurrencesNT">3</note>
+  <form>† <orth>ἁγιωσύνη</orth> (cf. <foreign xml:lang="grc">ἀγαθωσύνη</foreign>), <orth>-ης, ἡ</orth> (&lt; <foreign xml:lang="grc">ἅγιος</foreign>), [in LXX: <ref osisRef="LXX:Ps.30.4">Ps 29 (30):4</ref> <ref osisRef="LXX:Ps.97.12">96(97):12</ref> (<foreign xml:lang="heb">קדשׁ</foreign>), <ref osisRef="LXX:Ps.96.6">95(96):6</ref> (<foreign xml:lang="heb">עז</foreign>), <ref osisRef="LXX:Ps.145.5">144(145):5</ref> (<foreign xml:lang="heb">הוד</foreign>), <ref osisRef="2Macc.3.12">II Mac 3:12</ref> *;] </form>
+  <sense><gloss>holiness</gloss>, the state in man resulting from <foreign xml:lang="grc">ἁγιασμός</foreign>, q.v.: <ref osisRef="Rom.1.4">Ro 1:4</ref>, <ref osisRef="2Cor.7.1">II Co 7:1</ref>, <ref osisRef="1Thess.3.13">I Th 3:13</ref> (Cremer, 52; MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
-the state in man resulting from dyiaa-fio^, q.v.: Ro 1*, n Co 7^, i Th 31^ 
-(Cremer, 52; MM, VGT, 8.v.).t 
+<entry n="ἀγκάλη|G43">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ἀγκάλη,-ης, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄγκος</foreign>, a bend), [in LXX for <foreign xml:lang="heb">עצל</foreign>, <foreign xml:lang="heb">חיק</foreign> ;] </form>
+  <sense><gloss>the bent arm</gloss>: <ref osisRef="Luke.2.28">Lk 2:28</ref> (cf. <foreign xml:lang="grc">ἐναγκαλίζομαι</foreign>). †</sense>
+ </entry>
 
-dyKciXtj, -T/s, V « ayKos, a bend), [in LXX for b^^^ , p-'O;] the bent 
-
-arm: Lk 228 (cf. ^ayKa\t^o/«u).t 
-
-oyKiorpoi', -ov, to (-&lt; dyjcos, a bend), [in LXX for n^D » etc.;] a fish- 
-hook: Mt 17",t 
-
-
+<entry n="ἄγκιστρον|G44">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ἄγκιστρον, -ου, τό</orth> (&lt; <foreign xml:lang="grc">ἄγκος</foreign>, a bend), [in LXX <foreign xml:lang="heb">חכּה</foreign>, etc.;] </form>
+  <sense><gloss>a fish-hook</gloss>: <ref osisRef="Matt.17.27">Mt 17:27</ref>. †</sense>
+ </entry>
 
  <pb n="6" /> <!-- typed="" checked="" --> 
 
