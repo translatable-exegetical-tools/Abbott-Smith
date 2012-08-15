@@ -50,7 +50,8 @@ p.entry {
 sup.count
 {
   position: absolute;
-  left: -60px;
+  left: 0;
+  text-indent: 0;
   color: #999;
 }
 
