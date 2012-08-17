@@ -1672,12 +1672,18 @@
 
  <pb n="6" /> <!-- typed="" checked="" --> 
 
-**aYKupa, -a?, rj « ayKo?, a bend), [in Sm,: Je 52^8*;] an anchor: 
-Ac 2V^' =^&lt;^' *«; fig. (MM, VGT, s.v.), He G^^.t 
+<entry n="ἄγκυρα|G45">
+  <note type="occurrencesNT">4</note>
+  <form>** <orth>ἄγκυρα, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄγκος</foreign>, a bend), [in Sm.: <ref osisRef="Jer.52.18">Je 52:18</ref> * ;]</form>
+  <sense><gloss>an anchor</gloss>: <ref osisRef="Acts.27.29">Ac 27:29</ref>, <ref osisRef="Acts.27.30">30</ref> <ref osisRef="Acts.27.40">40</ref> ; fig. (MM, <emph>VGT</emph>, s.v.), <ref osisRef="Heb.6.19">He 6:19</ref>. †</sense>
+ </entry>
 
-■*t aYka&lt;})OS, -01' (= dyi'aTrTOS, 'C^yvdirrw, late form of KvaTrrco, to card 
+<entry n="ἄγναφος|G46">
+  <note type="occurrencesNT">2</note>
+  <form>*† <orth>ἄγναφος, -ον</orth> (= <foreign xml:lang="grc">ἄγναπτος</foreign>, &lt; <foreign xml:lang="grc">γνάπτω</foreign>, late form of <foreign xml:lang="grc">κνάπτω</foreign>, <emph>to card wool</emph>), </form>
+  <sense><gloss>uncarded, undressed</gloss>, i.e. new (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Matt.92.6">Mt 92:6</ref>, <ref osisRef="Mark.2.21">Mk 2:21</ref>. †</sense>
+ </entry>
 
-wool), uncarded, undressed, i.e. new (MM, VGT, s.v.): Mt 92«, Mk 22i.t 
 dyfcia (WH, dyvia), [in LXX for nnnw , TT3 , "113 , etc.;] purity: 
 
 I Ti 4^- 5'-' (Cremer, 58. For exx. of ceremonial use in tt., v. MM, 
