@@ -78,6 +78,11 @@ span.aramaic
   font-family:"SBL Hebrew", "Ezra SIL", serif;
   margin-left: .3em;
   margin-right: .3em;
+span.latin
+{
+  font-family: "Times New Roman";
+  font-size: 1.1em;
+  font-style:italic;
 }
 span.foreign
 {

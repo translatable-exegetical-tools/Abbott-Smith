@@ -154,6 +154,9 @@
   <xsl:when test="./@xml:lang='grc'">
     	<span class="greek"><xsl:value-of select="."/></span>
   </xsl:when>
+  <xsl:when test="./@xml:lang='lat'">
+    	<span class="latin"><xsl:value-of select="."/></span>
+  </xsl:when>
   <xsl:otherwise>
     <span class="foreign"><xsl:value-of select="."/></span>
   </xsl:otherwise>
