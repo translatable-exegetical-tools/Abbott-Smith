@@ -126,9 +126,9 @@
 </xsl:template>
 
 <xsl:template match="tei:entry">
-    <p class="entry">
+    <p class="entry"><bdo dir="ltr">
     	<xsl:apply-templates/>
-    </p>
+    </bdo></p>
 </xsl:template>
 
 <xsl:template match="tei:entry/form">
@@ -146,10 +146,10 @@
 <xsl:template match="tei:foreign">
 <xsl:choose>
   <xsl:when test="./@xml:lang='heb'">
-    	<span class="hebrew"><xsl:value-of select="."/></span>
+    	<bdo dir="rtl"><span class="hebrew"><xsl:value-of select="."/></span></bdo>
   </xsl:when>
   <xsl:when test="./@xml:lang='arc'">
-    	<span class="aramaic"><xsl:value-of select="."/></span>
+    	<bdo dir="rtl"><span class="aramaic"><xsl:value-of select="."/></span></bdo>
   </xsl:when>
   <xsl:when test="./@xml:lang='grc'">
     	<span class="greek"><xsl:value-of select="."/></span>
