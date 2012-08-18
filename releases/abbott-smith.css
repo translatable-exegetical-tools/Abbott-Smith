@@ -70,10 +70,14 @@ span.greek
 span.hebrew
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
+  margin-left: .3em;
+  margin-right: .3em;
 }
 span.aramaic
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
+  margin-left: .3em;
+  margin-right: .3em;
 }
 span.foreign
 {
