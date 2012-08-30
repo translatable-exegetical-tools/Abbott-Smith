@@ -19770,30 +19770,24 @@ Mt 23-^s_ Ro P^ 15l^ II Pe 2'\ Ja d^^ (cf. Pr, l.c.).t
 **(ie(rroa), -w «ya€o-Tos), [in LXX: III Mac 5^'^**;] to fill: pass., 
 c. gen. rei, Ac 2^^.t 
 
-ficT&lt;£ (before vowel /act; on the neglect of elision in certain 
-cases, V. WH, App., 146 b), prep. c. gen., ace. (in poet, also c. dat.), [in 
-LXX for nx , Dy , inx , etc.]. 
-
-I. C. gen., 1. amo7ig, amid: Mk l^^, Lk 22^7 (LXX, cv) 24^, Jo 
-18^, al.; Siwy/Awv, Mk 10^". 2. Of association and companionship, 
-with (in which sense it gradually superseded avv, than which it is 
-much more freq. in NT; cf. Bl., § 42, 3): c. gen. pers., Mt 8^^ 20^\ 
-Mk 129 3^ Lk 530, Jo 3^2, Ga 2i, al. mult.; elvai fxerd, Mt 5^^, Mk 3^*, 
-al.; metaph., of divine help and guidance, Jo 3^, Ac 7^, Phi 4^, al.; 
-opp. to elvai Kara, Mt 12^0^ Lk 1123 • j^ Hellenistic usage (but v. M, 
-Pr., 106, 246 f.), TroXe/xeiv /xerd = cl. tt., c. dat., to wage war against 
-(so LXX for Qy nnb? , i Ki 1733), Ee 2i«, al.; c. gen. rei, x^pas, Mt 
-
-1320, Mk 416, al.; opy^s, Mk 3^, al. 
-
-II. C. ace, 1. of place, behind, after: He 93. 2. Of tim^, after: 
-Mt n\ Mk 141, Lk 1«4, Ac l^ Ga l^^, al.; /tcra toOto, Jo 2^2, al.; 
-TaZra, Mk 16112], Lk 527, Jo 322, al; c. inf. artic. (BL, § 71, 5; 72, 3), 
-Mt 2632, Mk 114, al. 
-
-III. In composition, 1. of association or community: /xcTaSt'Sw/i,!, 
-fi€T£xw, etc. 2. Exchange or transference: fieTaWdaao), /jiCTOLKL^a), etc. 
-3. after: fxerafiiXofjiai. 
+<entry n="μετά|G3326">
+  <note type="occurrencesNT">469</note>
+  <form><orth>μετά</orth> (before vowel <orth>μετ’</orth>; on the neglect of elision in certain cases, V. WH, <emph>App.</emph>, 146 b), </form>
+  <gramGrp><pos>prep.</pos> c. gen., acc. (in poet, also c. dat.), [in LXX for <foreign xml:lang="heb">אַחַד ,עִם ,אֵת</foreign>, etc.]. </gramGrp>
+  <sense>
+    <sense n="I.">C. gen., 
+      <sense n="1."><gloss>among, amid</gloss>: <ref osisRef="Mark.1.13">Mk 1:13</ref>, <ref osisRef="Luke.22.37">Lk 22:37</ref> (LXX, <foreign xml:lang="grc">ἐν</foreign>) <ref osisRef="Luke.24.5">24:5</ref>, <ref osisRef="John.18.5">Jo 18:5</ref>, al.; <foreign xml:lang="grc">διωγμῶν</foreign>, <ref osisRef="Mark.10.30">Mk 10:30</ref>. </sense>
+      <sense n="2.">Of association and companionship, with (in which sense it gradually superseded <foreign xml:lang="grc">σύν</foreign>, than which it is much more freq. in NT; cf. Bl., §42, 3): c. gen. pers., <ref osisRef="Matt.8.11">Mt 8:11</ref>  <ref osisRef="Matt.20.20">20:20</ref> <ref osisRef="Mark.1.29">Mk 1:29</ref>  <ref osisRef="Mark.3.7">3:7</ref> <ref osisRef="Luke.5.30">Lk 5:30</ref>, <ref osisRef="John.3.22">Jo 3:22</ref>, <ref osisRef="Gal.2.1">Ga 2:1</ref>, al. mult.; <foreign xml:lang="grc">εἶναι μετά</foreign>, <ref osisRef="Matt.5.25">Mt 5:25</ref>, <ref osisRef="Mark.3.14">Mk 3:14</ref>, al.; metaph., of divine help and guidance, <ref osisRef="John.3.2">Jo 3:2</ref>, <ref osisRef="Acts.7.9">Ac 7:9</ref>, <ref osisRef="Phil.4.9">Phl 4:9</ref>, al.; opp. to <foreign xml:lang="grc">εἶναι κατά</foreign>, <ref osisRef="Matt.12.30">Mt 12:30</ref>, <ref osisRef="Luke.11.23">Lk 11:23</ref>; in Hellenistic usage (but v. M, <emph>Pr.</emph>, 106, 246f.), <foreign xml:lang="grc">πολεμεῖν μετά</foreign> = cl. <foreign xml:lang="grc">π.</foreign>, c. dat., <gloss>to wage war against</gloss> (so LXX for <foreign xml:lang="heb">נִלְחַם עִם</foreign>, <ref osisRef="1Sam.17.33">I Ki 17:33</ref>), <ref osisRef="Rev.2.16">Re 2:16</ref>, al.; c. gen. rei, <foreign xml:lang="grc">χαρᾶς</foreign>, <ref osisRef="Matt.13.20">Mt 13:20</ref>, <ref osisRef="Mark.4.16">Mk 4:16</ref>, al.; <foreign xml:lang="grc">ὀργῆς</foreign>, <ref osisRef="Mark.3.5">Mk 3:5</ref>, al. </sense></sense>
+    <sense n="II.">C. acc, 
+      <sense n="1.">of place, <gloss>behind, after</gloss>: <ref osisRef="Heb.9.3">He 9:3</ref>. </sense>
+      <sense n="2.">Of time, <gloss>after</gloss>: <ref osisRef="Matt.17.1">Mt 17:1</ref>, <ref osisRef="Mark.14.1">Mk 14:1</ref>, <ref osisRef="Luke.1.24">Lk 1:24</ref>, <ref osisRef="Acts.1.5">Ac 1:5</ref>, <ref osisRef="Gal.1.18">Ga 1:18</ref>, al.; <foreign xml:lang="grc">μετὰ τοῦτο</foreign>, <ref osisRef="John.2.12">Jo 2:12</ref>, al.; <foreign xml:lang="grc">ταῦτα</foreign>, <ref osisRef="Mark.16.12">Mk 16:[12]</ref>, <ref osisRef="Luke.5.27">Lk 5:27</ref>, <ref osisRef="John.3.22">Jo 3:22</ref>, al; c. inf. artic. (BL, §71, 5; 72, 3), <ref osisRef="Matt.26.32">Mt 26:32</ref>, <ref osisRef="Mark.1.14">Mk 1:14</ref>, al.</sense></sense>
+    <sense n="III.">In composition, 
+      <sense n="1.">of association or community: <foreign xml:lang="grc">μεταδίδωμι, μετέχω</foreign>, etc. </sense>
+      <sense n="2.">Exchange or transference: <foreign xml:lang="grc">μεταλλάσσω, μετοικίζω</foreign>, etc. </sense>
+      <sense n="3."><gloss>after</gloss>: <foreign xml:lang="grc">μεταμέλομαι</foreign>.</sense>
+    </sense>
+  </sense>
+</entry>
 
 ** ii^ra-^aivu,, [in LXX: Wi 72^ 19i9, 11 Mac 6i'9'24*.- to pass over 
 from one place to another: Mt I720, Lk IC; with reference to the 
