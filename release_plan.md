@@ -19,7 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>2570</td><td>κατά</td><td>G2596</td><td>473</td></tr>p. 231
 <tr><td>3199</td><td>μετά</td><td>G3326</td><td>469</td></tr>
 <tr><td>5486</td><td>ὡς</td><td>G5613</td><td>435</td><td>KJV</td></tr>
 <tr><td>165</td><td>ἀκούω</td><td>G191</td><td>428</td></tr>
@@ -32,7 +31,6 @@ Each row includes the following information:
 <tr><td>54</td><td>ἀδελφός</td><td>G80</td><td>343</td></tr>
 <tr><td>1411</td><td>ἐάν</td><td>G1437</td><td>334</td></tr>
 <tr><td>3885</td><td>περί</td><td>G4012</td><td>333</td></tr>
-<tr><td>2202</td><td>ἤ</td><td>G2228</td><td>332</td></tr>
 <tr><td>3029</td><td>λόγος</td><td>G3056</td><td>330</td></tr>
 <tr><td>4997</td><td>τοῦτο</td><td>G5124</td><td>320</td><td>KJV</td></tr>
 <tr><td>1466</td><td>οἶδα</td><td>G1492</td><td>300</td></tr>

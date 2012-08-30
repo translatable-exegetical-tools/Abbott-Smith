@@ -14072,33 +14072,30 @@ Jb 36«, Ps 7020, Ec 713(12)*;] 1. in cl. (= ^woyovtw), to produce alive.
 606*; Cremer, 275): Jo 521 6^3, Ro 41^ SH, i Co 15*^, 11 Co 3«, Ga 321. 
 Pass., I Co 1522. 36, I Pe Bis.t 
 
- </div>
- <div type="letter">
- <head type="heading2">H</head> 
+</div>
 
-H, tj, TJTa, TO, indecl., eta, the seventh letter. As a numeral, 
-,;' = 8; r?, = 8000. 
+<div type="letter">
+<head type="heading2">H</head> 
 
-VI, disjunctive and comparative particle (Bl., §36, 12; 77, 11); 
-1. disjunctive, or; (a) between single words: Mt 5i^ Mk 6^^, Lk 22*, 
-Jo 619, Ro 121, al.; (b) before a sentence expressing a variation, denial 
-or refutation of a previous statement, freq. in interrog. form: Mt 7*' 9, 
-Mk 121*, Lk 13*, Ro 329 63 921, i Co 69. i« 9^, 11 Co 11^; ^ . . . v, either 
-. . . or, Mt 62*, Lk 16i3, i Co 14«; (c) in a disjunctive question (as 
-Lat. an after utrum): Mt 9^, Mk 29, Lk 7i9, al.; after jroTcpov, Jo 71^; 
-fi-^, I Co 98; p.-f,TL, II Co 1"; ^ . . . ^ . . . ■^, Mk 1335. 2. Com- 
-parative, than: after comparatives, Mt IQi^, Lk 9i3, Jo 3i9, Ro I311, 
-al.; after hepov, Ac 17^1; OeXw (KiihnerS, iv, 303), i Co 14i9; V" i 
+<entry n="H">
+  <form><orth>Η, η, ἦτα, τό</orth>, indecl., </form>
+  <sense><gloss>eta</gloss>, the seventh letter. As a numeral, <foreign xml:lang="grc">η'</foreign> = 8; <foreign xml:lang="grc">η,</foreign> = 8000. </sense>
+</entry>
 
+ <entry n="ἤ|G2228">
+   <note type="occurrencesNT">332</note>
+   <form><orth>ἤ</orth>, </form><gramGrp>disjunctive and comparative <pos>particle</pos> (Bl., §36, 12; 77, 11); </gramGrp>
+   <sense>
+     <sense n="1.">disjunctive, <gloss>or</gloss>; 
+      <sense n="(a)">between single words: <ref osisRef="Matt.5.17">Mt 5:17</ref> <ref osisRef="Mark.6.56">Mk 6:56</ref>, <ref osisRef="Luke.2.24">Lk 2:24</ref>, <ref osisRef="John.6.19">Jo 6:19</ref>, <ref osisRef="Rom.1.21">Ro 1:21</ref>, al.; </sense>
+      <sense n="(b)">before a sentence expressing a variation, denial or refutation of a previous statement, freq. in interrog. form: <ref osisRef="Matt.7.4">Mt 7:4</ref>,  <ref osisRef="Matt.7.9">9</ref> <ref osisRef="Mark.12.14">Mk 12:14</ref>, <ref osisRef="Luke.13.4">Lk 13:4</ref>, <ref osisRef="Rom.3.29">Ro 3:29</ref>  <ref osisRef="Rom.6.3">6:3</ref> 9:21, <ref osisRef="1Cor.6.9">I Co 6:9</ref>, 16 9:6, <ref osisRef="2Cor.11.7">II Co 11:7</ref>; <foreign xml:lang="grc">ἤ . . . ἤ</foreign>, <gloss>either . . . or</gloss>, <ref osisRef="Matt.6.24">Mt 6:24</ref>, <ref osisRef="Luke.16.13">Lk 16:13</ref>, <ref osisRef="1Cor.14.6">I Co 14:6</ref>; </sense>
+      <sense n="(c)">in a disjunctive question (as Lat. <foreign xml:lang="lat">an</foreign> after <foreign xml:lang="lat">utrum</foreign>): <ref osisRef="Matt.9.5">Mt 9:5</ref>, <ref osisRef="Mark.2.9">Mk 2:9</ref>, <ref osisRef="Luke.7.19">Lk 7:19</ref>, al.; after <foreign xml:lang="grc">πότερον</foreign>, <ref osisRef="John.7.17">Jo 7:17</ref>; <foreign xml:lang="grc">μή</foreign>, <ref osisRef="1Cor.9.8">I Co 9:8</ref>; <foreign xml:lang="grc">μήτι</foreign>, <ref osisRef="2Cor.1.17">II Co 1:17</ref>; <foreign xml:lang="grc">ἤ . . . ἤ . . . ἤ</foreign>, <ref osisRef="Mark.13.35">Mk 13:35</ref>. </sense></sense>
+    <sense n="2.">Comparative, <gloss>than</gloss>: after comparatives, <ref osisRef="Matt.10.15">Mt 10:15</ref>, <ref osisRef="Luke.9.13">Lk 9:13</ref>, <ref osisRef="John.3.19">Jo 3:19</ref>, <ref osisRef="Rom.13.11">Ro 13:11</ref>, al.; after <foreign xml:lang="grc">ἕτερον</foreign>, <ref osisRef="Acts.17.21">Ac 17:21</ref>; <foreign xml:lang="grc">θέλω</foreign> (Khüner 3, iv, 303), <ref osisRef="1Cor.14.19">I Co 14:19</ref>; <foreign xml:lang="grc">πρὶν ἤ</foreign>, <pb n="198" /> <!-- typed="" checked="" --> <gloss>before</gloss>, seq. acc. et inf., <ref osisRef="Matt.1.18">Mt 1:18</ref> <ref osisRef="Mark.14.30">Mk 14:30</ref>; after a positive adj. (<ref osisRef="Gen.49.12">Ge 49:12</ref>; cf. Robertson, <emph>Gr.</emph>, 661), <ref osisRef="Matt.18.8">Mt 18:8</ref>,  <ref osisRef="Matt.18.9">9</ref> <ref osisRef="Mark.9.43">Mk 9:43</ref>,  <ref osisRef="Mark.9.45">45</ref> 47. </sense>
+    <sense n="3.">with other particles: <foreign xml:lang="grc">ἀλλ’ ἤ</foreign>, v.s. <foreign xml:lang="grc">ἀλλά</foreign>; <foreign xml:lang="grc">ἤ γάρ</foreign>, v.s. <foreign xml:lang="grc">γάρ</foreign>; <foreign xml:lang="grc">ἢ καί</foreign>, <gloss>or even, or also</gloss>, <ref osisRef="Matt.7.10">Mt 7:10</ref>, <ref osisRef="Luke.11.11">Lk 11:11</ref>,  <ref osisRef="Luke.11.12">12</ref> <ref osisRef="Rom.2.15">Ro 2:15</ref>  <ref osisRef="Rom.4.9">4:9</ref>, al; <foreign xml:lang="grc">ἤτοι . . . ἤ</foreign>, <ref osisRef="Rom.6.16">Ro 6:16</ref> (cf. <ref osisRef="Wis.11.19">Wi 11:19</ref>). </sense>
+  </sense>
+</entry>
 
-
- <pb n="198" /> <!-- typed="" checked="" --> 
-
-before, seq. ace. et inf., Mt 1^^ Mk li^O; after a positive adj. (Ge 49^^; 
-cf. Robertson, Gr., 661), Mt IS^. », Mk 9«.45,47. 3. with other 
-particles: dX\' ^, v.s. dAAa; ^ yap, v.s. yap; 17 Kai, or even, or also, Mt 
-71", Lk 1111.12, Ro 215 49, al; ^roi . . . i Ro 6i« (cf. Wi lli^). 
-r\ {ixriv), V.S. et, iii, 7. 
+<entry n="ἦ"><form><orth>ἦ</orth> (<foreign xml:lang="grc">μήν</foreign>), v.s. <foreign xml:lang="grc">εἰ</foreign>, iii, 7. </form></entry>
 
 * i^yeiiok'cuw (&lt;^ Tyycju-wv), 1. to lead the Way. 2. to lead in war, 
 command (cf . Ramsay, IFas Christ horn at Bethlehem?; DCG, ii, 463 f .). 
