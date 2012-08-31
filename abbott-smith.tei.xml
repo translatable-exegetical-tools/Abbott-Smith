@@ -24059,26 +24059,21 @@ n^PYT], -175, 17, Perga, a city of Pamphylia: Ac 13i3' ^* 142*.t
 
  <pb n="354" /> <!-- typed="" checked="" --> 
 
-irepi, prep. c. gen., acc (in cl. also c. dat.; cf. M, <emph>Pr.</emph>, 105 f.), 
-with radical sense round about (as distinct from dyu^i, on both sides). 
-
-I. C. gen., 1. of place, about (poet.). 2. Causal, about, on 
-accoxmt of, concerning, in reference to: Mt 2^, Mk 1^*, Lk 4^^, Jo 16^^, 
-Ac 28^^ al. mult.; ra ircpi, c. gen., the thiiigs concerning one, one's 
-state or case: Mk 5-^", Ac P 28^^, Eph 6^^, al.; at the beginning of a 
-sentence, Trepi, regarding, as to, i Co 7^, al.; in the sense on account of 
-(Mt 26^8, I Co 1^3, al.), often with iirip as variant (cf. M, <emph>Pr.</emph>, 105). 
-
-II. C. acc, 1. of place, about, around: Mt S\ Mk 1^, Lk IS^, 
-Ac 22", al.; oi TrepC, c. acc. pers., of one's associates, friends, etc., 
-Mk 410, Lk 22*9, Jo 1119^ Ac IS^^; 01 Trepl r. ToiaCra ipydrai, Ac 19^5; 
-metaph., about, as to, concerning: i Ti l^^ 6\ 11 Ti 2^^ 3^, Tit T; 
-TO. Trepl ifi(, Phi 223 . „j ^^pi ^, Xonra iTnOvfilai, Mk 41^. 2. Of time, in 
-a loose reckoning, about, near: Mt 20^' s. e, 9 2746, Mk 6*8, Ac lO^. » 22«. 
-
-III. In composition: roundabout {TrcpLfidWo}, irepiKtifxat), beyond, 
-
-over and above (Trepnroieu), Trc/atXctVw), to excess (Trepupydi^ofjiai, Treptcrcrivw). 
+<entry n="περί|G4012">
+  <note type="occurrencesNT">333</note>
+  <form><orth>περί</orth>, </form><gramGrp><pos>prep.</pos> c. gen., acc. (in cl. also c. dat.; cf. M, <emph>Pr.</emph>, 105f.), </gramGrp>
+  <sense>with radical sense <gloss>round about</gloss> (as distinct from <foreign xml:lang="grc">ἀμφί</foreign>, <emph>on both sides</emph>). <lb />
+    <sense n="I.">C. gen., 
+      <sense n="1.">of place, <gloss>about</gloss> (poët.). </sense>
+      <sense n="2.">Causal, <gloss>about, on account of, concerning, in reference to</gloss>: <ref osisRef="Matt.2.8">Mt 2:8</ref>, <ref osisRef="Mark.1.44">Mk 1:44</ref>, <ref osisRef="Luke.4.38">Lk 4:38</ref>, <ref osisRef="John.16.26">Jo 16:26</ref>, <ref osisRef="Acts.28.21">Ac 28:21</ref>, al. mult.; <foreign xml:lang="grc">τὰ περί</foreign>, c. gen., <gloss>the things concerning</gloss> one, one's <emph>state</emph> or <emph>case</emph>: <ref osisRef="Mark.5.27">Mk 5:27</ref>, <ref osisRef="Acts.1.3">Ac 1:3</ref>  <ref osisRef="Acts.28.15">28:15</ref>, <ref osisRef="Eph.6.22">Eph 6:22</ref>, al.; at the beginning of a sentence, <foreign xml:lang="grc">περί</foreign>, <gloss>regarding, as to</gloss>, <ref osisRef="1Cor.7.1">I Co 7:1</ref>, al.; in the sense <gloss>on account of</gloss> (Mt 26:28, <ref osisRef="1Cor.1.13">I Co 1:13</ref>, al.), often with <foreign xml:lang="grc">ὑπέρ</foreign> as variant (cf. M, <emph>Pr.</emph>, 105). </sense>
+    </sense>
+    <sense n="II.">C. acc., 
+      <sense n="1.">of place, <gloss>about, around</gloss>: <ref osisRef="Matt.3.4">Mt 3:4</ref>, <ref osisRef="Mark.1.6">Mk 1:6</ref>, <ref osisRef="Luke.13.8">Lk 13:8</ref>, <ref osisRef="Acts.22.6">Ac 22:6</ref>, al.; <foreign xml:lang="grc">οἱ περί</foreign>, c. acc. pers., of one's associates, friends, etc., <ref osisRef="Mark.4.10">Mk 4:10</ref>, <ref osisRef="Luke.22.49">Lk 22:49</ref>, <ref osisRef="John.11.19">Jo 11:19</ref>, <ref osisRef="Acts.13.13">Ac 13:13</ref>; <foreign xml:lang="grc">οἱ περὶ τ. τοιαῦτα ἐργάται</foreign>, <ref osisRef="Acts.19.25">Ac 19:25</ref>; metaph., <gloss>about, as to, concerning</gloss>: <ref osisRef="1Tim.1.19">I Ti 1:19</ref>  <ref osisRef="1Tim.6.4">6:4</ref> <ref osisRef="2Tim.2.18">II Ti 2:18</ref>  <ref osisRef="2Tim.3.8">3:8</ref>, <ref osisRef="Titus.2.7">Tit 2:7</ref>; <foreign xml:lang="grc">τὰ περὶ ἐμέ</foreign>, <ref osisRef="Phil.2.23">Phl 2:23</ref>; <foreign xml:lang="grc">αἱ περὶ τ. λοιπὰ ἐπιθυμίαι</foreign>, <ref osisRef="Mark.4.19">Mk 4:19</ref>. </sense>
+      <sense n="2.">Of time, in a loose reckoning, <gloss>about, near</gloss>: <ref osisRef="Matt.20.3">Mt 20:3</ref>,  <ref osisRef="Matt.20.5">5</ref> <ref osisRef="Matt.20.6">6</ref>, <ref osisRef="Matt.20.9">9</ref> <ref osisRef="Matt.27.46">27:46</ref>, <ref osisRef="Mark.6.48">Mk 6:48</ref>, <ref osisRef="Acts.10.3">Ac 10:3</ref>, <ref osisRef="Acts.10.9">9</ref> <ref osisRef="Acts.22.6">22:6</ref>. </sense>
+    </sense>
+    <sense n="III.">In composition: <gloss>round about</gloss> (<foreign xml:lang="grc">περιβάλλω, περίκειμαι</foreign>), <gloss>beyond, over and above</gloss> (<foreign xml:lang="grc">περιποιέω, περιλείπω</foreign>), <gloss>to excess</gloss> (<foreign xml:lang="grc">περιεργάζομαι, περισσεύω</foreign>). </sense>
+  </sense>
+</entry>
 
 irepi-dyo., [in LXX: Am 2i« ("Sjbn hi.); Is 28^^ Ez 47^ (nnO 
 hi., ho.); Ez 37^ 462i (-Qy hi), 11 Mac 4^8 G^o*;] 1. to lead about or 
