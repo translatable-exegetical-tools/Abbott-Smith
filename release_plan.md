@@ -19,7 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>1411</td><td>ἐάν</td><td>G1437</td><td>334</td></tr>
 <tr><td>3885</td><td>περί</td><td>G4012</td><td>333</td></tr>
 <tr><td>3029</td><td>λόγος</td><td>G3056</td><td>330</td></tr>
 <tr><td>1466</td><td>οἶδα</td><td>G1492</td><td>300</td></tr>
@@ -2284,7 +2283,6 @@ Each row includes the following information:
 <tr><td>1406</td><td>δωρεάν</td><td>G1432</td><td>9</td></tr>
 <tr><td>1407</td><td>δωρέομαι</td><td>G1433</td><td>3</td></tr>
 <tr><td>1408</td><td>δώρημα</td><td>G1434</td><td>2</td></tr>
-<tr><td>1410</td><td>ἔα</td><td>G1436</td><td>1</td></tr>
 <tr><td>1414</td><td>ἑβδομήκοντα</td><td>G1440</td><td>5</td></tr>
 <tr><td>1415</td><td>ἑβδομηκοντάκις</td><td>G1441</td><td>1</td></tr>
 <tr><td>1416</td><td>ἕβδομος</td><td>G1442</td><td>9</td></tr>
