@@ -19,14 +19,11 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>2224</td><td>ἡμέρα</td><td>G2250</td><td>389</td></tr>
-<tr><td>4024</td><td>πνεῦμα</td><td>G4151</td><td>379</td></tr>
 <tr><td>5080</td><td>υἱός</td><td>G5207</td><td>377</td></tr>
 <tr><td>54</td><td>ἀδελφός</td><td>G80</td><td>343</td></tr>
 <tr><td>1411</td><td>ἐάν</td><td>G1437</td><td>334</td></tr>
 <tr><td>3885</td><td>περί</td><td>G4012</td><td>333</td></tr>
 <tr><td>3029</td><td>λόγος</td><td>G3056</td><td>330</td></tr>
-<tr><td>4997</td><td>τοῦτο</td><td>G5124</td><td>320</td><td>KJV</td></tr>
 <tr><td>1466</td><td>οἶδα</td><td>G1492</td><td>300</td></tr>
 <tr><td><b>Release v. 0.12</b></td></tr>
 <tr><td>2953</td><td>λαλέω</td><td>G2980</td><td>296</td></tr>
@@ -37,7 +34,6 @@ Each row includes the following information:
 <tr><td>1539</td><td>ἐκεῖνος</td><td>G1565</td><td>243</td></tr>
 <tr><td>3975</td><td>πίστις</td><td>G4102</td><td>243</td></tr>
 <tr><td>3973</td><td>πιστεύω</td><td>G4100</td><td>241</td></tr>
-<tr><td>4896</td><td>ταῦτα</td><td>G5023</td><td>241</td><td>KJV</td></tr>
 <tr><td>3146</td><td>μέγας</td><td>G3173</td><td>240</td></tr>
 <tr><td>3635</td><td>οὐδείς</td><td>G3762</td><td>234</td></tr>
 <tr><td>585</td><td>ἀποκρίνομαι</td><td>G611</td><td>232</td></tr>
