@@ -19,7 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>3029</td><td>λόγος</td><td>G3056</td><td>330</td></tr>p. 270
 <tr><td><b>Release v. 0.12</b></td></tr>
 <tr><td>2953</td><td>λαλέω</td><td>G2980</td><td>296</td></tr>
 <tr><td>1067</td><td>γῆ</td><td>G1093</td><td>275</td></tr>
@@ -5510,6 +5509,3 @@ Each row includes the following information:
 <tr><td><b>Release v. 0.99</b></td></tr>
 <tr><td>Edit complete lexicon.</td></tr>
 <tr><td><b>Release v. 1.0</b></td></tr>
-
-
-
