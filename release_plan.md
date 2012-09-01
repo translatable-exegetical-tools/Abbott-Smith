@@ -19,7 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>1067</td><td>γῆ</td><td>G1093</td><td>275</td></tr>
 <tr><td>3645</td><td>οὐρανός</td><td>G3772</td><td>273</td></tr>
 <tr><td>3074</td><td>μαθητής</td><td>G3101</td><td>261</td></tr>
 <tr><td>2956</td><td>λαμβάνω</td><td>G2983</td><td>258</td></tr>
