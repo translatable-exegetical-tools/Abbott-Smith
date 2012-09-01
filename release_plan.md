@@ -19,7 +19,7 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>3645</td><td>οὐρανός</td><td>G3772</td><td>273</td></tr>p. 328
+<tr><td>3645</td><td>οὐρανός</td><td>G3772</td><td>273</td></tr>
 <tr><td>2956</td><td>λαμβάνω</td><td>G2983</td><td>258</td></tr>
 <tr><td>1539</td><td>ἐκεῖνος</td><td>G1565</td><td>243</td></tr>
 <tr><td>3975</td><td>πίστις</td><td>G4102</td><td>243</td></tr>
@@ -32,7 +32,6 @@ Each row includes the following information:
 <tr><td>1805</td><td>ἐξέρχομαι</td><td>G1831</td><td>218</td></tr>
 <tr><td>409</td><td>ἀνήρ</td><td>G435</td><td>216</td></tr>
 <tr><td>1109</td><td>γυνή</td><td>G1135</td><td>215</td></tr>
-<tr><td>4910</td><td>τέ</td><td>G5037</td><td>215</td></tr>
 <tr><td>5132</td><td>ὑπό</td><td>G5259</td><td>211</td><td>KJV</td></tr>
 <tr><td>1384</td><td>δύναμαι</td><td>G1410</td><td>210</td></tr>
 <tr><td>2283</td><td>θέλω</td><td>G2309</td><td>208</td></tr>
