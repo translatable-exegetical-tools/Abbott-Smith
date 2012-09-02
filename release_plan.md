@@ -19,33 +19,11 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>2570</td><td>κατά</td><td>G2596</td><td>473</td></tr>
-<tr><td>3199</td><td>μετά</td><td>G3326</td><td>469</td></tr>
-<tr><td>5486</td><td>ὡς</td><td>G5613</td><td>435</td><td>KJV</td></tr>
-<tr><td>165</td><td>ἀκούω</td><td>G191</td><td>428</td></tr>
-<tr><td>4056</td><td>πολύς</td><td>G4183</td><td>416</td></tr>
-<tr><td>1299</td><td>δίδωμι</td><td>G1325</td><td>415</td></tr>
-<tr><td>3835</td><td>πατήρ</td><td>G3962</td><td>413</td></tr>
-<tr><td>2224</td><td>ἡμέρα</td><td>G2250</td><td>389</td></tr>
-<tr><td>4024</td><td>πνεῦμα</td><td>G4151</td><td>379</td></tr>
-<tr><td>5080</td><td>υἱός</td><td>G5207</td><td>377</td></tr>
-<tr><td>54</td><td>ἀδελφός</td><td>G80</td><td>343</td></tr>
-<tr><td>1411</td><td>ἐάν</td><td>G1437</td><td>334</td></tr>
-<tr><td>3885</td><td>περί</td><td>G4012</td><td>333</td></tr>
-<tr><td>2202</td><td>ἤ</td><td>G2228</td><td>332</td></tr>
-<tr><td>3029</td><td>λόγος</td><td>G3056</td><td>330</td></tr>
-<tr><td>4997</td><td>τοῦτο</td><td>G5124</td><td>320</td><td>KJV</td></tr>
-<tr><td>1466</td><td>οἶδα</td><td>G1492</td><td>300</td></tr>
-<tr><td><b>Release v. 0.12</b></td></tr>
-<tr><td>2953</td><td>λαλέω</td><td>G2980</td><td>296</td></tr>
-<tr><td>1067</td><td>γῆ</td><td>G1093</td><td>275</td></tr>
 <tr><td>3645</td><td>οὐρανός</td><td>G3772</td><td>273</td></tr>
-<tr><td>3074</td><td>μαθητής</td><td>G3101</td><td>261</td></tr>
 <tr><td>2956</td><td>λαμβάνω</td><td>G2983</td><td>258</td></tr>
 <tr><td>1539</td><td>ἐκεῖνος</td><td>G1565</td><td>243</td></tr>
 <tr><td>3975</td><td>πίστις</td><td>G4102</td><td>243</td></tr>
 <tr><td>3973</td><td>πιστεύω</td><td>G4100</td><td>241</td></tr>
-<tr><td>4896</td><td>ταῦτα</td><td>G5023</td><td>241</td><td>KJV</td></tr>
 <tr><td>3146</td><td>μέγας</td><td>G3173</td><td>240</td></tr>
 <tr><td>3635</td><td>οὐδείς</td><td>G3762</td><td>234</td></tr>
 <tr><td>585</td><td>ἀποκρίνομαι</td><td>G611</td><td>232</td></tr>
@@ -54,7 +32,6 @@ Each row includes the following information:
 <tr><td>1805</td><td>ἐξέρχομαι</td><td>G1831</td><td>218</td></tr>
 <tr><td>409</td><td>ἀνήρ</td><td>G435</td><td>216</td></tr>
 <tr><td>1109</td><td>γυνή</td><td>G1135</td><td>215</td></tr>
-<tr><td>4910</td><td>τέ</td><td>G5037</td><td>215</td></tr>
 <tr><td>5132</td><td>ὑπό</td><td>G5259</td><td>211</td><td>KJV</td></tr>
 <tr><td>1384</td><td>δύναμαι</td><td>G1410</td><td>210</td></tr>
 <tr><td>2283</td><td>θέλω</td><td>G2309</td><td>208</td></tr>
@@ -2291,7 +2268,6 @@ Each row includes the following information:
 <tr><td>1406</td><td>δωρεάν</td><td>G1432</td><td>9</td></tr>
 <tr><td>1407</td><td>δωρέομαι</td><td>G1433</td><td>3</td></tr>
 <tr><td>1408</td><td>δώρημα</td><td>G1434</td><td>2</td></tr>
-<tr><td>1410</td><td>ἔα</td><td>G1436</td><td>1</td></tr>
 <tr><td>1414</td><td>ἑβδομήκοντα</td><td>G1440</td><td>5</td></tr>
 <tr><td>1415</td><td>ἑβδομηκοντάκις</td><td>G1441</td><td>1</td></tr>
 <tr><td>1416</td><td>ἕβδομος</td><td>G1442</td><td>9</td></tr>
@@ -5521,6 +5497,3 @@ Each row includes the following information:
 <tr><td><b>Release v. 0.99</b></td></tr>
 <tr><td>Edit complete lexicon.</td></tr>
 <tr><td><b>Release v. 1.0</b></td></tr>
-
-
-

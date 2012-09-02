@@ -13,7 +13,7 @@ The lexicon (abbott-smith.tei.xml), including the marked up version in this repo
 Viewing and Downloading
 =
 
-It is not recommended that you use abbott-smith.tei.xml in this folder for anything but cleaning up and marking up entries because it contains text recognized by OCR that needs to be cleaned up. To use the lexicon, [view the current release online](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.xml) or download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
+It is not recommended that you use abbott-smith.tei.xml in this folder for anything but cleaning up and marking up entries because it contains text recognized by OCR that needs to be cleaned up. To use the lexicon, [view the current release online](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.html) or download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
 
 Contributing
 =
@@ -40,6 +40,8 @@ Note that until markup is complete, the file will not validate because the &lt;b
 
 Changelog
 =
+
+2012/09/01 - Release of v. 0.12: Includes pages iii-4 and entries for words occurring 300 times or more in the Greek NT. 
 
 2012/08/07 - Release of v. 0.11: Includes pages iii-4 and entries for words occurring 500 times or more in the Greek NT. Also changed to using &lt;gloss> instead of &lt;def>. Many thanks to Dardo Sordi for corrections and additional entries.
 
