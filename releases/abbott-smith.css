@@ -18,6 +18,7 @@ h2
   display: block;
   text-align:center;
   font-size: 1.5em;
+  font-weight: normal;
 }
 
 h3 
@@ -37,35 +38,65 @@ h4
 
 p
 {
-  font-family:"Times New Roman", "Gentium", serif;
+  font-family: serif, "Times New Roman", "Gentium";
+}
+
+p.entry {
+  text-indent: 5em;
+  position: relative;
+  line-height: 1.3;
+}
+
+sup.count
+{
+  position: absolute;
+  left: 0;
+  text-indent: 0;
+  color: #999;
 }
 
 span.orth
 {
   font-family:"SBL Greek", "Gentium", serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
+  font-weight: bold;
 }
 
 span.greek
 {
   font-family:"SBL Greek", "Gentium", serif;
+  font-size: 1.2em;
 }
 span.hebrew
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
+  margin-left: .3em;
+  margin-right: .3em;
+}
+span.aramaic
+{
+  font-family:"SBL Hebrew", "Ezra SIL", serif;
+  margin-left: .3em;
+  margin-right: .3em;
+span.latin
+{
+  font-family: "Times New Roman";
+  font-size: 1.1em;
+  font-style:italic;
 }
 span.foreign
 {
   font-style:italic;
 }
 
-span.pagenum
+a.pagenum
 {
    color: red;
    font-family: sans-serif;
    vertical-align:bottom;
    font-style: normal;
    font-weight: normal;
+   text-decoration: none;
 }
 
 span.pos
