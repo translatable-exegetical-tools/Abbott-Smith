@@ -27,8 +27,6 @@ Each row includes the following information:
 <tr><td>5132</td><td>ὑπό</td><td>G5259</td><td>211</td><td>KJV</td></tr>
 <tr><td>1384</td><td>δύναμαι</td><td>G1410</td><td>210</td></tr>
 <tr><td>2283</td><td>θέλω</td><td>G2309</td><td>208</td></tr>
-<tr><td>3652</td><td>οὕτω(ς)</td><td>G3779</td><td>208</td></tr>
-<tr><td>2374</td><td>ἰδού</td><td>G2400</td><td>200</td></tr>
 <tr><td><b>Release v. 0.13</b></td></tr>
 <tr><td>3176</td><td>μέν</td><td>G3303</td><td>198</td></tr>
 <tr><td>1499</td><td>εἰσέρχομαι</td><td>G1525</td><td>194</td></tr>

@@ -4723,11 +4723,11 @@ Cremer, 375). t
   <note type="occurrencesNT">232</note>
   <form><orth>ἀπο-κρίνω</orth>, [in LXX chiefly for <foreign xml:lang="heb">ענה</foreign>;] </form><sense>in cl., 
   <sense n="1."><gloss>to separate, distinguish</gloss>. </sense>
-  <sense n="2."><gloss>to choose</gloss>. </sense>Mid., <gloss>to answer</gloss>: Mt 27:12, Mk 14:61, Lk 3:16 23:9, Jo 5:17, 19, Ac 3:12. In late Gk. the pass, also is used in this sense, and pass. forms are the more freq. in NT (M, <emph>Pr.</emph>, 39, 161; MM, s.v.); 
-    <sense n="(a)">in general sense: absol., Mk 12:34; c. acc. rei, Mt 22:46; c. dat. pers., Mt 12:38; seq. <foreign xml:lang="grc">πρός</foreign>, Ac 25:16; </sense>
+  <sense n="2."><gloss>to choose</gloss>. </sense>Mid., <gloss>to answer</gloss>: <ref osisRef="Matt.27.12">Mt 27:12</ref>, <ref osisRef="Mark.14.61">Mk 14:61</ref>, <ref osisRef="Luke.3.16">Lk 3:16</ref>  <ref osisRef="Luke.23.9">23:9</ref>, <ref osisRef="John.5.17">Jo 5:17</ref>,  <ref osisRef="John.5.19">19</ref> <ref osisRef="Acts.3.12">Ac 3:12</ref>. In late Gk. the pass, also is used in this sense, and pass. forms are the more freq. in NT (M, <emph>Pr.</emph>, 39, 161; MM, s.v.); 
+    <sense n="(a)">in general sense: absol., <ref osisRef="Mark.12.34">Mk 12:34</ref>; c. acc. rei, <ref osisRef="Matt.22.46">Mt 22:46</ref>; c. dat. pers., <ref osisRef="Matt.12.38">Mt 12:38</ref>; seq. <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="Acts.25.16">Ac 25:16</ref>; </sense>
     <sense n="(b)">Hebraistically 
-      <sense n="(i)">like <foreign xml:lang="heb">ענה</foreign>, <gloss>to begin to speak, take up the conversation</gloss> (Kennedy, <emph>Sources</emph>, 124f.): Mt 11:25, al., </sense>
-      <sense n="(ii)">redundant, as in the Heb. phrase <foreign xml:lang="heb">וַיַּעַן וַיּאֹמֶר</foreign> (Dalman, <emph>Words</emph>, 24f., 38; M, <emph>Pr.</emph>, 14; Bl., §58, 4; 74, 2; Cremer, 374): <foreign xml:lang="grc">ἀποκριθεὶς εἶπε</foreign>, Mt 4:4; <foreign xml:lang="grc">ἔφη</foreign>, <ref osisRef="Matt.8.8">8:8</ref>; <foreign xml:lang="grc">λέγει</foreign>, Mk 3:33; in Jo most freq. (<foreign xml:lang="grc">ἀπεκ. κ. εἶπε</foreign>, <ref osisRef="John.1.49">1:49</ref>.</sense>
+      <sense n="(i)">like <foreign xml:lang="heb">ענה</foreign>, <gloss>to begin to speak, take up the conversation</gloss> (Kennedy, <emph>Sources</emph>, 124f.): <ref osisRef="Matt.11.25">Mt 11:25</ref>, al., </sense>
+      <sense n="(ii)">redundant, as in the Heb. phrase <foreign xml:lang="heb">וַיַּעַן וַיּאֹמֶר</foreign> (Dalman, <emph>Words</emph>, 24f., 38; M, <emph>Pr.</emph>, 14; Bl., §58, 4; 74, 2; Cremer, 374): <foreign xml:lang="grc">ἀποκριθεὶς εἶπε</foreign>, <ref osisRef="Matt.4.4">Mt 4:4</ref>; <foreign xml:lang="grc">ἔφη</foreign>, <ref osisRef="Matt.8.8">8:8</ref>; <foreign xml:lang="grc">λέγει</foreign>, <ref osisRef="Mark.3.33">Mk 3:33</ref>; in Jo most freq. (<foreign xml:lang="grc">ἀπεκ. κ. εἶπε</foreign>, <ref osisRef="John.1.49">1:49</ref>.</sense>
     </sense>
   </sense>
 </entry>
@@ -15047,14 +15047,12 @@ and cf. MM, <emph>Exp.</emph>, xv). 2. one without professional knowledge, un-
 skilled, uneducated, unlearned: i Co 14^'' 23. 24 (^^ j^g^^ without gifts); 
 dypdfXfiaTOL k. l, Ac 4^3. q ^^t. (= cl. c. gen. rei), Adyw, 11 Co ll'^.t 
 
-180U, [in LXX chiefly for ngn,] prop. imperat. 2 aor. mid. of 
-
-opdw, used as a demonstrative particle, with frequency much greater 
-in LXX and NT than in cl. (v. M, <emph>Pr.</emph>, 11), lo, behold, see: Mt lO^e 
-118 133, Mk 332, Lk 2^8, I Co 15", Ja 5^, 3n^\ Ee V, al.; after gen. 
-absol., Mt 120 21' 13 1246, al.; kuI JSov', Mt 2^ (and freq.), Lk I20 1025, 
-Ac 12'', al.; in elliptical sentences, taking the place of copula or pre- 
-dicate (like mn in Heb.), Mt 3l^ Lk 5^2 223i. ^\ Ac 827. 36, al. 
+<entry n="ἰδού|G2400">
+  <note type="occurrencesNT">200</note>
+  <form><orth>ἰδού</orth>, [in LXX chiefly for <foreign xml:lang="heb">הִנֵּה</foreign>,] </form>   
+  <gramGrp>prop. imperat. 2 aor. mid. of <foreign xml:lang="grc">ὁράω</foreign>, used as a <pos>demonstrative particle</pos>, with frequency much greater in LXX and NT than in cl. (v. M, <emph>Pr.</emph>, 11), </gramGrp>
+  <sense><gloss>lo, behold, see</gloss>: <ref osisRef="Matt.10.16">Mt 10:16</ref>  <ref osisRef="Matt.11.8">11:8</ref> 13:3, <ref osisRef="Mark.3.32">Mk 3:32</ref>, <ref osisRef="Luke.2.48">Lk 2:48</ref>, <ref osisRef="1Cor.15.51">I Co 15:51</ref>, <ref osisRef="Jas.5.9">Ja 5:9</ref>, <ref osisRef="Jude.1.14">Ju 14</ref>, <ref osisRef="Rev.1.7">Re 1:7</ref>, al.; after gen. absol., <ref osisRef="Matt.1.20">Mt 1:20</ref>  <ref osisRef="Matt.2.1">2:1</ref>, <ref osisRef="Matt.2.13">13</ref> <ref osisRef="Matt.12.46">12:46</ref>, al.; <foreign xml:lang="grc">καὶ ἰδού</foreign>, <ref osisRef="Matt.2.9">Mt 2:9</ref> (and freq.), <ref osisRef="Luke.1.20">Lk 1:20</ref>  <ref osisRef="Luke.10.25">10:25</ref>, <ref osisRef="Acts.12.7">Ac 12:7</ref>, al.; in elliptical sentences, taking the place of copula or predicate (like <foreign xml:lang="heb">הִנֵּה</foreign> in Heb.), <ref osisRef="Matt.3.17">Mt 3:17</ref>, <ref osisRef="Luke.5.12">Lk 5:12</ref>  <ref osisRef="Luke.22.31">22:31</ref>,  <ref osisRef="Luke.22.47">47</ref> <ref osisRef="Acts.8.27">Ac 8:27</ref>,  <ref osisRef="Acts.8.36">36</ref> al.</sense>
+</entry>
 
 'iSoojiaia, -as, r) (Heb. D^^?), [in LXX: 11 Ki 8^*, al.; elsewhere, 
 as Ge 2530, 'E8w/x;] Idumaa: Mk S^f 
@@ -22461,27 +22459,17 @@ neii/ier . . . nor, Mt 620, Mk 1225, Jo 421, Ac 15^0, Ro S^s.^s, Ga 5«, al.
   </sense>
 </entry>
 
-ouTws, rarely (Bl., §5, 4; WH, <emph>App.</emph>, 146 f.) ovTuy, adv. «olto9), 
-[in LXX chiefly for ]5;] in this way, so, thus; 1. referring to 
-what precedes: Mt 516 63o, Mk 10*3 1459, l^ 125 2^8 157, Jq 38, 
-Eo 115, I Co 812, al.; o{;tu)s /cat, Mt 1712, Mk 1329, al.; pleonastically, 
-resuming a ptcp. (cl.; v. Bl., §74, 6), Ac 20" 271^. 2. Eeferring 
-to what follows: Mt lis 69, Lk 193i, Jo 21i, i Pe 2i5; bef. quotations 
-from OT, Mt 25, Ac 7«, i Co 15*5, He 4*. 3. C. adj. (marking 
-intensity): He 122i, Ee 16i^; similarly c. adv., Ga 1® (cl.). 4. As 
-nredicate (Bl., §76, 1): Mt lis 933, Mk 2i«2 4?\ Ro 418 920, i Pe 
-
-
-
- <pb n="330" /> <!-- typed="" checked="" --> 
-
-2^*; ov. €)^€Lv (Lat. sic or ita se habere), Ac 7\ al.; eKaOi^tro ov. (as 
-he was, without delay or preparation), Jo 4^. 5. In comparison, 
-with correlative adv.: KaOd-rrep . . . ov., Ro 12*' ^, al.; Ka6w&lt;; . . . 
-ov., Lk 113«, al.; ov. . . . KaOm, Lk 24^*, al.; is . . . ov., Ro S^^, al.; 
-ov. . . . u)s, Mk 42«, al; wcnrep . . . ov., Mt 1240, al.; ov. . . . ov., 
-
-I Co 77. 
+<entry n="οὕτως|G3779">
+  <note type="occurrencesNT">208</note>
+  <form><orth>οὕτως</orth>, rarely (Bl., §5, 4; WH, <emph>App.</emph>, 146f.) <orth>οὕτω</orth>, <gramGrp><pos>adv.</pos></gramGrp> (&lt; <foreign xml:lang="grc">οὗτος</foreign>), [in LXX chiefly for <foreign xml:lang="heb">כֵּן</foreign>;] </form>
+  <sense><gloss>in this way, so, thus</gloss>; 
+    <sense n="1.">referring to what precedes: <ref osisRef="Matt.5.16">Mt 5:16</ref>  <ref osisRef="Matt.6.30">6:30</ref>, <ref osisRef="Mark.10.43">Mk 10:43</ref>  <ref osisRef="Mark.14.59">14:59</ref>, <ref osisRef="Luke.1.25">Lk 1:25</ref>  <ref osisRef="Luke.2.48">2:48</ref> <ref osisRef="Luke.15.7">15:7</ref>, <ref osisRef="John.3.8">Jo 3:8</ref>, <ref osisRef="Rom.1.15">Ro 1:15</ref>, <ref osisRef="1Cor.8.12">I Co 8:12</ref>, al.; <foreign xml:lang="grc">οὕτως καί</foreign>, <ref osisRef="Matt.17.12">Mt 17:12</ref>, <ref osisRef="Mark.13.29">Mk 13:29</ref>, al.; pleonastically, resuming a ptcp. (cl.; v. Bl., §74, 6), <ref osisRef="Acts.20.11">Ac 20:11</ref>  <ref osisRef="Acts.27.17">27:17</ref>. </sense>
+    <sense n="2.">Referring to what follows: <ref osisRef="Matt.1.18">Mt 1:18</ref>  <ref osisRef="Matt.6.9">6:9</ref>, <ref osisRef="Luke.19.31">Lk 19:31</ref>, <ref osisRef="John.21.1">Jo 21:1</ref>, <ref osisRef="1Pet.2.15">I Pe 2:15</ref>; bef. quotations from OT, <ref osisRef="Matt.2.5">Mt 2:5</ref>, <ref osisRef="Acts.7.6">Ac 7:6</ref>, <ref osisRef="1Cor.15.45">I Co 15:45</ref>, <ref osisRef="Heb.4.4">He 4:4</ref>. </sense>
+    <sense n="3.">C. adj. (marking intensity): <ref osisRef="Heb.12.21">He 12:21</ref>, <ref osisRef="Rev.16.18">Re 16:18</ref>; similarly c. adv., <ref osisRef="Gal.1.6">Ga 1:6</ref> (cl.). </sense>
+    <sense n="4.">As a predicate (Bl., §76, 1): <ref osisRef="Matt.1.18">Mt 1:18</ref>  <ref osisRef="Matt.9.33">9:33</ref>, <ref osisRef="Mark.2.1">Mk 2:1</ref>, <ref osisRef="Mark.2.2">2</ref> <ref osisRef="Mark.4.26">4:26</ref>, <ref osisRef="Rom.4.18">Ro 4:18</ref>  <ref osisRef="Rom.9.20">9:20</ref>, <ref osisRef="1Pet.2.15">I Pe <pb n="330" /> <!-- typed="" checked="" --> 2:15</ref>; <foreign xml:lang="grc">οὕ ἔχειν</foreign> (Lat. <foreign xml:lang="lat">sic</foreign> or <foreign xml:lang="lat">ita se habere</foreign>), <ref osisRef="Acts.7.1">Ac 7:1</ref>, al.; <foreign xml:lang="grc">ἐκαθέζετο</foreign> (as he was, without delay or preparation), <ref osisRef="John.4.6">Jo 4:6</ref>. </sense>
+    <sense n="5.">In comparison, with correlative adv.: <foreign xml:lang="grc">καθάπερ . . . οὕ.</foreign>, <ref osisRef="Rom.12.4">Ro 12:4</ref>,  <ref osisRef="Rom.12.5">5</ref> al.; <foreign xml:lang="grc">καθὼς . . . οὕ.</foreign>, <ref osisRef="Luke.11.30">Lk 11:30</ref>, al.; <foreign xml:lang="grc">οὕ. . . . καθώς</foreign>, <ref osisRef="Luke.24.24">Lk 24:24</ref>, al.; <foreign xml:lang="grc">ὡς . . . οὕ.</foreign>, <ref osisRef="Rom.5.15">Ro 5:15</ref>, al.; <foreign xml:lang="grc">οὕ . . . ὡς</foreign>, <ref osisRef="Mark.4.26">Mk 4:26</ref>, al; <foreign xml:lang="grc">ὥσπερ . . . οὕ.</foreign>, <ref osisRef="Matt.12.40">Mt 12:40</ref>, al.; <foreign xml:lang="grc">οὕ. . . . οὕ.</foreign>, <ref osisRef="1Cor.7.7">I Co 7:7</ref>. </sense>
+  </sense>
+</entry>
 
 <entry n="οὐχ">
   <form><orth>οὐχ</orth>, v.s. <ref target="self:οὐ">οὐ</ref>.</form>
