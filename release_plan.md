@@ -19,8 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>3975</td><td>πίστις</td><td>G4102</td><td>243</td></tr>
-<tr><td>3973</td><td>πιστεύω</td><td>G4100</td><td>241</td></tr>
 <tr><td>3146</td><td>μέγας</td><td>G3173</td><td>240</td></tr>
 <tr><td>3635</td><td>οὐδείς</td><td>G3762</td><td>234</td></tr>
 <tr><td>585</td><td>ἀποκρίνομαι</td><td>G611</td><td>232</td></tr>
@@ -158,7 +156,6 @@ Each row includes the following information:
 <tr><td>731</td><td>ἄρχω</td><td>G757</td><td>89</td></tr>
 <tr><td>2007</td><td>ἑπτά</td><td>G2033</td><td>88</td></tr>
 <tr><td>3650</td><td>οὔτε</td><td>G3777</td><td>87</td></tr>
-<tr><td>5002</td><td>τούτῳ</td><td>G5129</td><td>87</td><td>KJV</td></tr>
 <tr><td>4010</td><td>πληρόω</td><td>G4137</td><td>86</td></tr>
 <tr><td>4207</td><td>προσέρχομαι</td><td>G4334</td><td>86</td></tr>
 <tr><td>2514</td><td>καιρός</td><td>G2540</td><td>85</td></tr>
@@ -199,7 +196,6 @@ Each row includes the following information:
 <tr><td>5336</td><td>χαίρω</td><td>G5463</td><td>74</td></tr>
 <tr><td>3968</td><td>πίνω</td><td>G4095</td><td>73</td></tr>
 <tr><td>5330</td><td>φῶς</td><td>G5457</td><td>73</td></tr>
-<tr><td>5000</td><td>τούτου</td><td>G5127</td><td>72</td><td>KJV</td></tr>
 <tr><td>140</td><td>αἰώνιος</td><td>G166</td><td>71</td></tr>
 <tr><td>4315</td><td>πῦρ</td><td>G4442</td><td>71</td></tr>
 <tr><td>2020</td><td>ἐρέω</td><td>G2046</td><td>71</td><td>KJV</td></tr>
@@ -213,7 +209,6 @@ Each row includes the following information:
 <tr><td>1759</td><td>ἐντολή</td><td>G1785</td><td>67</td></tr>
 <tr><td>3976</td><td>πιστός</td><td>G4103</td><td>67</td></tr>
 <tr><td>4016</td><td>πλοῖον</td><td>G4143</td><td>67</td></tr>
-<tr><td>5003</td><td>τούτων</td><td>G5130</td><td>67</td><td>KJV</td></tr>
 <tr><td>2534</td><td>κακῶς</td><td>G2560</td><td>66</td></tr>
 <tr><td>2564</td><td>καρπός</td><td>G2590</td><td>66</td></tr>
 <tr><td>4118</td><td>πρεσβύτερος</td><td>G4245</td><td>66</td></tr>
@@ -528,7 +523,6 @@ Each row includes the following information:
 <tr><td>4793</td><td>συνίημι</td><td>G4920</td><td>25</td></tr>
 <tr><td>5241</td><td>φιλέω</td><td>G5368</td><td>25</td></tr>
 <tr><td>201</td><td>ἀληθής</td><td>G227</td><td>25</td><td>KJV</td></tr>
-<tr><td>5001</td><td>τούτους</td><td>G5128</td><td>25</td><td>KJV</td></tr>
 <tr><td>5376</td><td>χήρα</td><td>G5503</td><td>25</td><td>KJV</td></tr>
 <tr><td><b>Release v. 0.27</b></td></tr>
 <tr><td>163</td><td>ἀκοή</td><td>G189</td><td>24</td></tr>
@@ -655,7 +649,6 @@ Each row includes the following information:
 <tr><td>5472</td><td>ὦ</td><td>G5599</td><td>19</td></tr>
 <tr><td>5473</td><td>ὦ</td><td>G5600</td><td>19</td></tr>
 <tr><td>1843</td><td>ἐπαίρω</td><td>G1869</td><td>19</td><td>KJV</td></tr>
-<tr><td>4998</td><td>τούτοις</td><td>G5125</td><td>19</td><td>KJV</td></tr>
 <tr><td>464</td><td>Ἀντιόχεια</td><td>G490</td><td>18</td></tr>
 <tr><td>576</td><td>ἀποκάλυψις</td><td>G602</td><td>18</td></tr>
 <tr><td>658</td><td>ἀπώλεια</td><td>G684</td><td>18</td></tr>
@@ -4248,7 +4241,6 @@ Each row includes the following information:
 <tr><td>3969</td><td>πιότης</td><td>G4096</td><td>1</td></tr>
 <tr><td>3970</td><td>πιπράσκω</td><td>G4097</td><td>9</td></tr>
 <tr><td>3972</td><td>Πισιδία</td><td>G4099</td><td>2</td></tr>
-<tr><td>3974</td><td>πιστικός</td><td>G4101</td><td>2</td></tr>
 <tr><td>3977</td><td>πιστόομαι</td><td>G4104</td><td>1</td></tr>
 <tr><td>3980</td><td>πλανήτης</td><td>G4107</td><td>1</td></tr>
 <tr><td>3981</td><td>πλάνος</td><td>G4108</td><td>5</td></tr>
