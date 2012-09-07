@@ -549,7 +549,6 @@ Each row includes the following information:
 <tr><td>5378</td><td>χιλιάς</td><td>G5505</td><td>23</td></tr>
 <tr><td>4547</td><td>σός</td><td>G4674</td><td>23</td><td>KJV</td><td>p. 411</td></tr>
 <tr><td><b>Release v. 0.28</b></td></tr>
-<tr><td>24</td><td>ἀγνοέω</td><td>G50</td><td>22</td></tr>
 <tr><td>447</td><td>ἀντί</td><td>G473</td><td>22</td></tr>
 <tr><td>496</td><td>ἀπαίρω</td><td>G522</td><td>22</td></tr>
 <tr><td>1101</td><td>γρηγορέω</td><td>G1127</td><td>22</td></tr>
@@ -1034,7 +1033,6 @@ Each row includes the following information:
 <tr><td>2794</td><td>κλῆσις</td><td>G2821</td><td>11</td></tr>
 <tr><td>3254</td><td>μήπως</td><td>G3381</td><td>11</td><td>KJV</td></tr>
 <tr><td>5322</td><td>φύσις</td><td>G5449</td><td>11</td><td>KJV</td></tr>
-<tr><td>27</td><td>ἁγνός</td><td>G53</td><td>10</td></tr>
 <tr><td>60</td><td>ᾅδης</td><td>G86</td><td>10</td></tr>
 <tr><td>76</td><td>ἀδύνατος</td><td>G102</td><td>10</td></tr>
 <tr><td>79</td><td>ἀετός</td><td>G105</td><td>10</td></tr>
@@ -1121,9 +1119,6 @@ Each row includes the following information:
 <tr><td>4259</td><td>πρότερον</td><td>G4386</td><td>10</td><td>KJV</td></tr>
 <tr><td><b>Release v. 0.34</b></td></tr>
 <tr><td>***Switch to working by page***</td></tr>
-<tr><td>23</td><td>ἁγνισμός</td><td>G49</td><td>1</td></tr>
-<tr><td>25</td><td>ἀγνόημα</td><td>G51</td><td>1</td></tr>
-<tr><td>26</td><td>ἄγνοια</td><td>G52</td><td>4</td></tr>
 <tr><td>28</td><td>ἁγνότης</td><td>G54</td><td>2</td></tr>
 <tr><td>29</td><td>ἁγνῶς</td><td>G55</td><td>1</td></tr>
 <tr><td>30</td><td>ἀγνωσία</td><td>G56</td><td>2</td></tr>
