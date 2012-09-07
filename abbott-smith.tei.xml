@@ -7626,13 +7626,15 @@ yui'aiKcios, -a, -ov (&lt;^ yi^i"?), [in LXX chiefly for n^K;] female:
 
 I Pe 37.t 
 
-yuj'^, -aiKos, 7}, [in LXX for niJ^N;] 1. a woman, married or un- 
-married: Mt ll" 1421, al.; vVavSpos y., Ro 72; y. xw«. Lk 42"; in 
-vocat., yvvai implies neither reproof nor severity, but is used freq. as a 
-term of respect and endearment, Mt 1528, Jq 2*, 421 192^. 2. a toife: 
-Mt 120, I Co 73.*, al.; y. ^TroXveLv, Mk 102, al.; y. Ix"". Mk 6I8; y. 
-ka^elu, Mk 1219; y. yafidv, Lk 1420. 3. a deaconess, i Ti 3" {CGT, 
-in 1.). 
+<entry n="γυνή|G1135">
+  <note type="occurrencesNT">215</note>
+  <form><orth>γυνή, -αικός, ἡ</orth>, [in LXX for <foreign xml:lang="heb">אִשָּׁה</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>a woman</gloss>, married or unmarried: <ref osisRef="Matt.11.11">Mt 11:11</ref>  <ref osisRef="Matt.14.21">14:21</ref>, al.; <foreign xml:lang="grc">ὕπανδρος γ.</foreign>, <ref osisRef="Rom.7.2">Ro 7:2</ref>; <foreign xml:lang="grc">γ. χήρα</foreign>, <ref osisRef="Luke.4.26">Lk 4:26</ref>; in vocat., <foreign xml:lang="grc">γύναι</foreign> implies neither reproof nor severity, but is used freq. as a term of respect and endearment, <ref osisRef="Matt.15.28">Mt 15:28</ref>, <ref osisRef="John.2.4">Jo 2:4</ref>, <ref osisRef="John.4.21">4:21</ref> <ref osisRef="John.19.26">19:26</ref>. </sense>
+    <sense n="2."><gloss>a wife</gloss>: <ref osisRef="Matt.1.20">Mt 1:20</ref>, <ref osisRef="1Cor.7.3">I Co 7:3</ref>,  <ref osisRef="1Cor.7.4">4</ref> al.; <foreign xml:lang="grc">γ. ἀπολύειν</foreign>, <ref osisRef="Mark.10.2">Mk 10:2</ref>, al.; <foreign xml:lang="grc">γ. ἔχειν</foreign> <ref osisRef="Mark.6.18">Mk 6:18</ref>; <foreign xml:lang="grc">γ. λαβεῖν</foreign>, <ref osisRef="Mark.12.19">Mk 12:19</ref>; <foreign xml:lang="grc">γ. γαμεῖν</foreign>, <ref osisRef="Luke.14.20">Lk 14:20</ref>. </sense>
+    <sense n="3."><gloss>a deaconess</gloss>, <ref osisRef="1Tim.3.11">I Ti 3:11</ref> (<emph>CGT</emph>, in l.).</sense>
+  </sense>
+</entry>
 
 TcSy, 6 (Heb. aia), indecl., Gcg, assoc. with Magog (q.v): Re 20^.†
 
