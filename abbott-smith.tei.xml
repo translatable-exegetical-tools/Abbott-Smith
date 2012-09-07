@@ -11676,25 +11676,16 @@ search out, search carefully: seq. Trepi, i Pe l^^.t
 
  <pb n="160" /> <!-- typed="" checked="" --> 
 
-i^€p€uvd&lt;i&gt;, V.S, i^epawdw. 
+<entry n="ἐξερευνάω"><form><orth>ἐξερευνάω</orth>, v.s, <foreign xml:lang="grc">ἐξεραυνάω</foreign>.</form> </entry>
 
-^^-^pXOJiai, [in LXX chiefly and very freq. for NS'', also for 
-
-Nia, nby, etc.;] depon., to go, or come out of: Mt 10^\ Mk p5, 
-Jo 13«o, al.; c. inf., Mt ll^, Mk 321, lA 726. 2e^ Ac 20\ Ee 20^; id. seq. 
-cVi, Mt 26^5^ al.; tk, Mk pS; Tva, Ee 62; i. seq. « (cl. c. gen. loc), 
-Mk 52, Jo 430, al.; c^w, c. gen., Mt 2117, Mk 14«8, Ac IG^a, He IS^^; 
-(l7r(^, Mk 1112, Lk 9^ Phi 41*; iK€W€v, Mt I521, Mk 61, Lk 9*, al.; of 
-demons expelled, seq. cV (aTrd), c. gen. pers., Mk 125,26 58^ j^^ 4.35^ ^j . 
-of prisoners released, Mt 52^, Ac 16*^; ptcp., i$€\6wv, c. indie, of verb 
-of departure (cf. Dalman, Wards, 20 f.), Mt 8^2 1521 24^, Mk 16\ 
-Lk 2239, Ac 129&gt;i^ al. Metaph., (a) of persons: 11 Co S^^, i Jo 2^^; of 
-birth or origin, Mt 2" (^^^), He 7^ (cf . Ge S5^^); of escape from danger, 
-CK T. xttpos avTMv, Jo 10^9; of public appearance, i Jo 4^; (b) of things: 
-Mt 24'-''; esp. of utterances, reports, proclamations: cfiwvi^, Ee IG^'^ 19*; 
-&lt;f,^tJLrj, Mt 926, Lk 41*; dKOTj, Mk 128; x6yos, Jo 2123; 86y^a, Lk 2^ (cf. 
-
-Si-t^epXo/JiaL) . ♦ 
+<entry n="ἐξέρχομαι|G1831">
+  <note type="occurrencesNT">218</note>
+  <form><orth>ἐξέρχομαι</orth>, [in LXX chiefly and very freq. for <foreign xml:lang="heb">יצא</foreign>, also for <foreign xml:lang="heb">עלה ,בֹּוא</foreign>, etc.;] depon., </form>
+  <sense><gloss>to go, or come out of</gloss>: <ref osisRef="Matt.10.11">Mt 10:11</ref>, <ref osisRef="Mark.1.35">Mk 1:35</ref>, <ref osisRef="John.13.30">Jo 13:30</ref>, al.; c. inf., <ref osisRef="Matt.11.8">Mt 11:8</ref>, <ref osisRef="Mark.3.21">Mk 3:21</ref>, <ref osisRef="Luke.7.25">Lk 7:25</ref>,  <ref osisRef="Luke.7.26">26</ref> <ref osisRef="Acts.20.8">Ac 20:8</ref>; id. seq. <foreign xml:lang="grc">ἐπί</foreign>, <ref osisRef="Matt.26.55">Mt 26:55</ref>, al.; <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Mark.1.38">Mk 1:38</ref>; <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="Rev.6.2">Re 6:2</ref>; <foreign xml:lang="grc">ἐ.</foreign> seq. <foreign xml:lang="grc">ἐκ</foreign> (cl. c. gen. loc.), <ref osisRef="Mark.5.2">Mk 5:2</ref>, <ref osisRef="John.4.30">Jo 4:30</ref>, al.; <foreign xml:lang="grc">ἔξω</foreign>, c. gen., <ref osisRef="Matt.21.17">Mt 21:17</ref>, <ref osisRef="Mark.14.68">Mk 14:68</ref>, <ref osisRef="Acts.16.13">Ac 16:13</ref>, <ref osisRef="Heb.13.13">He 13:13</ref>; <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Mark.11.12">Mk 11:12</ref>, <ref osisRef="Luke.9.5">Lk 9:5</ref>, <ref osisRef="Phil.4.15">Phl 4:15</ref>; <foreign xml:lang="grc">ἐκεῖθεν</foreign>, <ref osisRef="Matt.15.21">Mt 15:21</ref>, <ref osisRef="Mark.6.1">Mk 6:1</ref>, <ref osisRef="Luke.9.4">Lk 9:4</ref>, al.; of demons expelled, seq. <foreign xml:lang="grc">ἐκ (ἀπό)</foreign>, c. gen. pers., <ref osisRef="Mark.1.25">Mk 1:25</ref>, 26 5:8, <ref osisRef="Luke.4.35">Lk 4:35</ref>, al.; of prisoners released, <ref osisRef="Matt.5.26">Mt 5:26</ref>, <ref osisRef="Acts.16.40">Ac 16:40</ref>; ptcp., <foreign xml:lang="grc">ἐξελθών</foreign>, c. indic., of verb of departure (cf. Dalman, <emph>Words</emph>, 20f.), <ref osisRef="Matt.8.32">Mt 8:32</ref>  <ref osisRef="Matt.15.21">15:21</ref> <ref osisRef="Matt.24.1">24:1</ref>, <ref osisRef="Mark.16.8">Mk 16:8</ref>, <ref osisRef="Luke.22.39">Lk 22:39</ref>, <ref osisRef="Acts.12.9">Ac 12:9</ref>,  <ref osisRef="Acts.12.17">17</ref> al. Metaph., 
+    <sense n="(a)">of persons: <ref osisRef="2Cor.6.17">II Co 6:17</ref>, <ref osisRef="1John.2.19">I Jo 2:19</ref>; of birth or origin, <ref osisRef="Matt.2.6">Mt 2:6</ref> (LXX), <ref osisRef="Heb.7.5">He 7:5</ref> (cf . <ref osisRef="Gen.35.11">Ge 35:11</ref>); of escape from danger, <foreign xml:lang="grc">ἐκ τ. χειρὸς αὐτῶν</foreign>, <ref osisRef="John.10.39">Jo 10:39</ref>; of public appearance, <ref osisRef="1John.4.1">I Jo 4:1</ref>; </sense>
+    <sense n="(b)">of things: <ref osisRef="Matt.24.27">Mt 24:27</ref>; esp. of utterances, reports, proclamations: <foreign xml:lang="grc">φωνή</foreign>, <ref osisRef="Rev.16.17">Re 16:17</ref>  <ref osisRef="Rev.19.5">19:5</ref>; <foreign xml:lang="grc">φήμη</foreign>, <ref osisRef="Matt.9.26">Mt 9:26</ref>, <ref osisRef="Luke.4.14">Lk 4:14</ref>; <foreign xml:lang="grc">ἀκοή</foreign>, <ref osisRef="Mark.1.28">Mk 1:28</ref>; <foreign xml:lang="grc">λόγος</foreign>, <ref osisRef="John.21.23">Jo 21:23</ref>; <foreign xml:lang="grc">δόγμα</foreign>, <ref osisRef="Luke.2.1">Lk 2:1</ref> (cf. <foreign xml:lang="grc">δι-εξέρχομαι</foreign>).</sense>
+  </sense>
+</entry>
 
 €^-€o-Ti « elfjJ), impers. verb., it is permitted, lawful: Mk 2^*, 
 Ac 83" (B, mg.), I Co 1023; c. inf., Mt 122.10,12 144 1526 193 2217 27«, 
