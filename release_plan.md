@@ -414,7 +414,6 @@ Each row includes the following information:
 <tr><td>391</td><td>ἄνεμος</td><td>G417</td><td>31</td></tr>
 <tr><td>1425</td><td>ἐγγύς</td><td>G1451</td><td>31</td></tr>
 <tr><td>1653</td><td>ἐλπίζω</td><td>G1679</td><td>31</td></tr>
-<tr><td>1806</td><td>ἔξεστι</td><td>G1832</td><td>31</td></tr>
 <tr><td>2383</td><td>ἱερεύς</td><td>G2409</td><td>31</td></tr>
 <tr><td>2485</td><td>καθαρίζω</td><td>G2511</td><td>31</td></tr>
 <tr><td>3827</td><td>παρρησία</td><td>G3954</td><td>31</td></tr>
