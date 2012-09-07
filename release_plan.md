@@ -558,7 +558,6 @@ Each row includes the following information:
 <tr><td>5378</td><td>χιλιάς</td><td>G5505</td><td>23</td></tr>
 <tr><td>4547</td><td>σός</td><td>G4674</td><td>23</td><td>KJV</td><td>p. 411</td></tr>
 <tr><td><b>Release v. 0.28</b></td></tr>
-<tr><td>24</td><td>ἀγνοέω</td><td>G50</td><td>22</td></tr>
 <tr><td>447</td><td>ἀντί</td><td>G473</td><td>22</td></tr>
 <tr><td>496</td><td>ἀπαίρω</td><td>G522</td><td>22</td></tr>
 <tr><td>1101</td><td>γρηγορέω</td><td>G1127</td><td>22</td></tr>
