@@ -3783,17 +3783,16 @@ TO dvrJKov, Phm 8.t
 * ay-riii.epos, -ov (a-, rjixcpoi), not tame, savage (MM, <emph>VGT</emph>, s.v.): 
 II Ti 33.t 
 
-dfiip, aVSpo's, 0, [in LXX chiefly for VTii , freq. lZ;^3^^ , also n"lX , 
-
-etc.;] a man, Lat. vir. 1. As opp. to a woman, Ac 8^'\ i Ti 2^-; as a 
-husband, Mt l^^, Jo 4i«, Ro 7^, Tit 1«. 2. As opp. to a boy or infant, 
-I Co 13^\ Eph 4}^, Ja 3^. 3. In appos. with a noun or adj., as 
-a. d/i,apTwXos, Lk 6^; a. Trpocfyrj-nj^, 24^^; freq. in terms of address, as 
-a. a'SeX^oi, Ac 1^"; and esp. with gentilic names, as a. 'lovSatos, 
-Ac 22^; a. 'E^eVtoi, 19^^. 4. In general, a man, a male person: 
-= Tis, Lk 8^1, Ac 6^\ 
-
-Syn.: dv6p(oTTos, q.v. (cf. MM, <emph>VGT</emph>, s.v.). 
+<entry n="ἀνήρ|G435">
+  <note type="occurrencesNT">216</note>
+  <form><orth>ἀνήρ, ἀνδρός, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">אִישׁ</foreign>, freq. <foreign xml:lang="heb">אֱנוֹשׁ</foreign>, also <foreign xml:lang="heb">אָדָם</foreign>, etc.;] </form>
+  <sense><gloss>a man</gloss>, Lat. <foreign xml:lang="lat">vir.</foreign> 
+  <sense n="1.">As opp. to a woman, <ref osisRef="Acts.8.12">Ac 8:12</ref>, <ref osisRef="1Tim.2.12">I Ti 2:12</ref>; as a <gloss>husband</gloss>, <ref osisRef="Matt.1.16">Mt 1:16</ref>, <ref osisRef="John.4.16">Jo 4:16</ref>, <ref osisRef="Rom.7.2">Ro 7:2</ref>, <ref osisRef="Titus.1.6">Tit 1:6</ref>. </sense>
+  <sense n="2.">As opp. to a boy or infant, <ref osisRef="1Cor.13.11">I Co 13:11</ref>, <ref osisRef="Eph.4.13">Eph 4:13</ref>, <ref osisRef="Jas.3.2">Ja 3:2</ref>. </sense>
+  <sense n="3.">In appos. with a noun or adj., as <foreign xml:lang="grc">ἀ. ἁμαρτωλός</foreign>, <ref osisRef="Luke.5.8">Lk 5:8</ref>; <foreign xml:lang="grc">ἀ. προφήτης</foreign>, <ref osisRef="Luke.24.19">24:19</ref>; freq. in terms of address, as <foreign xml:lang="grc">ἀ. ἀδελφοί</foreign>, <ref osisRef="Acts.1.16">Ac 1:16</ref>; and esp. with gentilic names, as <foreign xml:lang="grc">ἀ. Ἰουδαῖος</foreign>, <ref osisRef="Acts.22.3">Ac 22:3</ref>; <foreign xml:lang="grc">ἀ. Ἐφέσιοι</foreign>, <ref osisRef="Acts.19.35">19:35</ref>. </sense>
+  <sense n="4.">In general, <gloss>a man, a male person</gloss>: = <foreign xml:lang="grc">τις</foreign>, <ref osisRef="Luke.8.41">Lk 8:41</ref>, <ref osisRef="Acts.6.11">Ac 6:11</ref>. </sense>
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἄνθρωπος</foreign>, q.v. (cf. MM, <emph>VGT</emph>, s.v.). </sense>
+</entry>
 
 di'e-iaTTxi (avTt, LarrjfjLi), [in LXX for IQJT , 13?^ , etc.;] 1. in pres., 
 impf., fut. and 1 aor. act., causal, to set against. 2. In mid. and pass., 
