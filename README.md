@@ -41,6 +41,8 @@ Note that until markup is complete, the file will not validate because the &lt;b
 Changelog
 =
 
+2012/09/07 - Release of v. 0.13: Includes pages iii-5 and entries for words occurring 200 times or more in the Greek NT. 
+
 2012/09/01 - Release of v. 0.12: Includes pages iii-4 and entries for words occurring 300 times or more in the Greek NT. 
 
 2012/08/07 - Release of v. 0.11: Includes pages iii-4 and entries for words occurring 500 times or more in the Greek NT. Also changed to using &lt;gloss> instead of &lt;def>. Many thanks to Dardo Sordi for corrections and additional entries.
