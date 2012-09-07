@@ -1042,7 +1042,6 @@ Each row includes the following information:
 <tr><td>2794</td><td>κλῆσις</td><td>G2821</td><td>11</td></tr>
 <tr><td>3254</td><td>μήπως</td><td>G3381</td><td>11</td><td>KJV</td></tr>
 <tr><td>5322</td><td>φύσις</td><td>G5449</td><td>11</td><td>KJV</td></tr>
-<tr><td>27</td><td>ἁγνός</td><td>G53</td><td>10</td></tr>
 <tr><td>60</td><td>ᾅδης</td><td>G86</td><td>10</td></tr>
 <tr><td>76</td><td>ἀδύνατος</td><td>G102</td><td>10</td></tr>
 <tr><td>79</td><td>ἀετός</td><td>G105</td><td>10</td></tr>
