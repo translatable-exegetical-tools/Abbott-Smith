@@ -19,7 +19,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>1499</td><td>εἰσέρχομαι</td><td>G1525</td><td>194</td></tr>
 <tr><td>3424</td><td>νόμος</td><td>G3551</td><td>194</td></tr>
 <tr><td>3717</td><td>παρά</td><td>G3844</td><td>194</td></tr>
 <tr><td>2427</td><td>Ἰουδαῖος</td><td>G2453</td><td>193</td></tr>
@@ -28,7 +27,6 @@ Each row includes the following information:
 <tr><td>2505</td><td>καθώς</td><td>G2531</td><td>182</td></tr>
 <tr><td>5368</td><td>χείρ</td><td>G5495</td><td>177</td></tr>
 <tr><td>2121</td><td>εὑρίσκω</td><td>G2147</td><td>176</td></tr>
-<tr><td>6</td><td>ἄγγελος</td><td>G32</td><td>175</td></tr>
 <tr><td>3666</td><td>ὄχλος</td><td>G3793</td><td>175</td></tr>
 <tr><td>240</td><td>ἁμαρτία</td><td>G266</td><td>173</td></tr>
 <tr><td>2015</td><td>ἔργον</td><td>G2041</td><td>169</td></tr>
