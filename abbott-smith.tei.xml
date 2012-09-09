@@ -30574,32 +30574,22 @@ uir-emcTios, -a, -ov, [in LXX for n^N , nS , etc.;] set over against,
 opposite. Metaph. (Plat., Arist., a.\.), opposed to, contrary to: c. dat. 
 pers., Col 21*; absol., as subst., 6 i., He 102^ (cf. Is 26ii).t 
 
-uire'p (when following subst. — poet. — virep; so as adv., 11 Co 11^3)^ 
-prep. c. gen., ace. 
-
-I. C. gen., primarily of place (rest or motion), over, above, across, 
-beyond, hence, metaph., l./or, on behalf of: of prayer, Mt 5**, Ac 82*, 
-Eo IQi, Ja 516, al.; of laying down life, Jo IQn, Ro 93, al.; esp. of 
-Christ giving his life for man's redemption, Mk 142*, Jq IQU^ Ac 21i3, 
-Eo 5«-8, al.; opp. to Kara, Mk 9*o, Lk 9*o, Ro 83i. 2. Causal, for, 
-because of, for the sake of: c. gen. pers., Ac 5*i, Ro 1^, Phi 129, 
-
-II Co 12i«, al.; c. gen. rei, Jo 11* Ro 15^, 11 Co 1^, al. 3. = dvrt 
-(v. M,Pr., 105), for, instead of, in the name of: i Co 15^9, 11 Co 51^' 21, 
-Ga 313, Col V, Phmi3 (cf. Pield, Notes, 225). 4. In more colourless 
-sense, = TrepC (M, <emph>Pr.</emph>, I.e.), for, coticerning, with regard to: Ro 92'', 
-II Co 1« 823 128^ Phi 17^ n Th 2i, al. 
-
-II. C. ace, primarily of place, over, beyond, across, hence, metaph., 
-of measure or degree in excess, above, beyond, over, more than: 
-Mt 102*. 37, Lk 6*0, Ac 2613, I Co 10i3, 11 Co 1^, Eph I22 320, Phm le, al.; 
-after comparatives =than (Jg 112^, al.), Lk 16^, He 412. 
-
-III. As adv. (v. supr. ad init.), more: virep iyot, I more, 11 Co 11^3 j 
-m compounds, V.S. iir^pdvoi, virepXiav, v7repTr€picr(T(i}&lt;;. 
-
-IV. In composition: over (vTrepaipw), beyond (un-cpySaAAw), more 
-(vTrepvtKao)) , on behalf of (vTrepevTvyxdvw). 
+<entry n="ὑπέρ|G5228">
+  <note type="occurrencesNT">150</note>
+  <form><orth>ὑπέρ</orth> (when following subst.—poët.—<foreign xml:lang="grc">ὕπερ</foreign>; so as adv., <ref osisRef="2Cor.11.23">II Co 11:23</ref>), </form>
+  <gramGrp><pos>prep.</pos> c. gen., acc. </gramGrp><lb />
+  <sense>  
+    <sense n="I.">C. gen., primarily of place (rest or motion), <gloss>over, above, across, beyond</gloss>, hence, metaph., 
+      <sense n="1."><gloss>for, on behalf of</gloss>: of prayer, <ref osisRef="Matt.5.44">Mt 5:44</ref>, <ref osisRef="Acts.8.24">Ac 8:24</ref>, <ref osisRef="Rom.10.1">Ro 10:1</ref>, <ref osisRef="Jas.5.16">Ja 5:16</ref>, al.; of laying down life, <ref osisRef="John.10.11">Jo 10:11</ref>, <ref osisRef="Rom.9.3">Ro 9:3</ref>, al.; esp. of Christ giving his life for man's redemption, <ref osisRef="Mark.14.24">Mk 14:24</ref>, <ref osisRef="John.10.15">Jo 10:15</ref>, <ref osisRef="Acts.21.13">Ac 21:13</ref>, <ref osisRef="Rom.5.6-Rom.5.8">Ro 5:6-8</ref>, al.; opp. to <foreign xml:lang="grc">κατά</foreign>, <ref osisRef="Mark.9.40">Mk 9:40</ref>, <ref osisRef="Luke.9.50">Lk 9:50</ref>, <ref osisRef="Rom.8.31">Ro 8:31</ref>. </sense>
+      <sense n="2.">Causal, <gloss>for, because of, for the sake of</gloss>: c. gen. pers., <ref osisRef="Acts.5.41">Ac 5:41</ref>, <ref osisRef="Rom.1.5">Ro 1:5</ref>, <ref osisRef="Phil.1.29">Phl 1:29</ref>, <ref osisRef="2Cor.12.10">II Co 12:10</ref>, al.; c. gen. rei, <ref osisRef="John.11.4">Jo 11:4</ref>, <ref osisRef="Rom.15.8">Ro 15:8</ref>, <ref osisRef="2Cor.1.6">II Co 1:6</ref>, al. </sense>
+      <sense n="3."> = <foreign xml:lang="grc">ἀντί</foreign> (v. M, <emph>Pr.</emph>, 105), <gloss>for, instead of, in the name of</gloss>: <ref osisRef="1Cor.15.29">I Co 15:29</ref>, <ref osisRef="2Cor.5.15">II Co 5:15</ref>,  <ref osisRef="2Cor.5.21">21</ref> <ref osisRef="Gal.3.13">Ga 3:13</ref>, <ref osisRef="Col.1.7">Col 1:7</ref>, <ref osisRef="Phlm.1.13">Phm 13</ref> (cf. Field, <emph>Notes</emph>, 225). </sense>
+      <sense n="4.">In more colourless sense, = <foreign xml:lang="grc">περί</foreign> (M, <emph>Pr.</emph>, l.c.), <gloss>for, concerning, with regard to</gloss>: <ref osisRef="Rom.9.27">Ro 9:27</ref>, <ref osisRef="2Cor.1.6">II Co 1:6</ref>  <ref osisRef="2Cor.8.23">8:23</ref> <ref osisRef="2Cor.12.8">12:8</ref>, <ref osisRef="Phil.1.7">Phl 1:7</ref>, <ref osisRef="2Thess.2.1">II Th 2:1</ref>, al. </sense>
+    </sense><lb />
+    <sense n="II.">C. acc., primarily of place, <gloss>over, beyond, across</gloss>, hence, metaph., of measure or degree in excess, <gloss>above, beyond, over, more than</gloss>: <ref osisRef="Matt.10.24">Mt 10:24</ref>,  <ref osisRef="Matt.10.37">37</ref> <ref osisRef="Luke.6.40">Lk 6:40</ref>, <ref osisRef="Acts.26.13">Ac 26:13</ref>, <ref osisRef="1Cor.10.13">I Co 10:13</ref>, <ref osisRef="2Cor.1.8">II Co 1:8</ref>, <ref osisRef="Eph.1.22">Eph 1:22</ref>  <ref osisRef="Eph.3.20">3:20</ref>, <ref osisRef="Phlm.1.16">Phm 16</ref>, al.; after comparatives = <gloss>than</gloss> (<ref osisRef="Judg.11.25">Jg 11:25</ref>, al.), <ref osisRef="Luke.16.8">Lk 16:8</ref>, <ref osisRef="Heb.4.12">He 4:12</ref>. </sense><lb />
+    <sense n="III.">As <gramGrp><pos>adv.</pos></gramGrp> (v. supr. ad init.), <gloss>more</gloss>: <foreign xml:lang="grc">ὕπερ ἐγώ</foreign>, <gloss>I more</gloss>, <ref osisRef="2Cor.11.23">II Co 11:23</ref>; in compounds, v.s. <foreign xml:lang="grc">ὑπεράνω, ὑπερλίαν, ὑπερπερισσῶς</foreign>. </sense><lb />
+    <sense n="IV.">In composition: <gloss>over</gloss> (<foreign xml:lang="grc">ὑπεραίρω</foreign>), <gloss>beyond</gloss> (<foreign xml:lang="grc">ὑπερβάλλω</foreign>), <gloss>more</gloss> (<foreign xml:lang="grc">ὐπερνικάω</foreign>), <gloss>on behalf of</gloss> (<foreign xml:lang="grc">ὐπερεντυγχάνω</foreign>).</sense>
+  </sense>
+</entry>
 
 oirep-aipw, [in LXX: ii Ch 3223 (jjjj^j ^j^^ etc.;] to lift or 
 raise over. Mid., to uplift oneself: 11 Co 12'''; seq. hri, c. acc. pers., 

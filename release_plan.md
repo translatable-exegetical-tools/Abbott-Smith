@@ -44,7 +44,6 @@ Each row includes the following information:
 <tr><td>5358</td><td>χάρις</td><td>G5485</td><td>155</td></tr>
 <tr><td>4286</td><td>πρῶτος</td><td>G4413</td><td>154</td></tr>
 <tr><td>4071</td><td>πορεύομαι</td><td>G4198</td><td>153</td></tr>
-<tr><td>5101</td><td>ὑπέρ</td><td>G5228</td><td>150</td></tr>
 <tr><td><b>Release v. 0.14</b></td></tr>
 <tr><td>2538</td><td>καλέω</td><td>G2564</td><td>148</td></tr>
 <tr><td>3441</td><td>νῦν</td><td>G3568</td><td>147</td></tr>
