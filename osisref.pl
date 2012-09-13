@@ -63,7 +63,7 @@ foreach $line (@data) {
 	$line =~ s/ Mt (\d+):(\d+)/ <ref osisRef=\"Matt\.$1\.$2\">Mt $1:$2<\/ref>/g;
 	$line =~ s/ Mk (\d+):(\d+)/ <ref osisRef=\"Mark\.$1\.$2\">Mk $1:$2<\/ref>/g;
 	$line =~ s/ Lk (\d+):(\d+)/ <ref osisRef=\"Luke\.$1\.$2\">Lk $1:$2<\/ref>/g;
-	$line =~ s/ Jo (\d+):(\d+)/ <ref osisRef=\"John\.$1\.$2\">Jo $1:$2<\/ref>/g;
+	$line =~ s/([^I]) Jo (\d+):(\d+)/$1 <ref osisRef=\"John\.$2\.$3\">Jo $2:$3<\/ref>/g;
 	$line =~ s/ Ac (\d+):(\d+)/ <ref osisRef=\"Acts\.$1\.$2\">Ac $1:$2<\/ref>/g;
 	$line =~ s/ Ro (\d+):(\d+)/ <ref osisRef=\"Rom\.$1\.$2\">Ro $1:$2<\/ref>/g;
 
