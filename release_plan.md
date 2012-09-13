@@ -28,7 +28,7 @@ Each row includes the following information:
 <tr><td>4045</td><td>πόλις</td><td>G4172</td><td>162</td></tr>
 <tr><td>4992</td><td>τότε</td><td>G5119</td><td>160</td></tr>
 <tr><td>660</td><td>ἄρα</td><td>G686</td><td>158</td></tr>
-<tr><td>661</td><td>ἄρα</td><td>G687</td><td>158</td></tr>
+<tr><td>661</td><td>ἆρα</td><td>G687</td><td>158</td></tr>
 <tr><td>3845</td><td>Παῦλος</td><td>G3972</td><td>158</td></tr>
 <tr><td>2562</td><td>καρδία</td><td>G2588</td><td>156</td></tr>
 <tr><td>3947</td><td>Πέτρος</td><td>G4074</td><td>156</td></tr>
