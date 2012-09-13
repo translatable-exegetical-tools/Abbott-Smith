@@ -1743,18 +1743,30 @@
   </sense>
  </entry>
 
-^tdycoTYis, -TrjTO&lt;;, 7) {&lt;^ayv6&lt;i), 2^urity, chastity (cf. dyio'Tiys): II Co 
+<entry n="ἁγνότης|G54">
+  <note type="occurrencesNT">2</note>
+  <form><orth>ἁγνότης, -τητος, ἡ</orth> (&lt; <foreign xml:lang="grc">ἁγνός</foreign>), </form>
+  <sense><gloss>purity</gloss>, <gloss>chastity</gloss> (cf. <foreign xml:lang="grc">ἁγιότης</foreign>): <ref osisRef="2Cor.6.6">II Co 6:6</ref>  <ref osisRef="2Cor.11.3">11:3</ref>. †</sense>
+ </entry>
 
-66 113.t 
+<entry n="ἁγνῶς|G55">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>ἁγνῶς</orth> (&lt; <foreign xml:lang="grc">ἁγνός</foreign>), </form>
+  <gramGrp><pos>adv.</pos>, </gramGrp>
+  <sense><gloss>purely</gloss>, <gloss>with pure motives</gloss>: <ref osisRef="Phil.1.17">Phl 1:17</ref>. †</sense>
+ </entry>
 
-*dY»'ws «dyvds), adv., piirely, with pure motives: Phi li'^.t 
-dy^waia, -a?, f] «ya'wcrKO)), [in LXX: Jb 35l« (n^T^b^), Wi 131, 
+<entry n="ἀγνωσία|G56">
+  <note type="occurrencesNT">2</note>
+  <form><orth>ἀγνωσία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">γινώσκω</foreign>), [in LXX: <ref osisRef="Job.35.16">Jb 35:16</ref> (<foreign xml:lang="heb">בִּבְלִי־דַּעַת</foreign>), <ref osisRef="Wis.13.1">Wi 13:1</ref>, <ref osisRef="3Macc.5.27">III Mac 5:27</ref> *;] </form>
+  <sense><gloss>ignorance</gloss>  (opp. to <foreign xml:lang="grc">γνῶσις</foreign>): <ref osisRef="1Cor.15.34">I Co 15:34</ref>, <ref osisRef="1Pet.2.15">I Pe 2:15</ref> (v. Hort in l.; MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
-III Mac 527*;] igno7-ance (opp. to yvwo-i?): i Co 153^, i Pe 21^ (v. Hort 
-in 1.; MM, <emph>VGT</emph>, s.v.).t 
-
-** ayyio&lt;TTos, -ov «yiv«o-K(o), [in LXX: Wi 1118 183, „ Mac li^ 2' 
-(Cremer, 157)*;] unknown: Ac 1723 (cf. MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἄγνωστος|G57">
+  <note type="occurrencesNT">1</note>
+  <form>** <orth>ἄγνωστος, -ον</orth> (&lt; <foreign xml:lang="grc">γινώσκω</foreign>), [in LXX: <ref osisRef="Wis.11.18">Wi 11:18</ref>  <ref osisRef="Wis.18.3">18:3</ref>, <ref osisRef="2Macc.1.19">II Mac 1:19</ref>  <ref osisRef="2Macc.2.7">2:7</ref> (Cremer, 157) *;] </form>
+  <sense><gloss>unknown</gloss>: <ref osisRef="Acts.17.23">Ac 17:23</ref> (cf. MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
 
 
