@@ -1102,10 +1102,6 @@ Each row includes the following information:
 <tr><td>4259</td><td>πρότερον</td><td>G4386</td><td>10</td><td>KJV</td></tr>
 <tr><td><b>Release v. 0.34</b></td></tr>
 <tr><td>***Switch to working by page***</td></tr>
-<tr><td>28</td><td>ἁγνότης</td><td>G54</td><td>2</td></tr>
-<tr><td>29</td><td>ἁγνῶς</td><td>G55</td><td>1</td></tr>
-<tr><td>30</td><td>ἀγνωσία</td><td>G56</td><td>2</td></tr>
-<tr><td>31</td><td>ἄγνωστος</td><td>G57</td><td>1</td></tr>
 <tr><td>34</td><td>ἀγοραῖος</td><td>G60</td><td>2</td></tr>
 <tr><td>35</td><td>ἄγρα</td><td>G61</td><td>2</td></tr>
 <tr><td>36</td><td>ἀγράμματος</td><td>G62</td><td>1</td></tr>
