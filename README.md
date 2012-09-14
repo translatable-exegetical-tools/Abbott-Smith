@@ -27,6 +27,8 @@ All are welcome to contribute to this project by:
 
 Those interested should send an email to editors at textonline dot org (deleting the spaces and replacing "at" and "dot" with the appropriate characters). 
 
+We keep track of what pages contributors are working on at the [Task Assignments](https://github.com/translatable-exegetical-tools/Abbott-Smith/wiki/Task-Assignments) page on the wiki. 
+
 Current contributors include: 
 * Daniel Owens
 * Dardo Sordi
