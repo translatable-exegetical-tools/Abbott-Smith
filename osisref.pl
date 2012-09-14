@@ -89,11 +89,11 @@ foreach $line (@data) {
 	$line =~ s/ II Pe (\d+):(\d+)/ <ref osisRef=\"2Pet\.$1\.$2\">II Pe $1:$2<\/ref>/g;
 	$line =~ s/ I Pe (\d+):(\d+)/ <ref osisRef=\"1Pet\.$1\.$2\">I Pe $1:$2<\/ref>/g;
 
-	$line =~ s/ III Jo (\d+):(\d+)/ <ref osisRef=\"3John\.$1\.$2\">III Jo $1:$2<\/ref>/g;
-	$line =~ s/ II Jo (\d+):(\d+)/ <ref osisRef=\"2John\.$1\.$2\">II Jo $1:$2<\/ref>/g;
+	$line =~ s/ III Jo (\d+)/ <ref osisRef=\"3John\.1\.$1\">III Jo $1<\/ref>/g;
+	$line =~ s/ II Jo (\d+)/ <ref osisRef=\"2John\.1\.$1\">II Jo $1<\/ref>/g;
 	$line =~ s/ I Jo (\d+):(\d+)/ <ref osisRef=\"1John\.$1\.$2\">I Jo $1:$2<\/ref>/g;
 
-	$line =~ s/ Ju (\d+):(\d+)/ <ref osisRef=\"Jude\.$1\.$2\">Ju $1:$2<\/ref>/g;
+	$line =~ s/ Ju (\d+)/ <ref osisRef=\"Jude\.1\.$1\">Ju $1<\/ref>/g;
 	$line =~ s/ Re (\d+):(\d+)/ <ref osisRef=\"Rev\.$1\.$2\">Re $1:$2<\/ref>/g;
 
 	print OUTF "$line";
