@@ -937,7 +937,6 @@ Each row includes the following information:
 <tr><td>2868</td><td>κράββατος</td><td>G2895</td><td>12</td><td>KJV</td></tr>
 <tr><td>3957</td><td>πιάζω</td><td>G4084</td><td>12</td><td>KJV</td></tr>
 <tr><td><b>Release v. 0.33</b></td></tr>
-<tr><td>32</td><td>ἀγορά</td><td>G58</td><td>11</td></tr>
 <tr><td>41</td><td>Ἀγρίππας</td><td>G67</td><td>11</td></tr>
 <tr><td>228</td><td>ἅλυσις</td><td>G254</td><td>11</td></tr>
 <tr><td>341</td><td>Ἁνανίας</td><td>G367</td><td>11</td></tr>
