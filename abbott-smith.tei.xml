@@ -1772,12 +1772,14 @@
 
  <pb n="7" /> <!-- typed="" checked="" --> 
 
-Ayopd, -as, r) (&lt;:^ dyeipo), to bring together), [in LXX for ]nTy, p-lltf;] 
-
-1. an assembly (Horn., Xen., al.). 2. a place of assembly, a public place 
-or forum, a market-place (Horn., Thuc, al.; LXX): Mt U}^ 20^ 237, 
-Mk 6^6 (cf . MM, <emph>VGT</emph>, s.v., ayvi£) 7^ (Bl., §46, 7) 1238, ^k 7^2 (Bl., I.e.) 
-1143 2046, Ac 1619 17^7 (Cremer, 69; MM, FGT, s.v.).† 
+<entry n="ἀγορά|G58">
+  <note type="occurrencesNT">11</note>
+  <form><orth>ἀγορά, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγείρω</foreign>, <emph>to bring together</emph>) [in LXX for <foreign xml:lang="heb">עִזָּבוֹן</foreign>, <foreign xml:lang="heb">שׁוּק</foreign> ;] </form>
+  <sense>
+    <sense n="1."><gloss>an assembly</gloss> (Hom., Xen., al.).</sense> 
+    <sense n="2."><gloss>a place of assembly</gloss>, <gloss>a public place</gloss> or <gloss>forum</gloss>, <gloss>a market-place</gloss> (Hom., Thuc, al.; LXX): <ref osisRef="Matt.11.16">Mt 11:16</ref>  <ref osisRef="Matt.20.2">20:2</ref> <ref osisRef="Matt.23.7">23:7</ref>, <ref osisRef="Mark.6.56">Mk 6:56</ref> (cf . MM, <emph>VGT</emph>, s.v., <foreign xml:lang="grc">ἀγυιά</foreign>) <ref osisRef="Mark.7.4">7:4</ref> (Bl., §46, 7) <ref osisRef="Mark.12.38">12:38</ref>, <ref osisRef="Luke.7.32">Lk 7:32</ref> (Bl., l.c.) <ref osisRef="Luke.11.43">11:43</ref> <ref osisRef="Luke.20.46">20:46</ref>, <ref osisRef="Acts.16.19">Ac 16:19</ref>  <ref osisRef="Acts.17.7">17:7</ref> (Cremer, 59; MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
 dyopd^u «[ dyopa), [in LXX chiefly for "QtZT , T\2p;] 1. to frequent 
 the dyo/od (Hdt., al.). 2. to buy in the market, purchase (Xen., al.; 
