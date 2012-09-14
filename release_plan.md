@@ -6,7 +6,6 @@ This file maps out a projected release "schedule." It includes a table that iden
 This list is not exhaustive, nor do we expect it to match Abbott-Smith exactly because some lines are taken from Strong's. We simply want to try to match Strong's numbers with the correct lexemes in Abbott-Smith and clean up entries in Abbott-Smith that are not on this list. 
 
 Each row includes the following information: 
-
 * Order: a number to indicate an alphabetical sort order.
 
 * Lexeme: the word in unicode Greek
@@ -19,7 +18,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>3666</td><td>ὄχλος</td><td>G3793</td><td>175</td></tr>
 <tr><td>240</td><td>ἁμαρτία</td><td>G266</td><td>173</td></tr>
 <tr><td>2015</td><td>ἔργον</td><td>G2041</td><td>169</td></tr>
 <tr><td>1365</td><td>δόξα</td><td>G1391</td><td>166</td></tr>
@@ -28,8 +26,6 @@ Each row includes the following information:
 <tr><td>1458</td><td>ἔθνος</td><td>G1484</td><td>162</td></tr>
 <tr><td>4045</td><td>πόλις</td><td>G4172</td><td>162</td></tr>
 <tr><td>4992</td><td>τότε</td><td>G5119</td><td>160</td></tr>
-<tr><td>660</td><td>ἄρα</td><td>G686</td><td>158</td></tr>
-<tr><td>661</td><td>ἄρα</td><td>G687</td><td>158</td></tr>
 <tr><td>3845</td><td>Παῦλος</td><td>G3972</td><td>158</td></tr>
 <tr><td>2562</td><td>καρδία</td><td>G2588</td><td>156</td></tr>
 <tr><td>3947</td><td>Πέτρος</td><td>G4074</td><td>156</td></tr>
