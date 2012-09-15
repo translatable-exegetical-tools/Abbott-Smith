@@ -1781,12 +1781,14 @@
   </sense>
  </entry>
 
-dyopd^u «[ dyopa), [in LXX chiefly for "QtZT , T\2p;] 1. to frequent 
-the dyo/od (Hdt., al.). 2. to buy in the market, purchase (Xen., al.; 
-LXX; in tt. very common in deeds of sale, v. MM, <emph>VGT</emph>, s.v.): absol., 
-Mt 21^2, Mk 11^5; c. acc. rei, Mt 13*4- 4", al.; seq. irapa, c. gen. pers., 
-Ee 318 (LXX, Polyb.); Ik, Mt 27^; c. gen. pret., Mk 6^7, al.; metaph., 
-I Co 620 723, II Pe 21, Ee 5^ 143' *. 
+<entry n="ἀγοράζω|G59">
+  <note type="occurrencesNT">30</note>
+  <form><orth>ἀγοράζω</orth> (&lt; <foreign xml:lang="grc">ἀγορά</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שׁבר</foreign>, <foreign xml:lang="heb">קנה</foreign> ;]</form>
+  <sense>
+    <sense n="1."><gloss>to frequent the <foreign xml:lang="grc">ἀγορά</foreign></gloss> (Hdt., al.). </sense> 
+    <sense n="2."><gloss>to buy in the market</gloss>, <gloss>purchase</gloss> (Xen., al.; LXX; in π. very common in deeds of sale, v. MM, <emph>VGT</emph>, s.v.): absol., <ref osisRef="Matt.21.12">Mt 21:12</ref>, <ref osisRef="Mark.11.15">Mk 11:15</ref>; c. acc. rei, <ref osisRef="Matt.13.44">Mt 13:44</ref>, <ref osisRef="Matt.13.46">46</ref>, al.; seq. <foreign xml:lang="grc">παρά</foreign>, c. gen. pers., <ref osisRef="Rev.3.18">Re 3:18</ref> (LXX, Polyb.); <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Matt.27.7">Mt 27:7</ref>; c. gen. pret., <ref osisRef="Mark.6.37">Mk 6:37</ref>, al.; metaph., <ref osisRef="1Cor.6.20">I Co 6:20</ref>  <ref osisRef="1Cor.7.23">7:23</ref>, <ref osisRef="2Pet.2.1">II Pe 2:1</ref>, <ref osisRef="Rev.5.9">Re 5:9</ref>  <ref osisRef="Rev.14.3">14:3</ref>, <ref osisRef="Rev.14.4">4</ref>. </sense>
+  </sense>
+ </entry>
 
 *dYopatos, -ov (&lt;^dyopd), 1. frequenting the ayopd, a loxmger in the 
 dyopd (Xen., al.): Ac 17^. 2. In late writers (Strab., al.), proper to 

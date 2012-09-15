@@ -93,9 +93,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>0011</td><td>ἁγιάζω</td><td>G37</td><td>28</td></tr>
-<tr><td>0032</td><td>ἀγορά</td><td>G58</td><td>11</td></tr>
-<tr><td>0033</td><td>ἀγοράζω</td><td>G59</td><td>30</td></tr>
 <tr><td>0034</td><td>ἀγοραῖος</td><td>G60</td><td>2</td></tr>
 <tr><td>0035</td><td>ἄγρα</td><td>G61</td><td>2</td></tr>
 <tr><td>0036</td><td>ἀγράμματος</td><td>G62</td><td>1</td></tr>
