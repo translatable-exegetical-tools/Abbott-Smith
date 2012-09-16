@@ -6386,7 +6386,7 @@ torture, torment: Ee 9^ 14^ 18^' i"' ^Kf
 
 
 
- <pb n="77" /> <!-- typed="" checked="" --> 
+ <pb n="77" /> <!-- typed="DCO" checked="" --> 
 
 <entry n="βασανιστής|G930">
   <note type="occurrencesNT">1</note>
@@ -6418,20 +6418,24 @@ torture, torment: Ee 9^ 14^ 18^' i"' ^Kf
 
 <entry n="βασίλειον|G933">
   <note type="occurrencesNT">1</note>
-  <form><orth>βασίλειον, -ου, τό</orth> (&lt; <foreign xml:lang="grc">βασίλειος</foreign>, q.v.), [in LXX for <foreign xml:lang="heb">הֵיכָל</foreign> ( Na 2:6, Da 6:18*), <foreign xml:lang="heb">מַמְלָכָה</foreign> (III Ki 3:1 14:8, IV Ki 15:19*), etc.;] </form>
+  <form><orth>βασίλειον, -ου, τό</orth> (&lt; <foreign xml:lang="grc">βασίλειος</foreign>, q.v.), [in LXX for <foreign xml:lang="heb">הֵיכָל</foreign> ( <ref osisRef="Nah.2.6">Na 2:6</ref>, <ref osisRef="Dan.6.18">Da 6:18</ref>*), <foreign xml:lang="heb">מַמְלָכָה</foreign> ( <ref osisRef="1Kgs.3.1">III Ki 3:1</ref>  <ref osisRef="1Kgs.14.8">14:8</ref>, <ref osisRef="2Kgs.15.19">IV Ki 15:19</ref>*), etc.;] </form>
   <sense>
     <sense n="1.">a <gloss>capital city</gloss>. </sense>
-    <sense n="2.">Freq. in pl., <foreign xml:lang="grc">τὰ β.</foreign>, <gloss>a palace</gloss>: Lk 7:25.† </sense>
+    <sense n="2.">Freq. in pl., <foreign xml:lang="grc">τὰ β.</foreign>, <gloss>a palace</gloss>: <ref osisRef="Luke.7.25">Lk 7:25</ref>.† </sense>
   </sense>
 </entry>
 
 <entry n="βασίλειος|G934">
   <note type="occurrencesNT">1</note>
-  <form><orth>βασίλειος, -ον</orth> (also <orth>-α, -ον</orth>; &lt; <foreign xml:lang="grc">βασιλεύς</foreign>), [in LXX; Ex 19:6, De 3:10 (<foreign xml:lang="heb">מַמְלָכָה</foreign>), Ex 23:22, Wi 18:15, III Mac 3:28, IV Mac 3:8*;] </form>
-  <sense>royal: I Pe 2:9 (LXX) (v. Hort, in l.).†</sense>
+  <form><orth>βασίλειος, -ον</orth> (also <orth>-α, -ον</orth>; &lt; <foreign xml:lang="grc">βασιλεύς</foreign>), [in LXX; <ref osisRef="Exod.19.6">Ex 19:6</ref>, <ref osisRef="Deut.3.10">De 3:10</ref> (<foreign xml:lang="heb">מַמְלָכָה</foreign>), <ref osisRef="Exod.23.22">Ex 23:22</ref>, <ref osisRef="Wis.18.15">Wi 18:15</ref>, <ref osisRef="3Macc.3.28">III Mac 3:28</ref>, <ref osisRef="4Macc.3.8">IV Mac 3:8</ref>*;] </form>
+  <sense>royal: <ref osisRef="1Pet.2.9">I Pe 2:9</ref> (LXX) (v. Hort, in l.).†</sense>
 </entry>
 
-paaiXeu's, -e'ws, 6, [in LXX chiefly for "jj^p;] a king: Mt 1« 2i; used by courtesy of Herod the Tetrarch, Mt 14^; of the Roman Emperor, as freq. in Koivrj (Deiss., <emph>LAE</emph>, p. 367), i Pe 2i3. i^; of the Christ, in the phrase 6 /8. t. 'lovSmW, Mt 22, al.; tov 'Io-pai7X, Mk 1532, Jo 1*0 1213; of God, Mt 535, I Ti li", Ee 153 . ^, ^ao-iXe'tov, Ee I71* 191®; )8. T. /Sao-tXcuovTtov, I Ti 615 (on the associations of the word to Jewish Hellenists, v. CI. Bev., i, 7).† 
+<entry n="βασιλεύς|G935">
+  <note type="occurrencesNT">115</note>
+  <form><orth>βασιλεύς, -έως, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">מֶלֶךְ</foreign>;] </form>
+  <sense><gloss>a king</gloss>: <ref osisRef="Matt.1.6">Mt 1:6</ref>  <ref osisRef="Matt.2.1">2:1</ref>; used by courtesy of Herod the Tetrarch, <ref osisRef="Matt.14.9">Mt 14:9</ref>; of the Roman Emperor, as freq. in <foreign xml:lang="grc">κοινή</foreign> (Deiss., <emph>LAE</emph>, p. 367), <ref osisRef="1Pet.2.13">I Pe 2:13</ref>, <ref osisRef="1Pet.2.17">17</ref>; of the Christ, in the phrase <foreign xml:lang="grc">ὁ β. τ. Ἰουδαίων</foreign>, <ref osisRef="Matt.2.2">Mt 2:2</ref>, al.; <foreign xml:lang="grc">τοῦ Ἰσραήλ</foreign>, <ref osisRef="Mark.15.32">Mk 15:32</ref>, <ref osisRef="John.1.50">Jo 1:50</ref>  <ref osisRef="John.12.13">12:13</ref>; of God, <ref osisRef="Matt.5.35">Mt 5:35</ref>, <ref osisRef="1Tim.1.17">I Ti 1:17</ref>, <ref osisRef="Rev.15.3">Re 15:3</ref>; <foreign xml:lang="grc">β. βασιλέων</foreign>, <ref osisRef="Rev.17.14">Re 17:14</ref>  <ref osisRef="Rev.19.16">19:16</ref>; <foreign xml:lang="grc">β. τ. βασιλευόντων</foreign>, <ref osisRef="1Tim.6.15">I Ti 6:15</ref> (on the associations of the word to Jewish Hellenists, v. <emph>Cl. Rev.</emph>, i, 7).†</sense>
+</entry> 
 
  <pb n="78" /> <!-- typed="" checked="" --> 
 
