@@ -4614,7 +4614,7 @@ dTTo-eXipo,, [in LXX for yrh , Nu 22^5 *;] to press hard: Lu 8«.t
 
 <entry n="ἀποθνῄσκω|G599">
   <note type="occurrencesNT">111</note>
-  <form><orth>ἀποθνῄσκω</orth>, [in LXX chiefly for <foreign xml:lang="heb">מוּת</foreign>;] </form>
+  <form><orth>ἀπο-θνῄσκω</orth>, [in LXX chiefly for <foreign xml:lang="heb">מוּת</foreign>;] </form>
   <sense><gloss>to die</gloss>: of natural death, <ref osisRef="Mark.5.35">Mk 5:35</ref>, al.; of violent death (pass. of <foreign xml:lang="grc">ἀποκτείνω</foreign>), esp. of Christ, <ref osisRef="Matt.26.35">Mt 26:35</ref>, <ref osisRef="John.12.33">Jo 12:33</ref>, <ref osisRef="Heb.10.28">He 10:28</ref>, al.; of spiritual death, <ref osisRef="John.6.50">Jo 6:50</ref>, <ref osisRef="Rom.8.13">Ro 8:13</ref>, al.; c. dat. ref., <ref osisRef="Rom.6.2">Ro 6:2</ref>, <ref osisRef="Rom.6.10">10</ref> <ref osisRef="Rom.14.7">14:7</ref>, <ref osisRef="Rom.14.8">8</ref>, <ref osisRef="Gal.2.19">Ga 2:19</ref>; acc., <foreign xml:lang="grc">ὅ</foreign>, <ref osisRef="Rom.6.10">Ro 6:10</ref>; seq. <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="Matt.8.32">Mt 8:32</ref>, <ref osisRef="John.8.21">Jo 8:21</ref>,  <ref osisRef="John.8.24">24</ref> <ref osisRef="1Cor.15.22">I Co 15:22</ref>, <ref osisRef="Heb.11.37">He 11:37</ref>, <ref osisRef="Rev.14.13">Re 14:13</ref>; seq. <foreign xml:lang="grc">ὑπέρ, περί</foreign>, <ref osisRef="John.11.50">Jo 11:50</ref>, <ref osisRef="John.11.51">51</ref> <ref osisRef="John.18.14">18:14</ref>, <ref osisRef="Rom.5.6-Rom.5.8">Ro 5:6-8</ref> <ref osisRef="Rom.14.15">14:15</ref>, <ref osisRef="1Cor.15.3">I Co 15:3</ref>, <ref osisRef="2Cor.5.15">II Co 5:15</ref>, <ref osisRef="1Thess.5.10">I Th 5:10</ref>, <ref osisRef="1Pet.3.18">I Pe 3:18</ref>; <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Col.2.20">Col 2:20</ref>; <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Rev.8.11">Re 8:11</ref>; fig., <ref osisRef="1Cor.15.31">I Co 15:31</ref> (cf. <foreign xml:lang="grc">συν-αποθνήσκω</foreign>, and V. Milligan, <emph>NTD</emph>, 258f.; <emph>DCG</emph>, i, 791b; Cremer, 286; MM, s.v.; on the perfective force of this verb, M, <emph>Pr.</emph>, 112, 114; and on the distinction bet. pres. and aor., ib. 113 f.). </sense>
 </entry>
 
@@ -4879,22 +4879,16 @@ Sources, 121). t
 ** airo-(neydloj « o-rey^;), [in Sm.: Je 4910 (2911)*;] f^ unroof: 
 Mk 2\f 
 
-dTTo-o-TcXXo), [in LXX very freq., almost always for nblSr;] prop., 
-to send away, to dispatch on service; 1. to send with a commission, or 
-on service; (a) of persons: Christ, Mt 10*"; the apostles, IQi"; 
-servants, Mk 12^; angels, 13'-^; {b) of things: o^o?, Mt 21^; to 8pe- 
-iravov, Mk 4^^; T. Xo'yov, Ac 10^^; t. cVayyeAtav (i.e. the promised Holy 
-Spirit), Lk 24*9, Rec.; seq. ds, Mt 20^, Lk 11*^, Jo 31^; ^ttio-o), Lk I91*; 
-tfiTTpoaOev, Jo 3'"^; TTpo TTpoaMTTov, Mt 111*^; TTpos, Mt 21^*; with ref. to 
-sender or place of departure: dTrd, Lk 1^^ (Eec. vTr6); Trapd, Jo 1*; 
-€K, ib. 119; ivro, Ac 1017 (Eec. dTrd); seq. inf., Mk 31*, al.; Iva, Mk 12^, 
-al.; eh (of purpose), He li*; without direct obj.: seq. tt/do's, Jo 5^^; 
-Xc'ywv, Jo 113 . .iTToo-retAas, c. indic, Mt 21^ Ac 7^\ Ee 11. 2. to send 
-aivay, dismiss: Lk 41^, Mk 51** 8'^^ 12^ (cf. i$-, crvv-aTroa-TiXXu)). 
-
-SVN.: Tre'/ATTw, the general term. d. " suggests official or authori- 
-tative sending" (v. Thayer, s.v. Tre/xTrw; Westc, Jo., 298; Ejyp. Jo., 
-125; Cremer, 529; MM, s.v.). 
+<entry n="ἀποστέλλω|G649">
+  <note type="occurrencesNT">136</note>
+  <form><orth>ἀπο-στέλλω</orth>, [in LXX very freq., almost always for <foreign xml:lang="heb">שׁלח</foreign>;] </form>
+  <sense>prop., <gloss>to send away, to dispatch</gloss> on service; 
+    <sense n="1."><gloss>to send</gloss> with a commission, or on service; 
+      <sense n="(a)">of persons: Christ, <ref osisRef="Matt.10.40">Mt 10:40</ref>; the apostles, <ref osisRef="Matt.10.16">10:16</ref>; servants, <ref osisRef="Mark.12.2">Mk 12:2</ref>; angels, <ref osisRef="Mark.13.27">13:27</ref>; </sense>
+      <sense n="(b)">of things: <foreign xml:lang="grc">ὄνος</foreign>, <ref osisRef="Matt.21.3">Mt 21:3</ref>; <foreign xml:lang="grc">τὸ δρέπανον</foreign>, <ref osisRef="Mark.4.29">Mk 4:29</ref>; <foreign xml:lang="grc">τ. λόγον</foreign>, <ref osisRef="Acts.10.36">Ac 10:36</ref>; <foreign xml:lang="grc">τ. ἐπαγγελίαν</foreign> (i.e. the promised Holy Spirit), <ref osisRef="Luke.24.49">Lk 24:49</ref>, Rec.; seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Matt.20.2">Mt 20:2</ref>, <ref osisRef="Luke.11.49">Lk 11:49</ref>, <ref osisRef="John.3.17">Jo 3:17</ref>; <foreign xml:lang="grc">ὀπίσω</foreign>, <ref osisRef="Luke.19.14">Lk 19:14</ref>; <foreign xml:lang="grc">ἔμπροσθεν</foreign>, <ref osisRef="John.3.28">Jo 3:28</ref>; <foreign xml:lang="grc">πρὸ προσώπου</foreign>, <ref osisRef="Matt.11.10">Mt 11:10</ref>; <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="Matt.21.34">Mt 21:34</ref>; with ref. to sender or place of departure: <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Luke.1.26">Lk 1:26</ref> (Rec. <foreign xml:lang="grc">ὑπό</foreign>); <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="John.1.6">Jo 1:6</ref>; <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="John.1.19">ib. 1:19</ref>; <foreign xml:lang="grc">ὑπό</foreign>, <ref osisRef="Acts.10.17">Ac 10:17</ref> (Rec. <foreign xml:lang="grc">ἀπό</foreign>); seq. inf., <ref osisRef="Mark.3.14">Mk 3:14</ref>, al.; <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="Mark.12.2">Mk 12:2</ref>, al.; <foreign xml:lang="grc">εἰς</foreign> (of purpose), <ref osisRef="Heb.1.14">He 1:14</ref>; without direct obj.: seq. <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="John.5.33">Jo 5:33</ref>; <foreign xml:lang="grc">λέγων</foreign>, <ref osisRef="John.11.3">Jo 11:3</ref>; <foreign xml:lang="grc">ἀποστείλας</foreign>, c. indic., <ref osisRef="Matt.2.16">Mt 2:16</ref>, <ref osisRef="Acts.7.14">Ac 7:14</ref>, <ref osisRef="Rev.1.1">Re 1:1</ref>. </sense></sense>
+    <sense n="2."><gloss>to send away, dismiss</gloss>: <ref osisRef="Luke.4.18">Lk 4:18</ref>, <ref osisRef="Mark.5.10">Mk 5:10</ref>  <ref osisRef="Mark.8.26">8:26</ref> <ref osisRef="Mark.12.3">12:3</ref> (cf. <foreign xml:lang="grc">ἐξ-, συν-αποστέλλω</foreign>). </sense>
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">πέμπω</foreign>, the general term. <foreign xml:lang="grc">ἀ.</foreign> "suggests official or authoritative sending" (v. Thayer, s.v. <foreign xml:lang="grc">πέμπω</foreign>; Westc., <emph>Jo.</emph>, 298; <emph>Epp. Jo.</emph>, 125; Cremer, 529; MM, s.v.). </sense>
+</entry>
 
 dTro-arcpe'w, -w « a-Tepew, to rob), [in LXX: Ex 211" (y-a). De24i* 
 (piry), Ma 3^ Si 41 29"' ' 31 (SAf^' '-^ *;] to defraud, dep-ive of, despoil 
