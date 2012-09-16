@@ -5434,10 +5434,15 @@ freq. in Alex, and Byzant. Gk. (MM, s.v.).
 *t dpx-iepariKos, -rj, -ov « dpxiepti^'s), high-priestly: Ac 4*' (MM, 
 8.v).†
 
-dpx-icpcu's, -e'ws, 6, [in LXX for ]n3 , bnan "3 , main '3;] 1. high- 
-priest: Mk 226 14*7, al.; of Christ: He 21^ 31, al. 2. In pi., chief 
-priests, including ex-high-priests and members of high-priestly 
-families: Mt 2\ Mk 8^1, al. (Cremer, 294; DCG, i, 297 f.; MM, s.v.). 
+<entry n="ἀρχιερεύς|G749">
+  <note type="occurrencesNT">122</note>
+  <form><orth>ἀρχιερεύς, -έως, ὁ</orth>, [in LXX for <foreign xml:lang="heb">כּ'' הָרֹאשׁ,כּ'' הַגָּדוֹל ,כּהֵן</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>high-priest</gloss>: <ref osisRef="Mark.2.26">Mk 2:26</ref>  <ref osisRef="Mark.14.47">14:47</ref>, al.; of Christ: <ref osisRef="Heb.2.17">He 2:17</ref>  <ref osisRef="Heb.3.1">3:1</ref>, al. </sense>
+    <sense n="2.">In pl., <gloss>chief priests</gloss>, including ex-high-priests and members of high-priestly families: <ref osisRef="Matt.2.4">Mt 2:4</ref>, <ref osisRef="Mark.8.31">Mk 8:31</ref>, al. (Cremer, 294; <emph>DCG</emph>, i, 297f.; MM, s.v.). </sense>
+  </sense>
+</entry>
+
 **tdpxi-n-oifjiT]&gt;', -evo5, 6, [in Sm.: iv Ki 3**;] found on an Egyptian 
 mummy label (Deiss., <emph>LAE</emph>, 97 ff.; cf. MM, s.v.); used by modern 
 Greeks of tribal chiefs; chief shepherd . of Christ, i Pe 5*.t 
