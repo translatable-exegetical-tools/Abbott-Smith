@@ -4412,20 +4412,17 @@ cumcised; metaph. (t.) KapSiais (cf. Je 92", al.): Ac 7^^. {aarjfjLos,
 found in tt., appears to have been the word used by Greek-speaking 
 Egyptians: v. Deiss., <emph>BS</emph>, 153; cf . also Cremer, 885; MM, s.v.)t 
 
-d-n-^PXOfiai, [in LXX chiefly for "^bn;] 1. togo away, depart (also, 
-in late writers, with "perfective" force, to arrive at a destination, the 
-
-
-
- <pb n="47" /> <!-- typed="" checked="" --> 
-
-thought being carried on to the goal; M, <emph>Pr.</emph>, Ill f., 247; MM, s.v.); 
-(a) absol.: Mt 13^^, al.; ptcp., dTreX^wv, used pleonastically with other 
-verbs as in Heb. (Dalman, <emph>Words</emph>, 21), Mt 13^*, al.; (6) with mention 
-of place or person: cts, Mt 14^5; IttI, Lk 242* • ^p^^^ j^e 10^; aird, 
-Lk 138; {^^^ p^Q 415. ^^j-^ Mt 222. 2. As in LXX, seq. ottio-w, c. gen. 
-(Heb. nns "^bn), to go after, follow: Mk l^o, Jo 12^^; metaph., 
-Mk 1*2^ Re 211. 
+<entry n="ἀπέρχομαι|G565">
+  <note type="occurrencesNT">126</note>
+  <form><orth>ἀπέρχομαι</orth>, [in LXX chiefly for <foreign xml:lang="heb">הלךְ</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>to go away, depart</gloss> (also, in late writers, with "perfective" force, <gloss>to arrive</gloss> at a destination, the  <pb n="47" /> <!-- typed="" checked="" --> thought being carried on to the goal; M, <emph>Pr.</emph>, 111f., 247; MM, s.v.); 
+      <sense n="(a)">absol.: <ref osisRef="Matt.13.25">Mt 13:25</ref>, al.; ptcp., <foreign xml:lang="grc">ἀπελθών</foreign>, used pleonastically with other verbs as in Heb. (Dalman, <emph>Words</emph>, 21), <ref osisRef="Matt.13.28">Mt 13:28</ref>, al.; </sense>
+      <sense n="(b)">with mention of place or person: <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Matt.14.15">Mt 14:15</ref>; <foreign xml:lang="grc">ἐπί</foreign>, <ref osisRef="Luke.24.24">Lk 24:24</ref>; <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="Rev.10.9">Re 10:9</ref>; <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Luke.1.38">Lk 1:38</ref>; <foreign xml:lang="grc">ἐξω</foreign>, <ref osisRef="Acts.4.15">Ac 4:15</ref>; <foreign xml:lang="grc">ἐκεῖ</foreign>, <ref osisRef="Matt.2.22">Mt 2:22</ref>. </sense>
+    </sense>
+    <sense n="2.">As in LXX, seq. <foreign xml:lang="grc">ὀπίσω</foreign>, c. gen. (Heb. <foreign xml:lang="heb">הָלַךְ אַחֲרֵי</foreign>), <gloss>to go after, follow</gloss>: <ref osisRef="Mark.1.20">Mk 1:20</ref>, <ref osisRef="John.12.19">Jo 12:19</ref>; metaph., <ref osisRef="Mark.1.42">Mk 1:42</ref>, <ref osisRef="Rev.21.1">Re 21:1</ref>. </sense>
+  </sense>
+</entry>
 
 dir-exw, [in LXX chiefly for pm;] 1. trans., {a) to hold bach, keep 
 off; (b) to Imve in full, to have received (on the "punctiliar" force of 
