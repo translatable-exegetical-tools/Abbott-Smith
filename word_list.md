@@ -18,7 +18,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>0906</td><td>βασιλεία</td><td>G932</td><td>162</td></tr>
 <tr><td>0909</td><td>βασιλεύς</td><td>G935</td><td>115</td></tr>
 <tr><td>0965</td><td>βλέπω</td><td>G991</td><td>132</td></tr>
 <tr><td>1184</td><td>δέω</td><td>G1210</td><td>138</td></tr>
@@ -927,8 +926,6 @@ Each row includes the following information:
 <tr><td>0901</td><td>βαρύτιμος</td><td>G927</td><td>1</td></tr>
 <tr><td>0902</td><td>βασανίζω</td><td>G928</td><td>12</td></tr>
 <tr><td>0903</td><td>βασανισμός</td><td>G929</td><td>6</td></tr>
-<tr><td>0907</td><td>βασίλειον</td><td>G933</td><td>1</td></tr>
-<tr><td>0908</td><td>βασίλειος</td><td>G934</td><td>1</td></tr>
 <tr><td>0910</td><td>βασιλεύω</td><td>G936</td><td>21</td></tr>
 <tr><td>0911</td><td>βασιλικός</td><td>G937</td><td>5</td></tr>
 <tr><td>0912</td><td>βασίλισσα</td><td>G938</td><td>4</td></tr>
