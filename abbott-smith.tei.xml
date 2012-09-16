@@ -3841,19 +3841,18 @@ produce, to send hack. 2. to let go, leave without support: He 13^
 dK-iXews, -wv, V.S. av€A.€09. 
 *ak'nrTos, -ov (a. neg., vLirTui), unwashed: Mt I520, Mk 72(5Rec.) t 
 
-d&gt;'-i&lt;TTT]juii {dvd, la-TTqfxi), [in LXX chiefly for Dip;] 1. causal, in fut. 
-and 1 aor. act., c. ace, to raise up: Ac 9*^; from death, Jo 63^, 
-Ac 232; to raise up, cause to he horn or ajypear: Mt 222*, Ac 3221 2«. 
-2. Intrans., in mid. and 2 aor act.; (a) to rise: from lying, Mk 135 . 
-from sitting, Lk 4^"; to leave a place, Mt 9^; pleonastically, as Heb, 
-Dip , before verbs of going, Mk 10^, al. (v. Dalman, <emph>Words</emph>, 23; 
-M, <emph>Pr.</emph>, 14); of the dead, Mt 1723, Mk 83i; seq. « v€Kpwv, Mt 179, 
-Mk 9^; (h) to arise, appear: Ac 53", Ro 15^2 (cf. ctt-, ef- dvia-Trjfu, and 
-V. Cremer, 306, 738; MM, <emph>VGT</emph>, s.v.). 
-
-Syn.: iyetpo). 
-
-
+<entry n="ἀνίστημι|G450">
+  <note type="occurrencesNT">115</note>
+  <form><orth>ἀνίστημι</orth> (<foreign xml:lang="grc">ἀνά, ἵστημι</foreign>), [in LXX chiefly for <foreign xml:lang="heb">קוּם</foreign>;] </form>
+  <sense>
+    <sense n="1.">causal, in fut. and 1 aor. act., c. acc., <gloss>to raise up</gloss>: <ref osisRef="Acts.9.41">Ac 9:41</ref>; from death, <ref osisRef="John.6.39">Jo 6:39</ref>, <ref osisRef="Acts.2.32">Ac 2:32</ref>; <gloss>to raise up, cause to be born or appear</gloss>: <ref osisRef="Matt.22.24">Mt 22:24</ref>, <ref osisRef="Acts.3.22">Ac 3:22</ref>, <ref osisRef="Acts.3.26">26</ref>. </sense>
+    <sense n="2.">Intrans., in mid. and 2 aor act.; 
+      <sense n="(a)"><gloss>to rise</gloss>: from lying, <ref osisRef="Mark.1.35">Mk 1:35</ref>; from sitting, <ref osisRef="Luke.4.16">Lk 4:16</ref>; to leave a place, <ref osisRef="Matt.9.9">Mt 9:9</ref>; pleonastically, as Heb. <foreign xml:lang="heb">קוּם</foreign>, before verbs of going, <ref osisRef="Mark.10.1">Mk 10:1</ref>, al. (v. Dalman, <emph>Words</emph>, 23; M, <emph>Pr.</emph>, 14); of the dead, <ref osisRef="Matt.17.23">Mt 17:23</ref>, <ref osisRef="Mark.8.31">Mk 8:31</ref>; seq. <foreign xml:lang="grc">ἐκ νεκρῶν</foreign>, <ref osisRef="Matt.17.9">Mt 17:9</ref>, <ref osisRef="Mark.9.9">Mk 9:9</ref>; </sense>
+      <sense n="(b)"><gloss>to arise, appear</gloss>: <ref osisRef="Acts.5.36">Ac 5:36</ref>, <ref osisRef="Rom.15.12">Ro 15:12</ref> (cf. <foreign xml:lang="grc">ἐπ-, ἐξ- ἀνίστημι</foreign>, and v. Cremer, 306, 738; MM, <emph>VGT</emph>, s.v.). </sense>
+    </sense>
+  <lb />SYN.: <foreign xml:lang="grc">ἐγείρω</foreign>. 
+  </sense>
+</entry>
 
  <pb n="39" /> <!-- typed="" checked="" --> 
 
