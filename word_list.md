@@ -927,7 +927,6 @@ Each row includes the following information:
 <tr><td>0901</td><td>βαρύτιμος</td><td>G927</td><td>1</td></tr>
 <tr><td>0902</td><td>βασανίζω</td><td>G928</td><td>12</td></tr>
 <tr><td>0903</td><td>βασανισμός</td><td>G929</td><td>6</td></tr>
-<tr><td>0904</td><td>βασανιστής</td><td>G930</td><td>1</td></tr>
 <tr><td>0905</td><td>βάσανος</td><td>G931</td><td>3</td></tr>
 <tr><td>0907</td><td>βασίλειον</td><td>G933</td><td>1</td></tr>
 <tr><td>0908</td><td>βασίλειος</td><td>G934</td><td>1</td></tr>

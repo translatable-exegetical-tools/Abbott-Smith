@@ -6388,8 +6388,11 @@ torture, torment: Ee 9^ 14^ 18^' i"' ^Kf
 
  <pb n="77" /> <!-- typed="" checked="" --> 
 
-* Pa&lt;rafi&lt;mis, -ov, o (&lt;^ fiaa-avL^w) , prop., a torturer; used of a 
-gaoler, Mt 18=**.t 
+<entry n="βασανιστής|G930">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>βασανιστής, -οῦ, ὁ</orth> (&lt; <foreign xml:lang="grc">βασανίζω</foreign>) , </form>
+  <sense>prop., <gloss>a torturer</gloss>; used of a gaoler, <ref osisRef="Matt.18.34">Mt 18:34</ref>.† </sense>
+</entry>
 
 fid&lt;Tavo(i, -ov, 6 (of Oriental origin), [in LXX chiefly for D^?&lt; , rn^bj , 
 
