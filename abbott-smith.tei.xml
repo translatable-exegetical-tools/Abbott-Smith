@@ -6403,53 +6403,24 @@ torture, torment: Ee 9^ 14^ 18^' i"' ^Kf
   </sense>
 </entry>
 
-PaCTiXeia, -as, rj (■&lt; /SaariXevw), [in LXX chiefly for rWD^O , 
-npbpo;] 1. prop. abstract, so'uemg'n^^/. royal power, dominion: Lk 1^* 
-2229, Jo 1836, Ac 16, He l^, i Co IS^^; \a/3uv p., Lk 1^^^^^\ Ee IT^^; 
+<entry n="βασιλεία|G932">
+  <note type="occurrencesNT">162</note>
+  <form><orth>βασιλεία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">βασιλεύω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">מַמְלָכָה ,מַלְכוּת</foreign>;] </form>
+  <sense>
+    <sense n="1.">prop. abstract, <gloss>sovereignty, royal power, dominion</gloss>: <ref osisRef="Luke.1.33">Lk 1:33</ref>  <ref osisRef="Luke.22.29">22:29</ref>, <ref osisRef="John.18.36">Jo 18:36</ref>, <ref osisRef="Acts.1.6">Ac 1:6</ref>, <ref osisRef="Heb.1.8">He 1:8</ref>, <ref osisRef="1Cor.15.24">I Co 15:24</ref>; <foreign xml:lang="grc">λαβεῖν β.</foreign>, <ref osisRef="Luke.19.12">Lk 19:12</ref>,  <ref osisRef="Luke.19.15">15</ref> <ref osisRef="Rev.17.12">Re 17:12</ref>; <foreign xml:lang="grc">δοῦναι τὴν</foreign>, <ref osisRef="Rev.17.17">ib. 17</ref>; <foreign xml:lang="grc">ἔχειν β.</foreign>, <ref osisRef="Rev.17.18">ib. 18</ref>; <foreign xml:lang="grc">ἔρχεσθαι ἐν τ. (εἰς τὴν) β.</foreign>, <ref osisRef="Matt.16.28">Mt 16:28</ref>, <ref osisRef="Luke.23.42">Lk 23:42</ref>; <foreign xml:lang="grc">β. τ. θεοῦ</foreign>, <ref osisRef="Rev.12.10">Re 12:10</ref>. </sense>
+    <sense n="2.">By meton., concrete (MM, <emph>Exp.</emph>, x), 
+      <sense n="(a)"><gloss>a kingdom</gloss>, the territory or people over whom the king rules (<ref osisRef="Esth.5.3">Es 5:3</ref>, al.): <ref osisRef="Matt.4.8">Mt 4:8</ref>  <ref osisRef="Matt.12.25">12:25</ref>, <ref osisRef="Matt.12.26">26</ref> <ref osisRef="Matt.24.7">24:7</ref>, <ref osisRef="Mark.3.24">Mk 3:24</ref>  <ref osisRef="Mark.6.23">6:23</ref>, <ref osisRef="Luke.4.5">Lk 4:5</ref>, <ref osisRef="Heb.11.33">He 11:33</ref>, al.; </sense>
+      <sense n="(b)"><gloss>the royal majesty</gloss> (cf. our phrase <emph>His Majesty</emph>), <gloss>the king</gloss> himself (<foreign xml:lang="grc">τ. σπέρμα τῆς β.</foreign>, <ref osisRef="2Kgs.11.1">IV Ki 11:1</ref>). </sense>
+    </sense>
+    <sense n="3.">In LXX (<ref osisRef="Wis.6.5">Wi 6:5</ref>, <ref osisRef="Tob.13.1">To 13:1</ref>, al.), Targ. and NT, of the Messianic rule and kingdom, <foreign xml:lang="grc">ἡ β. τ. θεοῦ, τ. οὐρανῶν</foreign> (Heb. <foreign xml:lang="heb">מַלְכוּת שָׁמַיִם</foreign>, Aram. <foreign xml:lang="arc">מַלְכוּתָא דִשׁמַיָּא</foreign>; v. Dalman, <emph>Words</emph>, 91-147; Cremer, 132, 658), <gloss>the kingdom of God</gloss> (on the equivalence of the two phrases, v. Dalman, <emph>op. cit.</emph>, 93, 218f.); <foreign xml:lang="grc">τ. θεοῦ</foreign>, <ref osisRef="Matt.6.33">Mt 6:33</ref>  <ref osisRef="Matt.12.28">12:28</ref>, al.; <foreign xml:lang="grc">τ. οὐρανῶν</foreign>, <ref osisRef="Matt.3.2">Mt 3:2</ref>  <ref osisRef="Matt.4.17">4:17</ref>, al.; <foreign xml:lang="grc">τ. Χριστοῦ</foreign> (<foreign xml:lang="arc">מַלִכוּת דִמְשִׁיחא</foreign>, Targ. Jon. on <ref osisRef="Isa.53.10">Is 53:10</ref>), <ref osisRef="Eph.5.5">Eph 5:5</ref>; <foreign xml:lang="grc">τ. κυρίου</foreign>, <ref osisRef="2Pet.1.11">II Pe 1:11</ref>, <ref osisRef="Rev.11.15">Re 11:15</ref>; <foreign xml:lang="grc">τ. Δαυείδ</foreign>, <ref osisRef="Mark.11.10">Mk 11:10</ref>; absol., <foreign xml:lang="grc">ἡ β.</foreign>, <ref osisRef="Matt.4.23">Mt 4:23</ref>, <ref osisRef="Jas.2.5">Ja 2:5</ref>, al. The kingdom is regarded as present: <ref osisRef="Matt.11.12">Mt 11:12</ref>, <ref osisRef="Luke.17.21">Lk 17:21</ref>, <ref osisRef="Rom.14.17">Ro 14:17</ref>, al.; as that which is to be consummated in the future, <ref osisRef="Matt.6.10">Mt 6:10</ref>, <ref osisRef="Mark.9.1">Mk 9:1</ref>, <ref osisRef="John.3.5">Jo 3:5</ref>, <ref osisRef="2Pet.1.11">II Pe 1:11</ref>, al. Noteworthy phrases are: <foreign xml:lang="grc">ζητεῖν τὴν β.</foreign>, <ref osisRef="Matt.6.33">Mt 6:33</ref>; <foreign xml:lang="grc">δέχεσθαι</foreign>, <ref osisRef="Mark.10.15">Mk 10:15</ref>; <foreign xml:lang="grc">κλρονομεῖν</foreign>, <ref osisRef="Matt.25.34">Mt 25:34</ref>; <foreign xml:lang="grc">διδόναι</foreign>, <ref osisRef="Luke.12.32">Lk 12:32</ref>; <foreign xml:lang="grc">παραλαμβάνειν</foreign>, <ref osisRef="Heb.12.28">He 12:28</ref>; <foreign xml:lang="grc">αὐτῶν (τοιούτων) εστὶν ἡ β.</foreign>, <ref osisRef="Matt.5.3">Mt 5:3</ref>, <ref osisRef="Matt.5.10">10</ref> <ref osisRef="Matt.19.14">19:14</ref>, <ref osisRef="Mark.10.14">Mk 10:14</ref>, <ref osisRef="Luke.18.16">Lk 18:16</ref>; <foreign xml:lang="grc">διὰ τὴν β.</foreign>, <ref osisRef="Matt.19.12">Mt 19:12</ref>; <foreign xml:lang="grc">ἕνεκεν τῆς β.</foreign>, <ref osisRef="Luke.18.29">Lk 18:29</ref>; <foreign xml:lang="grc">εὐαγγελίζεσθαι, κηρύσσειν, διαγγέλλειν τὴν β.</foreign>, <ref osisRef="Luke.4.43">Lk 4:43</ref>  <ref osisRef="Luke.9.2">9:2</ref>, <ref osisRef="Luke.9.60">60</ref>; <foreign xml:lang="grc">ἤγγικεν ἡ β.</foreign>, <ref osisRef="Matt.3.2">Mt 3:2</ref>, <ref osisRef="Mark.1.15">Mk 1:15</ref>; <foreign xml:lang="grc">κλεῖς τῆς β.</foreign>, <ref osisRef="Matt.16.10">Mt 16:10</ref>; <foreign xml:lang="grc">κλείειν τὴν β.</foreign>, <ref osisRef="Matt.23.14">Mt 23:14</ref>; <foreign xml:lang="grc">υἱοὶ τῆς β.</foreign>, <ref osisRef="Matt.8.12">Mt 8:12</ref>  <ref osisRef="Matt.13.38">13:38</ref> (cf. Cremer, 132, 658).</sense>
+  </sense>
+</entry>
 
-hovvcLi rr]v /?., ib. ^^; ^«v /8., ib. ^^ • Ip^^^^ai iv t. {els Trjv) /?., Mt 1628, 
-Lk 23*2 . ^ ^ 0^^-^ Re 1210. 2. By meton., concrete (MM, <emph>Exp.</emph>, x), 
-(a) a kingdom, the territory or people over whom the king rules 
-(Es 53, al.): Mt 4* 1225. 26 24^, Mk 32* 623, l^ 4^, He 1133, al.; (b) the 
-royal majesty (cf. our phrase His Majesty), the king himself (t. a-rrip/xa 
-T^s (3., IV Ki 111). 3. In LXX (Wi 6^ To 13^, al.), Targ. and NT, of 
-the Messianic rule and kingdom, 17 ^. t. Oeov, t. ovpavCyv (Heb. 
-D^.O^ma^O, Aram. N^OBTl KniD^O; v. Dalman, <emph>Words</emph>, 91-147; 
+PttCTiXcioj', -ov, TO « jSaaiKiios, q.v.), [in LXX for bs"*:! (Na 2*, Da 618*), ns^pn (ill Ki 31 148, IV Ki 15i9*), etc.;] 1. a capital city. 2. Freq. in pi., to. (3., a palace: Lk 725.† 
 
-Cremer, 132, 658), the kingdom of God (on the equivalence of the two 
-phrases, v. Dalman, op. cit., 93, 218 f.); t. dtoi, Mt 6^^ 1228, al.; t. 
-oupavwv, Mt 32 41^ al.; T. Xpto-ToG (xn'^tZTpl nobn , Targ. Jon. on 
+PaaiXcios, -ov (also -a, -ov; &lt;C. /SacriXevs), [in LXX; Ex 19", De 310 (nabpn), Ex 2322, Wi 1815, m Mac 328, jy Mac 38*;] royal: I Pe 29 (LXX) (v. Hort, inl.).†
 
-Is 5310), Eph 55; T. Kvpi'ov, II Pe 1", Ee lli*; t. AavctS, Mk ll^O; 
-absol., Tj /3., Mt 423, Ja 2\ al. The kingdom is regarded as present: 
-Mt 1112, Lk 1721, Ro I41", al.; as that which is to be consummated in 
-the future, Mt 610, Mk 91, Jo 3^, 11 Pe in, al. Noteworthy phrases 
-are: ^-qrelv tyjv /3., Mt 633 . Six^a-daL, Mk IQis; KXr/povo/xelv, Mt 253*; 
-StSovai, Lk 1232 • irapaXafx/Sdveiv, He 1228; avTS)V {toiovt&lt;dv) icrrlv rj (3., 
-Mt 53.10 191*, Mk IQi*. Lk ISiS; Sih t^v /3., Mt 19i2; "ey^K^ t^s /?., 
-Lk 1829; €vayy€At^€(T^ai, K-qpvcrauv, StayycUctv -n^v p., Lk 4*3 92,60. 
-^yyiKcv rj /S., Mt 32, Mk li*; kXcZs t^s /3., Mt I6IO; kX^ulv t'tjv fi., 
-Mt 231*; vloX T^s p., Mt 812 1338 (cf. Cremer, 132, 658). 
-
-PttCTiXcioj', -ov, TO « jSaaiKiios, q.v.), [in LXX for bs"*:! (Na 2*, 
-Da 618*), ns^pn (ill Ki 31 148, IV Ki 15i9*), etc.;] 1. a capital city. 
-
-2. Freq. in pi., to. (3., a palace: Lk 725.t 
-
-PaaiXcios, -ov (also -a, -ov; &lt;C. /SacriXevs), [in LXX; Ex 19", 
-De 310 (nabpn), Ex 2322, Wi 1815, m Mac 328, jy Mac 38*;] royal: 
-I Pe 29 (LXX) (v. Hort, inl.).†
-
-paaiXeu's, -e'ws, 6, [in LXX chiefly for "jj^p;] a king: Mt 1« 2i; 
-
-used by courtesy of Herod the Tetrarch, Mt 14^; of the Eoman 
-Emperor, as freq. in Koivrj (Deiss., <emph>LAE</emph>, p. 367), i Pe 2i3. i^; of the 
-Christ, in the phrase 6 /8. t. 'lovSmW, Mt 22, al.; tov 'Io-pai7X, Mk 1532, 
-Jo 1*0 1213; of God, Mt 535, I Ti li", Ee 153 . ^, ^ao-iXe'tov, Ee I71* 
-191®; )8. T. /Sao-tXcuovTtov, I Ti 615 (on the associations of the word to 
-Jewish Hellenists, v. CI. Bev., i, 7).t 
-
-
+paaiXeu's, -e'ws, 6, [in LXX chiefly for "jj^p;] a king: Mt 1« 2i; used by courtesy of Herod the Tetrarch, Mt 14^; of the Roman Emperor, as freq. in Koivrj (Deiss., <emph>LAE</emph>, p. 367), i Pe 2i3. i^; of the Christ, in the phrase 6 /8. t. 'lovSmW, Mt 22, al.; tov 'Io-pai7X, Mk 1532, Jo 1*0 1213; of God, Mt 535, I Ti li", Ee 153 . ^, ^ao-iXe'tov, Ee I71* 191®; )8. T. /Sao-tXcuovTtov, I Ti 615 (on the associations of the word to Jewish Hellenists, v. CI. Bev., i, 7).† 
 
  <pb n="78" /> <!-- typed="" checked="" --> 
 
