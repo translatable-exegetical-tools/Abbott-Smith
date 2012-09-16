@@ -30,7 +30,6 @@ Each row includes the following information:
 <tr><td>1427</td><td>ἐγείρω</td><td>G1453</td><td>144</td></tr>
 <tr><td>1458</td><td>ἔθνος</td><td>G1484</td><td>162</td></tr>
 <tr><td>1551</td><td>ἐκκλησία</td><td>G1577</td><td>114</td></tr>
-<tr><td>1674</td><td>ἐμοῦ</td><td>G1700</td><td>108</td><td>KJV</td></tr>
 <tr><td>1823</td><td>ἐξουσία</td><td>G1849</td><td>102</td></tr>
 <tr><td>2042</td><td>ἐσθίω</td><td>G2068</td><td>163</td></tr>
 <tr><td>2167</td><td>ἕως</td><td>G2193</td><td>146</td></tr>
@@ -1654,14 +1653,12 @@ Each row includes the following information:
 <tr><td>1662</td><td>ἐμβιβάζω</td><td>G1688</td><td>1</td></tr>
 <tr><td>1663</td><td>ἐμβλέπω</td><td>G1689</td><td>12</td></tr>
 <tr><td>1664</td><td>ἐμβριμάομαι</td><td>G1690</td><td>5</td></tr>
-<tr><td>1665</td><td>ἐμέ</td><td>G1691</td><td>77</td><td>KJV</td></tr>
 <tr><td>1666</td><td>ἐμέω</td><td>G1692</td><td>1</td><td>KJV</td></tr>
 <tr><td>1667</td><td>ἐμμαίνομαι</td><td>G1693</td><td>1</td></tr>
 <tr><td>1668</td><td>Ἐμμανουήλ</td><td>G1694</td><td>1</td></tr>
 <tr><td>1669</td><td>Ἐμμαοῦς</td><td>G1695</td><td>1</td></tr>
 <tr><td>1670</td><td>ἐμμένω</td><td>G1696</td><td>4</td></tr>
 <tr><td>1671</td><td>Ἐμμόρ</td><td>G1697</td><td>1</td><td>KJV</td></tr>
-<tr><td>1672</td><td>ἐμοί</td><td>G1698</td><td>90</td><td>KJV</td></tr>
 <tr><td>1673</td><td>ἐμός</td><td>G1699</td><td>63</td><td>KJV</td></tr>
 <tr><td>1675</td><td>ἐμπαιγμός</td><td>G1701</td><td>1</td></tr>
 <tr><td>1676</td><td>ἐμπαίζω</td><td>G1702</td><td>13</td></tr>
