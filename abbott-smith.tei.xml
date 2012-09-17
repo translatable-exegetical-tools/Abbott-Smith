@@ -6759,33 +6759,23 @@ II Ti 32, II Pe 211 (cf. Ju 9); {b) as subst. a blasphemer: i Ti li^
 II Pe 28, sight and hearing, a sense not found for yS. in Gk. lit., but 
 perh. recognized in the vernacular {ICC, in l.)t 
 
-pXe'tro), [in LXX chiefly for nXT , also for TOG, etc.;] 1. of 
-bodily sight; (a) to see, have sight (opp. to Tv&lt;^Xds ctvat): Mt 1222, 
-Jo 9^ Ac 99, Ro 118, jje 318^ ^1.; (b) to perceive, look (at), see: absol., 
+<entry n="βλέπω|G991">
+  <note type="occurrencesNT">132</note>
+  <form><orth>βλέπω</orth>, [in LXX chiefly for <foreign xml:lang="heb">ראה</foreign>, also for <foreign xml:lang="heb">פּנה</foreign>, etc.;] </form>
+  <sense>
+    <sense n="1.">of bodily sight; 
+      <sense n="(a)"><gloss>to see, have sight</gloss> (opp. to <foreign xml:lang="grc">τυφλὸς</foreign>): <ref osisRef="Matt.12.22">Mt 12:22</ref>, <ref osisRef="John.9.7">Jo 9:7</ref>, <ref osisRef="Acts.9.9">Ac 9:9</ref>, <ref osisRef="Rom.11.8">Ro 11:8</ref>, <ref osisRef="Rev.3.18">Re 3:18</ref>, al.; </sense>
+      <sense n="(b)"><gloss>to perceive, look (at), see</gloss>: absol., <pb n="83" /> <!-- typed="" checked="" --> <ref osisRef="Acts.1.9">Ac 1:9</ref>; c. acc., <ref osisRef="Matt.7.3">Mt 7:3</ref>, <ref osisRef="Mark.5.31">Mk 5:31</ref>, <ref osisRef="Luke.6.41">Lk 6:41</ref>, <ref osisRef="John.1.29">Jo 1:29</ref>, al.; <foreign xml:lang="grc">ὅραμα</foreign>, <ref osisRef="Acts.12.9">Ac 12:9</ref>; <foreign xml:lang="grc">γυναῖκα</foreign>, <ref osisRef="Matt.5.28">Mt 5:28</ref>; <foreign xml:lang="grc">βιβλίον</foreign>, <ref osisRef="Rev.5.3">Re 5:3</ref>, <ref osisRef="Rev.5.4">4</ref>; <foreign xml:lang="grc">τ. βλεπόμενα</foreign>, <ref osisRef="2Cor.4.18">II Co 4:18</ref>. </sense>
+    </sense>
+    <sense n="2.">Metaph., of mental vision; 
+      <sense n="(a)"><gloss>to see, perceive, discern</gloss>: absol., <ref osisRef="Matt.13.13">Mt 13:13</ref>, <ref osisRef="Luke.8.10">Lk 8:10</ref>; <foreign xml:lang="grc">δι ̓ ἐσόπτρου</foreign>, <ref osisRef="1Cor.13.12">I Co 13:12</ref>; c. acc., <ref osisRef="Heb.2.9">He 2:9</ref>  <ref osisRef="Heb.10.25">10:25</ref>; seq. <foreign xml:lang="grc">ὅτι</foreign>, <ref osisRef="Heb.3.19">He 3:19</ref>, <ref osisRef="Jas.2.22">Ja 2:22</ref>; </sense>
+      <sense n="(b)"><gloss>to consider, look to, take heed</gloss>: absol., <ref osisRef="Mark.13.23">Mk 13:23</ref>, <ref osisRef="Mark.13.33">33</ref>; c. acc., <ref osisRef="1Cor.1.26">I Co 1:26</ref>, al.; seq. <foreign xml:lang="grc">πῶς</foreign>, c. indic., <ref osisRef="Luke.8.18">Lk 8:18</ref>, <ref osisRef="1Cor.3.10">I Co 3:10</ref>, <ref osisRef="Eph.5.15">Eph 5:15</ref>; seq. <foreign xml:lang="grc">τί</foreign>, c. indic., <ref osisRef="Mark.4.24">Mk 4:24</ref>; seq. <foreign xml:lang="grc">εἰς πρόσωπον</foreign>, of partiality, <ref osisRef="Matt.22.16">Mt 22:16</ref>, <ref osisRef="Mark.12.14">Mk 12:14</ref>. Colloq. (for ex. from <foreign xml:lang="grc">π.</foreign>, V. Deiss., <emph>LAE</emph>, 122; M, <emph>Pr.</emph>, 107; MM, <emph>Exp.</emph>, x; Milligan, <emph>NTD</emph>, 50), <foreign xml:lang="grc">β. ἑαυτόν</foreign>: <ref osisRef="Mark.13.9">Mk 13:9</ref>; seq. <foreign xml:lang="grc">ἵνα μή</foreign>, <ref osisRef="2John.1.8">II Jo 8</ref>; <foreign xml:lang="grc">β. ἀπό</foreign>, <ref osisRef="Mark.8.15">Mk 8:15</ref>  <ref osisRef="Mark.12.38">12:38</ref>; seq. <foreign xml:lang="grc">μή</foreign> (cl. <foreign xml:lang="grc">ὁρᾶν</foreign>), c. fut. indic., <ref osisRef="Col.2.8">Col 2:8</ref>, <ref osisRef="Heb.3.12">He 3:12</ref>; id. c. aor. subj., <ref osisRef="Matt.24.4">Mt 24:4</ref>, <ref osisRef="Mark.13.5">Mk 13:5</ref>. </sense>
+    </sense>
+    <sense n="3.">Of situation and direction (Lat. <foreign xml:lang="lat">specto</foreign>), <gloss>to look, face</gloss> (towards), places, etc. (seq. <foreign xml:lang="grc">πρός</foreign>, Xen, <emph>Hell.</emph>, vii, 1, 17; <ref osisRef="Ezek.40.23">Ez 40:23</ref>, 24): seq. <foreign xml:lang="grc">κατά</foreign>, c. acc., <ref osisRef="Acts.27.12">Ac 27:12</ref> (cf. <foreign xml:lang="grc">ἀνα-, ἀπο-, δια-, ἐμ-, ἐπι-, περ-, προ-βλέπω</foreign>), v. <emph>DCG</emph>, i, 446; ii, 596.</sense>
+  </sense>
+</entry> 
 
-
-
- <pb n="83" /> <!-- typed="" checked="" --> 
-
-Ac 1»; c. ace, Mt 7^, Mk 5^\ Lk 6*1, Jo 129, ^j . ^^^^^^ Ac 129; 
-yvvalKa, Mt 528 • ^^3\{ov, Ee 53. *; t. /Skewo/xeva, II Co d^s. 2. Metaph., 
-of mental vision; (a) to see, perceive, discern: absol., Mt 13^^, Lk 8^**; 
-Bi i(r67rTpov, 1 Co 1312; c. acc, He 2^ 1025; geq. 5„^ He 3^^, Ja 222; (jj 
-to consider, look to, take heed: absol., Mk 132^' ^3; c. acc, i Co l^^, al.; 
-seq. TTtus, c. indie, Lk S^^, i Co 3^^ Eph 5^^; ggq. „', c. indie, Mk 42*; 
-seq. tis TT/joo-wTTov, of partiality, Mt 22l^ Mk 121*. Colloq. (for ex. 
-from TT., V. Deiss., <emph>LAE</emph>, 122; M, <emph>Pr.</emph>, 107; MM, <emph>Exp.</emph>, x; Milligan, 
-NTD, 50), ft. iavT6v: Mk 13^; seq. Iva fi^, 11 Jo^; ft. AttS, Mk S^s 12*8; 
-seq. yu.17 (cl. opav fjirj), c. fut. indie, Col 2*, He 3^2- i,j_ q ^or. subj., 
-Mt 24*, Mk 13*. 3. Of situation and direction (Lat. specto), to look, 
-face (towards), places, etc. (seq. Trpd?, Xen, Hell., vii, 1, 17; Ez 
-
-4023,24^. ggq na_Ta, C. aCC, Ac 27^2 (cf. dva-, ttTTO-, 8ta-, €/*-, CTTt-, TTCp-, 
-
-Trpo-ftKiww), V. DCG, i, 446; ii, 596. 
-
-*tpXT]Teos, -a, -ov (gerundive of ySaAAw), (that which) one must put: 
-Lk 538.f 
+*tpXT]Teos, -a, -ov (gerundive of ySaAAw), (that which) one must put: Lk 538.f 
 
 Bodl, v.s. Boos. 
 
