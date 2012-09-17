@@ -9498,20 +9498,18 @@ Cremer, 223). t
 
 iyyoTcpos, V.S. eyyvs. 
 
-eyeipu, [in LXX for Dip , etc.;] trans, (imperat. lyeipc used in- 
-transitively, Mt 95, Mk 211, al.); 1. to awaken, arouse from sleep: Mk 
-438, Ac 12'^; metaph., of spiritual awakening, Ro I311 (pass.), Eph 51*; 
-pass., to be aroused, wake up: Mt 25'', Mk 42^; otto t. vttvov, Mt I2*. 
-2. Freq. in NT, to raise from the dead: vcKpov^, Jo 521, Ac 268, u Qq 
-l^; €K v€Kpu)v, Jo 121, Ac 315, Ro Sn, al.; pass., rise from death: Mt 
-115, Lk 722, Jo 222, Ro 69, al.; dTro t. v€KpS&gt;v, Mt I42, al. 3. In late 
-Gk., (a) to raise, from sitting, lying, sickness; mid. and pass., to rise: 
-Mt 95.7, Mk 131 927 1049^ al.; redundant, like Heb. Dip, Mt 2i5 9i9, 
-Ee 111 ^y. Dalman, 23 f.); (6) to raise up, cause to appear: Ac I322 
-(cf. Jg 218); TiKva, Mt 39; pass., to appear: Mt 11", Mk I322, al. 
-4. to rouse, stir up; pass., to rise against: Mt 24^, Mk 138. 5. Of 
-buildings, to raise: t. va6v, Jo 2i9. 20 (cf . De I622, Si 49i3); (cf . 81-, 
-e^-, eV-, (rw-eyeipo), and V. Cremer, 224). 
+<entry n="ἐγείρω|G1453">
+  <note type="occurrencesNT">144</note>
+  <form><orth>ἐγείρω</orth>, [in LXX for <foreign xml:lang="heb">קוּם</foreign>, etc.;] trans. (imperat. <foreign xml:lang="grc">ἔγειρε</foreign> used intransitively, <ref osisRef="Matt.9.5">Mt 9:5</ref>, <ref osisRef="Mark.2.11">Mk 2:11</ref>, al.); </form>
+  <sense n="1."><gloss>to awaken, arouse from sleep</gloss>: <ref osisRef="Mark.4.38">Mk 4:38</ref>, <ref osisRef="Acts.12.7">Ac 12:7</ref>; metaph., of spiritual awakening, <ref osisRef="Rom.13.11">Ro 13:11</ref> (pass.), <ref osisRef="Eph.5.14">Eph 5:14</ref>; pass., <gloss>to be aroused, wake up</gloss>: <ref osisRef="Matt.25.7">Mt 25:7</ref>, <ref osisRef="Mark.4.27">Mk 4:27</ref>; <foreign xml:lang="grc">ἀπὸ τ. ὕπνου</foreign>, <ref osisRef="Matt.1.24">Mt 1:24</ref>. </sense>
+  <sense n="2.">Freq. in NT, <gloss>to raise</gloss> from the dead: <foreign xml:lang="grc">νεκρούς</foreign>, <ref osisRef="John.5.21">Jo 5:21</ref>, <ref osisRef="Acts.26.8">Ac 26:8</ref>, <ref osisRef="2Cor.1.9">II Co 1:9</ref>; <foreign xml:lang="grc">ἐκ νεκρῶν</foreign>, <ref osisRef="John.12.1">Jo 12:1</ref>, <ref osisRef="Acts.3.15">Ac 3:15</ref>, <ref osisRef="Rom.8.11">Ro 8:11</ref>, al.; pass., <gloss>rise</gloss> from death: <ref osisRef="Matt.11.5">Mt 11:5</ref>, <ref osisRef="Luke.7.22">Lk 7:22</ref>, <ref osisRef="John.2.22">Jo 2:22</ref>, <ref osisRef="Rom.6.9">Ro 6:9</ref>, al.; <foreign xml:lang="grc">ἀπὸ τ. νεκρῶν</foreign>, Mt 14·2, al. </sense>
+  <sense n="3.">In late Gk., 
+    <sense n="(a)"><gloss>to raise</gloss>, from sitting, lying, sickness; mid. and pass., <gloss>to rise</gloss>: <ref osisRef="Matt.9.5">Mt 9:5</ref>,  <ref osisRef="Matt.9.7">7</ref> <ref osisRef="Mark.1.31">Mk 1:31</ref>  <ref osisRef="Mark.9.27">9:27</ref> <ref osisRef="Mark.10.49">10:49</ref>, al.; redundant, like Heb. <foreign xml:lang="heb">קוּם</foreign>, <ref osisRef="Matt.2.15">Mt 2:15</ref>  <ref osisRef="Matt.9.19">9:19</ref>, <ref osisRef="Rev.11.1">Re 11:1</ref> (v. Dalman, 23f.); </sense>
+    <sense n="(b)"><gloss>to raise up, cause to appear</gloss>: <ref osisRef="Acts.13.22">Ac 13:22</ref> (cf. <ref osisRef="Judg.2.18">Jg 2:18</ref>); <foreign xml:lang="grc">τέκνα</foreign>, <ref osisRef="Matt.3.9">Mt 3:9</ref>; pass., <gloss>to appear</gloss>: <ref osisRef="Matt.11.11">Mt 11:11</ref>, <ref osisRef="Mark.13.22">Mk 13:22</ref>, al. </sense>
+  </sense>
+  <sense n="4."><gloss>to rouse, stir up</gloss>; pass., <gloss>to rise</gloss> against: <ref osisRef="Matt.24.7">Mt 24:7</ref>, <ref osisRef="Mark.13.8">Mk 13:8</ref>. </sense>
+  <sense n="5.">Of buildings, <gloss>to raise</gloss>: <foreign xml:lang="grc">τ. ναόν</foreign>, <ref osisRef="John.2.19">Jo 2:19</ref>, <ref osisRef="John.2.20">20</ref> (cf . <ref osisRef="Deut.16.22">De 16:22</ref>, <ref osisRef="Sir.49.13">Si 49:13</ref>); (cf. <foreign xml:lang="grc">δι-, ἐξ-, συν-εγείρω</foreign>, and V. Cremer, 224). </sense>
+</entry>
 
 lycpffiS, -«a)?, V «ey€t'pa), -OfJ^ai), [in LXX: Jg 719, Ps 138 (139)8 
 (Dip), I Es 5^2 *-j I d rousing (Plat.). 2. a rising (Ps, I.e.): from 
