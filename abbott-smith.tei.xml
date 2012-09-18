@@ -4685,13 +4685,15 @@ Cremer, 375). t
 
 <entry n="ἀποκρίνομαι|ἀποκρίνω|G611">
   <note type="occurrencesNT">232</note>
-  <form><orth>ἀπο-κρίνω</orth>, [in LXX chiefly for <foreign xml:lang="heb">ענה</foreign>;] </form><sense>in cl., 
-  <sense n="1."><gloss>to separate, distinguish</gloss>. </sense>
-  <sense n="2."><gloss>to choose</gloss>. </sense>Mid., <gloss>to answer</gloss>: <ref osisRef="Matt.27.12">Mt 27:12</ref>, <ref osisRef="Mark.14.61">Mk 14:61</ref>, <ref osisRef="Luke.3.16">Lk 3:16</ref>  <ref osisRef="Luke.23.9">23:9</ref>, <ref osisRef="John.5.17">Jo 5:17</ref>,  <ref osisRef="John.5.19">19</ref> <ref osisRef="Acts.3.12">Ac 3:12</ref>. In late Gk. the pass, also is used in this sense, and pass. forms are the more freq. in NT (M, <emph>Pr.</emph>, 39, 161; MM, s.v.); 
-    <sense n="(a)">in general sense: absol., <ref osisRef="Mark.12.34">Mk 12:34</ref>; c. acc. rei, <ref osisRef="Matt.22.46">Mt 22:46</ref>; c. dat. pers., <ref osisRef="Matt.12.38">Mt 12:38</ref>; seq. <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="Acts.25.16">Ac 25:16</ref>; </sense>
-    <sense n="(b)">Hebraistically 
-      <sense n="(i)">like <foreign xml:lang="heb">ענה</foreign>, <gloss>to begin to speak, take up the conversation</gloss> (Kennedy, <emph>Sources</emph>, 124f.): <ref osisRef="Matt.11.25">Mt 11:25</ref>, al., </sense>
-      <sense n="(ii)">redundant, as in the Heb. phrase <foreign xml:lang="heb">וַיַּעַן וַיּאֹמֶר</foreign> (Dalman, <emph>Words</emph>, 24f., 38; M, <emph>Pr.</emph>, 14; Bl., §58, 4; 74, 2; Cremer, 374): <foreign xml:lang="grc">ἀποκριθεὶς εἶπε</foreign>, <ref osisRef="Matt.4.4">Mt 4:4</ref>; <foreign xml:lang="grc">ἔφη</foreign>, <ref osisRef="Matt.8.8">8:8</ref>; <foreign xml:lang="grc">λέγει</foreign>, <ref osisRef="Mark.3.33">Mk 3:33</ref>; in Jo most freq. (<foreign xml:lang="grc">ἀπεκ. κ. εἶπε</foreign>, <ref osisRef="John.1.49">1:49</ref>.</sense>
+  <form><orth>ἀπο-κρίνω</orth>, [in LXX chiefly for <foreign xml:lang="heb">ענה</foreign>;] </form>
+  <sense>in cl., 
+    <sense n="1."><gloss>to separate, distinguish</gloss>. </sense>
+    <sense n="2."><gloss>to choose</gloss>. </sense>Mid., <gloss>to answer</gloss>: <ref osisRef="Matt.27.12">Mt 27:12</ref>, <ref osisRef="Mark.14.61">Mk 14:61</ref>, <ref osisRef="Luke.3.16">Lk 3:16</ref>  <ref osisRef="Luke.23.9">23:9</ref>, <ref osisRef="John.5.17">Jo 5:17</ref>,  <ref osisRef="John.5.19">19</ref> <ref osisRef="Acts.3.12">Ac 3:12</ref>. In late Gk. the pass, also is used in this sense, and pass. forms are the more freq. in NT (M, <emph>Pr.</emph>, 39, 161; MM, s.v.); 
+      <sense n="(a)">in general sense: absol., <ref osisRef="Mark.12.34">Mk 12:34</ref>; c. acc. rei, <ref osisRef="Matt.22.46">Mt 22:46</ref>; c. dat. pers., <ref osisRef="Matt.12.38">Mt 12:38</ref>; seq. <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="Acts.25.16">Ac 25:16</ref>; </sense>
+      <sense n="(b)">Hebraistically 
+        <sense n="(i)">like <foreign xml:lang="heb">ענה</foreign>, <gloss>to begin to speak, take up the conversation</gloss> (Kennedy, <emph>Sources</emph>, 124f.): <ref osisRef="Matt.11.25">Mt 11:25</ref>, al., </sense>
+        <sense n="(ii)">redundant, as in the Heb. phrase <foreign xml:lang="heb">וַיַּעַן וַיּאֹמֶר</foreign> (Dalman, <emph>Words</emph>, 24f., 38; M, <emph>Pr.</emph>, 14; Bl., §58, 4; 74, 2; Cremer, 374): <foreign xml:lang="grc">ἀποκριθεὶς εἶπε</foreign>, <ref osisRef="Matt.4.4">Mt 4:4</ref>; <foreign xml:lang="grc">ἔφη</foreign>, <ref osisRef="Matt.8.8">8:8</ref>; <foreign xml:lang="grc">λέγει</foreign>, <ref osisRef="Mark.3.33">Mk 3:33</ref>; in Jo most freq. (<foreign xml:lang="grc">ἀπεκ. κ. εἶπε</foreign>, <ref osisRef="John.1.49">1:49</ref>.
+      </sense>
     </sense>
   </sense>
 </entry>
@@ -6399,7 +6401,8 @@ torture, torment: Ee 9^ 14^ 18^' i"' ^Kf
   <form><orth>βάσανος, -ου, ὁ</orth> (of Oriental origin), [in LXX chiefly for <foreign xml:lang="heb">כְּלִמָּה ,אָשָׁם</foreign>, and freq. in IV Mac;] </form>
   <sense>
     <sense n="1.">prop., <gloss>touchstone</gloss>, a dark stone used in testing metals. </sense>
-    <sense n="2."><gloss>examination by torture</gloss>. </sense><sense n="3."><gloss>torment, torture</gloss>: <ref osisRef="Matt.4.24">Mt 4:24</ref>, <ref osisRef="Luke.15.23">Lk 15:23</ref>, <ref osisRef="Luke.15.28">28</ref>.†</sense>
+    <sense n="2."><gloss>examination by torture</gloss>. </sense>
+    <sense n="3."><gloss>torment, torture</gloss>: <ref osisRef="Matt.4.24">Mt 4:24</ref>, <ref osisRef="Luke.15.23">Lk 15:23</ref>, <ref osisRef="Luke.15.28">28</ref>.†</sense>
   </sense>
 </entry>
 
