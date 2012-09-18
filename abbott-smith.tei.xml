@@ -13563,29 +13563,37 @@ ycwi^fjiwra ixiSvwv, Mt 3^ 123* 2333, Lk 37.t
   </sense>
 </entry>
 
-cus, relative particle (Lat. donee, usque), expressing the 
-terminus ad quem (cf. Burton, §321 flf.). I. As conjunction; 1. till, 
-until; (a) of a fact in past time, c. indie.: Mt 2^, al. (Wi 10^*, al.); 
-(b) em av, c. subjc. aor.: Mt 2i3 51^, Mk 6i«, al.; without S.v (M. Pr., 
-168 f.; Lft., <emph>Notes</emph>, 115), Mk 1432 (Burton, §325), Lk 12^9, n Th &lt;2J, 
-al.; (c) c. indie, pres. (Burton, §328; BL, §65, 10): Mk 6*^, Jo 
-2122,23^ I Ti 413. 2. C. indie, as long as, while (Burton, §327): Jo 
-9* (Plat., Phaedo, 89 c). II. As an adverb (chiefly in late writers). 
-1. Of time, until, unto; (a) as prep. c. gen. (BL, §40, 6; M, <emph>Pr.</emph>, 
-99): T. ^&lt;xipa&lt;;, Mt 2629, Lk 1^\ Ro ll^, al.; eSpas, Mt 27*^, al.; riXov^, 
-I Co 18, II Co 113; T. vw, Mt 2421, Mk 1319 (I Mac 233) . ^^-^ ^^^ (pjeld, 
-Notes, 49 f.), Lk 23^; t. eXdw, Ac 8; before names and events, Mt 
-1^'^ 2^5, Lk 11^1, Ja 5'^, al.; (6) seq. ov, 6tov, with the force of a conje. 
-(Burton, §330; M, <emph>Pr.</emph>, 91); (a) I. oC (Hdt., ii, 143; Plut., al.): c. 
-indie, Mt 125 (WH br., o^ 1333, al.; c. subjc. aor., Mt I422, al.; 
-(p) €. oTov. c. subjc., Lk 138; c. indie, Mt 52^ {until), Jo 9^8; (c) c. 
-adv. {L 6ipi, Thuc, iii, 108): ^pn, Mt 11^2, Jo 2io, i Co 4^3, al.; ttoVc 
-(M, <emph>Pr.</emph>, 107), Mt 17l^ Mk 9^9, Jo IO2*, al. 2. Of place, as far as, 
-even to, unto (Arist., al.); (a) as prep. c. gen. (v. supr.): Mt 1123, Lk 
-1015, al.; {h) c. adv. (BL, §40, 6): Sivio, Jo 2^; Icro,, Mk 14^*; Kdruy, 
-Mt 2751, Mk 1538; &lt;!iS€, Lk 23^; (c) e. prep.: i$w, Ac 21^; ,rp6s, Lk 
-2450 (Field, <emph>Notes</emph>, 83). 3. Of quantity, measure, etc.: Mt I821, Mk 
-623, Lk 2251, ai^ 
+<entry n="ἕως|G2193">
+  <note type="occurrencesNT">146</note>
+  <form><orth>ἕως</orth>, </form>
+  <gramGrp><pos>relative particle</pos> (Lat. <foreign xml:lang="lat">donee, usque</foreign>), </gramGrp>
+  <sense>expressing the terminus ad quem (cf. Burton, §321ff.).
+    <sense n="I.">As <gramGrp><pos>conjunction</pos></gramGrp>; 
+      <sense n="1."><gloss>till, until</gloss>; 
+	<sense n="(a)">of a fact in past time, c. indic.: <ref osisRef="Matt.2.9">Mt 2:9</ref>, al. (<ref osisRef="Wis.10.14">Wi 10:14</ref>, al.); </sense>
+	<sense n="(b)"><foreign xml:lang="grc">ἕως ἄν</foreign>, c. subjc. aor.: <ref osisRef="Matt.2.13">Mt 2:13</ref>  <ref osisRef="Matt.5.18">5:18</ref>, <ref osisRef="Mark.6.10">Mk 6:10</ref>, al.; without <foreign xml:lang="grc">ἄν</foreign> (M. <emph>Pr.</emph>, 168f.; Lft., <emph>Notes</emph>, 115), <ref osisRef="Mark.14.32">Mk 14:32</ref> (Burton, §325), <ref osisRef="Luke.12.59">Lk 12:59</ref>, <ref osisRef="2Thess.2.7">II Th 2:7</ref>, al.; </sense>
+	<sense n="(c)">c. indic., pres. (Burton, §328; BL, §65, 10): <ref osisRef="Mark.6.45">Mk 6:45</ref>, <ref osisRef="John.21.22">Jo 21:22</ref>,  <ref osisRef="John.21.23">23</ref> <ref osisRef="1Tim.4.13">I Ti 4:13</ref>. </sense>
+      </sense>
+      <sense n="2.">C. indic., <gloss>as long as, while</gloss> (Burton, §327): <ref osisRef="John.9.4">Jo 9:4</ref> (Plat., Phaedo, 89c). </sense>
+    </sense>
+    <sense n="II.">As an <gramGrp><pos>adverb</pos></gramGrp> (chiefly in late writers). 
+      <sense n="1.">Of time, <gloss>until, unto</gloss>; 
+	<sense n="(a)">as <gramGrp><pos>prep.</pos></gramGrp> c. gen. (BL, §40, 6; M, <emph>Pr.</emph>, 99): <foreign xml:lang="grc">τ. ἡμέρας</foreign>, <ref osisRef="Matt.26.29">Mt 26:29</ref>, <ref osisRef="Luke.1.80">Lk 1:80</ref>, <ref osisRef="Rom.11.8">Ro 11:8</ref>, al.; <foreign xml:lang="grc">ὥρας</foreign>, <ref osisRef="Matt.27.45">Mt 27:45</ref>, al.; <foreign xml:lang="grc">τέλους</foreign>, <ref osisRef="1Cor.1.8">I Co 1:8</ref>, <ref osisRef="2Cor.1.13">II Co 1:13</ref>; <foreign xml:lang="grc">τ. νῦν</foreign>, <ref osisRef="Matt.24.21">Mt 24:21</ref>, <ref osisRef="Mark.13.19">Mk 13:19</ref> (<ref osisRef="1Macc.2.33">I Mac 2:33</ref>); <foreign xml:lang="grc">ἐτῶν ὀγ.</foreign> (Field, <emph>Notes</emph>, 49f.), <ref osisRef="Luke.2.37">Lk 2:37</ref>; <foreign xml:lang="grc">τ. ἐλθεῖν</foreign>, <ref osisRef="Acts.8.40">Ac 8:40</ref>; before names and events, <ref osisRef="Matt.1.17">Mt 1:17</ref>  <ref osisRef="Matt.2.15">2:15</ref>, <ref osisRef="Luke.11.51">Lk 11:51</ref>, <ref osisRef="Jas.5.7">Ja 5:7</ref>, al.; </sense>
+	</sense>
+	<sense n="(b)">seq. <foreign xml:lang="grc">οὗ, ὅτου</foreign>, with the force of a conjc. (Burton, §330; M, <emph>Pr.</emph>, 91); 
+	  <sense n="(α)"><foreign xml:lang="grc">ἕ. οὗ</foreign> (Hdt., ii, 143; Plut., al.): c. indic., <ref osisRef="Matt.1.25">Mt 1:25</ref> (WH br., <foreign xml:lang="grc">οὗ</foreign>) <ref osisRef="Matt.13.33">13:33</ref>, al.; c. subjc. aor., <ref osisRef="Matt.14.22">Mt 14:22</ref>, al.; </sense>
+	  <sense n="(β)"><foreign xml:lang="grc">ἔ. ὅτου</foreign>: c. subjc., <ref osisRef="Luke.13.8">Lk 13:8</ref>; c. indic., <ref osisRef="Matt.5.25">Mt 5:25</ref> (<gloss>until</gloss>), <ref osisRef="John.9.18">Jo 9:18</ref>; </sense>
+	</sense>
+	<sense n="(c)">c. adv. (<foreign xml:lang="grc">ἔ. ὀψέ</foreign>, Thuc, iii, 108): <foreign xml:lang="grc">ἄρτι</foreign>, <ref osisRef="Matt.11.12">Mt 11:12</ref>, <ref osisRef="John.2.10">Jo 2:10</ref>, <ref osisRef="1Cor.4.13">I Co 4:13</ref>, al.; <foreign xml:lang="grc">πότε</foreign> (M, <emph>Pr.</emph>, 107), <ref osisRef="Matt.17.17">Mt 17:17</ref>, <ref osisRef="Mark.9.19">Mk 9:19</ref>, <ref osisRef="John.10.24">Jo 10:24</ref>, al. </sense>
+      </sense>
+      <sense n="2.">Of place, <gloss>as far as, even to, unto</gloss> (Arist., al.); 
+	<sense n="(a)">as prep. c. gen. (v. supr.): Mt 1123, Lk 1015, al.; </sense>
+	<sense n="(b)">c. adv. (BL, §40, 6): Sivio, Jo 2^; Icro,, Mk 14^*; Kdruy, Mt 2751, Mk 1538; &lt;!iS€, Lk 23^; </sense>
+	<sense n="(c)">c. prep.: <foreign xml:lang="grc">ἔξω</foreign>, <ref osisRef="Acts.21.5">Ac 21:5</ref>; <foreign xml:lang="grc">πρός</foreign>, <ref osisRef="Luke.24.50">Lk 24:50</ref> (Field, <emph>Notes</emph>, 83). </sense>
+    </sense>
+    <sense n="3.">Of quantity, measure, etc.: <ref osisRef="Matt.18.21">Mt 18:21</ref>, <ref osisRef="Mark.6.23">Mk 6:23</ref>, <ref osisRef="Luke.22.51">Lk 22:51</ref>, al. </sense>
+  </sense>
+</entry>
 
  </div>
  <div type="letter">
