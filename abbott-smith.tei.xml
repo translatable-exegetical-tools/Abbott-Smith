@@ -10171,31 +10171,20 @@ Eo 11^7. 19. 20.t
 iK-Kktiu, [in LXX: i, Kpta-Lv, for ntt3 hi., Ex 232 (also as v.l., 
 Jb 3420, Ps 67 (68)30) * .] iQ shut out: Ga 41^. Pass., Ro 32^.† 
 
-iKK\r\&lt;Tia, -a?, rj « cK-zcaXew), [in LXX chiefly for bnf? , otherwise 
-
-for one of its cogn. forms;] 1. prop., an assembly of citizens regularly 
-convened (in Thuc, ii, 22, opp. to o-vἈXoyos, a concourse): Ac 1932. 39, 41^ 
-
-2. In LXX of the assembly, congregation, community of Israel (De 
-410 232, al.): Ac 738, He 2^2 (lxx). 3.:„ NT, esp. of an assembly or 
-company of Christians, a (the) church; (a) of gatherings for worship: 
-
-
-
- <pb n="139" /> <!-- typed="" checked="" --> 
-
-I Co 1118 1419' 34, 35 . (5) of local communities: Ac S\ i Co 4}"^; with 
-name added, Ac 8\ Ro IG^, i Th 1\ al.; pi., Ac 15*S i Co 7"; t. 
-XpKTTov, Ro 16i«; T. Ἀo-tas, I Co IG^^; t. dytW, I Co 14^3; e'nr^v t. 
-iKKXrjma, Mt IS^'' (but V. Horfc, Ecclesia, 10); of a house-congregation 
-{DB, i, '43la), Ro 165, i Co IG^^, Col i^^ Phm 2; (c) of the whole body 
-of Christians: Mt 16^8, i Co 1228, Eph 1^2, Phi 36, al,; t. 6€ov, Ac 2028 
-{KvpLov, T, E, mg^, I Co 159, Ga 1", i Ti 3^^; i. tpotot6ku&gt;v iiroyeypafx- 
-fievwv €v ovpavots, He 122^. 
-
-<lb /><emph>SYN.</emph>: (Twaywyri, q.v. (v. Tr., <emph>Syn.</emph>, §i; DB, i, 42G; Hort, 
-Ecclesia, esp. 4 ff., 107 ff.; Hamilton, People of God, ii, 37 ff.; reff. 
-8.VV. "Church," "Congregation," in DB and DCG; Cremer, 332). 
+<entry n="ἐκκλησία|G1577">
+  <note type="occurrencesNT">114</note>
+  <form><orth>ἐκκλησία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἐκ-καλέω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">קָהָל</foreign>, otherwise for one of its cogn. forms;] </form>
+  <sense>
+    <sense n="1.">prop., <gloss>an assembly</gloss> of citizens regularly convened (in Thuc., ii, 22, opp. to <foreign xml:lang="grc">σύλλογος</foreign>, <emph>a concourse</emph>): <ref osisRef="Acts.19.32">Ac 19:32</ref>,  <ref osisRef="Acts.19.39">39</ref> <ref osisRef="Acts.19.41">41</ref>. </sense>
+    <sense n="2.">In LXX of <gloss>the assembly, congregation, community</gloss> of Israel (De 4:10 23:2, al.): <ref osisRef="Acts.7.38">Ac 7:38</ref>, <ref osisRef="Heb.2.12">He 2:12</ref> (LXX). </sense>
+    <sense n="3.">NT, esp. of an assembly or company of Christians, a <gloss>(the) church</gloss>; 
+      <sense n="(a)">of gatherings for worship: <pb n="139" /> <!-- typed="" checked="" --> <ref osisRef="1Cor.11.18">I Co 11:18</ref>  <ref osisRef="1Cor.14.19">14:19</ref>,  <ref osisRef="1Cor.14.34">34</ref> <ref osisRef="1Cor.14.35">35</ref>; </sense>
+      <sense n="(b)">of local communities: <ref osisRef="Acts.8.3">Ac 8:3</ref>, <ref osisRef="1Cor.4.17">I Co 4:17</ref>; with name added, <ref osisRef="Acts.8.1">Ac 8:1</ref>, <ref osisRef="Rom.16.1">Ro 16:1</ref>, <ref osisRef="1Thess.1.1">I Th 1:1</ref>, al.; pl., <ref osisRef="Acts.15.41">Ac 15:41</ref>, <ref osisRef="1Cor.7.17">I Co 7:17</ref>; <foreign xml:lang="grc">τ. Χριστοῦ</foreign>, <ref osisRef="Rom.16.16">Ro 16:16</ref>; <foreign xml:lang="grc">τ. Ἀσίας</foreign>, <ref osisRef="1Cor.16.19">I Co 16:19</ref>; <foreign xml:lang="grc">τ. ἁγίων</foreign>, <ref osisRef="1Cor.14.33">I Co 14:33</ref>; <foreign xml:lang="grc">εἰπο]ν τ. ἐκκλησίᾳ</foreign>, <ref osisRef="Matt.18.17">Mt 18:17</ref> (but v. Hort, <emph>Ecclesia</emph>, 10); of a house-congregation (<emph>DB</emph>, i, 431a), <ref osisRef="Rom.16.5">Ro 16:5</ref>, <ref osisRef="1Cor.16.19">I Co 16:19</ref>, <ref osisRef="Col.4.15">Col 4:15</ref>, <ref osisRef="Phlm.1.2">Phm 2</ref>; </sense>
+      <sense n="(c)">of the whole body of Christians: <ref osisRef="Matt.16.18">Mt 16:18</ref>, <ref osisRef="1Cor.12.28">I Co 12:28</ref>, <ref osisRef="Eph.1.22">Eph 1:22</ref>, <ref osisRef="Phil.3.6">Phl 3:6</ref>, al.; <foreign xml:lang="grc">τ. θεοῦ</foreign>, <ref osisRef="Acts.20.28">Ac 20:28</ref> (<foreign xml:lang="grc">Κυρίου</foreign>, T, R, mg.), <ref osisRef="1Cor.15.9">I Co 15:9</ref>, <ref osisRef="Gal.1.13">Ga 1:13</ref>, <ref osisRef="1Tim.3.15">I Ti 3:15</ref>; <foreign xml:lang="grc">ἐ. προτοτόκων ἀπογεγραμμένων ἐν οὐρανοῖς</foreign>, <ref osisRef="Heb.12.23">He 12:23</ref>. </sense>
+    </sense>
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">συναγωγή</foreign>, q.v. (v. Tr., <emph>Syn.</emph>, §i; <emph>DB</emph>, i, 426; Hort, <emph>Ecclesia</emph>, esp. 4ff., 107ff.; Hamilton, <emph>People of God</emph>, ii, 37ff.; reff. s.vv. "Church," "Congregation," in <emph>DB</emph> and <emph>DCG</emph>; Cremer, 332). 
+  </sense>
+</entry>
 
 ^k-kXiVw, [in LXX for T^\ , ITO , etc;] intrans., to turn aside, 
 
