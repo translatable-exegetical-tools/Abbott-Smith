@@ -32525,8 +32525,8 @@ Lk 9".t
   <sense>
     <sense n="1.">prop., of manner, <gloss>so</gloss> (Hom., al.). </sense>
     <sense n="2.">In poets (rarely) and late writers, of place, 
-      <sense n="(a)"><gloss>hither</gloss> (BL, §25, 2): Mt 8:29, Mk 11:3, Lk 9:41, Jo 6:25, al.; <foreign xml:lang="grc">ἕως ὧδε</foreign>, <pb n="490" /> <!-- typed="" checked="" --> Lk 23:5; </sense>
-      <sense n="(b)"><gloss>here</gloss>: Mt 12:6, Mk 9:1, Lk 9:33, Jo 6:9, al.; <foreign xml:lang="grc">τὰ ὧδε</foreign>, Col 4:9; opp. to <foreign xml:lang="grc">ἐκεῖ</foreign>, He 7:8; <foreign xml:lang="grc">ὧδε . . .  ἢ ὧδε (ἐκεῖ)</foreign>, Mt 24:23, Mk 13:21; metaph., <gloss>here</gloss> (i.e. in this circumstance or connection), I Co 4:2, Re 13:10, 18 14:12 17:9. </sense>
+      <sense n="(a)"><gloss>hither</gloss> (BL, §25, 2): <ref osisRef="Matt.8.29">Mt 8:29</ref>, <ref osisRef="Mark.11.3">Mk 11:3</ref>, <ref osisRef="Luke.9.41">Lk 9:41</ref>, <ref osisRef="John.6.25">Jo 6:25</ref>, al.; <foreign xml:lang="grc">ἕως ὧδε</foreign>, <pb n="490" /> <!-- typed="" checked="" --> <ref osisRef="Luke.23.5">Lk 23:5</ref>; </sense>
+      <sense n="(b)"><gloss>here</gloss>: <ref osisRef="Matt.12.6">Mt 12:6</ref>, <ref osisRef="Mark.9.1">Mk 9:1</ref>, <ref osisRef="Luke.9.33">Lk 9:33</ref>, <ref osisRef="John.6.9">Jo 6:9</ref>, al.; <foreign xml:lang="grc">τὰ ὧδε</foreign>, <ref osisRef="Col.4.9">Col 4:9</ref>; opp. to <foreign xml:lang="grc">ἐκεῖ</foreign>, <ref osisRef="Heb.7.8">He 7:8</ref>; <foreign xml:lang="grc">ὧδε . . .  ἢ ὧδε (ἐκεῖ)</foreign>, <ref osisRef="Matt.24.23">Mt 24:23</ref>, <ref osisRef="Mark.13.21">Mk 13:21</ref>; metaph., <gloss>here</gloss> (i.e. in this circumstance or connection), <ref osisRef="1Cor.4.2">I Co 4:2</ref>, <ref osisRef="Rev.13.10">Re 13:10</ref>, <ref osisRef="Rev.13.18">18</ref> <ref osisRef="Rev.14.12">14:12</ref> <ref osisRef="Rev.17.9">17:9</ref>. </sense>
     </sense>
   </sense>
 </entry>
