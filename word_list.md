@@ -63,7 +63,6 @@ Each row includes the following information:
 <tr><td>4992</td><td>τότε</td><td>G5119</td><td>160</td></tr>
 <tr><td>5329</td><td>φωνή</td><td>G5456</td><td>139</td></tr>
 <tr><td>5358</td><td>χάρις</td><td>G5485</td><td>155</td></tr>
-<tr><td>5463</td><td>ψυχή</td><td>G5590</td><td>103</td></tr>
 </table>
 
 <table>

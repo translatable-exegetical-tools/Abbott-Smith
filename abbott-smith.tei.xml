@@ -32444,28 +32444,18 @@ Dem., 1358, 6): in bad sense, Ro l^o.t
 SvN.: KaraAdA-os, q.v. 
 *t ^ixiov, -ov, TO, dimin. of i/'i^, a crumb: Mt 152^ Mk 72s.t 
 
-«/oxii, --^s, rj, [in LXX very freq. for iyS3 , sometimes for 
-3^ , SSb , etc.;] 1. breath (Lat. anima), breath of life, life (Hom., al.; 
-
-in Arist., of the vital principle): Mt 625, Mk 3" lO^s, Lk 1222, Jo 10", 
-Ac 20i»' 24, II Co 123, Phi 230, I xh 28, al. 2. the soul, (a) as the 
-seat of the will, desires and affections: Mt 2638, ^^ i230 (LX^) 143*, 
-Lk 1*6, Jo 1024, Ac 142, Phi 127^ al.; ck foxn^from the heart, heartily: 
-Eph 6", Col 323; ^jy^ as a periphrasis for person or self (freq. in 
-
-
-
- <pb n="489" /> <!-- typed="" checked="" --> 
-
-translation from Semitic originals, v. M, <emph>Pr.</emph>, 87; Eobinson, Gospels, 
-113 ff.; but also freq. in cl., v. LS, s.v. ii, 2; Edwards, Lex., 
-App. A.): Mt 1129, Mk S^e, Ac 2", Ro 2^, i Pe 320, al.; TrSo-a i/.., Ac 2*^ 
-323 (LXX)^ Ro 131; ^. ^Sxra (^o)^s), I Co 15*5, Ee 163; (g) as the object of 
-divine grace and eternal salvation: He 13^7, Ja pi 520, i Pe 19'22 211 
-419, ni Jo 2. 
-
-Syjv.: v.s. vovs, 7rvevfx.a, ifrvxi-Kos, and cf. ICC on i Th 52^, Lft., 
-Notes, 88 f. 
+<entry n="ψυχή|G5590">
+  <note type="occurrencesNT">103</note>
+  <form><orth>ψυχή, -ῆς, ἡ</orth>, [in LXX very freq. for <foreign xml:lang="heb">נֶפֶשׁ</foreign>, sometimes for <foreign xml:lang="heb">לֵבַב ,לֵב</foreign>, etc.;] </form>
+  <sense>
+    <sense n="1."><gloss>breath</gloss> (Lat. <foreign xml:lang="lat">anima</foreign>), <gloss>breath of life, life</gloss> (Hom., al.; in Arist., of <gloss>the vital principle</gloss>): <ref osisRef="Matt.6.25">Mt 6:25</ref>, <ref osisRef="Mark.3.4">Mk 3:4</ref>  <ref osisRef="Mark.10.45">10:45</ref>, <ref osisRef="Luke.12.22">Lk 12:22</ref>, <ref osisRef="John.10.11">Jo 10:11</ref>, <ref osisRef="Acts.20.10">Ac 20:10</ref>,  <ref osisRef="Acts.20.24">24</ref> <ref osisRef="2Cor.1.23">II Co 1:23</ref>, <ref osisRef="Phil.2.30">Phl 2:30</ref>, <ref osisRef="1Thess.2.8">I Th 2:8</ref>, al. </sense>
+    <sense n="2."><gloss>the soul</gloss>, 
+      <sense n="(a)">as the seat of the will, desires and affections: <ref osisRef="Matt.26.38">Mt 26:38</ref>, <ref osisRef="Mark.12.30">Mk 12:30</ref> (LXX) <ref osisRef="Mark.14.34">14:34</ref>, <ref osisRef="Luke.1.46">Lk 1:46</ref>, <ref osisRef="John.10.24">Jo 10:24</ref>, <ref osisRef="Acts.14.2">Ac 14:2</ref>, <ref osisRef="Phil.1.27">Phl 1:27</ref>, al.; <foreign xml:lang="grc">ἐκ ψυχῆς</foreign>, <gloss>from the heart</gloss>, <gloss>heartily</gloss>: <ref osisRef="Eph.6.6">Eph 6:6</ref>, <ref osisRef="Col.3.23">Col 3:23</ref>; </sense>
+      <sense n="(b)">as a periphrasis for person or self (freq. in  <pb n="489" /> <!-- typed="" checked="" --> translation from Semitic originals, v. M, <emph>Pr.</emph>, 87; Robinson, <emph>Gospels</emph>, 113ff.; but also freq. in cl., v. LS, s.v. II, 2; Edwards, <emph>Lex.</emph>, App. A.): <ref osisRef="Matt.11.29">Mt 11:29</ref>, <ref osisRef="Mark.8.36">Mk 8:36</ref>, <ref osisRef="Acts.2.41">Ac 2:41</ref>, <ref osisRef="Rom.2.9">Ro 2:9</ref>, <ref osisRef="1Pet.3.20">I Pe 3:20</ref>, al.; <foreign xml:lang="grc">πᾶσα ψ.</foreign>, <ref osisRef="Acts.2.43">Ac 2:43</ref>  <ref osisRef="Acts.3.23">3:23</ref> (LXX), <ref osisRef="Rom.13.1">Ro 13:1</ref>; <foreign xml:lang="grc">ψ. ζῶσα (ζωῆς)</foreign>, <ref osisRef="1Cor.15.45">I Co 15:45</ref>, <ref osisRef="Rev.16.3">Re 16:3</ref>; </sense>
+      <sense n="(c)">as the object of divine grace and eternal salvation: <ref osisRef="Heb.13.17">He 13:17</ref>, <ref osisRef="Jas.1.21">Ja 1:21</ref>  <ref osisRef="Jas.5.20">5:20</ref>, <ref osisRef="1Pet.1.9">I Pe 1:9</ref>, <ref osisRef="1Pet.1:22">22</ref> <ref osisRef="1Pet.2.11">2:11</ref> <ref osisRef="1Pet.4.19">4:19</ref>, <ref osisRef="3John.1.2">III Jo 2</ref>. </sense></sense>
+  <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">νοῦς, πνεῦμα, ψυχικός</foreign>, and cf. <emph>ICC</emph> on <ref osisRef="1Thess.5.23">I Th 5:23</ref>, Lft., <emph>Notes</emph>, 88f. 
+  </sense>
+</entry>
 
 **»^uxik6s, -ri, -6v «il/vxj), [in LXX: iv Mac 1^2*;] of the ifn^xn 
 (as the lower part of the immaterial in man), EV, natural: opp. to 
