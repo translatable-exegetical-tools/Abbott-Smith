@@ -1800,7 +1800,7 @@
   </sense>
  </entry>
 
-<entry n="ἄγρα|G60">
+<entry n="ἄγρα|G61">
   <note type="occurrencesNT">2</note>
   <form>* <orth>ἄγρα, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄγω</foreign>), </form>
   <sense>
@@ -1809,12 +1809,17 @@
   </sense>
  </entry>
 
-* dypd/jifiaTos, -ov (&lt;^ypd(^co), without leamitig (ypafj-fxara), un- 
-lettered (in TT. freq. in formula used by one who signs for an illiterate; 
-MM, <emph>VGT</emph>, s.v.): Ac 4^3 (but cf. Thayer, 8.v.).t 
+<entry n="ἀγράμματος|G62">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>ἀγράμματος, -ον</orth> (&lt; <foreign xml:lang="grc">γράφω</foreign>), </form>
+  <sense><gloss>without learning</gloss> (<foreign xml:lang="grc">γράμματα</foreign>), <gloss>unlettered</gloss> (in π. freq. in formula used by one who signs for an illiterate; MM, <emph>VGT</emph>, s.v.): <ref osisRef="Acts.4.13">Ac 4:13</ref> (but cf. Thayer, s.v.). †</sense>
+ </entry>
 
-* aypavXio), -w (&lt;^dypavXos, dwelling in the field; ■^dyp6&lt;i, avXrj), 
-to live in the fields: Lk 28.t 
+<entry n="ἀγραυλέω|G62">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>ἀγραυλέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">ἀγραυλος</foreign>, <emph>dwelling in the field</emph>; &lt; <foreign xml:lang="grc">ἀγρός</foreign>, <foreign xml:lang="grc">αὐλή</foreign>), </form>
+  <sense><gloss>to live in the fields</gloss>: <ref osisRef="Luke.2.8">Lk 2:8</ref>. †</sense>
+ </entry>
 
 dypeu'o, (dypa), [in LXX: Jb lO^*, Pr 522 625,26^ Ho 52 (np^ ni., 
 tDniZT, etc.)*;] to catch or take by hunting or fishing; metaph., 
