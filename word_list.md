@@ -64,7 +64,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>0039</td><td>ἀγριέλαιος</td><td>G65</td><td>2</td></tr>
 <tr><td>0040</td><td>ἄγριος</td><td>G66</td><td>3</td></tr>
 <tr><td>0041</td><td>Ἀγρίππας</td><td>G67</td><td>11</td></tr>
 <tr><td>0042</td><td>ἀγρός</td><td>G68</td><td>37</td></tr>
