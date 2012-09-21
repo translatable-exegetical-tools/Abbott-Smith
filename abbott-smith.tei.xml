@@ -1821,17 +1821,29 @@
   <sense><gloss>to live in the fields</gloss>: <ref osisRef="Luke.2.8">Lk 2:8</ref>. †</sense>
  </entry>
 
-dypeu'o, (dypa), [in LXX: Jb lO^*, Pr 522 625,26^ Ho 52 (np^ ni., 
-tDniZT, etc.)*;] to catch or take by hunting or fishing; metaph., 
-Mk 12i3.t 
+<entry n="ἀγρεύω|G64">
+  <note type="occurrencesNT">1</note>
+  <form>† <orth>ἀγρεύω</orth> (<foreign xml:lang="grc">ἄγρα</foreign>), [in LXX: <ref osisRef="Job.10.16">Jb 10:16</ref>, <ref osisRef="Prov.5.22">Pr 5:22</ref>  <ref osisRef="Prov.6.25">6:25</ref>,<ref osisRef="Prov.6.26">26</ref>, <ref osisRef="Hos.5.2">Ho 5:2</ref> (<foreign xml:lang="heb">לקח</foreign> ni., <foreign xml:lang="heb">שׁחט</foreign>, etc.)*;] </form>
+  <sense><gloss>to catch</gloss> or <gloss>take</gloss> by hunting or fishing; metaph., <ref osisRef="Mark.12.13">Mk 12:13</ref>. †</sense>
+ </entry>
 
-* dypi- A.aio9, -ov, 1. of the wild olive (Anth.). 2. As subst., the 
-wild olive: Ro ll^^. 24 (^qGT, in 1.; MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἀγριέλαιος|G65">
+  <note type="occurrencesNT">2</note>
+  <form>* <orth>ἀγρι-έλαιος, -ον</orth></form>
+  <sense>
+    <sense n="1."><gloss>of the wild olive</gloss> (Anth.). </sense>
+    <sense n="2.">As subst., <gloss>the wild olive</gloss>: <ref osisRef="Rom.11.17">Ro 11:17</ref>, <ref osisRef="Rom.11.24">24</ref> (<emph>CGT</emph>, in 1.; MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
-dypios, -a, -ov (&lt;^uyp6s), [in LXX for HT^ , etc.;] 1. living in 
-
-fields, wild: fxiXi. Mt 3^, Mk 1". 2. savage, fierce: Ju ". (Cf. usage 
-in TT. of a malignant wound; MM, <emph>VGT</emph>, s.v.)t 
+<entry n="ἄγριος|G66">
+  <note type="occurrencesNT">3</note>
+  <form><orth>ἄγριος, -α, -ον</orth> (&lt; <foreign xml:lang="grc">ἀγρός</foreign>), [in LXX for <foreign xml:lang="heb">שָׂדֶה</foreign>, etc.;]</form>
+  <sense>
+    <sense n="1."><gloss>living in fields, wild</gloss>: <foreign xml:lang="grc">μέλι</foreign>. <ref osisRef="Matt.3.4">Mt 3:4</ref>, <ref osisRef="Mark.1.6">Mk 1:6</ref>. </sense> 
+    <sense n="2."><gloss>savage, fierce</gloss>: <ref osisRef="Jude.1.13">Ju 13</ref>. (Cf. usage in π. of a malignant wound; MM, <emph>VGT</emph>, s.v.)</sense> †
+  </sense>
+ </entry>
 
 Ἀypiinras, -a (Bl., §7, 2), 6, Agrippa (II): Ac 25i3. 22, 23, 24, 2« 
 261, 2, 19, 27, 28. 32, (For Agrippa I, v.s. 'UpwSrj^, 3.)t 
