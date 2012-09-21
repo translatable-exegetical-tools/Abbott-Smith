@@ -14760,27 +14760,21 @@ Ga 52.t
 
 i8ea, -a?, r], V.S. elSea, 
 
-1810s, -a., -ov (in Attic usually -os, -ov), [in LXX chiefly for pers. 
-suff., also for urh , etc.; {to. t) ilT'S;] 1. one's own; (a) of that which 
-
-is private and personal (in cl. opp. to koiv6&lt;;, 877/100-109; cf. infr. 3); 
-(6) of property, friends, home, country, etc. (in cl. opp. to dXAorptos; in 
-late writers often, like iavTov, with weakened sense, v. M, <emph>Pr.</emph>, 87 ff.; 
-Deiss., <emph>BS</emph>, 123 f.): Lk 6", Jo 1*2 5*3, Ac 2^ 2028, i Co II21, Ga 6^, 
-II Ti 19, He 727, Ju^ al.; Trpdo-a-eiv ra I, I Th 411; Kara ras I. eVt^v/x/as, 
-II Ti 43; ol?8tot, Jo 111 (M, <emph>Pr.</emph>, 90 f.; FieU, Notes, 84) I31, Ac 423, 
-I Ti 58; Ti rSia, one's home (Field, <emph>Notes</emph>, I.e.), Lk^l828, Jo 1^ 1632 
-1927. 2. peculiar, distinct, appropriate, proper: to l. crwfia, i Co 1538; 
-iv T. I. Tay/AttTi, I Co 1523; ^j^ ^ tottov t. i., Ac 12^; = avrov (v. Deiss., 
-ut. supr.), Mt 22^ Jo 1*2 (cf. Wi lOi). 3. Adverbially (v. supr., 1 (a); 
-
-
-
- <pb n="213" /> <!-- typed="" checked="" --> 
-
-and cf. WM, 7B%); (a) iSia, severally, separately: i Co 12^1; (6) kut 
-fStW, apart, privately, in private: Mt 14". 23 gO^^, Mk 43* T^^, Lk 1023, 
-Ac 2319, al. 
+<entry n="ἴδιος|G2398">
+  <note type="occurrencesNT">114</note>
+  <form><orth>ἴδιος, -α, -ον</orth> (in Attic usually <foreign xml:lang="grc">-ος, -ον</foreign>), [in LXX chiefly for pers. suff., also for <foreign xml:lang="heb">לָהֶם</foreign>, etc.; (<foreign xml:lang="grc">τὰ ἴ.</foreign>) <foreign xml:lang="heb">בֵּיתוֹ</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>one's own</gloss>; 
+      <sense n="(a)">of that which is private and personal (in cl. opp. to <foreign xml:lang="grc">κοινός, δημόσιος</foreign>; cf. infr. 3); </sense>
+      <sense n="(b)">of property, friends, home, country, etc. (in cl. opp. to <foreign xml:lang="grc">ἀλλότριος</foreign>; in late writers often, like <foreign xml:lang="grc">ἑαυτοῦ</foreign>, with weakened sense, v. M, <emph>Pr.</emph>, 87ff.; Deiss., <emph>BS</emph>, 123f.): <ref osisRef="Luke.6.41">Lk 6:41</ref>, <ref osisRef="John.1.42">Jo 1:42</ref>  <ref osisRef="John.5.43">5:43</ref>, <ref osisRef="Acts.2.6">Ac 2:6</ref>  <ref osisRef="Acts.20.28">20:28</ref>, <ref osisRef="1Cor.11.21">I Co 11:21</ref>, <ref osisRef="Gal.6.5">Ga 6:5</ref>, <ref osisRef="2Tim.1.9">II Ti 1:9</ref>, <ref osisRef="Heb.7.27">He 7:27</ref>, <ref osisRef="Jude.1.6">Ju 6</ref>, al.; <foreign xml:lang="grc">πράσσειν τὰ ἴ.</foreign>, <ref osisRef="1Thess.4.11">I Th 4:11</ref>; <foreign xml:lang="grc">κατὰ τὰς ἰ. ἐπιθυμίας</foreign>, <ref osisRef="2Tim.4.3">II Ti 4:3</ref>; <foreign xml:lang="grc">οἱ ἴδιοι</foreign>, <ref osisRef="John.1.11">Jo 1:11</ref> (M, <emph>Pr.</emph>, 90f.; Field, <emph>Notes</emph>, 84) <ref osisRef="John.13.1">13:1</ref>, <ref osisRef="Acts.4.23">Ac 4:23</ref>, <ref osisRef="1Tim.5.8">I Ti 5:8</ref>; <foreign xml:lang="grc">τὰ ἴδια</foreign>, one's <emph>home</emph> (Field, <emph>Notes</emph>, l.c.), <ref osisRef="Luke.18.28">Lk 18:28</ref>, <ref osisRef="John.1.11">Jo 1:11</ref>  <ref osisRef="John.16.32">16:32</ref> <ref osisRef="John.19.27">19:27</ref>. </sense>
+    </sense>
+    <sense n="2."><gloss>peculiar, distinct, appropriate, proper</gloss>: <foreign xml:lang="grc">τὸ ἴ. σῶμα</foreign>, <ref osisRef="1Cor.15.38">I Co 15:38</ref>; <foreign xml:lang="grc">ἐν τ. ἰ. τάγματι</foreign>, <ref osisRef="1Cor.15.23">I Co 15:23</ref>; <foreign xml:lang="grc">εἰς τ. τόπον τ. ἴ.</foreign>, <ref osisRef="Acts.1.25">Ac 1:25</ref>; = <foreign xml:lang="grc">αὐτοῦ</foreign> (v. Deiss., ut. supr.), <ref osisRef="Matt.22.5">Mt 22:5</ref>, <ref osisRef="John.1.42">Jo 1:42</ref> (cf. <ref osisRef="Wis.10.1">Wi 10:1</ref>). </sense>
+    <sense n="3.">Adverbially (v. supr., 1 (<emph>a</emph>); <pb n="213" /> <!-- typed="" checked="" --> and cf. WM, 739:2); 
+      <sense n="(a)"><foreign xml:lang="grc">ἰδίᾳ</foreign>, <gloss>severally, separately</gloss>: <ref osisRef="1Cor.12.11">I Co 12:11</ref>; </sense>
+      <sense n="(b)"><foreign xml:lang="grc">κατ’ ἰδίαν</foreign>, <gloss>apart, privately, in private</gloss>: <ref osisRef="Matt.14.13">Mt 14:13</ref>, <ref osisRef="Matt.14.23">23</ref> <ref osisRef="Matt.20.17">20:17</ref>, <ref osisRef="Mark.4.34">Mk 4:34</ref>  <ref osisRef="Mark.7.33">7:33</ref>, <ref osisRef="Luke.10.23">Lk 10:23</ref>, <ref osisRef="Acts.23.19">Ac 23:19</ref>, al.</sense>
+    </sense>
+  </sense>
+</entry> 
 
 l8ialTT,s, -ov, 5 «?8tos), [in LXX: Pr 6^ (no Heb.)*;] 1. a pri- 
 vate person, as opp. to the State or an official (/JacriXcls k. iStwrai, Pr, I.e.; 
