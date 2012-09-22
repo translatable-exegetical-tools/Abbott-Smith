@@ -1851,12 +1851,15 @@
   <sense><gloss>Agrippa</gloss> (II):  <ref osisRef="Acts.25.13">Ac 25:13</ref>, <ref osisRef="Acts.25.22">22</ref>, <ref osisRef="Acts.25.23">23</ref>, <ref osisRef="Acts.25.24">24</ref>, <ref osisRef="Acts.25.26">26</ref> <ref osisRef="Acts.26.1">26:1</ref>, <ref osisRef="Acts.26.2">2</ref>, <ref osisRef="Acts.26.19">19</ref>, <ref osisRef="Acts.26.27">27</ref>, <ref osisRef="Acts.26.28">28</ref>, <ref osisRef="Acts.26.32">32</ref>. (For Agrippa I, v.s. <foreign xml:lang="grc">Ἡρῴδης</foreign>, 3.) †</sense>
  </entry>
 
-dypos, -oS, 6, [in LXX chiefly for nitr]; 1. afield: Mt 628, al. 
-
-2. the country: Mk I521, al.; pi., country places, farms: Mk 5^* 636&gt; 56^ 
-Lk 83* 912. 3. = x'^P^oV' CL piece of ground: Mk 1029, Ac 427, al. (On 
-the occurrence of this word as compared with x^P'^f X'^P'^"' ^- M^. 
-VGT, s.v.) 
+<entry n="ἀγρός|G68">
+  <note type="occurrencesNT">37</note>
+  <form><orth>ἀγρός, -οῦ, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">שָׂדֶה</foreign>];</form>
+  <sense>
+    <sense n="1."><gloss>a field</gloss>: <ref osisRef="Matt.6.28">Mt 6:28</ref>, al. </sense>
+    <sense n="2."><gloss>the country</gloss>: <ref osisRef="Mark.15.21">Mk 15:21</ref>, al.; pl., <gloss>country places, farms</gloss>: <ref osisRef="Mark.5.14">Mk 5:14</ref> <ref osisRef="Mark.6.36">6:36</ref> <ref osisRef="Mark.6.56">56</ref>, <ref osisRef="Luke.8.34">Lk 8:34</ref>  <ref osisRef="Luke.9.12">9:12</ref>. </sense>
+    <sense n="3.">= <foreign xml:lang="grc">χωρίον</foreign> <gloss>a piece of ground</gloss>: <ref osisRef="Mark.10.29">Mk 10:29</ref>, <ref osisRef="Acts.4.27">Ac 4:27</ref>, al. (On the occurrence of this word as compared with <foreign xml:lang="grc">χώρα</foreign>, <foreign xml:lang="grc">χωρίον</foreign> v. MM, <emph>VGT</emph>, s.v.)</sense>
+  </sense>
+ </entry>
 
 ■ dypuircew, -w (•&lt;^ dypu7ri/os, seeking sleep; &lt;^dyp€v(o, vTrvo&lt;;), [in 
 LXX chiefly for ipw;] to be sleejjless, wakeful (Theogn., Xen., al.); 
