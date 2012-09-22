@@ -163,6 +163,17 @@
 </xsl:choose>
 </xsl:template>
 
+<xsl:template match="tei:hi">
+<xsl:choose>
+  <xsl:when test="./@rend='subscript'">
+    	<sub><xsl:value-of select="."/></sub>
+  </xsl:when>
+  <xsl:when test="./@rend='superscript'">
+    	<sup><xsl:value-of select="."/></sup>
+  </xsl:when>
+</xsl:choose>
+</xsl:template>
+
 <xsl:template match="tei:sense">
     	<b><xsl:value-of select="./@n"/><xsl:text> </xsl:text></b><xsl:apply-templates/>
 </xsl:template>
