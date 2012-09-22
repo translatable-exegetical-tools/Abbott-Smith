@@ -175,11 +175,11 @@
 </xsl:template>
 
 <xsl:template match="tei:sense">
-    	<b><xsl:value-of select="./@n"/><xsl:text> </xsl:text></b><xsl:apply-templates/>
+    	<strong><xsl:value-of select="./@n"/><xsl:text> </xsl:text></strong><xsl:apply-templates/>
 </xsl:template>
 
 <xsl:template match="tei:gloss">
-    	<i><xsl:apply-templates/></i>
+    	<em><xsl:apply-templates/></em>
 </xsl:template>
 
 <xsl:template match="tei:ref">
