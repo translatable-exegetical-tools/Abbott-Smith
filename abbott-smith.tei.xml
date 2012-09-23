@@ -1901,11 +1901,19 @@
   </sense>
  </entry>
 
-dyci.', -wos, 6 «dya&gt;), [in LXX: Is T^^ (nxb), Es 4^7, Wi 42 10^2, 
-II Macg, IV Mac 5*;] 1. a gathering, esp. for games. 2. a place of 
-assembly. 3. a contest, striiggle, trial; metaph. (MM, <emph>VGT</emph>, s.v.), 
-(a) of the Christian life as a contest and struggle: Phi l^o, i Th 22, 
-I Ti 612^ II Ti 4^ He 12^; (b) solicitude, anxiety: Col 2^.f 
+
+<entry n="ἀγών|G73">
+  <note type="occurrencesNT">6</note>
+  <form><orth>ἀγών, -ῶνος, ὁ</orth> (&lt; <foreign xml:lang="grc">ἄγω</foreign>), [in LXX: <ref osisRef="Isa.7.13">Is 7:13</ref> (<foreign xml:lang="heb">לאה</foreign>), <ref osisRef="Esth.4.17">Es 4:17</ref>, <ref osisRef="Wis.4.2">Wi 4:2</ref>  <ref osisRef="Wis.10.12">10:12</ref>, II Mac <hi rend="subscript">6</hi>, IV Mac <hi rend="subscript">5</hi> * ;]</form>
+  <sense>
+    <sense n="1."><gloss>a gathering</gloss>, esp. for games. </sense>
+    <sense n="2."><gloss>a place of assembly</gloss>. </sense>
+    <sense n="3."><gloss>a contest, struggle, trial</gloss>; metaph. (MM, <emph>VGT</emph>, s.v.),
+      <sense n="(a)">of the Christian life as a contest and struggle: <ref osisRef="Phil.1.30">Phl 1:30</ref>, <ref osisRef="1Thess.2.2">I Th 2:2</ref>, <ref osisRef="1Tim.6.12">I Ti 6:12</ref>, <ref osisRef="2Tim.4.7">II Ti 4:7</ref> <ref osisRef="Heb.12.1">He 12:1</ref>;</sense>
+      <sense n="(b)"><gloss>solicitude, anxiety</gloss>: <ref osisRef="Col.2.1">Col 2:1</ref>.</sense>
+    </sense> †
+  </sense>
+ </entry>
 
 ** dywKia, -as, rj «dywv), [in LXX: II Mac 3^*' i« 151^ *;] 1. a contest, 
 wrestling (Eur., Xen.). 2. Of the mind, great fear, agony, anguish 
