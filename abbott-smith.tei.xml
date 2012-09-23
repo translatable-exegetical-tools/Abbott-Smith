@@ -1882,11 +1882,15 @@
   <form><orth>ἀγυιά</orth>, v.s. <foreign xml:lang="grc">ἀγορά</foreign>, [in LXX: <ref osisRef="3Macc.1.20">III Mac 1:20</ref>  <ref osisRef="3Macc.4.3">4:3</ref> *]. </form>
  </entry>
 
-ayw, [in LXX for NIS hi., Upb , 3n: , etc.;] 1. to lead, bring, carry: 
-c. ace, seq. tVi, ets, 2ws, xpos and simple dat.; metaph,, to lead, guide, 
-impel: Jo 10^^ Ro 2*, He Q^o, ii Ti 3^, al. 2. to spend or keep a day: 
-Lk 2P^, Ac 19^8 3. Intrans., to go: subjunc, ayoyfuv, Mt 26*«, al. 
-(Cramer, 61; MM, <emph>VGT</emph>, s.v.). 
+<entry n="ἄγω|G71">
+  <note type="occurrencesNT">67</note>
+  <form><orth>ἄγω</orth>, [in LXX for <foreign xml:lang="heb">בּוא</foreign> hi., <foreign xml:lang="heb">לקח</foreign>, <foreign xml:lang="heb">נהג</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1."><gloss>to lead, bring, carry</gloss>: c. ace, seq. <foreign xml:lang="grc">ἐπί</foreign>, <foreign xml:lang="grc">εἰς</foreign>, <foreign xml:lang="grc">ἕως</foreign>, <foreign xml:lang="grc">πρός</foreign> and simple dat.; metaph., <gloss>to lead, guide, impel</gloss>: <ref osisRef="John.10.16">Jo 10:16</ref> <ref osisRef="Rom.2.4">Ro 2:4</ref>, <ref osisRef="Heb.2.10">He 2:10</ref>, <ref osisRef="2Tim.3.6">II Ti 3:6</ref>, al. </sense> 
+    <sense n="2."><gloss>to spend</gloss> or <gloss>keep</gloss> a day: <ref osisRef="Luke.24.21">Lk 24:21</ref>, <ref osisRef="Acts.19.38">Ac 19:38</ref> </sense>
+    <sense n="3.">Intrans., <gloss>to go</gloss>: subjunc., <foreign xml:lang="grc">ἄγωμεν</foreign>, <ref osisRef="Matt.2.46">Mt 2:46</ref>, al. (Cramer, 61; MM, <emph>VGT</emph>, s.v.).</sense> 
+  </sense>
+ </entry>
 
 dyajYVi, -^s, ^ « dya,), [in LXX: Es 220 103, II Mac 4i6 B^ 112*, 
 III Mac 4^** *;] 1. a carrying away. 2. a leading, guiding; metaph., 
