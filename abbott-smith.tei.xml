@@ -1878,7 +1878,9 @@
 
  <pb n="8" /> <!-- typed="" checked="" --> 
 
-dyuid, v.s. dyop({, [in LXX: in Mac l^o 4^ *]. 
+<entry n="ἀγυιά">
+  <form><orth>ἀγυιά</orth>, v.s. <foreign xml:lang="grc">ἀγορά</foreign>, [in LXX: <ref osisRef="3Macc.1.20">III Mac 1:20</ref>  <ref osisRef="3Macc.4.3">4:3</ref> *]. </form>
+ </entry>
 
 ayw, [in LXX for NIS hi., Upb , 3n: , etc.;] 1. to lead, bring, carry: 
 c. ace, seq. tVi, ets, 2ws, xpos and simple dat.; metaph,, to lead, guide, 
