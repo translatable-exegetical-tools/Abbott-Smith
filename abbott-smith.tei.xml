@@ -1878,24 +1878,42 @@
 
  <pb n="8" /> <!-- typed="" checked="" --> 
 
-dyuid, v.s. dyop({, [in LXX: in Mac l^o 4^ *]. 
+<entry n="ἀγυιά">
+  <form><orth>ἀγυιά</orth>, v.s. <foreign xml:lang="grc">ἀγορά</foreign>, [in LXX: <ref osisRef="3Macc.1.20">III Mac 1:20</ref>  <ref osisRef="3Macc.4.3">4:3</ref> *]. </form>
+ </entry>
 
-ayw, [in LXX for NIS hi., Upb , 3n: , etc.;] 1. to lead, bring, carry: 
-c. ace, seq. tVi, ets, 2ws, xpos and simple dat.; metaph,, to lead, guide, 
-impel: Jo 10^^ Ro 2*, He Q^o, ii Ti 3^, al. 2. to spend or keep a day: 
-Lk 2P^, Ac 19^8 3. Intrans., to go: subjunc, ayoyfuv, Mt 26*«, al. 
-(Cramer, 61; MM, <emph>VGT</emph>, s.v.). 
+<entry n="ἄγω|G71">
+  <note type="occurrencesNT">67</note>
+  <form><orth>ἄγω</orth>, [in LXX for <foreign xml:lang="heb">בּוא</foreign> hi., <foreign xml:lang="heb">לקח</foreign>, <foreign xml:lang="heb">נהג</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1."><gloss>to lead, bring, carry</gloss>: c. ace, seq. <foreign xml:lang="grc">ἐπί</foreign>, <foreign xml:lang="grc">εἰς</foreign>, <foreign xml:lang="grc">ἕως</foreign>, <foreign xml:lang="grc">πρός</foreign> and simple dat.; metaph., <gloss>to lead, guide, impel</gloss>: <ref osisRef="John.10.16">Jo 10:16</ref> <ref osisRef="Rom.2.4">Ro 2:4</ref>, <ref osisRef="Heb.2.10">He 2:10</ref>, <ref osisRef="2Tim.3.6">II Ti 3:6</ref>, al. </sense> 
+    <sense n="2."><gloss>to spend</gloss> or <gloss>keep</gloss> a day: <ref osisRef="Luke.24.21">Lk 24:21</ref>, <ref osisRef="Acts.19.38">Ac 19:38</ref> </sense>
+    <sense n="3.">Intrans., <gloss>to go</gloss>: subjunc., <foreign xml:lang="grc">ἄγωμεν</foreign>, <ref osisRef="Matt.2.46">Mt 2:46</ref>, al. (Cramer, 61; MM, <emph>VGT</emph>, s.v.).</sense> 
+  </sense>
+ </entry>
 
-dyajYVi, -^s, ^ « dya,), [in LXX: Es 220 103, II Mac 4i6 B^ 112*, 
-III Mac 4^** *;] 1. a carrying away. 2. a leading, guiding; metaph., 
-training; hence, from the expression d. tov /3iov, absol., conduct, way 
-of life: II Ti 3io (Cremer, 61; MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἀγωγή|G72">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ἀγωγή, -ῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄγω</foreign>), [in LXX: <ref osisRef="Esth.2.20">Es 2:20</ref>  <ref osisRef="Esth.10.3">10:3</ref>, <ref osisRef="2Macc.4.16">II Mac 4:16</ref> <ref osisRef="2Macc.6.8">6:8</ref> <ref osisRef="2Macc.11.24">11:24</ref>, <ref osisRef="3Macc.4.10">III Mac 4:10</ref> * ;]</form>
+  <sense>
+    <sense n="1."><gloss>a carrying away</gloss>. </sense>
+    <sense n="2."><gloss>a leading, guiding</gloss>; metaph., <gloss>training</gloss>; hence, from the expression <foreign xml:lang="grc">ἀ. τοῦ βίου</foreign>, absol., <gloss>conduct, way of life</gloss>: <ref osisRef="2Tim.3.10">II Ti 3:10</ref> (Cremer, 61; MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
-dyci.', -wos, 6 «dya&gt;), [in LXX: Is T^^ (nxb), Es 4^7, Wi 42 10^2, 
-II Macg, IV Mac 5*;] 1. a gathering, esp. for games. 2. a place of 
-assembly. 3. a contest, striiggle, trial; metaph. (MM, <emph>VGT</emph>, s.v.), 
-(a) of the Christian life as a contest and struggle: Phi l^o, i Th 22, 
-I Ti 612^ II Ti 4^ He 12^; (b) solicitude, anxiety: Col 2^.f 
+
+<entry n="ἀγών|G73">
+  <note type="occurrencesNT">6</note>
+  <form><orth>ἀγών, -ῶνος, ὁ</orth> (&lt; <foreign xml:lang="grc">ἄγω</foreign>), [in LXX: <ref osisRef="Isa.7.13">Is 7:13</ref> (<foreign xml:lang="heb">לאה</foreign>), <ref osisRef="Esth.4.17">Es 4:17</ref>, <ref osisRef="Wis.4.2">Wi 4:2</ref>  <ref osisRef="Wis.10.12">10:12</ref>, II Mac <hi rend="subscript">6</hi>, IV Mac <hi rend="subscript">5</hi> * ;]</form>
+  <sense>
+    <sense n="1."><gloss>a gathering</gloss>, esp. for games. </sense>
+    <sense n="2."><gloss>a place of assembly</gloss>. </sense>
+    <sense n="3."><gloss>a contest, struggle, trial</gloss>; metaph. (MM, <emph>VGT</emph>, s.v.),
+      <sense n="(a)">of the Christian life as a contest and struggle: <ref osisRef="Phil.1.30">Phl 1:30</ref>, <ref osisRef="1Thess.2.2">I Th 2:2</ref>, <ref osisRef="1Tim.6.12">I Ti 6:12</ref>, <ref osisRef="2Tim.4.7">II Ti 4:7</ref> <ref osisRef="Heb.12.1">He 12:1</ref>;</sense>
+      <sense n="(b)"><gloss>solicitude, anxiety</gloss>: <ref osisRef="Col.2.1">Col 2:1</ref>.</sense>
+    </sense> †
+  </sense>
+ </entry>
 
 ** dywKia, -as, rj «dywv), [in LXX: II Mac 3^*' i« 151^ *;] 1. a contest, 
 wrestling (Eur., Xen.). 2. Of the mind, great fear, agony, anguish 
@@ -2267,7 +2285,7 @@ Pr., 158 f.; MM, <emph>VGT</emph>, s.v.), to choose: Phi I22, n Th 2^3^ He IP^.
 
 <entry n="αἴρω|G142">
   <note type="occurrencesNT">101</note>
-  <form>αἴρω, [in LXX chiefly for <foreign xml:lang="heb">נשׂא</foreign>, also for <foreign xml:lang="heb">לקח</foreign>, etc.;] </form>
+  <form><orth>αἴρω</orth>, [in LXX chiefly for <foreign xml:lang="heb">נשׂא</foreign>, also for <foreign xml:lang="heb">לקח</foreign>, etc.;] </form>
   <sense>
     <sense n="1."><gloss>to raise, take up, lift or draw up</gloss>: <ref osisRef="John.8.59">Jo 8:59</ref>  <ref osisRef="John.11.41">11:41</ref>, <ref osisRef="Acts.27.17">Ac 27:17</ref>, al. </sense>
     <sense n="2."><gloss>to bear, carry</gloss>: <ref osisRef="Matt.4.6">Mt 4:6</ref>  <ref osisRef="Matt.16.24">16:24</ref>, al. </sense>
@@ -2967,7 +2985,7 @@ excessively, 11 Co IQi^'i^.t
 
 <entry n="ἀμήν|G281">
   <note type="occurrencesNT">129</note>
-  <form><pos>ἀμήν</pos>, indecl. (Heb. <foreign xml:lang="heb">אָמֵן</foreign>, verbal adj. fr. <foreign xml:lang="heb">אמן</foreign>, <emph>to prop.</emph> ni., <emph>be firm</emph>), [in LXX: <ref osisRef="1Chr.16.36">I Ch 16:36</ref>, I <ref osisRef="Esth.9.46">Es 9:46</ref>, <ref osisRef="Neh.5.13">Ne 5:13</ref>  <ref osisRef="Neh.8.6">8:6</ref>, <ref osisRef="Tob.8.8">To 8:8</ref>  <ref osisRef="Tob.14.15">14:15</ref>, <ref osisRef="3Macc.7.23">III Mac 7:23</ref>, <pb n="25" /> <!-- typed="" checked="" --> <ref osisRef="4Macc.18.24">IV Mac 18:24</ref> (elsewhere ''<foreign xml:lang="heb">א</foreign> is rendered <foreign xml:lang="grc">ἀληθινός</foreign>, <ref osisRef="Isa.65.16">Is 65:16</ref>; <foreign xml:lang="grc">ἀληθῶς</foreign>, <ref osisRef="LXX:Jer.28.6">Je 35 (28):6</ref>; <foreign xml:lang="grc">γένοιτο</foreign>, <ref osisRef="Num.5.22">Nu 5:22</ref>, <ref osisRef="Deut.27.15">De 27:15</ref>ff., <ref osisRef="1Kgs.1.36">III Ki 1:36</ref>, <ref osisRef="LXX:Ps.40.13">Ps 40 (41):13</ref> <ref osisRef="LXX:Ps.71.19">71 (72):19</ref> <ref osisRef="LXX:Ps.105.48">105 (106):48</ref>, <ref osisRef="Jer.11.5">Je 11:5</ref>)*.] </form>
+  <form><orth>ἀμήν</orth>, indecl. (Heb. <foreign xml:lang="heb">אָמֵן</foreign>, verbal adj. fr. <foreign xml:lang="heb">אמן</foreign>, <emph>to prop.</emph> ni., <emph>be firm</emph>), [in LXX: <ref osisRef="1Chr.16.36">I Ch 16:36</ref>, I <ref osisRef="Esth.9.46">Es 9:46</ref>, <ref osisRef="Neh.5.13">Ne 5:13</ref>  <ref osisRef="Neh.8.6">8:6</ref>, <ref osisRef="Tob.8.8">To 8:8</ref>  <ref osisRef="Tob.14.15">14:15</ref>, <ref osisRef="3Macc.7.23">III Mac 7:23</ref>, <pb n="25" /> <!-- typed="" checked="" --> <ref osisRef="4Macc.18.24">IV Mac 18:24</ref> (elsewhere ''<foreign xml:lang="heb">א</foreign> is rendered <foreign xml:lang="grc">ἀληθινός</foreign>, <ref osisRef="Isa.65.16">Is 65:16</ref>; <foreign xml:lang="grc">ἀληθῶς</foreign>, <ref osisRef="LXX:Jer.28.6">Je 35 (28):6</ref>; <foreign xml:lang="grc">γένοιτο</foreign>, <ref osisRef="Num.5.22">Nu 5:22</ref>, <ref osisRef="Deut.27.15">De 27:15</ref>ff., <ref osisRef="1Kgs.1.36">III Ki 1:36</ref>, <ref osisRef="LXX:Ps.40.13">Ps 40 (41):13</ref> <ref osisRef="LXX:Ps.71.19">71 (72):19</ref> <ref osisRef="LXX:Ps.105.48">105 (106):48</ref>, <ref osisRef="Jer.11.5">Je 11:5</ref>)*.] </form>
   <sense>
     <sense n="1.">As <gramGrp><pos>adj.</pos></gramGrp> (cf. Is, l.c.), <foreign xml:lang="grc">ὁ ἀ.</foreign>, <ref osisRef="Rev.3.14">Re 3:14</ref>. </sense>
     <sense n="2.">As <gramGrp><pos>adv.</pos></gramGrp>, 
@@ -15192,7 +15210,7 @@ SlXtjOw^ 1., Jo 1*8; d[v8pes 'I., Ac 222 312 5^5 1316 2128.t '
 
 <entry n="ἵστημι|G2476">
   <note type="occurrencesNT">155</note>
-  <form>i&lt;rrT)ii, and in late writers, also icrTavw (Veitch, s.v.; Bl., §23, 2; M, <emph>Pr.</emph>, 55), [in LXX chiefly for nay, mp , also for nxa ni., hi., as^ hith., etc.]. </form>
+  <form><orth>ἵστημι</orth>, and in late writers, also <foreign xml:lang="grc">ἱστάνω</foreign> (Veitch, s.v.; Bl., §23, 2; M, <emph>Pr.</emph>, 55), [in LXX chiefly for <foreign xml:lang="heb">עמד</foreign>, <foreign xml:lang="heb">קוּם</foreign>, also for <foreign xml:lang="heb">נצב</foreign> ni., hi., <foreign xml:lang="heb">יצב</foreign> hith., etc.]. </form>
   <sense>
     <sense n="I.">Trans, in pres., impf., fut. and 1 aor. act. and in the tenses of the pass. 
       <sense n="1."><gloss>to make to stand, to place, set, set up, establish, appoint</gloss>: c. acc. pers., <ref osisRef="Mark.7.9">Mk 7:9</ref>, <ref osisRef="Acts.1.23">Ac 1:23</ref>  <ref osisRef="Acts.6.13">6:13</ref> <ref osisRef="Acts.17.31">17:31</ref>, <ref osisRef="Heb.10.9">He 10:9</ref>; id. seq. <foreign xml:lang="grc">ἐπί</foreign>, c. acc. loc, <ref osisRef="Matt.4.5">Mt 4:5</ref>, <ref osisRef="Luke.4.9">Lk 4:9</ref>; <foreign xml:lang="grc">ἐν μέσῳ</foreign>, <ref osisRef="Matt.18.2">Mt 18:2</ref>, <ref osisRef="Mark.9.36">Mk 9:36</ref>, <ref osisRef="John.8.3">Jo 8:[3]</ref>; <foreign xml:lang="grc">ἐνώπιον</foreign>, <ref osisRef="Acts.6.6">Ac 6:6</ref>; <foreign xml:lang="grc">παρ’ ἑαυτῷ</foreign>, <ref osisRef="Luke.9.47">Lk 9:47</ref>; <foreign xml:lang="grc">ἐκ δεξιῶν</foreign>, <ref osisRef="Matt.25.33">Mt 25:33</ref>; mid., <gloss>to place oneself, to stand</gloss>: <ref osisRef="Rev.18.15">Re 18:15</ref>; so also pass., <gloss>to be made to stand, to stand</gloss>: <ref osisRef="Matt.2.9">Mt 2:9</ref>, <ref osisRef="Luke.11.18">Lk 11:18</ref>  <ref osisRef="Luke.19.8">19:8</ref>, <ref osisRef="2Cor.13.1">II Co 13:1</ref>, al. </sense>
@@ -22553,7 +22571,7 @@ iCo5io.t
 
 <entry n="παρά|G3844">
   <note type="occurrencesNT">194</note>
-  <form>παρά, <gramGrp><pos>prep.</pos></gramGrp> c. gen., dat., acc., </form>
+  <form><orth>παρά</orth>, <gramGrp><pos>prep.</pos></gramGrp> c. gen., dat., acc., </form>
   <sense>with radical sense, <gloss>beside</gloss>. 
     <sense n="I.">C. gen. pers., <gloss>from the side of, from beside, from</gloss>, indicating source or origin, [in LXX for <foreign xml:lang="heb">מֵאֵצֶל ,מִיַד ,מִלִּפְנֵי</foreign>;] after verbs of motion, <ref osisRef="Mark.14.43">Mk 14:43</ref>, <ref osisRef="Luke.8.49">Lk 8:49</ref>, <ref osisRef="John.15.26">Jo 15:26</ref>, al.; after verbs of seeking, receiving, hearing, etc., <ref osisRef="Mark.8.11">Mk 8:11</ref>  <ref osisRef="Mark.12.2">12:2</ref>, <ref osisRef="John.4.9">Jo 4:9</ref>, <ref osisRef="John.4.52">52</ref> <ref osisRef="John.10.18">10:18</ref>, <ref osisRef="Phil.4.18">Phl 4:18</ref>, <ref osisRef="2Tim.1.18">II Ti 1:18</ref>, <ref osisRef="Jas.1.7">Ja 1:7</ref>, al.; after passive verbs, of the agent (like <foreign xml:lang="grc">ὑπό</foreign>), <ref osisRef="Matt.21.42">Mt 21:42</ref>, <ref osisRef="Mark.12.11">Mk 12:11</ref>, <ref osisRef="Luke.1.37">Lk 1:37</ref>; absol., <foreign xml:lang="grc">οἱ παρ’ αὐτοῦ</foreign>, <emph>his family, his kinsfolk</emph>, <ref osisRef="Mark.3.21">Mk 3:21</ref> (cf. M, <emph>Pr.</emph>, 106f.; Field, <emph>Notes</emph>, 25f.; Swete, in l.); <foreign xml:lang="grc">τὰ παρ’ αὐτῆς (αὐτῶν, ὑμῶν</foreign>, <emph>one's means, wealth</emph>, <ref osisRef="Mark.5.26">Mk 5:26</ref>, <ref osisRef="Luke.10.7">Lk 10:7</ref>, <ref osisRef="Phil.4.18">Phl 4:18</ref>. </sense><lb /> <pb n="337" /> <!-- typed="" checked="" --> 
     <sense n="II.">C. dat. pers. (exc. <ref osisRef="John.19.25">Jo 19:25</ref>, <foreign xml:lang="grc">π. τ. σταυρῷ</foreign>), <gloss>by the side of, beside, by, with</gloss>, [in LXX for <foreign xml:lang="heb">בְּעֵינֵי ,בְּיַד ,אֵצֶל</foreign>;] <ref osisRef="Luke.11.37">Lk 11:37</ref>  <ref osisRef="Luke.19.7">19:7</ref>, <ref osisRef="John.1.40">Jo 1:40</ref>  <ref osisRef="John.4.40">4:40</ref>, <ref osisRef="Acts.28.14">Ac 28:14</ref>, al.; <foreign xml:lang="grc">παρ’ ἑαυτῷ</foreign>, <emph>at home</emph>, <ref osisRef="1Cor.16.2">I Co 16:2</ref>; c. dat. pl., <gloss>among</gloss>, <ref osisRef="Matt.22.25">Mt 22:25</ref>, <ref osisRef="Col.4.16">Col 4:16</ref>, al.; metaph., <ref osisRef="Matt.19.26">Mt 19:26</ref>, <ref osisRef="Mark.10.27">Mk 10:27</ref>, <ref osisRef="Luke.1.30">Lk 1:30</ref>, <ref osisRef="Rom.2.13">Ro 2:13</ref>, <ref osisRef="Jas.1.27">Ja 1:27</ref>, al. </sense><lb />
@@ -24477,7 +24495,7 @@ Syn.: V.S. Xovoy.
 
 <entry n="πνεῦμα|G4151">
   <note type="occurrencesNT">379</note>
-  <form>, [in LXX chiefly and very freq. for nn;] </form>
+  <form><orth>πνεῦμα, -τος, τό</orth>, [in LXX chiefly and very freq. for <foreign xml:lang="heb">רוּחַ</foreign>;] </form>
   <sense>
     <sense n="1.">of air in motion; 
       <sense n="(a)"><gloss>wind</gloss>: <ref osisRef="John.3.8">Jo 3:8</ref>; pl., <ref osisRef="Heb.1.7">He 1:7</ref> (LXX); </sense>
