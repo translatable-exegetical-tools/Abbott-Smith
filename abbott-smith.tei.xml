@@ -15788,31 +15788,18 @@ Kairi'(5s, -oS, 6, [in LXX for ]I2ry;] smoke: Ee 8* 92»3.i7.i8 1411
 KairiraSoKia, -as, 17, Gappadocia, a province of Asia Minor: Ac 2^, 
 I Pe li.t 
 
-KapSi'a, -as, 17, [in LXX chiefly for 2^ , as^;] the heart, 1. the 
-
-bodily organ which is regarded as the seat of life (11 Ki 18^*, iv Ki 92^, 
-al.). 2. In a psychological sense, the seat of man's collective energies, 
-the focus of personal life, the seat of the rational as well as the 
-emotional and volitional elements in human life, hence that wherein 
-lies the moral and religious condition of the man {DB, ii, 317 f.; 
-DGG, ii, 344a); (a) of the seat of physical life (Jg 19^, Ps 101 (102)^ 
-103 (104)15): Ac 141^, Ja 5^; (b) of the seat of spiritual life: Mt 58, 
-Mk 719, Lk 151, Ac 53, Ro lO^. 10, Eph 65, al.; pi., Mt 9^ Mk 2^, al.; 
-opp. to (TTGfxa, x^Ἀea, Trp6ao)Trov, Mt 158, Mk 7^, Ro 108. 9, n Co 512; 
-TreptTOM KapSms, Ro 229; i^ ^.^ Rq Q17^ j Pe 122- ^^^ ^-^ ^,^ Mt 18^5; 
-€1/ oX.r) {ii oAr/s) t. k., Mt 22^''', Mk 12^^ (LXX) J yt,v(^(TK€tv (ipevvav, SoKtpidleiv) 
-
-Tas K., Lk 1615, Ro 327^ I Th 2"; to think, etc., iv r. k., Mt 9S Mk 2«, 
-Lk 12^5^ Jio 10"; (Twiivai (yoCiv) ry k., Mt 13^5, Jo 12^0; eVaxw^T? V k., 
-
-
-
- <pb n="231" /> <!-- typed="" checked="" --> 
-
-Mt 13'5(Lxx); -^u^povv r^v k., Jo 12*0; ^. £^,ra, Ac 821; ^o»^p(£, He 3^2; 
-a.^l€Tav6■qTO&lt;i, Ro 2^; elvai (ex^tv) eV ttj k., II Co 7^, Phi 1'^; 68vvr] rfj k., 
-Eo 92. 3. Of the central or innermost part of anything (of the pith of 
-wood, Arist.): t. y^s, Mt 12*« (Cremer, 343 ff.). 
+<entry n="καρδία|G2588">
+  <note type="occurrencesNT">156</note>
+  <form><orth>καρδία, -ας, ἡ</orth>, [in LXX chiefly for <foreign xml:lang="heb">לֵבָב ,לֵב</foreign>;] </form>
+  <sense><gloss>the heart</gloss>, 
+    <sense n="1.">the bodily organ which is regarded as the seat of life ( <ref osisRef="2Sam.18.14">II Ki 18:14</ref>, <ref osisRef="2Kgs.9.24">IV Ki 9:24</ref>, al.). </sense>
+    <sense n="2.">In a psychological sense, the seat of man's collective energies, the focus of personal life, the seat of the rational as well as the emotional and volitional elements in human life, hence that wherein lies the moral and religious condition of the man (<emph>DB</emph>, ii, 317f.; <emph>DGG</emph>, ii, 344<hi rend="superscript">a</hi>); 
+      <sense n="(a)">of the seat of physical life ( <ref osisRef="Judg.19.5">Jg 19:5</ref>, <ref osisRef="LXX:Ps.101.5">Ps 101 (102):5</ref> <ref osisRef="LXX:Ps.103.15">103 (104):15</ref>): <ref osisRef="Acts.14.17">Ac 14:17</ref>, <ref osisRef="Jas.5.5">Ja 5:5</ref>; </sense>
+      <sense n="(b)">of the seat of spiritual life: <ref osisRef="Matt.5.8">Mt 5:8</ref>, <ref osisRef="Mark.7.19">Mk 7:19</ref>, <ref osisRef="Luke.1.51">Lk 1:51</ref>, <ref osisRef="Acts.5.3">Ac 5:3</ref>, <ref osisRef="Rom.10.9">Ro 10:9</ref>,  <ref osisRef="Rom.10.10">10</ref> <ref osisRef="Eph.6.5">Eph 6:5</ref>, al.; pl., <ref osisRef="Matt.9.4">Mt 9:4</ref>, <ref osisRef="Mark.2.6">Mk 2:6</ref>, al.; opp. to <foreign xml:lang="grc">στόμα, χείλεα, πρόσωπον</foreign>, <ref osisRef="Matt.15.8">Mt 15:8</ref>, <ref osisRef="Mark.7.6">Mk 7:6</ref>, <ref osisRef="Rom.10.8">Ro 10:8</ref>,  <ref osisRef="Rom.10.9">9</ref> <ref osisRef="2Cor.5.12">II Co 5:12</ref>; <foreign xml:lang="grc">περιτομὴ καρδίας</foreign>, <ref osisRef="Rom.2.29">Ro 2:29</ref>; <foreign xml:lang="grc">ἐκ κ.</foreign>, <ref osisRef="Rom.6.17">Ro 6:17</ref>, <ref osisRef="1Pet.1.22">I Pe 1:22</ref>; <foreign xml:lang="grc">ἀπὸ τῶν κ.</foreign>, <ref osisRef="Matt.18.35">Mt 18:35</ref>; <foreign xml:lang="grc">ἐν ὅλῃ (ἐξ ὅλης)</foreign>, <ref osisRef="Matt.22.37">Mt 22:37</ref>, <ref osisRef="Mark.12.30">Mk 12:30</ref> (LXX); <foreign xml:lang="grc">γινώσκειν (ἐρευνᾶν, δοκιμάζειν) τὰς κ.</foreign>, <ref osisRef="Luke.16.15">Lk 16:15</ref>, <ref osisRef="Rom.8.27">Ro 8:27</ref>, <ref osisRef="1Thess.2.4">I Th 2:4</ref>; to think, etc., <foreign xml:lang="grc">ἐν τ. κ.</foreign>, <ref osisRef="Matt.9.4">Mt 9:4</ref>, <ref osisRef="Mark.2.6">Mk 2:6</ref>, <ref osisRef="Luke.12.45">Lk 12:45</ref>, <ref osisRef="Rom.10.6">Ro 10:6</ref>; <foreign xml:lang="grc">συνιέναι (νοεῖν) τῇ κ.</foreign>, <ref osisRef="Matt.13.15">Mt 13:15</ref>, <ref osisRef="John.12.40">Jo 12:40</ref>; <foreign xml:lang="grc">ἐπαχύνθη ἡ κ.</foreign>, <pb n="231" /> <!-- typed="" checked="" --> <ref osisRef="Matt.13.15">Mt 13:15</ref> (LXX); <foreign xml:lang="grc">πωροῦν τὴν κ.</foreign>, <ref osisRef="John.12.40">Jo 12:40</ref>; <foreign xml:lang="grc">κ. εὐθεῖα</foreign>, <ref osisRef="Acts.8.21">Ac 8:21</ref>; <foreign xml:lang="grc">πονηρά</foreign>, <ref osisRef="Heb.3.12">He 3:12</ref>; <foreign xml:lang="grc">ἀμετανόητος</foreign>, <ref osisRef="Rom.2.5">Ro 2:5</ref>; <foreign xml:lang="grc">εἶναι (ἔχειν) ἐν τῇ κ.</foreign>, <ref osisRef="2Cor.7.3">II Co 7:3</ref>, <ref osisRef="Phil.1.7">Phl 1:7</ref>; <foreign xml:lang="grc">ὀδύνη τῇ κ.</foreign>, <ref osisRef="Rom.9.2">Ro 9:2</ref>. </sense>
+    </sense>
+    <sense n="3.">Of the central or innermost part of anything (of the pith of wood, Arist.): <foreign xml:lang="grc">τ. γῆς</foreign>, <ref osisRef="Matt.12.40">Mt 12:40</ref> (Cremer, 343ff.). </sense>
+  </sense>
+</entry>
 
 *t KapSio-yi'wcmis, -ov, 6 «; xapSt'a, yvwcmjs), knower of hearts: Ao 
 12* 158.t 
