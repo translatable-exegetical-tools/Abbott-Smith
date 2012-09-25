@@ -1951,10 +1951,11 @@
   <sense><gloss>Addei</gloss>: Lk 3:28. †</sense>
  </entry>
 
-d8eX()Vi, -^s, ^7 « d8£A&lt;/)os), [in LXX for ninx;] a sister: Mt 192», 
-
-al.; metaph. (MM, <emph>VGT</emph>, s.v.), of a member of the Christian com- 
-munity: Ro 16^, I Co 7l^ Ja 21^, al. 
+<entry n="ἀδελφή|G79">
+  <note type="occurrencesNT">26</note>
+  <form><orth>ἀδελφή, -ῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀδελφός</foreign>), [in LXX for <foreign xml:lang="heb">אָהוֹת</foreign> ;] </form>
+  <sense><gloss>a sister</gloss>: <ref osisRef="Matt.19.29">Mt 19:29</ref>, al.; metaph. (MM, <emph>VGT</emph>, s.v.), of a member of the Christian community: <ref osisRef="Rom.16.1">Ro 16:1</ref>, <ref osisRef="1Cor.7.15">I Co 7:15</ref> <ref osisRef="Jas.21.15">Ja 21:15</ref>, al.</sense>
+ </entry>
 
 <entry n="ἀδελφός|G80">
   <note type="occurrencesNT">343</note>
