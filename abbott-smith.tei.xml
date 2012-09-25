@@ -1968,9 +1968,14 @@
   </sense>
 </entry>
 
-**t d8eX&lt;t.&lt;5TTis, -r?Tos, ^ « d8eX&lt;^o's), [in LXX: i Mac 12i0'i7, iv Mac 5*;] 
-1. abstract, brotherhood, brotherly affection (LXX). 2. Concrete, the 
-brotherhood, the Christian community: i Pe 21^ 5^ (MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἀδελφότης|G81">
+  <note type="occurrencesNT">2</note>
+  <form>**† <orth>ἀδελφότης, -ητος, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀδελφός</foreign>), [in LXX: <ref osisRef="1Macc.12.10">I Mac 12:10</ref>,<ref osisRef="1Macc.12.17">17</ref>, IV Mac <hi rend="subscript">5</hi> * ;] </form>
+  <sense>
+    <sense n="1.">abstract, <gloss>brotherhood, brotherly affection</gloss> (LXX). </sense>
+    <sense n="2.">Concrete, <gloss>the brotherhood</gloss>, the Christian community: <ref osisRef="1Pet.2.17">I Pe 2:17</ref>  <ref osisRef="1Pet.5.9">5:9</ref> (MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
 
 
