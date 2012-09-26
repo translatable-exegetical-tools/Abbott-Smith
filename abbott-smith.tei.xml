@@ -20032,17 +20032,21 @@ xvi; so in MGr.).t
 begotten {DCG, ii, 281), of sons and daughters: Lk 712 8*2 938, He lli^; 
 of Christ, Jo 316'18, l Jo 4^; fi. napa. Trarpos, Jo 11*; fi. Oeos, ib. i8.t 
 
-p.dfOC, V.S. fJLOVO?. 
+<entry n="μόνον">
+  <form><orth>μόνον</orth>, v.s. <foreign xml:lang="grc">μόνος</foreign>.</form>
+</entry>
 
-jiocos, -rj, -ov, [in LXX chiefly for 13^;] 1. adj., alone, solitary, 
-forsaken: c. verb., Mt 1423, jyfjj 547^ Lk 936^ ^1.; c. pron., Mt 18i5, 
-Mk 92, al.; c. subst., Mk 98, Lk 48, al.; pleonast., ovk . . . ct /ai) /x., 
-Mt U\ Lk 6\ al.; attrib., only, (6) fx.. 6^6^, Jo 5*4 173, Ro 162^, i Ti li7, 
-Ju 25. 2. As adv., (a) neut., (xovov, alone, only: referring to verb or 
-predic, Mt 921, Mk 536, ja 122^ al. (v. Bl., §44, 2); ov (fi^) /x., Ga 418, 
-Ja 122; ov fi. . . . aWd (Bl, §77, 133), Ac 192^, i Jo 5^, al.; id. seq. 
-Kat (Bl., §81, I2), Ro 53 910, II Co 819, al.; (b) Kara /Awas, alone (Bl., 
-§44, 1), Mk 410, Lk 918. 
+<entry n="μόνος|G3441">
+  <note type="occurrencesNT">112</note>
+  <form><orth>μόνος, -η, -ον</orth>, [in LXX chiefly for <foreign xml:lang="heb">לְבַד</foreign>;] </form>
+  <sense>
+    <sense n="1."><gramGrp><pos>adj.</pos></gramGrp>, <gloss>alone, solitary, forsaken</gloss>: c. verb., <ref osisRef="Matt.14.23">Mt 14:23</ref>, <ref osisRef="Mark.6.47">Mk 6:47</ref>, <ref osisRef="Luke.9.36">Lk 9:36</ref>, al.; c. pron., <ref osisRef="Matt.18.15">Mt 18:15</ref>, <ref osisRef="Mark.9.2">Mk 9:2</ref>, al.; c. subst., <ref osisRef="Mark.9.8">Mk 9:8</ref>, <ref osisRef="Luke.4.8">Lk 4:8</ref>, al.; pleonast., <foreign xml:lang="grc">οὐκ . . . εἰ μὴ μ.</foreign>, <ref osisRef="Matt.12.4">Mt 12:4</ref>, <ref osisRef="Luke.6.4">Lk 6:4</ref>, al.; attrib., only, <foreign xml:lang="grc">(ὁ) μ. θεός</foreign>, <ref osisRef="John.5.44">Jo 5:44</ref>  <ref osisRef="John.17.3">17:3</ref>, <ref osisRef="Rom.16.27">Ro 16:27</ref>, <ref osisRef="1Tim.1.17">I Ti 1:17</ref>, <ref osisRef="Jude.1.25">Ju 25</ref>. </sense>
+    <sense n="2.">As <gramGrp><pos>adv</pos>.</gramGrp>, 
+      <sense n="(a)">neut., (<foreign xml:lang="grc">μόνον</foreign>, <gloss>alone, only</gloss>: referring to verb or predic., <ref osisRef="Matt.9.21">Mt 9:21</ref>, <ref osisRef="Mark.5.36">Mk 5:36</ref>, <ref osisRef="Jas.1.22">Ja 1:22</ref>, al. (v. Bl., §44, 2); <foreign xml:lang="grc">οὐ (μὴ) μ.</foreign>, <ref osisRef="Gal.4.18">Ga 4:18</ref>, <ref osisRef="Jas.1.22">Ja 1:22</ref>; <foreign xml:lang="grc">οὐ μ. . . . ἀλλά</foreign> (Bl, §77, 13<hi rend="subscript">3</hi>), <ref osisRef="Acts.19.26">Ac 19:26</ref>, <ref osisRef="1John.5.6">I Jo 5:6</ref>, al.; id. seq. <foreign xml:lang="grc">καί</foreign> (Bl., §81, 1<hi rend="subscript">2</hi>), <ref osisRef="Rom.5.3">Ro 5:3</ref>  <ref osisRef="Rom.9.10">9:10</ref>, <ref osisRef="2Cor.8.19">II Co 8:19</ref>, al.; </sense>
+      <sense n="(b)"><foreign xml:lang="grc">κατὰ μόνας</foreign>, <gloss>alone</gloss> (Bl., §44, 1), <ref osisRef="Mark.4.10">Mk 4:10</ref>, <ref osisRef="Luke.9.18">Lk 9:18</ref>.</sense>
+    </sense>
+  </sense>
+</entry> 
 
 * jiof-6&lt;J)0a\fx.os, -ov {&lt;C fJ'Ovo'i), Ionic and koiv^, one-eyed, having one 
 eye: Mt 18^, Mk 9*7.1 
