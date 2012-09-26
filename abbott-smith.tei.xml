@@ -2008,13 +2008,14 @@
   <sense><gloss>to be troubled, distressed</gloss> (MM, l.c.): <ref osisRef="Matt.26.37">Mt 26:37</ref>, <ref osisRef="Mark.14.33">Mk 14:33</ref>, <ref osisRef="Phil.2.26">Phl 2:26</ref>. †</sense>
  </entry>
 
-aSTjs, -ov, 6, [in LXX ehiefly for blNljr , also for nipTT , niCi , etc.;] 
-
-1. in Horn., Hades (Pluto), the god of the underworld. 2. the abode 
-of Hades, the underivorld; in NT, the abode of departed spirits, 
-Hades: iv t. a., Lk 1623; ^k a., Ac 22^.31; TrvXat dSov, Mt le^S; kXcU 
-Tov a., Ee 118;' metaph., Iws a.', Mt 1123, Lk lO^^;' personified, Ee 6^ 
-20i3.'i4 (Cremer, 67, 610; MM, <emph>VGT</emph>, 8.v.).t 
+<entry n="ᾅδης|G86">
+  <note type="occurrencesNT">10</note>
+  <form><orth>ᾅδης, -ου, ὁ</orth> [in LXX ehiefly for <foreign xml:lang="heb">שְׁאוֹל</foreign>, also for <foreign xml:lang="heb">דּוּמָה</foreign>, <foreign xml:lang="heb">מָוֶת</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1.">in Hom., <gloss>Hades</gloss> (Pluto), the god of the underworld. </sense>
+    <sense n="2."><gloss>the abode of Hades, the underivorld</gloss>; in NT, the abode of departed spirits, <gloss>Hades</gloss>: <foreign xml:lang="grc">ἐν τ. ᾅ.</foreign>, <ref osisRef="Luke.16.23">Lk 16:23</ref>; <foreign xml:lang="grc">εἰς ᾅ.</foreign>, <ref osisRef="Acts.2.27">Ac 2:27</ref>,<ref osisRef="Acts.2.31">31</ref>; <foreign xml:lang="grc">πύλαι ᾅδου</foreign>, <ref osisRef="Matt.16.18">Mt 16:18</ref>; <foreign xml:lang="grc">κλεῖς τοῦ ᾅ.</foreign>, <ref osisRef="Rev.1.18">Re 1:18</ref>; metaph., <foreign xml:lang="grc">ἕως ᾅ.</foreign>, <ref osisRef="Matt.11.23">Mt 11:23</ref>, <ref osisRef="Luke.10.15">Lk 10:15</ref>; personified, <ref osisRef="Rev.6.8">Re 6:8</ref>  <ref osisRef="Rev.20.13">20:13</ref>,<ref osisRef="Rev.20.14">14</ref> (Cremer, 67, 610; MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
 d-8id-KpiTos, -ov «8taK/3tVw), [in LXX: Pr 25i*;] 1. not to be 
 parted, mixed, undistinguishable (cf. Pr, I.e., and v. Lft., Ignat. Eph., 
