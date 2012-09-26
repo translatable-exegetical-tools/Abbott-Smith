@@ -20349,24 +20349,20 @@ Ned-jToXis, -€W9, 17, Eec. for Nc'a ndXts (WH), the more freq. form
 
 NcEfJidf, V.S. Nai/xav. 
 
-KCKpos, -a, -ov, [in LXX chiefly for nO;j dead, I. as adj., 1. 
-prop.: Ac 510 209, Ja 226, jje lis, al.; (btriL v., Mt 28*, Mk 92«, Ee l^^; 
-
-
-
- <pb n="301" /> <!-- typed="" checked="" --> 
-
-of that which is subject to death, Ro S^*'. 2. Metaph., (a) of persons: 
-Lk 15^*'^^; of those immersed in worldly cares, Mt 8^^, Lk 9"°; of 
-spiritual death, Jo 5^^, Ro 6^^, Eph 5^*, Ee 3^; t. ■jrapairTiofiaa-iv, Eph 
-2^' ^, Col 2^^; of the opposite condition, v. t^ dfiapTia, Ro 6^^; (b) of 
-things regarded as inoperative, devoid of power: afxaprCa, Ro 7^; 
-TTto-Tis, Ja 217.26; ipya. He 6i Qi". II. As subst., vcKpo's, 6 (Hom., al.), 
-chiefly in pi. {pi) v., the dead: Mt 11^, Mk 122«, Lk 20", i Co IS^s, al.; 
-di/tto-Tao-ts (t.) vc/cp^v, Mt 2231, Ac 1732, al.; V. . . . ^Svtcs, Mt 22^2, Mk 
-1227, Ac 10*2, al.; dir^ v€Kpwy, Lk IG^o; iK v., Mk 6", Lk 24*6, Jq 121, 
-Ac 133*, Ro 107, al.; TrpcoroVoKos iK Twv v., Col 118; ^ojr] ck v., Ro 1115; 
-constr. praegn., eV v. ^wvtcs, Ro 6'3. 
+<entry n="νεκρός|G3498">
+  <note type="occurrencesNT">128</note>
+  <form><orth>νεκρός, -α, -ον</orth>, [in LXX chiefly for ***;] </form>
+  <sense><gloss>dead</gloss>, 
+    <sense n="I.">as <gramGrp><pos>adj.</pos></gramGrp>, 
+      <sense n="1.">prop.: <ref osisRef="Acts.5.10">Ac 5:10</ref>  <ref osisRef="Acts.20.9">20:9</ref>, <ref osisRef="Jas.2.26">Ja 2:26</ref>, <ref osisRef="Rev.1.18">Re 1:18</ref>, al.; <foreign xml:lang="grc">ὡσεὶ ν.</foreign>, <ref osisRef="Matt.28.4">Mt 28:4</ref>, <ref osisRef="Mark.9.26">Mk 9:26</ref>, <ref osisRef="Rev.1.17">Re 1:17</ref>; <pb n="301" /> <!-- typed="" checked="" --> of that which is subject to death, <ref osisRef="Rom.8.10">Ro 8:10</ref>. </sense>
+      <sense n="2.">Metaph., 
+	<sense n="(a)">of persons: <ref osisRef="Luke.15.24">Lk 15:24</ref>, <ref osisRef="Luke.15.32">32</ref>; of those immersed in worldly cares, <ref osisRef="Matt.8.22">Mt 8:22</ref>, <ref osisRef="Luke.9.60">Lk 9:60</ref>; of spiritual death, <ref osisRef="John.5.25">Jo 5:25</ref>, <ref osisRef="Rom.6.13">Ro 6:13</ref>, <ref osisRef="Eph.5.14">Eph 5:14</ref>, <ref osisRef="Rev.3.1">Re 3:1</ref>; <foreign xml:lang="grc">τ. παραπτώμασιν</foreign>, <ref osisRef="Eph.2.1">Eph 2:1</ref>,  <ref osisRef="Eph.2.5">5</ref> <ref osisRef="Col.2.13">Col 2:13</ref>; of the opposite condition, <foreign xml:lang="grc">ν. τῇ ἁμαρτίᾳ</foreign>, <ref osisRef="Rom.6.11">Ro 6:11</ref>; </sense>
+	<sense n="(b)">of things regarded as inoperative, devoid of power: <foreign xml:lang="grc">ἁμαρτία</foreign>, <ref osisRef="Rom.7.8">Ro 7:8</ref>; <foreign xml:lang="grc">πίστις</foreign>, <ref osisRef="Jas.2.17">Ja 2:17</ref>, <ref osisRef="Jas.2.26">26</ref>; <foreign xml:lang="grc">ἔργα</foreign>, <ref osisRef="Heb.6.1">He 6:1</ref>  <ref osisRef="Heb.9.14">9:14</ref>. </sense>
+      </sense> 
+    </sense>
+    <sense n="II.">As <gramGrp><pos>subst.</pos></gramGrp>, <foreign xml:lang="grc">νεκρός, ὁ</foreign> (Hom., al.), chiefly in pl. <foreign xml:lang="grc">(οἱ) ν.</foreign>, <gloss>the dead</gloss>: <ref osisRef="Matt.11.5">Mt 11:5</ref>, <ref osisRef="Mark.12.26">Mk 12:26</ref>, <ref osisRef="Luke.20.37">Lk 20:37</ref>, <ref osisRef="1Cor.15.15">I Co 15:15</ref>, al.; <foreign xml:lang="grc">ἀνάστασις (τ.) νεκρῶν</foreign>, <ref osisRef="Matt.22.31">Mt 22:31</ref>, <ref osisRef="Acts.17.32">Ac 17:32</ref>, al.; <foreign xml:lang="grc">ν. . . . ζῶντες</foreign>, <ref osisRef="Matt.22.32">Mt 22:32</ref>, <ref osisRef="Mark.12.27">Mk 12:27</ref>, <ref osisRef="Acts.10.42">Ac 10:42</ref>, al.; <foreign xml:lang="grc">ἀπὸ νεκρῶν</foreign>, <ref osisRef="Luke.16.30">Lk 16:30</ref>; <foreign xml:lang="grc">ἐκ ν.</foreign>, <ref osisRef="Mark.6.14">Mk 6:14</ref>, <ref osisRef="Luke.24.46">Lk 24:46</ref>, <ref osisRef="John.12.1">Jo 12:1</ref>, <ref osisRef="Acts.13.34">Ac 13:34</ref>, <ref osisRef="Rom.10.7">Ro 10:7</ref>, al.; <foreign xml:lang="grc">πρωτότοκος ἐκ τῶν ν.</foreign>, <ref osisRef="Col.1.18">Col 1:18</ref>; <foreign xml:lang="grc">ζωὴ ἐκ ν.</foreign>, <ref osisRef="Rom.11.15">Ro 11:15</ref>; constr. praegn., <foreign xml:lang="grc">ἐκ ν. ζῶντες</foreign>, <ref osisRef="Rom.6.13">Ro 6:13</ref>. </sense>
+  </sense>
+</entry>
 
 *t&gt;'eKp6(D, w (&lt;;v€Kpos), io wafee (iead, put to death; pass., ^0 be 
 dead: hyperbolically, of impotent age, He lli^; aw/xa, Ro 41^. 
