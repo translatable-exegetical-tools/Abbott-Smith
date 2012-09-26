@@ -55,7 +55,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>0059</td><td>ἀδημονέω</td><td>G85</td><td>3</td></tr>
 <tr><td>0060</td><td>ᾅδης</td><td>G86</td><td>10</td></tr>
 <tr><td>0061</td><td>ἀδιάκριτος</td><td>G87</td><td>1</td></tr>
 <tr><td>0062</td><td>ἀδιάλειπτος</td><td>G88</td><td>2</td></tr>
