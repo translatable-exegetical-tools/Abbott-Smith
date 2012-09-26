@@ -1981,11 +1981,15 @@
 
  <pb n="9" /> <!-- typed="" checked="" -->
 
-a-8T)Xos, -ov « S^Aos), [in LXX: Ps 50 (51)6 (ninij^);] 1. unseen, 
+<entry n="ἄδηλος|G82">
+  <note type="occurrencesNT">2</note>
+  <form><orth>ἄ-δηλος, -ον</orth> (&lt; <foreign xml:lang="grc">δῆλος</foreign>), [in LXX: <ref osisRef="Ps.51.6">Ps 50 (51):6</ref> (<foreign xml:lang="heb">בַּטֻחוֹת</foreign>) ;] </form>
+  <sense>
+    <sense n="1."><gloss>unseen, unobserved, not manifest</gloss> (Ps, l.c.): <ref osisRef="Luke.11.44">Lk 11:44</ref>. </sense>
+    <sense n="2."><gloss>uncertain, indistinct</gloss>: <ref osisRef="1Cor.14.8">I Co 14:8</ref>.</sense> †
+  </sense>
+ </entry>
 
-unobserved, 7wt manifest (Ps, I.e.): Lk 11**. 2. uncertain, indistinct: 
-
-I Co 148.t 
 
 *t d8TiX(5nis, -r]Tos, rj {&lt;^ a.8r]Xo&lt;;) , uncertainty: i Ti 6^''.t 
 
