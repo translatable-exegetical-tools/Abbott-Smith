@@ -19242,20 +19242,21 @@ fL€v-ovv-y€ = fjLfv ovv fc, nay rather: Ro 920 IOI8, Phi S^.t
 
 fieV-Toi = fiiv TOL, yet, however: Jo 4^^, al.; el /x., Ja 2^ (if indeed). 
 
-liivb}, [in LXX for TiQjr , mp , etc.;] to stay, abide, remain. 
-1. Intrans.; (i) of place: seq. iv, Lk 8^7, al.; Trapd, c. dat. pers., Jo 1*°, 
-al; &lt;Tvv, Lk 1''*'; kuO' kavrov, Ac 28i«; c. adv., eKil, Mt lO^i; diSe, 
-Mt 26=*8; metaph., i Jo 2i8; of the Holy Spirit, Jo l^^.^a 1417. of 
-Christ, Jo 6^^ 15*, al.; 6 ^€os, i Jo 4^" , conversely, of Christians, 
-Jo 6''" 15*, I Jo 415, al.; 6 Aoyos t. ^eoC, i Jo 2^*; rj a^deia, 11 Jo 2, al. 
-(ii) Of time; (a) of persons: Phi l^s; seq. et? t. aiwva Jo 12^*, He 7^*, 
-I Jo 217; ^Xt'yov, Ee IT^O; ews Ipxof^ai, Jo 2122.23; (^^ of things, lasting 
-or enduring: cities, Mt ll^^. He 13^*; Adyos deov, 1 Pe l^^; afiapTta, 
-Jo 9*^ (iii) Of condition: c. pred., ytidvo?, Jo 12^*; ayaywos, i Co 7^^; 
-TTio-Tos, II Ti 2^=^; Upiv's, He 7^; c. adv., owtws, i Co 7; ws »&lt;dyw, ib. ^i 
-seq. ev, ib. 20. 24. 2. Trans. (Bl., §34, 1; Field, ^o^es, 132): c. ace. 
-pers., Ac 20^' ^^ (cf. dia-, 8ta-, iv, l-m-, Kara-, irapa-, avv-Trapa-, nepi-, 
-irpocr-, VTvo-p-ivui). 
+<entry n="μένω|G3306">
+  <note type="occurrencesNT">118</note>
+  <form><orth>μένω</orth>, [in LXX for <foreign xml:lang="heb">קוּם ,עמד</foreign>, etc.;] </form>
+  <sense><gloss>to stay, abide, remain</gloss>. 
+    <sense n="1.">Intrans.; 
+      <sense n="(i)">of place: seq. <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="Luke.8.27">Lk 8:27</ref>, al.; <foreign xml:lang="grc">παρά</foreign>, c. dat. pers., <ref osisRef="John.1.40">Jo 1:40</ref>, al; <foreign xml:lang="grc">σύν</foreign>, <ref osisRef="Luke.1.56">Lk 1:56</ref>; <foreign xml:lang="grc">καθ’ ἑαυτόν</foreign>, <ref osisRef="Acts.28.16">Ac 28:16</ref>; c. adv., <foreign xml:lang="grc">ἐκεῖ</foreign>, <ref osisRef="Matt.10.11">Mt 10:11</ref>; <foreign xml:lang="grc">ὧδε</foreign>, <ref osisRef="Matt.26.38">Mt 26:38</ref>; metaph., <ref osisRef="1John.2.18">I Jo 2:18</ref>; of the Holy Spirit, <ref osisRef="John.1.32">Jo 1:32</ref>, <ref osisRef="John.1.33">33</ref> <ref osisRef="John.14.17">14:17</ref>; of Christ, <ref osisRef="John.6.56">Jo 6:56</ref>  <ref osisRef="John.15.4">15:4</ref>, al.; <foreign xml:lang="grc">ὁ θεός</foreign>, <ref osisRef="1John.4.15">I Jo 4:15</ref>, conversely, of Christians, <ref osisRef="John.6.56">Jo 6:56</ref>  <ref osisRef="John.15.4">15:4</ref>, <ref osisRef="1John.4.15">I Jo 4:15</ref>, al.; <foreign xml:lang="grc">ὁ λόγος τ. θεοῦ</foreign>, <ref osisRef="1John.2.14">I Jo 2:14</ref>; <foreign xml:lang="grc">ἡ ἀλήθεια</foreign>, <ref osisRef="2John.1.2">II Jo 2</ref>, al. </sense>
+      <sense n="(ii)">Of time; 
+	<sense n="(a)">of persons: <ref osisRef="Phil.1.25">Phl 1:25</ref>; seq. <foreign xml:lang="grc">εἰς τ. αἰῶνα</foreign>, <ref osisRef="John.12.34">Jo 12:34</ref>, <ref osisRef="Heb.7.24">He 7:24</ref>, <ref osisRef="1John.2.17">I Jo 2:17</ref>; <foreign xml:lang="grc">ὀλίγον</foreign>, <ref osisRef="Rev.17.10">Re 17:10</ref>; <foreign xml:lang="grc">ἕως ἔρχομαι</foreign>, <ref osisRef="John.21.22">Jo 21:22</ref>, <ref osisRef="John.21.23">23</ref>; </sense>
+	<sense n="(b)">of things, lasting or enduring: cities, <ref osisRef="Matt.11.23">Mt 11:23</ref>, <ref osisRef="Heb.13.14">He 13:14</ref>; <foreign xml:lang="grc">λόγος θεοῦ</foreign>, <ref osisRef="1Pet.1.23">I Pe 1:23</ref>; <foreign xml:lang="grc">ἁμαρτία</foreign>, <ref osisRef="John.9.41">Jo 9:41</ref>. </sense>
+      </sense>
+      <sense n="(iii)">Of condition: c. pred., <foreign xml:lang="grc">μόνος</foreign>, <ref osisRef="John.12.24">Jo 12:24</ref>; <foreign xml:lang="grc">ἄγαμος</foreign>, <ref osisRef="1Cor.7.11">I Co 7:11</ref>; <foreign xml:lang="grc">πιστός</foreign>, <ref osisRef="2Tim.2.13">II Ti 2:13</ref>; <foreign xml:lang="grc">ἱερεύς</foreign>, <ref osisRef="Heb.7.3">He 7:3</ref>; c. adv., <foreign xml:lang="grc">οὕτως</foreign>, <ref osisRef="1Cor.7.40">I Co 7:40</ref>; <foreign xml:lang="grc">ὡς κἀγώ</foreign>, <ref osisRef="1Cor.7.8">ib. 8</ref>; seq. <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="1Cor.7.20">ib. 20</ref>, <ref osisRef="1Cor.7.24">24</ref>. </sense>
+    </sense>
+    <sense n="2.">Trans. (Bl., §34, 1; Field, <emph>Notes</emph>, 132): c. acc. pers., <ref osisRef="Acts.20.5">Ac 20:5</ref>, <ref osisRef="Acts.20.23">23</ref> (cf. <foreign xml:lang="grc">ἀνα-, δια-, ἐν-, ἐπι-, κατα-, παρα-, συν-παρα-, περι-, προσ-, ὑπο-μένω</foreign>). </sense>
+  </sense>
+</entry>
 
 ficpij^o) {&lt;^ixipos), [in LXX chiefly for pbu;] to divide; (a) to 
 divide into parts: metaph., pass., i Co 73* (wh, b, mg.), 34 (Rec, r, txt.) (on 
