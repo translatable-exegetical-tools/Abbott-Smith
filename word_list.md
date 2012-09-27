@@ -20,7 +20,6 @@ Each row includes the following information:
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
 <tr><td>3497</td><td>οἶκος</td><td>G3624</td><td>114</td></tr>
 <tr><td>3523</td><td>ὅλος</td><td>G3650</td><td>111</td></tr>
-<tr><td>3618</td><td>ὅσος</td><td>G3745</td><td>118</td></tr>
 <tr><td>3621</td><td>ὅστις</td><td>G3748</td><td>144</td></tr>
 <tr><td>3625</td><td>ὅταν</td><td>G3752</td><td>123</td></tr>
 <tr><td>3626</td><td>ὅτε</td><td>G3753</td><td>103</td></tr>
