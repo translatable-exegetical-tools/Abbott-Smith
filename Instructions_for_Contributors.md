@@ -17,7 +17,7 @@ Specific Elements of Each Entry
 
 ### `<note type="occurrencesNT">`
 
-When we have the data, we like to include occurrence data in the Greek NT for each lemma. See the word_list.md for this data.
+When we have the data, we like to include occurrence data in the Greek NT for each lemma. See the [word_list.md](https://github.com/translatable-exegetical-tools/Abbott-Smith/blob/master/word_list.md) for this data.
 
 ### `<form>` 
 
