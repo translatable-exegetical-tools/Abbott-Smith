@@ -8,12 +8,16 @@ This project follows several markup practices. Here are several of the most impo
 Structure of Lexicon Entries
 -
 
-Every entry is nested in an `<entry>` element with an id (@n), which should be the Greek lemma. If there are multiple options at the head of the entry, choose the first.
+Every entry is nested in an `<entry>` element with an id (@n), which should be the Greek lemma, with a pipe `|` separating it from any Strong's numbers. If there are multiple options at the head of the entry, choose the first.
 
-Nested within `<entry>` are several elements: `<form>`, `<gramGrp>`, and `<sense>`. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under `<entry>`. 
+Nested within `<entry>` are several elements: `<note type="occurrencesNT">`, `<form>`, `<gramGrp>`, and `<sense>`. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under `<entry>`. 
 
 Specific Elements of Each Entry
 -
+
+### `<note type="occurrencesNT">`
+
+When we have the data, we like to include occurrence data in the Greek NT for each lemma. See the word_list.md for this data.
 
 ### `<form>` 
 
@@ -92,7 +96,6 @@ EXAMPLE MARKUP
 
     <entry n="α"> 
       <form>	<foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, indecl., </form>
-      <gramGrp/>
       <sense><gloss>alpha</gloss>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">ά</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses:
         <sense n="1"><foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>. </sense> 
         <sense n="2"><foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>. </sense> 
@@ -101,10 +104,17 @@ EXAMPLE MARKUP
     </entry>
     
     <entry n="Ἀαρών"> 
-      <form>	<foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
-      <gramGrp/>
+      <note type="occurrencesNT">5</note>
+      <form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
       <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
     </entry> 
+
+    <entry n="ἁγνῶς|G55">
+      <note type="occurrencesNT">1</note>
+      <form>* <orth>ἁγνῶς</orth> (&lt; <foreign xml:lang="grc">ἁγνός</foreign>), </form>
+      <gramGrp><pos>adv.</pos>, </gramGrp>
+      <sense><gloss>purely</gloss>, <gloss>with pure motives</gloss>: <ref osisRef="Phil.1.17">Phl 1:17</ref>. †</sense>
+    </entry>
 
 ENTRY TEMPLATE
 =
