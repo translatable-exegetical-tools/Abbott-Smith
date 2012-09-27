@@ -2066,10 +2066,14 @@
   </sense>
  </entry>
 
-dSiKos, -ov (•&lt; SUr]), [in LXX for ipcr , b^y , etc.;] 1. unjust: 
-Eo 35, He 610. 2. unrighteous, wicked: Lk I611 I811, Ac 24i5, 
-I Co 61' 9, I Pe 318; opp. to StKaios, Mt 5*^; to cuo-c/?»;s, II Pe 2^; to 
-irio-Tos, Lk 1610 (Cremer, 200). t 
+<entry n="ἄδικος|G94">
+  <note type="occurrencesNT">12</note>
+  <form><orth>ἄδικος, -ον</orth> (&lt; <foreign xml:lang="grc">δίκη</foreign>), [in LXX for <foreign xml:lang="heb">שׁקר</foreign>, <foreign xml:lang="heb">עול</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1."><gloss>unjust</gloss>: <ref osisRef="Rom.3.5">Ro 3:5</ref>, <ref osisRef="Heb.6.10">He 6:10</ref>. </sense>
+    <sense n="2."><gloss>unrighteous, wicked</gloss>: <ref osisRef="Luke.16.11">Lk 16:11</ref> <ref osisRef="Luke.18.11">18:11</ref>, <ref osisRef="Acts.24.15">Ac 24:15</ref>, <ref osisRef="1Cor.6.1">I Co 6:1</ref>,<ref osisRef="1Cor.6.9">9</ref> <ref osisRef="1Pet.3.18">I Pe 3:18</ref>; opp. to <foreign xml:lang="grc">δίκαιος</foreign>, <ref osisRef="Matt.5.45">Mt 5:45</ref>; to <foreign xml:lang="grc">εὐσεβής</foreign>, <ref osisRef="2Pet.2.9">II Pe 2:9</ref>; to <foreign xml:lang="grc">πιστός</foreign>, <ref osisRef="Luke.16.10">Lk 16:10</ref> (Cremer, 200).</sense> †
+  </sense>
+ </entry>
 
 dSiKtos, adv. «a8tKos), [in LXX for IptS', b'W , etc.;] unjustly, 
 undeservedly: 1 Pe 2i9.t 
