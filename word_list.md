@@ -4863,7 +4863,6 @@ Each row includes the following information:
 <tr><td>5070</td><td>ὑβριστής</td><td>G5197</td><td>2</td></tr>
 <tr><td>5071</td><td>ὑγιαίνω</td><td>G5198</td><td>12</td></tr>
 <tr><td>5072</td><td>ὑγιής</td><td>G5199</td><td>11</td></tr>
-<tr><td>5074</td><td>ὑδρία</td><td>G5201</td><td>3</td></tr>
 <tr><td>5075</td><td>ὑδροποτέω</td><td>G5202</td><td>1</td></tr>
 <tr><td>5076</td><td>ὑδρωπικός</td><td>G5203</td><td>1</td></tr>
 <tr><td>5077</td><td>ὕδωρ</td><td>G5204</td><td>76</td></tr>
