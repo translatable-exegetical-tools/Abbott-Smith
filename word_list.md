@@ -18,7 +18,6 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>3441</td><td>νῦν</td><td>G3568</td><td>147</td></tr>
 <tr><td>3471</td><td>ὁδός</td><td>G3598</td><td>101</td></tr>
 <tr><td>3497</td><td>οἶκος</td><td>G3624</td><td>114</td></tr>
 <tr><td>3523</td><td>ὅλος</td><td>G3650</td><td>111</td></tr>
@@ -51,15 +50,7 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
-<tr><td>0061</td><td>ἀδιάκριτος</td><td>G87</td><td>1</td></tr>
-<tr><td>0062</td><td>ἀδιάλειπτος</td><td>G88</td><td>2</td></tr>
-<tr><td>0063</td><td>ἀδιαλείπτως</td><td>G89</td><td>4</td></tr>
 <tr><td>0064</td><td>ἀδιαφθορία</td><td>G90</td><td>1</td></tr>
-<tr><td>0065</td><td>ἀδικέω</td><td>G91</td><td>28</td></tr>
-<tr><td>0066</td><td>ἀδίκημα</td><td>G92</td><td>3</td></tr>
-<tr><td>0067</td><td>ἀδικία</td><td>G93</td><td>25</td></tr>
-<tr><td>0068</td><td>ἄδικος</td><td>G94</td><td>12</td></tr>
-<tr><td>0069</td><td>ἀδίκως</td><td>G95</td><td>1</td></tr>
 <tr><td>0070</td><td>ἀδόκιμος</td><td>G96</td><td>8</td></tr>
 <tr><td>0071</td><td>ἄδολος</td><td>G97</td><td>1</td></tr>
 <tr><td>0072</td><td>Ἀδραμυττηνός</td><td>G98</td><td>1</td></tr>
@@ -4862,10 +4853,6 @@ Each row includes the following information:
 <tr><td>5068</td><td>ὑβρίζω</td><td>G5195</td><td>5</td></tr>
 <tr><td>5069</td><td>ὕβρις</td><td>G5196</td><td>3</td></tr>
 <tr><td>5070</td><td>ὑβριστής</td><td>G5197</td><td>2</td></tr>
-<tr><td>5071</td><td>ὑγιαίνω</td><td>G5198</td><td>12</td></tr>
-<tr><td>5072</td><td>ὑγιής</td><td>G5199</td><td>11</td></tr>
-<tr><td>5073</td><td>ὑγρός</td><td>G5200</td><td>1</td><td>KJV</td></tr>
-<tr><td>5074</td><td>ὑδρία</td><td>G5201</td><td>3</td></tr>
 <tr><td>5075</td><td>ὑδροποτέω</td><td>G5202</td><td>1</td></tr>
 <tr><td>5076</td><td>ὑδρωπικός</td><td>G5203</td><td>1</td></tr>
 <tr><td>5077</td><td>ὕδωρ</td><td>G5204</td><td>76</td></tr>

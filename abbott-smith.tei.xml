@@ -1502,8 +1502,8 @@
     <sense n="2.">Of divine love; 
       <sense n="(a)">God's love: to men, <ref osisRef="Rom.8.37">Ro 8:37</ref>; to Christ, <ref osisRef="John.3.35">Jo 3:35</ref>; </sense>
       <sense n="(b)">Christ's love: to men, <ref osisRef="Mark.10.21">Mk 10:21</ref>; to God, <ref osisRef="John.14.31">Jo 14:31</ref>; c. cogn. acc., <ref osisRef="John.17.26">Jo 17:26</ref>, <ref osisRef="Eph.2.4">Eph 2:4</ref>.</sense>
-      <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλέω</foreign>. From its supposed etymology (Thayer, LS; but v. also Boisacq) <foreign xml:lang="grc">ἀ.</foreign> is commonly understood properly to denote love based on esteem (<foreign xml:lang="lat">diligo</foreign>), as distinct from that expressed by <foreign xml:lang="grc">φιλέω</foreign> (<foreign xml:lang="lat">amo</foreign>), spontaneous natural affection, emotional and unreasoning. If this distinction holds, <foreign xml:lang="grc">ἀ.</foreign> is fitly used in NT of Christian love to God and man, the spiritual affection which follows the direction of the will, and which, therefore, unlike that feeling which is instinctive and unreasoned, can be commanded as a duty. (Cf. <foreign xml:lang="grc">ἀγάπη</foreign>, and <emph>v</emph>. Tr., <emph>Syn</emph>. §xii; Cremer, 9, 592; and esp. MM, <emph>VGT</emph>, s.v.)
     </sense>
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλέω</foreign>. From its supposed etymology (Thayer, LS; but v. also Boisacq) <foreign xml:lang="grc">ἀ.</foreign> is commonly understood properly to denote love based on esteem (<foreign xml:lang="lat">diligo</foreign>), as distinct from that expressed by <foreign xml:lang="grc">φιλέω</foreign> (<foreign xml:lang="lat">amo</foreign>), spontaneous natural affection, emotional and unreasoning. If this distinction holds, <foreign xml:lang="grc">ἀ.</foreign> is fitly used in NT of Christian love to God and man, the spiritual affection which follows the direction of the will, and which, therefore, unlike that feeling which is instinctive and unreasoned, can be commanded as a duty. (Cf. <foreign xml:lang="grc">ἀγάπη</foreign>, and <emph>v</emph>. Tr., <emph>Syn</emph>. §xii; Cremer, 9, 592; and esp. MM, <emph>VGT</emph>, s.v.)
   </sense>
  </entry> 
  
@@ -1521,7 +1521,7 @@
       <sense n="(b)">Christ's love to men: <ref osisRef="Rom.8.35">Ro 8:35</ref>. </sense>
     </sense> 
     <sense n="3.">In pl., <gloss>love feasts</gloss>: <ref osisRef="Jude.1.12">Ju 12</ref> (<emph>DB</emph>, iii, 157).</sense> 
-  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλία</foreign>. <foreign xml:lang="grc">ἀ.</foreign>, signifying properly (v.s. <foreign xml:lang="grc">ἀγαπάω</foreign>) love which chooses its object, is taken over from LXX, where its connotation is more general, into NT, and there used exclusively to express that spiritual bond of love between God and man and between man and man, in Christ, which is characteristic of Christianity. It is thus<pb n="4" /> <!-- typed="" checked="" -->distinct from <foreign xml:lang="grc">φιλία</foreign>, <emph>friendship</emph> (<ref osisRef="Jas.4.4">Ja 4:4</ref> only), <foreign xml:lang="grc">στοργή</foreign>, <emph>natural affection</emph> (in NT only in compounds, v.s. <foreign xml:lang="grc">ἄστοργος</foreign>) and <foreign xml:lang="grc">ἔρως</foreign>, <emph>sexual love</emph>, which is not used in NT, its place being taken by <foreign xml:lang="grc">ἐπιθυμία</foreign>. (Cf. <foreign xml:lang="grc">ἀγαπάω</foreign>; and v. Abbott, <emph>Essays</emph>, 70f.; <emph>DB</emph>, vol. i., 555; Cremer, 13, 593; MM, <emph>VGT</emph>, s.v.).
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλία</foreign>. <foreign xml:lang="grc">ἀ.</foreign>, signifying properly (v.s. <foreign xml:lang="grc">ἀγαπάω</foreign>) love which chooses its object, is taken over from LXX, where its connotation is more general, into NT, and there used exclusively to express that spiritual bond of love between God and man and between man and man, in Christ, which is characteristic of Christianity. It is thus<pb n="4" /> <!-- typed="" checked="" -->distinct from <foreign xml:lang="grc">φιλία</foreign>, <emph>friendship</emph> (<ref osisRef="Jas.4.4">Ja 4:4</ref> only), <foreign xml:lang="grc">στοργή</foreign>, <emph>natural affection</emph> (in NT only in compounds, v.s. <foreign xml:lang="grc">ἄστοργος</foreign>) and <foreign xml:lang="grc">ἔρως</foreign>, <emph>sexual love</emph>, which is not used in NT, its place being taken by <foreign xml:lang="grc">ἐπιθυμία</foreign>. (Cf. <foreign xml:lang="grc">ἀγαπάω</foreign>; and v. Abbott, <emph>Essays</emph>, 70f.; <emph>DB</emph>, vol. i., 555; Cremer, 13, 593; MM, <emph>VGT</emph>, s.v.).
   </sense>
  </entry> 
  
@@ -2017,55 +2017,75 @@
   </sense>
  </entry>
 
-d-8id-KpiTos, -ov «8taK/3tVw), [in LXX: Pr 25i*;] 1. not to be 
-parted, mixed, undistinguishable (cf. Pr, I.e., and v. Lft., Ignat. Eph., 
-§3). 2. without uncertainty (Hort, in 1., but v. MM, <emph>VGT</emph>, s.v.): 
-Ja 3i^t 
+<entry n="ἀδιάκριτος|G87">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ἀ-διά-κριτος, -ον</orth> (&lt; <foreign xml:lang="grc">διακρίνω</foreign>), [in LXX: <ref osisRef="Prov.25.1">Pr 25:1</ref> *;] </form>
+  <sense>
+    <sense n="1."><gloss>not to be parted, mixed, undistinguishable</gloss> (cf. Pr, l.c., and v. Lft., <emph>Ignat. Eph.</emph>, §3). </sense>
+    <sense n="2."><gloss>without uncertainty</gloss> (Hort, in l., but v. MM, <emph>VGT</emph>, s.v.): <ref osisRef="Jas.3.17">Ja 3:17</ref>.</sense> †
+  </sense>
+ </entry>
 
-*t dSidXeiTTTos, -ov (&lt;[ SiaXetTToj), unremitting, incessant: Ro 92, 
+<entry n="ἀδιάλειπτος|G88">
+  <note type="occurrencesNT">2</note>
+  <form>*† <orth>ἀδιάλειπτος, -ον</orth> (&lt; <foreign xml:lang="grc">διαλείπω</foreign>), </form>
+  <sense><gloss>unremitting, incessant</gloss>: <ref osisRef="Rom.9.2">Ro 9:2</ref>, <ref osisRef="2Tim.1.3">II Ti 1:3</ref>. (For exx., v. MM, <emph>VGT</emph>, s.v.) †</sense>
+ </entry>
 
-II Ti 13. (For exx., v. MM, <emph>VGT</emph>, s.v.)t 
+<entry n="ἀδιαλείπτως|G89">
+  <note type="occurrencesNT">4</note>
+  <form>**† <orth>ἀδιαλείπτως</orth> (v. supr.), adv., [in LXX: <ref osisRef="1Macc.12.11">I Mac 12:11</ref>, II Mac <hi rend="subscript">4</hi>, <ref osisRef="3Macc.6.33">III Mac 6:33</ref> * ;] </form>
+  <sense><gloss>unremittingly, incessantly</gloss>: <ref osisRef="Rom.1.9">Ro 1:9</ref>, <ref osisRef="1Thess.1.3">I Th 1:3</ref> <ref osisRef="1Thess.2.13">2:13</ref> <ref osisRef="1Thess.5.17">5:17</ref>. †</sense>
+ </entry>
 
-**t dSiaXeiTTTus (v. supr.), adv., [in LXX: i Mac 12^1, 11 Mae 4, 
+<entry n="ἀδικέω|G91">
+  <note type="occurrencesNT">28</note>
+  <form><orth>ἀδικέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">ἄδικος</foreign>), [in LXX for <foreign xml:lang="heb">עשׁק</foreign>, <foreign xml:lang="heb">עוה</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1.">intrans., to be <foreign xml:lang="grc">ἄδικος</foreign>, <gloss>do wrong, act wickedly</gloss> or <gloss>criminally</gloss>: <ref osisRef="Acts.25.11">Ac 25:11</ref>, <ref osisRef="1Cor.6.8">I Co 6:8</ref>, <ref osisRef="2Cor.7.12">II Co 7:12</ref>, <ref osisRef="Col.3.25">Col 3:25</ref>, <ref osisRef="Rev.22.11">Re 22:11</ref>; <gloss>to do hurt</gloss>, <ref osisRef="Rev.9.19">Re 9:19</ref>. </sense>
+    <sense n="2.">Trans. 
+      <sense n="(a)"><gloss>to do</gloss> some <gloss>wrong</gloss>: <foreign xml:lang="grc">ὃ ἠδίκησεν</foreign>, <ref osisRef="Col.3.25">Col 3:25</ref>; <gloss>to wrong</gloss> some one, <ref osisRef="Matt.20.13">Mt 20:13</ref>, <ref osisRef="Acts.7.26">Ac 7:26</ref>, <ref osisRef="Acts.7.27">27</ref> <ref osisRef="Acts.25.10">25:10</ref>, <ref osisRef="2Cor.7.2">II Co 7:2</ref>, <ref osisRef="Gal.4.12">Ga 4:12</ref>, <ref osisRef="Phlm.1.18">Phm 18</ref>, <ref osisRef="2Pet.2.13">II Pe 2:13</ref>; pass., <ref osisRef="Acts.7.24">Ac 7:24</ref>, <ref osisRef="2Cor.7.12">II Co 7:12</ref>; mid., <ref osisRef="1Cor.6.7">I Co 6:7</ref> (<gloss>suffer . . . to be wronged</gloss>; WM, §38, 3; but v. Bl., §54, 5; and cf. <foreign xml:lang="grc">ἀποστερέω</foreign>); </sense>
+      <sense n="(b)"><gloss>to injure, hurt</gloss>: <ref osisRef="Luke.10.19">Lk 10:19</ref> <ref osisRef="Rev.2.11">Re 2:11</ref> <ref osisRef="Rev.6.6">6:6</ref> <ref osisRef="Rev.7.2">7:2</ref>, <ref osisRef="Rev.7.3">3</ref> <ref osisRef="Rev.9.4">9:4</ref>,<ref osisRef="Rev.9.10">10</ref> <ref osisRef="Rev.11.5">11:5</ref>. </sense>
+    </sense> †
+  </sense>
+ </entry>
 
-III Mac 633 * -J unremittingly, incessantly: Ro 1^, i Th 13 2^3 51^.† 
+<entry n="ἀδίκημα|G92">
+  <note type="occurrencesNT">3</note>
+  <form><orth>ἀδίκημα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">ἀδικέω</foreign>), [in LXX for <foreign xml:lang="heb">עָוֹן</foreign>, <foreign xml:lang="heb">פֶּשַׁע</foreign>, etc. ;] </form>
+  <sense><gloss>a wrong, injury, misdeed</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Acts.18.14">Ac 18:14</ref> <ref osisRef="Acts.24.20">24:20</ref>, <ref osisRef="Rev.18.5">Re 18:5</ref>. †</sense>
+ </entry>
 
-dSiKe'w, -w (&lt;^a6iKo?), [in LXX for ptSV , TWS , etc.;] 1. intrans., 
-to be iSiKos, do wrong, act wichedly or criminally: Ac 25^^, i Co 6^, 
-II Co 712, Col 325, Ee 2211 . ^^ ^^ J^^^J.t, Ee 9i9. 2. Trans, (a) to do some 
-wrong: o rjSLKrjcrev, Col 3"-^; to lorong some one, Mt 20i3, Ac 72*''2'' 251**, 
-II Co 72, Ga 412, Phm is, 11 Pe 2i3; pass., Ac 72*, 11 Co 712; mid., 
+<entry n="ἀδικία|G93">
+  <note type="occurrencesNT">25</note>
+  <form><orth>ἀδικία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄδικος</foreign>), [in LXX for <foreign xml:lang="heb">עָוֹן</foreign>, <foreign xml:lang="heb">פֶּשַׁע</foreign>, <foreign xml:lang="heb">עָוֶל</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1."><gloss>injustice</gloss>: <ref osisRef="Luke.18.6">Lk 18:6</ref>, <ref osisRef="Rom.9.14">Ro 9:14</ref>. </sense>
+    <sense n="2."><gloss>unrighteousness, iniquity</gloss>: <ref osisRef="John.7.18">Jo 7:18</ref>, <ref osisRef="Acts.8.23">Ac 8:23</ref>, <ref osisRef="Rom.1.18">Ro 1:18</ref>, <ref osisRef="Rom.1.29">29</ref> <ref osisRef="Rom.2.8">2:8</ref> <ref osisRef="Rom.6.13">6:13</ref>, <ref osisRef="2Tim.2.19">II Ti 2:19</ref>, <ref osisRef="1John.1.9">I Jo 1:9</ref> <ref osisRef="1John.5.17">5:17</ref>; opp. to <foreign xml:lang="grc">ἀλήθεια</foreign>, <ref osisRef="1Cor.13.6">I Co 13:6</ref>, <ref osisRef="2Thess.2.12">II Th 2:12</ref>; to <foreign xml:lang="grc">δικαιοσύνη</foreign>], <ref osisRef="Rom.3.5">Ro 3:5</ref>; <foreign xml:lang="grc">ἀπάτη τῆς ἀ.</foreign>, <ref osisRef="2Thess.2.10">II Th 2:10</ref>; <foreign xml:lang="grc">μισθὸς ἀδικίας</foreign>, <ref osisRef="Acts.1.18">Ac 1:18</ref>, <ref osisRef="2Pet.2.13">II Pe 2:13</ref>,<ref osisRef="2Pet.2.15">15</ref>; <foreign xml:lang="grc">ἐγράται τῆς ἀ.</foreign>, <ref osisRef="Luke.13.27">Lk 13:27</ref>; <foreign xml:lang="grc">μαμωνᾶς τῆς ἀ.</foreign>, <ref osisRef="Luke.16.9">Lk 16:9</ref>; <foreign xml:lang="grc">κόσμος τῆς ἀ.</foreign>, <ref osisRef="Jas.3.6">Ja 3:6</ref>; <foreign xml:lang="grc">οἰκονόμος τῆς ἀ.</foreign>, <ref osisRef="Luke.16.8">Lk 16:8</ref>. </sense>
+    <sense n="3.">= <foreign xml:lang="grc">ἀδίκημα</foreign>, <gloss>an unrighteous act</gloss>: ironically, a favour, <ref osisRef="2Cor.12.13">II Co 12:13</ref>; pl., <ref osisRef="Heb.8.12">He 8:12</ref> (Cremer, 261; MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
-I Co 6' {supr . . . to be ivronged; WM, §38, 3; but v. Bl., §54, 5; 
-and cf. dTToo-Tcpeo)); {b) to injiire, hurt: Lk 10l^ Ee 2ii 6« 72' 3 9*' 10 ll^.t 
+<entry n="ἄδικος|G94">
+  <note type="occurrencesNT">12</note>
+  <form><orth>ἄδικος, -ον</orth> (&lt; <foreign xml:lang="grc">δίκη</foreign>), [in LXX for <foreign xml:lang="heb">שׁקר</foreign>, <foreign xml:lang="heb">עול</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1."><gloss>unjust</gloss>: <ref osisRef="Rom.3.5">Ro 3:5</ref>, <ref osisRef="Heb.6.10">He 6:10</ref>. </sense>
+    <sense n="2."><gloss>unrighteous, wicked</gloss>: <ref osisRef="Luke.16.11">Lk 16:11</ref> <ref osisRef="Luke.18.11">18:11</ref>, <ref osisRef="Acts.24.15">Ac 24:15</ref>, <ref osisRef="1Cor.6.1">I Co 6:1</ref>,<ref osisRef="1Cor.6.9">9</ref> <ref osisRef="1Pet.3.18">I Pe 3:18</ref>; opp. to <foreign xml:lang="grc">δίκαιος</foreign>, <ref osisRef="Matt.5.45">Mt 5:45</ref>; to <foreign xml:lang="grc">εὐσεβής</foreign>, <ref osisRef="2Pet.2.9">II Pe 2:9</ref>; to <foreign xml:lang="grc">πιστός</foreign>, <ref osisRef="Luke.16.10">Lk 16:10</ref> (Cremer, 200).</sense> †
+  </sense>
+ </entry>
 
-dSiKKifia, -Tos, TO (&lt;^ dSi/ceoj), [in LXX for pjT , nj?g , etc.;] a wrong, 
+<entry n="ἀδίκως|G95">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ἀδίκως</orth>, <gramGrp><pos>adv.</pos></gramGrp> (&lt; <foreign xml:lang="grc">ἄδικος</foreign>), [in LXX for <foreign xml:lang="heb">שׁקר</foreign>, <foreign xml:lang="heb">עול</foreign>, etc. ;] </form>
+  <sense><gloss>unjustly, undeservedly</gloss>: <ref osisRef="1Pet.2.19">I Pe 2:19</ref>. †</sense>
+ </entry>
 
-injury, misdeed (MM, <emph>VGT</emph>, s.v.): Ac I81* 2420, Ee IS^.t 
-
-dSiKia, -as, T] « aSt/cos), [in LXX for Jir , yip^ , b}V , etc.;] 
-
-1. injustice: Lk 18", Ro 91*. 2. unricihteousness, iniquity: Jo 7^^, 
-
-Ac 823, Ro 118' 29 28 613, II Ti 210, I Jo 1^ 51^; opp. to aX^Seia, 1 Co 136, 
-
-II Th 212; to hiKaiocTvvr], Ro 3^; a-rraTTq Tri&lt;; a., II Th 21*; /itcr^os aSt/ci'as, 
-Ac 118, II Pe 213.15; cpydrai t^s a., Lk 1327; ^^a/xovSs T^S d., Lk 16^; 
-Koo'/xos T^s d., Ja 36; oiKovdyLios T^s d., Lk 168. 3. = ahiK-qfjia, an un- 
-righteous act: ironically, a favour, 11 Co 12i3; pi., He 812 (Cremer, 
-261; MM, <emph>VGT</emph>, s.v.).t 
-
-dSiKos, -ov (•&lt; SUr]), [in LXX for ipcr , b^y , etc.;] 1. unjust: 
-Eo 35, He 610. 2. unrighteous, wicked: Lk I611 I811, Ac 24i5, 
-I Co 61' 9, I Pe 318; opp. to StKaios, Mt 5*^; to cuo-c/?»;s, II Pe 2^; to 
-irio-Tos, Lk 1610 (Cremer, 200). t 
-
-dSiKtos, adv. «a8tKos), [in LXX for IptS', b'W , etc.;] unjustly, 
-undeservedly: 1 Pe 2i9.t 
-
-ἈSjiei./ (WH, mg., Ἀ8d/x), 6, indecl., Admin.: Lk 3'3.† 
-
-
+<entry n="Ἀδμείν">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Ἀδμείν</orth> (WH, mg., <foreign xml:lang="grc">Ἀδάμ</foreign>), 6, indecl., </form>
+  <sense><gloss>Admin.</gloss>: <ref osisRef="Luke.3.33">Lk 3:33</ref>. †</sense>
+ </entry>
 
  <pb n="10" /> <!-- typed="" checked="" --> 
 
@@ -20714,24 +20734,14 @@ chamber (Heb. nsn, LXX, Trao-Tos, Ps 18 (19)5, Jl 2i«): Mt 22io
 bridegroom's friends who have charge of the nuptial arrangements: 
 Mt 915, Mk 219, Lk 534.t 
 
-yuv, adv., [in LXX chiefly for HFiy;] 1. prop., of time, now, 
-
-i.e. at the present time: as opp. to past, Jo 41^, Ac 7^2, Ro ISn, 
-II Co 79, Col 1^4, al.; opp. to fut., Jo 12^7, Ro ll^i, al.; c. art., 
-6 (rj, to) v. et subst., the present: Ro S^^, Ga 4^5, i Ti 6i^ Tit 212, al; 
-dTT^ ToC V. (LXX for nny©), Lk l^s, Ac 18«, al.; &lt;Jxp' toD v., Ro 822, 
-Phi V; eV ToS V. (LXX for nj?y ly), Mt 2421, Mk 13i9; rb. v., as 
-
-regards the present, Ac 5^^^; c. pret., just now, b^it notv, Mt 26**, 
-Jo 11^ 2110; c. fut., noiv, presently, Jo 12^i, Ac 2022; so c. praes., 
-presently, forthwith, Jo 12^i 17i=*; ml v., Jo II22 17^, al.; hXXa v., 
-Lk 22=^«; hi v., I Co 32; T6re (ttotc) ... v. (8c'), Ro 621 ll^O; y, ^Sr), 
-I Jo 4^; V. ovv, Ac 10^^, al. 2. Of logical sequence (often difficult 
-to disting. from the temporal sense; cf. Lft., <emph>Notes</emph>, 113 f.), now, 
-therefore, fiow, hoivever, as it is: Lk ll^^j ^^t v., Ac 31", 11 Th 2", 
-
-I Jo 2-8; id. seq. Sevpo, Ac 7^4; y. 8i, Jo 8^0 941 152^.24, igse, i Co 5" 
-71^ 1220, al. (cf. WM, 579,,). 
+<entry n="νῦν|G3568">
+  <note type="occurrencesNT">147</note>
+  <form><orth>νῦν</orth>, <gramGrp><pos>adv.</pos></gramGrp>, [in LXX chiefly for <foreign xml:lang="heb">עַתָּה</foreign>;] </form>
+  <sense>
+    <sense n="1.">prop., of time, <gloss>now</gloss>, i.e. at the present time: as opp. to past, <ref osisRef="John.4.18">Jo 4:18</ref>, <ref osisRef="Acts.7.52">Ac 7:52</ref>, <ref osisRef="Rom.13.11">Ro 13:11</ref>, <ref osisRef="2Cor.7.9">II Co 7:9</ref>, <ref osisRef="Col.1.24">Col 1:24</ref>, al.; opp. to fut., <ref osisRef="John.12.27">Jo 12:27</ref>, <ref osisRef="Rom.11.31">Ro 11:31</ref>, al.; c. art., <foreign xml:lang="grc">ὁ (ἡ, τὸ)</foreign> et subst., <gloss>the present</gloss>: <ref osisRef="Rom.3.26">Ro 3:26</ref>, <ref osisRef="Gal.4.25">Ga 4:25</ref>, <ref osisRef="1Tim.6.17">I Ti 6:17</ref>, <ref osisRef="Titus.2.12">Tit 2:12</ref>, al.; <foreign xml:lang="grc">απὸ τοῦ ν.</foreign> (LXX for <foreign xml:lang="grc">מֵעַתָּה</foreign>), <ref osisRef="Luke.1.48">Lk 1:48</ref>, <ref osisRef="Acts.18.6">Ac 18:6</ref>, al.; <foreign xml:lang="grc">ἄχρι τοῦ ν.</foreign>, <ref osisRef="Rom.8.22">Ro 8:22</ref>, <ref osisRef="Phil.1.5">Phl 1:5</ref>; <foreign xml:lang="grc">ἕως τοῦ ν.</foreign> (LXX for <foreign xml:lang="heb">עַד עַתָּה</foreign>), <ref osisRef="Matt.24.21">Mt 24:21</ref>, <ref osisRef="Mark.13.19">Mk 13:19</ref>; <foreign xml:lang="grc">τὰ ν.</foreign>, <gloss>as regards the present</gloss>, <ref osisRef="Acts.5.38">Ac 5:38</ref>; c. pret., <gloss>just now, but now</gloss>, <ref osisRef="Matt.26.65">Mt 26:65</ref>, <ref osisRef="John.11.8">Jo 11:8</ref>  <ref osisRef="John.21.10">21:10</ref>; c. fut., <gloss>now, presently</gloss>, <ref osisRef="John.12.31">Jo 12:31</ref>, <ref osisRef="Acts.20.22">Ac 20:22</ref>; so c. praes., <gloss>presently, forthwith</gloss>, <ref osisRef="John.12.31">Jo 12:31</ref>  <ref osisRef="John.17.13">17:13</ref>; <foreign xml:lang="grc">καὶ ν.</foreign>, <ref osisRef="John.11.22">Jo 11:22</ref>  <ref osisRef="John.17.5">17:5</ref>, al.; <foreign xml:lang="grc">ἀλλὰ ν.</foreign>, <ref osisRef="Luke.22.36">Lk 22:36</ref>; <foreign xml:lang="grc">ἔτι ν.</foreign>, <ref osisRef="1Cor.3.2">I Co 3:2</ref>; <foreign xml:lang="grc">τότε (πότε) . . . ν. (δέ)</foreign>, <ref osisRef="Rom.6.21">Ro 6:21</ref>  <ref osisRef="Rom.11.30">11:30</ref>; <foreign xml:lang="grc">ν. ἤδη</foreign>, <ref osisRef="1John.4.3">I Jo 4:3</ref>; <foreign xml:lang="grc">ν. οὖν</foreign>, <ref osisRef="Acts.10.33">Ac 10:33</ref>, al. </sense>
+    <sense n="2.">Of logical sequence (often difficult to disting. from the temporal sense; cf. Lft., <emph>Notes</emph>, 113f.), <gloss>now, therefore, now, however, as it is</gloss>: <ref osisRef="Luke.11.39">Lk 11:39</ref>; <foreign xml:lang="grc">καὶ ν.</foreign>, <ref osisRef="Acts.3.17">Ac 3:17</ref>, <ref osisRef="2Thess.2.6">II Th 2:6</ref>, <ref osisRef="1John.2.28">I Jo 2:28</ref>; id. seq. <foreign xml:lang="grc">δεῦρο</foreign>, <ref osisRef="Acts.7.34">Ac 7:34</ref>; <foreign xml:lang="grc">ν. δέ</foreign>, <ref osisRef="John.8.40">Jo 8:40</ref>  <ref osisRef="John.9.41">9:41</ref> <ref osisRef="John.15.22">15:22</ref>, <ref osisRef="John.15.24">24</ref>, <ref osisRef="John.18.36">18:36</ref>, <ref osisRef="1Cor.5.11">I Co 5:11</ref>  <ref osisRef="1Cor.7.14">7:14</ref> <ref osisRef="1Cor.12.20">12:20</ref>, al. (cf. WM, 579<hi rend="subscript">11</hi>).</sense>
+  </sense>
+</entry> 
 
 vuvi, an Attic strengthened form of vvv (in cl. always of time, 
 and most often strictly of the pres.), [in LXX . Jb 5, Pss 2, 11, iv Mac 4, 
@@ -30152,15 +30162,20 @@ Byn.: oAa^div, v7r€pi]&lt;pavos, V. Tr., <emph>Syn.</emph>, §xxix.
   <sense><gloss>sound, whole, healthy</gloss>: <ref osisRef="Matt.12.13">Mt 12:13</ref> <ref osisRef="Matt.15.31">15:31</ref>, <ref osisRef="John.5.4">Jo 5:[4]</ref>, <ref osisRef="John.5.6">6</ref>, <ref osisRef="John.5.9">9</ref>, <ref osisRef="John.5.11">11</ref>, <ref osisRef="John.5.14">14</ref>, <ref osisRef="John.5.15">15</ref> <ref osisRef="John.7.23">7:23</ref>, <ref osisRef="Acts.4.10">Ac 4:10</ref>; seq. <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Mark.5.34">Mk 5:34</ref>; of words, opinions, etc. (as in cl.), metaph., <foreign xml:lang="grc">λόγος</foreign>, <ref osisRef="Titus.2.8">Tit 2:8</ref>.†</sense>
 </entry>
 
-iypos, -a, -ov, [in LXX: Jg 167.8 (jh), Jb S^^ (nbn), Si 
+<entry n="ὑγρός|G5200">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ὑγρός, -ά, -όν</orth>, [in LXX: <ref osisRef="Judg.16.7">Jg 16:7</ref>,8 (<foreign xml:lang="heb">לַח</foreign>), <ref osisRef="Job.8.16">Jb 8:16</ref> (<foreign xml:lang="heb">רָשׂב</foreign>), <ref osisRef="Sir.39.13">Si 39:13</ref></form>
+  <sense><gloss>wet, moist</gloss>, opp. to <foreign xml:lang="grc">ξηρός</foreign>: of wood, <gloss>sappy, green</gloss>: <ref osisRef="Luke.23.31">Lk 23:31</ref>.†</sense>
+</entry>
 
-39^^ NA*;] wet, moist, opp. to irjpo?: of wood, sappy, green: Lk 23^^.t 
-
-uSpia, -as, 17 «v8a)p), [in LXX for 13;] 1. prop., a water-pot or 
-
-jar: Jo 2''« ^ 4^^. 2. More freq. in Attic = ayyos, a pot, urn or jar of 
-any kind, as for holding wine, coins, etc. (v. Eutherford, NPhr., 23; 
-MM, xxv).t 
+<entry n="ὑδρία|G5201">
+  <note type="occurrencesNT">3</note>
+  <form><orth>ὑδρία, -ας, ἠ</orth>(&lt; <foreign xml:lang="grc">ὕδωρ</foreign>), [in LXX for <foreign xml:lang="heb">בַּד</foreign>;]</form>
+  <sense>
+    <sense n="1.">prop., <gloss>a water-pot</gloss> or <gloss>jar</gloss>: <ref osisRef="John.2.6">Jo 2:6</ref>, <ref osisRef="John.2.7">7</ref> <ref osisRef="John.4.28">John 4:28</ref>.</sense>
+    <sense n="2.">More freq. in Attic = <foreign xml:lang="grc">ἄγγυς</foreign>, <gloss>a pot, urn or jar</gloss> of any kind, as for holding wine, coins, etc. (v. Rutherford, <emph>NPhr.</emph>, 23; MM, xxv).</sense>†
+  </sense>
+</entry>
 
 uSpoTTOTc'cj, -w {&lt;^vS&lt;ap, vLvu)), [in LXX: Da LXX 1^^ (HJIB' 
 D^©) *;] to drink water, opp. to otvo) xpw^"^'- '• ^ Ti 5^^ (Hdt., i, 71; 
