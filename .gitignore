@@ -6,3 +6,6 @@ in.xml
 out.xml
 
 manualgreeklexic00abborich.djvu
+
+.*.swp
+.*.un~
