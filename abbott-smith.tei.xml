@@ -2081,9 +2081,11 @@
   <sense><gloss>unjustly, undeservedly</gloss>: <ref osisRef="1Pet.2.19">I Pe 2:19</ref>. †</sense>
  </entry>
 
-ἈSjiei./ (WH, mg., Ἀ8d/x), 6, indecl., Admin.: Lk 3'3.† 
-
-
+<entry n="Ἀδμείν">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Ἀδμείν</orth> (WH, mg., <foreign xml:lang="grc">Ἀδάμ</foreign>), 6, indecl., </form>
+  <sense><gloss>Admin.</gloss>: <ref osisRef="Luke.3.33">Lk 3:33</ref>. †</sense>
+ </entry>
 
  <pb n="10" /> <!-- typed="" checked="" --> 
 
