@@ -21324,17 +21324,19 @@ Ja 5i.t
 
  <pb n="316" /> <!-- typed="" checked="" --> 
 
-oXos, -r}, -ov, [in LXX chiefly for bs;] of persons and things, 
-whole, entire, complete; 1. of indefinite ideas, c. subst. anarth.: Lk 5^, 
-Ac 1126 2830, Tit 111; ^Xov avOpoiiTov {an entire man; v. Field, <emph>Notes</emph>, 
-93), Jo 723 . -Xri 'Iepov(Ta\rjfji{= 7r5cra 'I., Mt 2^; V. Bl., §47, 9), Ac 2131. 
-
-2. Definite, c. art.; (a) preceding subst.: Mt 423,24^ l^ 8^^, i Co 12i^ 
-al.; (b) following subst.: Mk l^^, Lk 925, Jo l^s^ Ac 213o, al.; (c) 
-between art. and subst., where subst. is an abstract noun (Plat., al.). 
-
-3. Attached to adj. or verb: Mt 1333, Lk I321, Jo 93*, al.; adverbially, 
-8t' 5\ov (MM, xviii), Jo 1923. 
+<entry n="ὅλος|G3650">
+  <note type="occurrencesNT">111</note>
+  <form><orth>ὅλος, -η, -ον</orth>, [in LXX chiefly for <foreign xml:lang="heb">כֹּל</foreign>;] </form>
+  <sense>of persons and things, whole, entire, complete; 
+    <sense n="1.">of indefinite ideas, c. subst. anarth.: <ref osisRef="Luke.5.5">Lk 5:5</ref>, <ref osisRef="Acts.11.26">Ac 11:26</ref>  <ref osisRef="Acts.28.30">28:30</ref>, <ref osisRef="Titus.1.11">Tit 1:11</ref>; <foreign xml:lang="grc">ὅλον ἄνθρωπον</foreign> (<gloss>an entire man</gloss>; v. Field, <emph>Notes</emph>, 93), <ref osisRef="John.7.23">Jo 7:23</ref>; <foreign xml:lang="grc">ὅλη Ἰερουσαλήμ</foreign> (= <foreign xml:lang="grc">πᾶσα Ἰ</foreign>, <ref osisRef="Matt.2.3">Mt 2:3</ref>; v. Bl., §47, 9), <ref osisRef="Acts.21.31">Ac 21:31</ref>. </sense>
+    <sense n="2.">Definite, c. art.; 
+      <sense n="(a)">preceding subst.: <ref osisRef="Matt.4.23">Mt 4:23</ref>,  <ref osisRef="Matt.4.24">24</ref> <ref osisRef="Luke.8.39">Lk 8:39</ref>, <ref osisRef="1Cor.12.17">I Co 12:17</ref>, al.; </sense>
+      <sense n="(b)">following subst.: <ref osisRef="Mark.1.33">Mk 1:33</ref>, <ref osisRef="Luke.9.25">Lk 9:25</ref>, <ref osisRef="John.4.53">Jo 4:53</ref>, <ref osisRef="Acts.21.30">Ac 21:30</ref>, al.; </sense>
+      <sense n="(c)">between art. and subst., where subst. is an abstract noun (Plat., al.). </sense>
+    </sense>
+    <sense n="3.">Attached to adj. or verb: <ref osisRef="Matt.13.33">Mt 13:33</ref>, <ref osisRef="Luke.13.21">Lk 13:21</ref>, <ref osisRef="John.9.34">Jo 9:34</ref>, al.; adverbially, <foreign xml:lang="grc">δι᾽ ὅλου</foreign> (MM, xviii), <ref osisRef="John.19.23">Jo 19:23</ref>. </sense>
+  </sense>
+</entry>
 
 *t6XoTeXTJs, -is «oAos, reXo?), complete, perfect: i Th 523.t 
 
