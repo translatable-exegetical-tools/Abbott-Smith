@@ -10,7 +10,7 @@ Structure of Lexicon Entries
 
 Every entry is nested in an `<entry>` element with an id (@n), which should be the Greek lemma, with a pipe `|` separating it from any Strong's numbers. If there are multiple options at the head of the entry, choose the first.
 
-Nested within `<entry>` are several elements: `<note type="occurrencesNT">`, `<form>`, `<gramGrp>`, and `<sense>`. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under `<entry>`. 
+Nested within `<entry>` are several elements: `<note type="occurrencesNT">`, `<form>`, `<gramGrp>`, and `<sense>`. `<note type="occurrencesNT">` and `<form>` only appear once in each entry. Note that all text in the entry must fall within one of these four elements, not directly under `<entry>`. 
 
 Specific Elements of Each Entry
 -
