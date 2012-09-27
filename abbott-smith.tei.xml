@@ -2017,10 +2017,14 @@
   </sense>
  </entry>
 
-d-8id-KpiTos, -ov «8taK/3tVw), [in LXX: Pr 25i*;] 1. not to be 
-parted, mixed, undistinguishable (cf. Pr, I.e., and v. Lft., Ignat. Eph., 
-§3). 2. without uncertainty (Hort, in 1., but v. MM, <emph>VGT</emph>, s.v.): 
-Ja 3i^t 
+<entry n="ἀδιάκριτος|G87">
+  <note type="occurrencesNT">1</note>
+  <form><orth>ἀ-διά-κριτος, -ον</orth> (&lt; <foreign xml:lang="grc">διακρίνω</foreign>), [in LXX: <ref osisRef="Prov.25.1">Pr 25:1</ref> *;] </form>
+  <sense>
+    <sense n="1."><gloss>not to be parted, mixed, undistinguishable</gloss> (cf. Pr, l.c., and v. Lft., <emph>Ignat. Eph.</emph>, §3). </sense>
+    <sense n="2."><gloss>without uncertainty</gloss> (Hort, in l., but v. MM, <emph>VGT</emph>, s.v.): <ref osisRef="Jas.3.17">Ja 3:17</ref>.</sense> †
+  </sense>
+ </entry>
 
 *t dSidXeiTTTos, -ov (&lt;[ SiaXetTToj), unremitting, incessant: Ro 92, 
 
