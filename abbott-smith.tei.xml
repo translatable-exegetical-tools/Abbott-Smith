@@ -2056,17 +2056,15 @@
   <sense><gloss>a wrong, injury, misdeed</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Acts.18.14">Ac 18:14</ref> <ref osisRef="Acts.24.20">24:20</ref>, <ref osisRef="Rev.18.5">Re 18:5</ref>. †</sense>
  </entry>
 
-dSiKia, -as, T] « aSt/cos), [in LXX for Jir , yip^ , b}V , etc.;] 
-
-1. injustice: Lk 18", Ro 91*. 2. unricihteousness, iniquity: Jo 7^^, 
-
-Ac 823, Ro 118' 29 28 613, II Ti 210, I Jo 1^ 51^; opp. to aX^Seia, 1 Co 136, 
-
-II Th 212; to hiKaiocTvvr], Ro 3^; a-rraTTq Tri&lt;; a., II Th 21*; /itcr^os aSt/ci'as, 
-Ac 118, II Pe 213.15; cpydrai t^s a., Lk 1327; ^^a/xovSs T^S d., Lk 16^; 
-Koo'/xos T^s d., Ja 36; oiKovdyLios T^s d., Lk 168. 3. = ahiK-qfjia, an un- 
-righteous act: ironically, a favour, 11 Co 12i3; pi., He 812 (Cremer, 
-261; MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἀδικία|G93">
+  <note type="occurrencesNT">25</note>
+  <form><orth>ἀδικία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄδικος</foreign>), [in LXX for <foreign xml:lang="heb">עָוֹן</foreign>, <foreign xml:lang="heb">פֶּשַׁע</foreign>, <foreign xml:lang="heb">עָוֶל</foreign>, etc. ;] </form>
+  <sense>
+    <sense n="1."><gloss>injustice</gloss>: <ref osisRef="Luke.18.6">Lk 18:6</ref>, <ref osisRef="Rom.9.14">Ro 9:14</ref>. </sense>
+    <sense n="2."><gloss>unrighteousness, iniquity</gloss>: <ref osisRef="John.7.18">Jo 7:18</ref>, <ref osisRef="Acts.8.23">Ac 8:23</ref>, <ref osisRef="Rom.1.18">Ro 1:18</ref>, <ref osisRef="Rom.1.29">29</ref> <ref osisRef="Rom.2.8">2:8</ref> <ref osisRef="Rom.6.13">6:13</ref>, <ref osisRef="2Tim.2.19">II Ti 2:19</ref>, <ref osisRef="1John.1.9">I Jo 1:9</ref> <ref osisRef="1John.5.17">5:17</ref>; opp. to <foreign xml:lang="grc">ἀλήθεια</foreign>, <ref osisRef="1Cor.13.6">I Co 13:6</ref>, <ref osisRef="2Thess.2.12">II Th 2:12</ref>; to <foreign xml:lang="grc">δικαιοσύνη</foreign>], <ref osisRef="Rom.3.5">Ro 3:5</ref>; <foreign xml:lang="grc">ἀπάτη τῆς ἀ.</foreign>, <ref osisRef="2Thess.2.10">II Th 2:10</ref>; <foreign xml:lang="grc">μισθὸς ἀδικίας</foreign>, <ref osisRef="Acts.1.18">Ac 1:18</ref>, <ref osisRef="2Pet.2.13">II Pe 2:13</ref>,<ref osisRef="2Pet.2.15">15</ref>; <foreign xml:lang="grc">ἐγράται τῆς ἀ.</foreign>, <ref osisRef="Luke.13.27">Lk 13:27</ref>; <foreign xml:lang="grc">μαμωνᾶς τῆς ἀ.</foreign>, <ref osisRef="Luke.16.9">Lk 16:9</ref>; <foreign xml:lang="grc">κόσμος τῆς ἀ.</foreign>, <ref osisRef="Jas.3.6">Ja 3:6</ref>; <foreign xml:lang="grc">οἰκονόμος τῆς ἀ.</foreign>, <ref osisRef="Luke.16.8">Lk 16:8</ref>. </sense>
+    <sense n="3.">= <foreign xml:lang="grc">ἀδίκημα</foreign>, <gloss>an unrighteous act</gloss>: ironically, a favour, <ref osisRef="2Cor.12.13">II Co 12:13</ref>; pl., <ref osisRef="Heb.8.12">He 8:12</ref> (Cremer, 261; MM, <emph>VGT</emph>, s.v.).</sense> †
+  </sense>
+ </entry>
 
 dSiKos, -ov (•&lt; SUr]), [in LXX for ipcr , b^y , etc.;] 1. unjust: 
 Eo 35, He 610. 2. unrighteous, wicked: Lk I611 I811, Ac 24i5, 
