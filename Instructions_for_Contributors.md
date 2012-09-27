@@ -8,47 +8,49 @@ This project follows several markup practices. Here are several of the most impo
 Structure of Lexicon Entries
 -
 
-Every entry is nested in an <entry> element with an id (@n), which should be the Greek lemma. If there are multiple options at the head of the entry, choose the first.
+Every entry is nested in an `<entry>` element with an id (@n), which should be the Greek lemma. If there are multiple options at the head of the entry, choose the first.
 
-Nested within <entry> are several elements: <form>, <gramGrp>, and <sense>. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under <entry>. 
+Nested within `<entry>` are several elements: `<form>`, `<gramGrp>`, and `<sense>`. The first two only appear once. The last one may appear multiple times if there are multiple sense numbers. Note that all text in the entry must fall within one of these three elements, not directly under `<entry>`. 
 
 Specific Elements of Each Entry
 -
 
-### <form>: 
+### `<form>` 
 
 Typically this will include all information prior to the first definition. A comma usually separates the form information from sense information. 
 
-### <gramGrp>
+### `<gramGrp>`
 
-This element is for gramatical information that does not involve the form of the word. If some grammatical information is given in the entry such as part of speech <pos> or some other subcategorization <subc>, it would be marked up in this way: 
+This element is for gramatical information that does not involve the form of the word. If some grammatical information is given in the entry such as part of speech `<pos>` or some other subcategorization `<subc>`, it would be marked up in this way: 
 
     <gramGrp><pos>verb</pos>, <subc>intransitive</subc></gramGrp>
  
-### <sense>
+### `<sense>`
 
-Anything related to the meaning of a word should occur in this element. Glosses (usually anything in italics) should also be within <gloss>. If sense numbers are given, include it in @n in <sense> but not in the text as it is written in the lexicon. That can be included later using XSL. Ideally all <sense> elements should be nested within a single <sense> element.
+Anything related to the meaning of a word should occur in this element. Glosses (usually anything in italics) should also be within `<gloss>`. If sense numbers are given, include it in @n in `<sense>` but not in the text as it is written in the lexicon. That can be included later using XSL. Ideally all `<sense>` elements should be nested within a single `<sense>` element.
 
 Other Elements
 -
 
-### <pb /> 
+### `<pb />`
 
-All page breaks are included in the file. After cleaning up a page, add your initials to the commented @typed field after the <pb> element. After checking a page, do the same under @checked. This is not valid TEI, so the attributes are commented out outside the <pb> element. A completed page should look like this: <pb n="1" /> <!-- typed="ABC" checked="XYZ" -->
+All page breaks are included in the file. After cleaning up a page, add your initials to the commented @typed field after the `<pb>` element. After checking a page, do the same under @checked. This is not valid TEI, so the attributes are commented out outside the `<pb>` element. A completed page should look like this: 
+
+    <pb n="1" /> <!-- typed="ABC" checked="XYZ" -->
 
 ### <foreign>
 
-All text is assumed to be English (the analysis language) unless otherwise specified (or in <orth>. The <foreign> element can be used for this purpose. Examples include: 
+All text is assumed to be English (the analysis language) unless otherwise specified (or in `<orth>`. The `<foreign>` element can be used for this purpose. Examples include: 
 
-* Greek: <foreign xml:lang="grc">Ἀαρών</foreign>
+* Greek: `<foreign xml:lang="grc">Ἀαρών</foreign>`
 
-* Aramaic: <foreign xml:lang="arc">אַבָּא</foreign>
+* Aramaic: `<foreign xml:lang="arc">אַבָּא</foreign>`
 
-* Hebrew: <foreign xml:lang="heb">אַהֲרוֹן</foreign>
+* Hebrew: `<foreign xml:lang="heb">אַהֲרוֹן</foreign>`
 
-* Latin: <foreign xml:lang="lat">diligo</foreign>
+* Latin: `<foreign xml:lang="lat">diligo</foreign>`
 
-If you do not know how to type a given language, such as Hebrew, include the following: <foreign xml:lang="heb">Hebrew</foreign>. Someone else can add the Hebrew later.
+If you do not know how to type a given language, such as Hebrew, include the following: `<foreign xml:lang="heb">Hebrew</foreign>`. Someone else can add the Hebrew later.
  
 ### <ref>
 
@@ -60,65 +62,59 @@ For biblical book names in @osisRef, use SBL abbreviations. See http://www.texto
 
 Examples include: 
 
-* <ref osisRef="Luke.1.5">Lk 1:5</ref>
+    <ref osisRef="Luke.1.5">Lk 1:5</ref>
 
-* <ref osisRef="Mark.1.14-Mark.1.15">Mk 1:14-15</ref>
+    <ref osisRef="Mark.1.14-Mark.1.15">Mk 1:14-15</ref>
 
-* <ref osisRef="1Chr.24.3 1Chr.24.10">I Ch 24:3, 10</ref>
+    <ref osisRef="1Chr.24.3 1Chr.24.10">I Ch 24:3, 10</ref>
 
 Recurring Text
 -
 
 * For a dagger use † (see Preface of the lexicon for the meaning of this symbol)
 
-* For < use &lt;
+* For \< use `&lt;`
 
-* For > use &rt;
+* For \> use `&rt;`
 
-* For superscript, use: <hi rend="superscript">
+* For superscript, use: `<hi rend="superscript">`
 
-* For subscript, use: <hi rend="subscript">
+* For subscript, use: `<hi rend="subscript">`
 
-* For an ampersand use &amp;
+* For an ampersand use `&amp;`
 
-* For paragraphs use <p>, and for line breaks within elements use <lb />
+* For paragraphs use `<p>`, and for line breaks within elements use `<lb />`
 
-* For italics that are not for a definition of the current entry, use <emph>.  This includes abbreviations of published sources as well as definitions of related terms. For examples, see <entry n="Ἀβαδδών"> and <entry n="ἀγάπη">.
+* For italics that are not for a definition of the current entry, use `<emph>`.  This includes abbreviations of published sources as well as definitions of related terms. For examples, see `<entry n="Ἀβαδδών">` and `<entry n="ἀγάπη">`.
 
 EXAMPLE MARKUP
 =
 
-<entry n="α"> 
- 	<form>	<foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, indecl., </form>
- 	<gramGrp/>
- 	<sense><gloss>alpha</gloss>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">ά</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses:
- 	<sense n="1">
- 		<foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>.
- 	</sense> 
- 	<sense n="2">
- 		<foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>.
- 	</sense> 
- 	<sense n="3">An intensive force (LS, s. <foreign xml:lang="grc">α</foreign>), as in <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense> 
-	</sense>
-</entry>
-<entry n="Ἀαρών"> 
-	<form>	<foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
- 	<gramGrp/>
- 	<sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† 
- 	</sense>
-</entry> 
+    <entry n="α"> 
+      <form>	<foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, indecl., </form>
+      <gramGrp/>
+      <sense><gloss>alpha</gloss>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">ά</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses:
+        <sense n="1"><foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>. </sense> 
+        <sense n="2"><foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>. </sense> 
+        <sense n="3">An intensive force (LS, s. <foreign xml:lang="grc">α</foreign>), as in <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense> 
+      </sense>
+    </entry>
+    
+    <entry n="Ἀαρών"> 
+      <form>	<foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
+      <gramGrp/>
+      <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
+    </entry> 
 
 ENTRY TEMPLATE
 =
 
-  <entry n=""> 
- 	<form><foreign xml:lang="grc"></foreign></form>
- 	<gramGrp></gramGrp>
- 	<sense>
- 	<gloss></gloss>
- 	<ref osisRef=""></ref>
- 	</sense>
- 	<sense n="1">
- 		†
- 	</sense> 
- </entry> 
+    <entry n=""> 
+      <form><foreign xml:lang="grc"></foreign></form>
+      <gramGrp></gramGrp>
+      <sense>
+      <gloss></gloss>
+      <ref osisRef=""></ref>
+      </sense>
+      <sense n="1">†</sense> 
+    </entry> 
