@@ -22691,20 +22691,17 @@ HI Mac 712 * j] to receive, admit; (a) of things: Mk 42", Ac 15* I621
 *tiTapa-8ia-TpiPii, -tJs, 17, useless wrangling: v.l. in Eec. for SiaTra- 
 parpi^Tf (q.v.), I Ti B^.t 
 
-irapa-SiSwfii, [in LXX chiefly for ]n3;] correl. to irapa^ixpixai, 1. 
-&lt;o ^ive or hand over to another: c. ace. et dat., Mt II2" 25^*, Lk 4®, 
-al.; of being delivered up to a course of teaching, pass. seq. eis, Ro 6^''. 
-2. to commit, commend: Ac 142^ IS^o^ j Pe 223. 3. to give or deliver 
-up to prison or judgment: c. acc. pers., Mt 4^2^ ]y[]j ^h^ jjq 425^ jj pg 2* • 
-id. seq. iwip, Ro 8^2; c. dat., Mt 525, Mk 15\ Lk 1258, Jq ign^ ^1.; id. 
-seq. Iva, Jo I916; c. inf., Ac 12*; seq. ci's, Mt lO^^ 1722 24^, Lk 21^2, Ac 
-83, II Co 411, al.; t. Saram, I Ti 120; j^ ggq ^.^ oXiOpov aapKOS, I Co 5*; 
-with the coUat. idea of treachery (= irpo8t8w/xt), c. acc. pers., Mt 26^^, 
-Mk 1411, Jo 66*, al.; id. c. dat., Mt 26i5, al.; pres. ptcp., 6 TrapaSiSovs 
-avTov, Mt 2625, Mk 14*2, Jq 2311. 4. to hand down, hand on or deliver 
-verbally (traditions, commands, etc.): Mk 7^3, Lk I2, Ac 6^*, i Co 11^ 
-15*; pass., 11 Pe 221, Ju ^. 5. to permit (for exx. in cl., v. LS, s.v.): 
-Mk 429. ' 
+<entry n="παραδίδωμι|G3860">
+  <note type="occurrencesNT">119</note>
+  <form><orth>παρα-δίδωμι</orth>, [in LXX chiefly for <foreign xml:lang="heb">נתן</foreign>;] correl. to <foreign xml:lang="grc">παρδέχομαι</foreign>, </form>
+  <sense>
+    <sense n="1."> <gloss>to give</gloss> or <gloss>hand over</gloss> to another: c. acc. et dat., <ref osisRef="Matt.11.27">Mt 11:27</ref>  <ref osisRef="Matt.25.14">25:14</ref>, <ref osisRef="Luke.4.6">Lk 4:6</ref>, al.; of being delivered up to a course of teaching, pass. seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Rom.6.17">Ro 6:17</ref>. </sense>
+    <sense n="2."><gloss>to commit, commend</gloss>: <ref osisRef="Acts.14.26">Ac 14:26</ref>  <ref osisRef="Acts.15.40">15:40</ref>, <ref osisRef="1Pet.2.23">I Pe 2:23</ref>. </sense>
+    <sense n="3."><gloss>to give</gloss> or <gloss>deliver up</gloss> to prison or judgment: c. acc. pers., <ref osisRef="Matt.4.12">Mt 4:12</ref>, <ref osisRef="Mark.1.14">Mk 1:14</ref>, <ref osisRef="Rom.4.25">Ro 4:25</ref>, <ref osisRef="2Pet.2.4">II Pe 2:4</ref>; id. seq. <foreign xml:lang="grc">ὑπέρ</foreign>, <ref osisRef="Rom.8.32">Ro 8:32</ref>; c. dat., <ref osisRef="Matt.5.25">Mt 5:25</ref>, <ref osisRef="Mark.15.1">Mk 15:1</ref>, <ref osisRef="Luke.12.58">Lk 12:58</ref>, <ref osisRef="John.19.11">Jo 19:11</ref>, al.; id. seq. <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="John.19.16">Jo 19:16</ref>; c. inf., <ref osisRef="Acts.12.4">Ac 12:4</ref>; seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Matt.10.17">Mt 10:17</ref>  <ref osisRef="Matt.17.22">17:22</ref> <ref osisRef="Matt.24.9">24:9</ref>, <ref osisRef="Luke.21.12">Lk 21:12</ref>, <ref osisRef="Acts.8.3">Ac 8:3</ref>, <ref osisRef="2Cor.4.11">II Co 4:11</ref>, al.; <foreign xml:lang="grc">τ. Σατανᾷ</foreign>, <ref osisRef="1Tim.1.20">I Ti 1:20</ref>; id. seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="1Cor.5.5">I Co 5:5</ref>; with the collat. idea of treachery (= <foreign xml:lang="grc">προδίδωμι</foreign>), c. acc. pers., <ref osisRef="Matt.26.25">Mt 26:25</ref>, <ref osisRef="Mark.14.11">Mk 14:11</ref>, <ref osisRef="John.6.64">Jo 6:64</ref>, al.; id. c. dat., <ref osisRef="Matt.26.15">Mt 26:15</ref>, al.; pres. ptcp., <foreign xml:lang="grc">ὁ παραδιδοὺς</foreign>, <ref osisRef="Matt.26.25">Mt 26:25</ref>, <ref osisRef="Mark.14.42">Mk 14:42</ref>, <ref osisRef="John.13.11">Jo 13:11</ref>. </sense>
+    <sense n="4."><gloss>to hand down, hand on</gloss> or <gloss>deliver</gloss> verbally (traditions, commands, etc.): <ref osisRef="Mark.7.13">Mk 7:13</ref>, <ref osisRef="Luke.1.2">Lk 1:2</ref>, <ref osisRef="Acts.6.14">Ac 6:14</ref>, <ref osisRef="1Cor.11.2">I Co 11:2</ref>  <ref osisRef="1Cor.15.2">15:2</ref>; pass., <ref osisRef="2Pet.2.21">II Pe 2:21</ref>, <ref osisRef="Jude.1.3">Ju 3</ref>. </sense>
+    <sensen="5."><gloss>to permit</gloss> (for exx. in cl., v. LS, s.v.): <ref osisRef="Mark.4.29">Mk 4:29</ref>.</sense>
+  </sense>
+</entry>
 
 **Trap&lt;i8oos, -ov «7rapd, 86$a), [in LXX: Jth 13^3^ Wi 52 16^7 195, 
 Si 4325, ii-iv Mac 3 *;] contrary to received opinion, incredible, marvel- 
