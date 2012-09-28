@@ -22008,14 +22008,14 @@ Ee 813.
 **ou8afAa)s «ouSa/ics, not even one), adv., [in LXX: ii-iv MaCg*;] 
 in no wise, by no means: Mt 26 (OT).t 
 
-ouSe, negative particle, related to ijnqhi as oi to ix-rj. 
-
-I. As conjc, and not, also not, neither, nor: Mt 6i^, Lk 163i, Ro 
-415, a\.; oi . . . ov8l Mt 51^ IO2*, Mk 422, Lk 6*3,44^ Jq 62*, Ac 227, Ro 
-228, al. (v. Bl., §77, 10). 
-
-II. As adv., not even: Mt 629, Mk 63i, Lk 79, i Co 5^; oiSk cTs, 
-Ac 432, Ro 310 (i-^x). 
+<entry n="οὐδέ|G3761">
+  <note type="occurrencesNT">143</note>
+  <form><orth>οὐδέ</orth>, <gramGrp><pos>negative particle</pos></gramGrp>, related to <foreign xml:lang="grc">μηδέ</foreign> as <foreign xml:lang="grc">οὐ</foreign> to <foreign xml:lang="grc">μή</foreign>. </form><lb />
+  <sense>
+    <sense n="I.">As <gramGrp><pos>conjc.</pos></gramGrp>, <gloss>and not, also not, neither, nor</gloss>: <ref osisRef="Matt.6.15">Mt 6:15</ref>, <ref osisRef="Luke.16.31">Lk 16:31</ref>, <ref osisRef="Rom.4.15">Ro 4:15</ref>, al.; <foreign xml:lang="grc">οὐ . . . οὐδέ</foreign>, <ref osisRef="Matt.5.15">Mt 5:15</ref>  <ref osisRef="Matt.10.24">10:24</ref>, <ref osisRef="Mark.4.22">Mk 4:22</ref>, <ref osisRef="Luke.6.43">Lk 6:43</ref>, <ref osisRef="Luke.6.44">44</ref>, <ref osisRef="John.6.24">Jo 6:24</ref>, <ref osisRef="Acts.2.27">Ac 2:27</ref>, <ref osisRef="Rom.2.28">Ro 2:28</ref>, al. (v. Bl., §77, 10). </sense><lb />
+    <sense n="II.">As <gramGrp><pos>adv.</pos></gramGrp>, <gloss>not even</gloss>: <ref osisRef="Matt.6.29">Mt 6:29</ref>, <ref osisRef="Mark.6.31">Mk 6:31</ref>, <ref osisRef="Luke.7.9">Lk 7:9</ref>, <ref osisRef="1Cor.5.1">I Co 5:1</ref>; <foreign xml:lang="grc">οὐδὲ εἷς</foreign>, <ref osisRef="Acts.4.32">Ac 4:32</ref>, <ref osisRef="Rom.3.10">Ro 3:10</ref> (LXX). </sense>
+  </sense>
+</entry>
 
 <entry n="οὐδείς|G3762">
   <note type="occurrencesNT">234</note>
