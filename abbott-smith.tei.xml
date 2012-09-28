@@ -22435,17 +22435,18 @@ contest: fig., of the spiritual combat of Christians, Eph 6^.t
 
 iraXiYyevco'ia, V.S. irakivyev^a-ia. 
 
-voXiv, adv., [in LXX for 31127, etc.;] 1. of place, hack, backwards 
-(LS, s.v.). 2. Of time, again, once more: Mt 4.^, Mk 2^3, Lk 232o, 
-Jo 135 (and freq.), Ac IV^, Ro ll^^, Ga 1^, He l^, al; pleonastically, 
-
-TT. dvaKa/XTTTCtl', Ac 18^^; VTrO(TTpe(f&gt;€lV, Ga l^'^; CIS TO TT., II Co 13^; TT. CK 
-
-rpirov (Bl., §81, 4), Mt 26*4; U htvripov, Mt 26^^ Ac 1015; TT. 8iVT€pov, 
-Jo 45* 2116; TT. dvw^t,/ (Wi 19«), Ga 4^. 3. Ehetorically, again; (a) 
-further, moreover: Mt 5**, Lk 13^*^, Jo 12^^, al.; (b) in turn, on the 
-other hand (Soph.; LXX: Wi 138 1523^ ^i) . ljj 6«, i Co 122i, 11 Co 
-10^ I Jo 28. 
+<entry n="πάλιν|G3825">
+  <note type="occurrencesNT">141</note>
+  <form><orth>πάλιν</orth>, <gramGrp><pos>adv.</pos></gramGrp>, [in LXX for <foreign xml:lang="heb">שׁוּב</foreign>, etc.;] </form>
+  <sense>
+    <sense n="1.">of place, <gloss>back, backwards</gloss> (LS, s.v.). </sense>
+    <sense n="2.">Of time, <gloss>again, once more</gloss>: <ref osisRef="Matt.4.8">Mt 4:8</ref>, <ref osisRef="Mark.2.13">Mk 2:13</ref>, <ref osisRef="Luke.23.20">Lk 23:20</ref>, <ref osisRef="John.1.35">Jo 1:35</ref> (and freq.), <ref osisRef="Acts.17.32">Ac 17:32</ref>, <ref osisRef="Rom.11.23">Ro 11:23</ref>, <ref osisRef="Gal.1.9">Ga 1:9</ref>, <ref osisRef="Heb.1.6">He 1:6</ref>, al; pleonastically, <foreign xml:lang="grc">π. ἀνακάμπτειν</foreign>, <ref osisRef="Acts.18.21">Ac 18:21</ref>; <foreign xml:lang="grc">ὑποστρέφειν</foreign>, <ref osisRef="Gal.1.17">Ga 1:17</ref>; <foreign xml:lang="grc">εἰς τὸ π.</foreign>, <ref osisRef="2Cor.13.2">II Co 13:2</ref>; <foreign xml:lang="grc">π. ἐκ τρίτου</foreign> (Bl., §81, 4), <ref osisRef="Matt.26.44">Mt 26:44</ref>; <foreign xml:lang="grc">ἐκ δευτέρου</foreign>, <ref osisRef="Matt.26.42">Mt 26:42</ref>, <ref osisRef="Acts.10.15">Ac 10:15</ref>; <foreign xml:lang="grc">π. δεῦτερον</foreign>, <ref osisRef="John.4.54">Jo 4:54</ref>  <ref osisRef="John.21.16">21:16</ref>; <foreign xml:lang="grc">π. ἄνωθεν</foreign> ( <ref osisRef="Wis.19.6">Wi 19:6</ref>), <ref osisRef="Gal.4.9">Ga 4:9</ref>. </sense>
+    <sense n="3.">Rhetorically, <gloss>again</gloss>; 
+      <sense n="(a)"><gloss>further, moreover</gloss>: <ref osisRef="Matt.5.33">Mt 5:33</ref>, <ref osisRef="Luke.13.20">Lk 13:20</ref>, <ref osisRef="John.12.39">Jo 12:39</ref>, al.; </sense>
+      <sense n="(b)"><gloss>in turn, on the other hand</gloss> (Soph.; LXX: <ref osisRef="Wis.13.8">Wi 13:8</ref>  <ref osisRef="Wis.16.23">16:23</ref>, al.): <ref osisRef="Luke.6.43">Lk 6:43</ref>, <ref osisRef="1Cor.12.21">I Co 12:21</ref>, <ref osisRef="2Cor.10.7">II Co 10:7</ref>, <ref osisRef="1John.2.8">I Jo 2:8</ref>.</sense> 
+    </sense>
+  </sense>
+</entry>
 
 *+ iraXiryei'eo'ia (Rec. TroAtyy-), -as, rj (&lt;^7rdXtv, ycv€(ns), new birth, 
 renewal, restoration, regeneration; (a) of persons (Plut., Phil., al.), of 
