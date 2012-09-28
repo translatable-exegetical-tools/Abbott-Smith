@@ -56,7 +56,7 @@ All text is assumed to be English (the analysis language) unless otherwise speci
 
 If you do not know how to type a given language, such as Hebrew, include the following: `<foreign xml:lang="heb">Hebrew</foreign>`. Someone else can add the Hebrew later.
  
-### <ref>
+### `<ref>`
 
 Biblical references should be marked up using this element. 
 
@@ -89,24 +89,33 @@ Recurring Text
 
 * For paragraphs use `<p>`, and for line breaks within elements use `<lb />`
 
-* For italics that are not for a definition of the current entry, use `<emph>`.  This includes abbreviations of published sources as well as definitions of related terms. For examples, see `<entry n="Ἀβαδδών">` and `<entry n="ἀγάπη">`.
+* For italics that are not for a definition of the current entry, use `<emph>`.  This includes abbreviations of published sources as well as definitions of related terms.
 
 EXAMPLE MARKUP
 =
 
     <entry n="α"> 
-      <form>	<foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, indecl., </form>
-      <sense><gloss>alpha</gloss>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">ά</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses:
-        <sense n="1"><foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>. </sense> 
-        <sense n="2"><foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>. </sense> 
-        <sense n="3">An intensive force (LS, s. <foreign xml:lang="grc">α</foreign>), as in <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense> 
+      <form><foreign xml:lang="grc">Α, α, ἄλφα</foreign> (q.v.), <foreign xml:lang="grc">τό</foreign>, 
+      indecl., </form>
+      <sense><gloss>alpha</gloss>, the first letter of the Greek alphabet. As a numeral, 
+      <foreign xml:lang="grc">ά</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, 
+      it appears to have at least two and perhaps three distinct senses:
+        <sense n="1"><foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) 
+        <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>. </sense> 
+        <sense n="2"><foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and 
+        fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>. </sense> 
+        <sense n="3">An intensive force (LS, s. <foreign xml:lang="grc">α</foreign>), as in 
+        <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense> 
       </sense>
     </entry>
     
     <entry n="Ἀαρών"> 
       <note type="occurrencesNT">5</note>
-      <form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
-      <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
+      <form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indec
+      l. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
+      <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, 
+      <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, 
+      <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
     </entry> 
 
     <entry n="ἁγνῶς|G55">
