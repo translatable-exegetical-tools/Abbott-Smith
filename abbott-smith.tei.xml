@@ -23364,9 +23364,14 @@ irarpwos, -a, -ov «7raTi?p), [in LXX: Pr 27^0 (nx), II Es 7^,
 ii-iv Mac 12*;] of ones fathers, received from one' s fathers: Ac 22^ 
 2414 28i7.t 
 
-riauXos, -ov, 6 (Lat. Paulus), 1. Sergius Paulus: Ac 13'^. 2. the 
-Apostle Paul (cf. SaOAos): Ac 13^, and freq. throughout Ac, Ro 1^ 
-I Co 11, al., II Pe 315. 
+<entry n="Παῦλος|G3972">
+  <note type="occurrencesNT">158</note>
+  <form><orth>Παῦλος, -ου, ὁ</orth> (Lat. <foreign xml:lang="lat">Paulus</foreign>), </form>
+  <sense>
+    <sense n="1."><gloss>Sergius Paulus</gloss>: <ref osisRef="Acts.13.7">Ac 13:7</ref>. </sense>
+    <sense n="2."><gloss>the Apostle Paul</gloss> (cf. <foreign xml:lang="grc">Σαῦλος</foreign>): <ref osisRef="Acts.13.9">Ac 13:9</ref>, and freq. throughout Ac., <ref osisRef="Rom.1.1">Ro 1:1</ref>, <ref osisRef="1Cor.1.1">I Co 1:1</ref>, al., <ref osisRef="2Pet.3.15">II Pe 3:15</ref>.</sense>
+  </sense>
+</entry> 
 
 iravo), [in LXX for nbs pi., etc.;] to make to cease, restrain, 
 hinder: c. acc. rei, seq. a-n-o, i Pe 3i''('^^^). Mid., to cease, leave off: 
