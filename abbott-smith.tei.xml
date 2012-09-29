@@ -795,7 +795,7 @@
   <cell>= Aelian, ii/A.D.</cell>
  </row>
  <row>
-  <cell>Æsoh.</cell>
+  <cell>Æsch.</cell>
   <cell>= Æschylus, v/B.C.</cell>
  </row>
  <row>
@@ -25870,27 +25870,24 @@ future events (an idea merely incidental, not essential; v. Lft., <emph>Notes</e
 83 f.), Mt 1113, Ac 21". 18 (LXX) 219; geq. rrepi, Mt 15^ Mk 7", iPe li«; 
 iTTi, c. dat., Ee 10"; Xe'ywv, Ju 1*; oti, Jo ll^i.t 
 
-SyN.: fiavT€VO/jLaL, q.V. 
+SYN.: fiavT€VO/jLaL, q.V. 
 
-Trpo&lt;J)i7Trjs, -ov, 6 {&lt;Cirp64&gt;rjfj.L, to sjJeak forth), [in LXX chiefly for 
-N^13;] one who acts as an interpreter or forth-teller of the Divine 
-
-will (v. Lft., <emph>Notes</emph>, 83 f.; Tr., Sy7i., §vi), a prophet; 1. in cl. 
-(.SIsch., Hdt., Plat., al.), of the interpreters of oracles. 2. In NT, 
-
-
-
- <pb n="391" /> <!-- typed="" checked="" --> 
-
-(a) of the OT prophets: Mt 5^2, Mk 6^^ Lk P'', Jo 8^\ Ro ll^, al.; 
-
-(b) of prophets in general: Mt 10" 13" 21*«, Mk 6*. Lk IS^^, al.; 
-
-(c) of John the Baptist: Mt 2126, Mk 6^\ Lk V^; (d) of Christ: Mt 
-21", Jo 61*, Ac 322.23 737 (LXX); (e) of Christian prophets in the 
-apostolic age: Ac 15^2, i Co 122s, Eph 22o, al.; (/) by meton., of the 
-writings of prophets: Lk 242^, Ac 8-^, al.; {g) of a poet: Tit 1^2 (on 
-the use of the term in tt. and Inscr., v. Deiss., <emph>BS</emph>, 235 f.; MM, xxii). 
+<entry n="προφήτης|G4396">
+  <note type="occurrencesnT">144</note>
+  <form><orth>προφήτης, -ου, ὁ</orth> [&lt; <foreign xml:lang="grc">πρόφημι</foreign>, <emph>to speak forth</emph>), [in LXX chiefly for <foreign xml:lang="heb">נָבִיא</foreign>;] </form>
+  <sense>one who acts as an interpreter or forth-teller of the Divine will (v. Lft., <emph>Notes</emph>, 83f.; Tr., <emph>Syn.</emph>, §vi), <gloss>a prophet</gloss>; 
+    <sense n="1.">in cl. (Æsch., Hdt., Plat., al.), of the interpreters of oracles. </sense>
+    <sense n="2.">In NT, <pb n="391" /> <!-- typed="" checked="" --> 
+      <sense n="(a)">of the OT prophets: <ref osisRef="Matt.5.12">Mt 5:12</ref>, <ref osisRef="Mark.6.15">Mk 6:15</ref>, <ref osisRef="Luke.4.27">Lk 4:27</ref>, <ref osisRef="John.8.52">Jo 8:52</ref>, <ref osisRef="Rom.11.3">Ro 11:3</ref>, al.; </sense>
+      <sense n="(b)">of prophets in general: <ref osisRef="Matt.10.41">Mt 10:41</ref>  <ref osisRef="Matt.13.57">13:57</ref> <ref osisRef="Matt.21.46">21:46</ref>, <ref osisRef="Mark.6.4">Mk 6:4</ref>, <ref osisRef="Luke.13.33">Lk 13:33</ref>, al.; </sense>
+      <sense n="(c)">of John the Baptist: <ref osisRef="Matt.21.26">Mt 21:26</ref>, <ref osisRef="Mark.6.15">Mk 6:15</ref>, <ref osisRef="Luke.1.76">Lk 1:76</ref>; </sense>
+      <sense n="(d)">of Christ: <ref osisRef="Matt.21.11">Mt 21:11</ref>, <ref osisRef="John.6.14">Jo 6:14</ref>, <ref osisRef="Acts.3.22">Ac 3:22</ref>, <ref osisRef="Acts.3.23">23</ref> <ref osisRef="Acts.7.37">7:37</ref> (LXX); </sense>
+      <sense n="(e)">of Christian prophets in the apostolic age: <ref osisRef="Acts.15.32">Ac 15:32</ref>, <ref osisRef="1Cor.12.28">I Co 12:28</ref>, <ref osisRef="Eph.2.20">Eph 2:20</ref>, al.; </sense>
+      <sense n="(f)">by meton., of the writings of prophets: <ref osisRef="Luke.24.27">Lk 24:27</ref>, <ref osisRef="Acts.8.28">Ac 8:28</ref>, al.; </sense>
+      <sense n="(g)">of a poet: <ref osisRef="Titus.1.12">Tit 1:12</ref> (on the use of the term in <foreign xml:lang="grc">π.</foreign> and Inscr., v. Deiss., <emph>BS</emph>, 235f.; MM, xxii). </sense>
+    </sense>
+  </sense>
+</entry>
 
 *t 'irpo(&gt;r]TiK(5s, -a, -ov (-&lt; Tr/ao^v^Ti^s) , of prophecy, prophetic: Ro 1626, 
 n Pe li9.t 
