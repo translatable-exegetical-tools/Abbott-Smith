@@ -18,6 +18,7 @@ Each row includes the following information:
 
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
+<tr><td>4260</td><td>πρότερος</td><td>G4387</td><td>11</td></tr>
 <tr><td>4286</td><td>πρῶτος</td><td>G4413</td><td>154</td></tr>
 <tr><td>4332</td><td>πῶς</td><td>G4459</td><td>100</td></tr>
 <tr><td>4434</td><td>σάρξ</td><td>G4561</td><td>147</td></tr>
@@ -4049,7 +4050,6 @@ Each row includes the following information:
 <tr><td>4257</td><td>προτάσσω</td><td>G4384</td><td>1</td><td>KJV</td></tr>
 <tr><td>4258</td><td>προτείνω</td><td>G4385</td><td>1</td></tr>
 <tr><td>4259</td><td>πρότερον</td><td>G4386</td><td>10</td><td>KJV</td></tr>
-<tr><td>4260</td><td>πρότερος</td><td>G4387</td><td>11</td></tr>
 <tr><td>4261</td><td>προτίθεμαι</td><td>G4388</td><td>3</td></tr>
 <tr><td>4262</td><td>προτρέπομαι</td><td>G4389</td><td>1</td></tr>
 <tr><td>4263</td><td>προτρέχω</td><td>G4390</td><td>2</td></tr>
