@@ -26174,10 +26174,10 @@ metaph., Mk 3*, Ro 1125, Eph i^^.t
   <note type="occurrencesNT">100</note>
   <form><orth>πῶς</orth>, <gramGrp><pos>interrog. adv.</pos></gramGrp>, correl. of <foreign xml:lang="grc">ὅπως</foreign>, </form>
   <sense>
-    <sense n="1.">prop., in direct questions, <gloss>how?</gloss>: c. indic., Mt 12:29, Mk 3:23, Lk 11:18, Jo 3:4, al.; <foreign xml:lang="grc">καὶ π.</foreign>, Mk 4:13, Lk 20:44; <foreign xml:lang="grc">π. οὖν</foreign>, Mt 12:26; <foreign xml:lang="grc">π. οὐ</foreign>, Mt 16:11, Lk 12:56; in deliberative questions (cf. Bl., §64, 6), c. subjc., Mt 23:33 26:54; <foreign xml:lang="grc">π. οὖν</foreign>, Ro 10:14; <foreign xml:lang="grc">π. δέ</foreign>, Ro 10:14, 15; seq. <foreign xml:lang="grc">ἄν</foreign>, c. optat., Ac 8:31. </sense>
+    <sense n="1.">prop., in direct questions, <gloss>how?</gloss>: c. indic., <ref osisRef="Matt.12.29">Mt 12:29</ref>, <ref osisRef="Mark.3.23">Mk 3:23</ref>, <ref osisRef="Luke.11.18">Lk 11:18</ref>, <ref osisRef="John.3.4">Jo 3:4</ref>, al.; <foreign xml:lang="grc">καὶ π.</foreign>, <ref osisRef="Mark.4.13">Mk 4:13</ref>, <ref osisRef="Luke.20.44">Lk 20:44</ref>; <foreign xml:lang="grc">π. οὖν</foreign>, <ref osisRef="Matt.12.26">Mt 12:26</ref>; <foreign xml:lang="grc">π. οὐ</foreign>, <ref osisRef="Matt.16.11">Mt 16:11</ref>, <ref osisRef="Luke.12.56">Lk 12:56</ref>; in deliberative questions (cf. Bl., §64, 6), c. subjc., <ref osisRef="Matt.23.33">Mt 23:33</ref>  <ref osisRef="Matt.26.54">26:54</ref>; <foreign xml:lang="grc">π. οὖν</foreign>, <ref osisRef="Rom.10.14">Ro 10:14</ref>; <foreign xml:lang="grc">π. δέ</foreign>, <ref osisRef="Rom.10.14">Ro 10:14</ref>, 15; seq. <foreign xml:lang="grc">ἄν</foreign>, c. optat., <ref osisRef="Acts.8.31">Ac 8:31</ref>. </sense>
     <sense n="2.">As sometimes in cl. but more freq. and increasingly so in late writers (v. WM, §57, 2; Bl., §70, 2; Thumb, <emph>MGr.</emph>, 192; Jannaris, <emph>Gr.</emph>, <emph>App.</emph>, vi, 13f.), = <foreign xml:lang="grc">ὅπως, ὥς</foreign>; 
-      <sense n="(a)">in indirect discourse: c. indic., Mt 6:28, Mk 12:41, Lk 8:36, Jo 9:15, Ac 9:27, al.; c. subjc., Mk 11:18, Lk 12:11; </sense>
-      <sense n="(b)">in exclamations: Mt 21:20, Mk 10:23, 24, Lk 12:50 18:24, Jo 11:36. </sense>
+      <sense n="(a)">in indirect discourse: c. indic., <ref osisRef="Matt.6.28">Mt 6:28</ref>, <ref osisRef="Mark.12.41">Mk 12:41</ref>, <ref osisRef="Luke.8.36">Lk 8:36</ref>, <ref osisRef="John.9.15">Jo 9:15</ref>, <ref osisRef="Acts.9.27">Ac 9:27</ref>, al.; c. subjc., <ref osisRef="Mark.11.18">Mk 11:18</ref>, <ref osisRef="Luke.12.11">Lk 12:11</ref>; </sense>
+      <sense n="(b)">in exclamations: <ref osisRef="Matt.21.20">Mt 21:20</ref>, <ref osisRef="Mark.10.23">Mk 10:23</ref>,  <ref osisRef="Mark.10.24">24</ref> <ref osisRef="Luke.12.50">Lk 12:50</ref>  <ref osisRef="Luke.18.24">18:24</ref>, <ref osisRef="John.11.36">Jo 11:36</ref>. </sense>
     </sense>
   </sense>
 </entry>
@@ -26671,40 +26671,29 @@ evidence is decisive against it.)+
 
 Syn.: o-ap/&lt;iKos, q.v. 
 
-adp^, &lt;rapK&lt;5s, Vt [^^ LXX chiefly for lif^S;] flesh; 1. as in el. 
+<entry n="σάρξ|G4561">
+  <note type="occurrencesNT">147</note>
+  <form><orth>σάρξ, σαρκός, ἡ</orth> [in LXX chiefly for <foreign xml:lang="heb">בָּשָׂר</foreign>;] </form>
+  <sense><gloss>flesh</gloss>; 
+    <sense n="1.">as in cl. generally, 
+      <sense n="(a)">prop., of the soft substance of the animal body: <ref osisRef="1Cor.15.39">I Co 15:39</ref>, <ref osisRef="2Cor.12.7">II Co 12:7</ref>, <ref osisRef="Gal.6.13">Ga 6:13</ref>, al.; <foreign xml:lang="grc">σ. καὶ αἷμα</foreign>, <ref osisRef="1Cor.5.50">I Co 5:50</ref>; <foreign xml:lang="grc">σ. καὶ ὀστέα</foreign>, <ref osisRef="Luke.24.39">Lk 24:39</ref>; pl., of the flesh of many or parts of the flesh of one (cl.), <ref osisRef="Rev.17.16">Re 17:16</ref>  <ref osisRef="Rev.19.18">19:18</ref>; <foreign xml:lang="grc">φαγεῖν</foreign>, Re, ll. c. (cf. <foreign xml:lang="grc">κατεσθίειν</foreign>, <ref osisRef="2Kgs.9.36">IV Ki 9:36</ref>, al., and <foreign xml:lang="grc">βιβρώσκειν</foreign>, freq. in l.); metaph., <ref osisRef="Jas.5.3">Ja 5:3</ref>; mystically, <foreign xml:lang="grc">φ. (τρώγειν) τὴν σ. τοῦ υἱοῦ τ. ἀνθρώπου</foreign>,  <pb n="403" /> <!-- typed="" checked="" --> <ref osisRef="John.6.52-John.6.56">Jo 6:52-56</ref>; </sense>
+      <sense n="(b)">Of the whole substance of the body, = <foreign xml:lang="grc">σῶμα</foreign>: <ref osisRef="Acts.2.26">Ac 2:26</ref> (LXX), <ref osisRef="Acts.2.31">31</ref>, <ref osisRef="2Cor.12.7">II Co 12:7</ref>, <ref osisRef="Gal.4.14">Ga 4:14</ref>, <ref osisRef="Eph.5.29">Eph 5:29</ref>; <foreign xml:lang="grc">μία σ.</foreign>, <ref osisRef="Mark.10.8">Mk 10:8</ref>; <foreign xml:lang="grc">εἰς σ. μίαν</foreign> (<ref osisRef="Gen.2.24">Ge 2:24</ref>), <ref osisRef="Matt.19.5">Mt 19:5</ref>, <ref osisRef="Mark.10.8">Mk 10:8</ref>, <ref osisRef="1Cor.6.16">I Co 6:16</ref>, <ref osisRef="Eph.5.31">Eph 5:31</ref>; hence, of the material as opp. to the immaterial part of man (cf. Lft., <emph>Notes</emph>, 88): opp. to <foreign xml:lang="grc">πνεῦμα</foreign>, <ref osisRef="1Cor.5.5">I Co 5:5</ref>, <ref osisRef="2Cor.7.1">II Co 7:1</ref>, <ref osisRef="Col.2.5">Col 2:5</ref>, <ref osisRef="1Pet.3.18">I Pe 3:18</ref>, <ref osisRef="1Pet.4.6">4:6</ref>; to ψύχη, <ref osisRef="Acts.2.31">Ac 2:31</ref>, Rec.; of the present life, <foreign xml:lang="grc">ἐν (τῇ) σ.</foreign>, <ref osisRef="Rom.7.5">Ro 7:5</ref>, <ref osisRef="Gal.2.20">Ga 2:20</ref>, <ref osisRef="Phil.1.22">Phl 1:22</ref>,  <ref osisRef="Phil.1.24">24</ref> <ref osisRef="1Pet.4.2">I Pe 4:2</ref>; of Christ's life on earth, <foreign xml:lang="grc">αἱ ἡμέραι τ. σαρκὸς αὐτοῦ</foreign>, <ref osisRef="Heb.5.7">He 5:7</ref>; of things pertaining to the body, <foreign xml:lang="grc">ἐν (τῇ) σ.</foreign>, <ref osisRef="Gal.6.12">Ga 6:12</ref>,  <ref osisRef="Gal.6.13">13</ref> <ref osisRef="Phil.3.3">Phl 3:3</ref>, <ref osisRef="Phil.3.4">4</ref>. </sense>
+    </sense>
+    <sense n="2.">As in Heb. idiom, 
+      <sense n="(a)">of a living creature: <foreign xml:lang="grc">πᾶσα σ.</foreign> (Heb. <foreign xml:lang="heb">כָּל־בָּשָׂר</foreign>; cf. Bl., §47, 9), <ref osisRef="Matt.24.22">Mt 24:22</ref>, <ref osisRef="Mark.13.20">Mk 13:20</ref>, <ref osisRef="1Pet.1.24">I Pe 1:24</ref>; esp. of man and his mortality (<ref osisRef="LXX:Ps.55.5">Ps 55 (56):5</ref>, <ref osisRef="Sir.28.5">Si 28:5</ref>, al.), <ref osisRef="John.1.14">Jo 1:14</ref>; <foreign xml:lang="grc">πᾶσα σ.</foreign> (v. supr.), <ref osisRef="Luke.3.6">Lk 3:6</ref>, <ref osisRef="John.17.2">Jo 17:2</ref>, <ref osisRef="Acts.2.17">Ac 2:17</ref>, <foreign xml:lang="grc">ἐν σ.</foreign>, <ref osisRef="1John.4.2">I Jo 4:2</ref>, <ref osisRef="1Tim.3.16">I Ti 3:16</ref>; </sense>
+      <sense n="(b)">of natural origin and relationship (<ref osisRef="Gen.2.24">Ge 2:24</ref>, <ref osisRef="Isa.58.7">Is 58:7</ref>, al.): <foreign xml:lang="grc">τέκνα τῆς σ.</foreign>, <ref osisRef="Rom.9.8">Ro 9:8</ref>; <foreign xml:lang="grc">κατὰ σάρκα</foreign>, <ref osisRef="Rom.9.3">ib. 3</ref>, <ref osisRef="Rom.9.5">5</ref>, <ref osisRef="1Cor.10.18">I Co 10:18</ref>, <ref osisRef="Gal.4.23">Ga 4:23</ref>, <ref osisRef="Gal.4.29">29</ref>; <foreign xml:lang="grc">ἡ σ. μου</foreign>, <ref osisRef="Rom.11.14">Ro 11:14</ref> (cf. <ref osisRef="Judg.9.2">Jg 9:2</ref>, <ref osisRef="2Sam.5.1">II Ki 5:1</ref>, al.). </sense>
+    </sense>
+    <sense n="3.">Of the physical nature as subject to sensation and desire (Plut.), 
+      <sense n="(a)">without any ethical disparagement: <ref osisRef="Rom.7.18">Ro 7:18</ref>  <ref osisRef="Rom.13.14">13:14</ref>; opp. to <foreign xml:lang="grc">πνεῦμα</foreign>, <ref osisRef="Matt.26.41">Mt 26:41</ref>, <ref osisRef="Mark.14.38">Mk 14:38</ref>; <foreign xml:lang="grc">τ. θέλημα τῆς σ.</foreign>, <ref osisRef="John.1.13">Jo 1:13</ref>; <foreign xml:lang="grc">ἡ ἐπιθυμία τῆς σ.</foreign>, <ref osisRef="1John.2.16">I Jo 2:16</ref>; pl., <ref osisRef="2Pet.2.18">II Pe 2:18</ref>; <foreign xml:lang="grc">παθεῖν σαρκί</foreign>, <ref osisRef="1Pet.4.1">I Pe 4:1</ref>; </sense>
+      <sense n="(b)">in ethical sense, esp. in Pauline Epp., of the flesh as the seat and vehicle of sinful desires: opp. to <foreign xml:lang="grc">νοῦς</foreign>, <ref osisRef="Rom.7.25">Ro 7:25</ref>; to <foreign xml:lang="grc">πνεῦμα</foreign>, <ref osisRef="Rom.8.4-Rom.8.9">Ro 8:4-9</ref>, <ref osisRef="Rom.8.12">12</ref>, <ref osisRef="Rom.8.13">13</ref>, <ref osisRef="Gal.5.16">Ga 5:16</ref>,  <ref osisRef="Gal.5.17">17</ref> <ref osisRef="Gal.5.19">19</ref> <ref osisRef="Gal.6.8">6:8</ref> (cf. <emph>DB</emph>, ii, 14f.; iv, 165f.; Cremer, 844ff.). </sense>
+    </sense>
+  </sense>
+</entry>
 
-generally, (a) prop., of the soft substance of the animal body: i Co 
-1539 II Co 127, Ga 6^3, al.; o-. Kal aV, i Co IS^O; a. Kal ^o-rea, Lk 243y; 
-pi., of the flesh of many or parts of the flesh of one (cl.), Ee 17^^ 19^8j 
-&lt;i&gt;ay€lv, Ee, 11. c. (cf. KaT€(r$i€Lv, IV Ki 9^^, al., and ^i^pwo-Kciv, freq. in 
-•1.); metaph., Ja 53; mystically, &lt;f&gt;. (rpwyciv) t^v &lt;t. tov vlov t. avOpoynov, 
+<entry n="Σαρούχ">
+  <form><orth>Σαρούχ</orth>, v.s. <foreign xml:lang="grc">Σερούχ</foreign>. </form>
+</entry>
 
-
-
- <pb n="403" /> <!-- typed="" checked="" --> 
-
-Jo 6*2-58 . (j^ Qf ijjie whole substance of the body, = a-wfia: Ac 
-226(LXX),3i^ n Co 12^ Ga 4^*, Eph 5^9; fiia a., Mk lO^; tk &lt;t. tilav (Ge 
-2"), Mt 195, Mk 108, I Co 6^6^ Eph 5^1; hence, of the material as opp. 
-to the immaterial part of man (of. Lft., <emph>Notes</emph>, 88): opp. to rrvevfxa, 
-I Co 55, II Co 7\ Col 25, I Pe 3^^ 4^; to ./.vxi Ac 2^\ Rec.; of the 
-present life, iv o-., Ro 7^ Ga 22o, Phi I22.24, i Pe 42; of Christ's life on 
-earth, at rjixipai T. (xapKos avTov, He 5''; of things pertaining to the 
-body, iv (jfj) o-., Ga 612.", Phi S^-*. 2. As in Heb. idiom, (a) of a 
-living creature: vda-a a: (Heb. "11^2-^3; cf. Bl., §47, 9), Mt 2422, j^^ 
-
-1320, 1 Pe 12*; esp. of man and his mortality (Ps 55 (56)5, gj 28^, al.), 
-Jo 11*; 7r5o-a o". (v. supr.), Lk 3^, Jo I72, Ac 2^^ cvo-., i Jo 42, i Ti 31"; 
-(b) of natural origin and relationship (Ge 22*, Is 58^, al.): Tc/cva-r^so-., 
-Ro 98; Kar^ (TdpKa, ib. 3. 5, i Co lO^s, Ga 423.29; ^ g.. ^^v, Ro IP* (cf. 
-Jg 92, II Ki 5^ al.). 3. Of the physical nature as subject to sensation 
-and desire (Plut.), (a) without any ethical disparagement: Ro 7^* 13^*; 
-opp. to Trv€Vfj.a, Mt 26*\ Mk 14^^; t. dlkrjfxa r&gt;5s cr., Jo 1^^; rj (iriOvfiia Trj&lt;i 
-a., I Jo 2^^; pi., II Pe 2^^; iraOeiv o-apKL, I Pe 4^; (b) in ethical sense, 
-esp. in Pauline Epp., of the flesh as the seat and vehicle of sinful 
-desires: opp. to voCs, Ro 72^; to irvevfia, Ro 8*-9&gt; ^2. is, Ga 5^^' i^- " 6^ (cf. 
-DB, ii, 14 f.; iv, 165 f.; Cremer, 844 ff.). 
-Zapoux&gt; v.s. Scpov;^. 
 *aap6a), -w, late form of craipw, to sweep: c. ace, Lk 15^; pass., 
 Mt 12**, Lk Ips.t 
 
