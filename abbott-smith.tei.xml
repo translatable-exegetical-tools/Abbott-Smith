@@ -25790,41 +25790,29 @@ front. 2. to arrange beforehand: Ac 1726, Eec. (for Trpoo-T., Edd.).t
 stretch forth: of preparations for scourging (v. Field, <emph>Notes</emph>, 136 f.), 
 Ac 2225.t 
 
--irpcJTepos, and TrpwTos, compar. and superl. from Trpo, opp. to 
-varepos, vcrTaTO&lt;;. 
-
-A. Compar., TrpoVcpo?, -a, -ov, [in LXX for D^3D^ , jiOTN"! , etc.;] 
-
-before, of time, place, rank, etc.; in NT always of Time, before, 
-former: Eph 422. Adverbially, irporepov, before, aforetime, formerly: 
-Jo 750, II Co 115, He 46; opp. to iTTciTtt, He 72^; t^ tt., Jo 662 98, Ga 
-
-413, I Ti 113 . „« ^^ ^,j,ipai. He 1032; al TT. i7n$viJLLai, I Pe ll*.t 
-
-B. Superl., TrpoM-os, -r;, -ov, [in LXX chiefly for liUyXT , also for 
-
-IQHt, etc.;] first, 1. of Time or Place; (a) absol., as subst., 6 tt., Lk 
-
-I418, Jo 1932, I Co 143"; 6 TT. Kol 5 co-^aTos, Ee li^ 28 22i3; neut.. t^ tt., 
-opp. to T. Sivrepov, He 10^; Ta tt., Opp. to t. lo-xaTa, Mt 12*5, jj^ n^^ 
-
-II Pe 220; anarth., Mt IO2; pi., Mt 193o, Mk 103i, Lk 133o; ^ ^rpoiTois 
-(EV, first of all), i Co 153; (b) as adj.: TrpwTr; (sc. 17/x.cpa) o-a^/SaTov, 
-Mk 16C9]; cftvXaKr], opp. to SerTcpa, Ac 121"; equiv. to adv. in English, 
-Jo m 30*' ^ Ac 27*3, Ro 10^9, 1 Ti li6, i Jo 4i9; = TrpoVepos (v. infr.; cf. 
-
-
-
- <pb n="390" /> <!-- typed="" checked="" --> 
-
-M, <emph>Pr.</emph>, 79; Bl, §11, 5; Thackeray, <emph>Gr.</emph>, 183 f.): c. gen., tt. fiov Tjv 
-(my chief: Abbott, Jg., 509 flf.; but cf. M, <emph>Pr.</emph>, 245), Jo l^*' ^o; c. art., 
-Mk 1412, Ac 11, al.; seq. 6 Scvrcpo?, etc., Mt 222^, Mk I220, al. 2. Of 
-Eank or Dignity, chief, principal: Mt 20^" 2238, Mk 9^5, Eph 62, al.; 
-c. gen., Mk 12-8.29, al.; vroAts (Field, <emph>Notes</emph>, 124), Ac 16^2; c. art., Lk 
-1522 19*'^', Ac 13^^ al. 3. Neut., irpCrrov, as adv., ^rs^, at the first; (a) 
-of Time: Mt 821, Mk 428, al.; to tt., Jo 10^^, al.; (b) of Order: Ro 32, 
-I Co 1118, al. 
+<superEntry n="πρότερος|G4387|πρῶτος|G4413">
+  <form><orth>πρότερος</orth>, and <orth>πρῶτος</orth>, compar. and superl. from <foreign xml:lang="grc">πρό</foreign>, opp. to <foreign xml:lang="grc">ὕστερος, ὕστατος</foreign>. <lb /></form>
+  <entry n="πρότερος|G4387">
+    <note type="occurrencesNT">11</note>
+    <form>A. <gramGrp><pos>Compar.</pos></gramGrp>, <orth>πρότερος, -α, -ον</orth>, [in LXX for <foreign xml:lang="heb">רִאשׁוֹן ,לִפָנִים</foreign>, etc.;] </form>
+    <sense><gloss>before</gloss>, of time, place, rank, etc.; in NT always of Time, <gloss>before, former</gloss>: <ref osisRef="Eph.4.22">Eph 4:22</ref>. Adverbially, <foreign xml:lang="grc">πρότερον</foreign>, <gloss>before, aforetime, formerly</gloss>: <ref osisRef="John.7.50">Jo 7:50</ref>, <ref osisRef="2Cor.1.15">II Co 1:15</ref>, <ref osisRef="Heb.4.6">He 4:6</ref>; opp. to <foreign xml:lang="grc">ἔπειτα</foreign>, <ref osisRef="Heb.7.27">He 7:27</ref>; <foreign xml:lang="grc">τὸ π.</foreign>, <ref osisRef="John.6.62">Jo 6:62</ref>  <ref osisRef="John.9.8">9:8</ref>, <ref osisRef="Gal.4.13">Ga 4:13</ref>, <ref osisRef="1Tim.1.13">I Ti 1:13</ref>; <foreign xml:lang="grc">αἱ π. ἡμέραι</foreign>, <ref osisRef="Heb.10.32">He 10:32</ref>; <foreign xml:lang="grc">αἱ π. ἐπιθυμίαι</foreign>, <ref osisRef="1Pet.1.14">I Pe 1:14</ref>.† <lb /></sense>
+  </entry>
+  <entry n="πρῶτος|G4413">
+    <note type="occurrencesNT">154</note>
+    <form>B. <gramGrp><pos>Superl.</pos></gramGrp>, <orth>πρῶτος, -η, -ον</orth>, [in LXX chiefly for <foreign xml:lang="heb">רִאשׁוֹן</foreign>, also for <foreign xml:lang="heb">אֶחַד</foreign>, etc.;] </form>
+    <sense><gloss>first</gloss>, 
+      <sense n="1.">of Time or Place; 
+        <sense n="(a)">absol., as <gramGrp><pos>subst.</pos></gramGrp>, <foreign xml:lang="grc">ὁ π.</foreign>., <ref osisRef="Luke.14.18">Lk 14:18</ref>, <ref osisRef="John.19.32">Jo 19:32</ref>, <ref osisRef="1Cor.14.30">I Co 14:30</ref>; <foreign xml:lang="grc">ὁ π. καὶ ὁ ἔσχατος</foreign>, <ref osisRef="Rev.1.17">Re 1:17</ref>  <ref osisRef="Rev.2.8">2:8</ref> <ref osisRef="Rev.22.13">22:13</ref>; neut., <foreign xml:lang="grc">τὸ π.</foreign>, opp. to <foreign xml:lang="grc">τ. δεύτερον</foreign>, <ref osisRef="Heb.10.9">He 10:9</ref>; <foreign xml:lang="grc">τὰ π.</foreign>, opp. to <foreign xml:lang="grc">τ. ἔσχατα</foreign>, <ref osisRef="Matt.12.45">Mt 12:45</ref>, <ref osisRef="Luke.11.26">Lk 11:26</ref>, <ref osisRef="2Pet.2.20">II Pe 2:20</ref>; anarth., <ref osisRef="Matt.10.2">Mt 10:2</ref>; pl., <ref osisRef="Matt.19.30">Mt 19:30</ref>, <ref osisRef="Mark.10.31">Mk 10:31</ref>, <ref osisRef="Luke.13.30">Lk 13:30</ref>; <foreign xml:lang="grc">ἐν πρώτοις</foreign> (EV, <gloss>first of all</gloss>), <ref osisRef="1Cor.15.3">I Co 15:3</ref>; </sense>
+        <sense n="(b)">as <gramGrp><pos>adj.</pos></gramGrp>: <foreign xml:lang="grc">πρώτῃ</foreign>; (sc. <foreign xml:lang="grc">ἡμέρᾳ</foreign>) <foreign xml:lang="grc">σαββάτου</foreign>, <ref osisRef="Mark.16.9">Mk 16:[9]</ref>; <foreign xml:lang="grc">φυλακή</foreign>, opp. to <foreign xml:lang="grc">δευτέρα</foreign>, <ref osisRef="Acts.12.10">Ac 12:10</ref>; equiv. to adv. in English, <ref osisRef="John.8.7">Jo 8:[7]</ref>  <ref osisRef="John.20.4">20:4</ref>,  <ref osisRef="John.20.8">8</ref> <ref osisRef="Acts.27.43">Ac 27:43</ref>, <ref osisRef="Rom.10.19">Ro 10:19</ref>, <ref osisRef="1Tim.1.16">I Ti 1:16</ref>, <ref osisRef="1John.4.19">I Jo 4:19</ref>; = <foreign xml:lang="grc">πρότερος</foreign> (v. infr.; cf. <pb n="390" /> <!-- typed="" checked="" --> M, <emph>Pr.</emph>, 79; Bl, §11, 5; Thackeray, <emph>Gr.</emph>, 183f.): c. gen., <foreign xml:lang="grc">π. μου ἦν</foreign> (<emph>my chief</emph>: Abbott, <emph>Jg.</emph>, 509ff.; but cf. M, <emph>Pr.</emph>, 245), <ref osisRef="John.1.15">Jo 1:15</ref>, <ref osisRef="John.1.30">30</ref>; c. art., <ref osisRef="Mark.14.12">Mk 14:12</ref>, <ref osisRef="Acts.1.1">Ac 1:1</ref>, al.; seq. <foreign xml:lang="grc">ὁ δεύτερος</foreign>, etc., <ref osisRef="Matt.22.25">Mt 22:25</ref>, <ref osisRef="Mark.12.20">Mk 12:20</ref>, al. </sense>
+      </sense>
+      <sense n="2.">Of Rank or Dignity, <gloss>chief, principal</gloss>: <ref osisRef="Matt.20.27">Mt 20:27</ref>  <ref osisRef="Matt.22.38">22:38</ref>, <ref osisRef="Mark.9.35">Mk 9:35</ref>, <ref osisRef="Eph.6.2">Eph 6:2</ref>, al.; c. gen., <ref osisRef="Mark.12.28">Mk 12:28</ref>,  <ref osisRef="Mark.12.29">29</ref> al.; <foreign xml:lang="grc">πόλις</foreign> (Field, <emph>Notes</emph>, 124), <ref osisRef="Acts.16.12">Ac 16:12</ref>; c. art., <ref osisRef="Luke.15.22">Lk 15:22</ref>  <ref osisRef="Luke.19.47">19:47</ref>, <ref osisRef="Acts.13.50">Ac 13:50</ref>, al. </sense>
+      <sense n="3.">Neut., <foreign xml:lang="grc">πρῶτον</foreign>, as <gramGrp><pos>adv.</pos></gramGrp>, <gloss>first, at the first</gloss>; 
+        <sense n="(a)">of Time: <ref osisRef="Matt.8.21">Mt 8:21</ref>, <ref osisRef="Mark.4.28">Mk 4:28</ref>, al.; <foreign xml:lang="grc">τὸ π.</foreign>, <ref osisRef="John.10.40">Jo 10:40</ref>, al.; </sense>
+        <sense n="(b)">of Order: <ref osisRef="Rom.3.2">Ro 3:2</ref>, <ref osisRef="1Cor.11.18">I Co 11:18</ref>, al. </sense>
+      </sense>
+    </sense>
+  </entry>
+</superEntry>
 
 Trpo-Ti0T]^ii, [in LXX: Ex 40*. 23, Le 248 (^-,y), pg 53 (54)3 
 
