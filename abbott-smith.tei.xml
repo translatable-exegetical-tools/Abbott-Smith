@@ -28937,30 +28937,20 @@ xxiv).t
 
  <pb n="437" /> <!-- typed="" checked="" --> 
 
-cFUfia, -TO?, TO, [in LXX for lH^^, HJIJ, etc., and for Aram. 
-
-n^JJ?;] 0, body. 1. Prop., of the human body, (a) as always in Hom. 
-
-(opp. to Se&gt;a9), of the dead body: Mt 27^^' ^^ Mk 15*3, ^1.; (b) of the 
-living body: Lk ll^*, i Co 6^^ al.; ev a. etvat, He 13^; as the instru- 
-ment of the soul, Ta Sta rov a:, II Co 5^"; opp. to TTvevfjLa, Ro 8^**, I Co 5' 
-7^ Ja 226 . to ^vxv. Mt 6" 1028, Lk 12^2 (cf. Wi 1*, al.); to t^ tt. Kal ^ 
-ij/., I Th 52^; (7. {J/v)(i.k6v, opp. to 0-. Trvtv^jLaTLKOv, I Co 15**; 6 vao9 rov a. 
-aifToi) (gen. epexeg.), Jo 22^; to cr. t. TaTretvwo-eojs Tj/j-wv (Hebraistic "gen. 
-of definition "; M, <emph>Pr.</emph>, 73 f.; Bl., §35, 5), opp. to to a. t. So^^s airod, 
-Phi 321; similarly, to cr. t. crap/cds, Col 1^2; a. rov Oavdrov (subject to 
-death), Ro 72*; a. t. afx.apTia&lt;;, Ro 6^; (c) periphr., avOpdnrov a-., then 
-absol., (Twjxa (Soph., Xen., al.), a 'person, and in later writers (Polyb., 
-al.), a slave: Ee 18'3 (cf. MM, i, ii, xxiv; Deiss., <emph>BS</emph>, 160). 2. Of the 
-bodies of animals: living, Ja 3^; dead, He 13ii (Ex 29^*, al.). 3. Of 
-inanimate objects (cf. Eng. "heavenly bodies"): i Co 1537,35,40 (Diod., 
-al.). 4. Of any corporeal substance (Plat., al.): opp. to o-Kia, Col 2^^. 
-Metaph., of a number of persons united by a common bond; in NT, 
-of the Church as the spiritual body of Christ: Ro 12^ i Co lO^^'^^ 
-
-1213, 27_ Eph 123 216 4*. 12, 16 523.30, Col li«'2* 2^9 S^^; h (T. K. tv TTVev^a, 
-
-Eph 4*. 
+<entry n="σῶμα|G4983">
+  <note type="occurrencesNT">142</note>
+  <form><orth>σῶμα, -τος, τό</orth>, [in LXX for <foreign xml:lang="heb">גְּוִיָּה ,בָּשָׂר</foreign>, etc., and for Aram. <foreign xml:lang="arc">נְבֵלָה</foreign>;] </form>
+  <sense><gloss>a body</gloss>. 
+    <sense n="1.">Prop., of the human body, 
+      <sense n="(a)">as always in Hom. (opp. to <foreign xml:lang="grc">δέμας</foreign>), of the dead body: <ref osisRef="Matt.27.58">Mt 27:58</ref>,  <ref osisRef="Matt.27.59">59</ref> <ref osisRef="Mark.15.43">Mk 15:43</ref>, al.; </sense>
+      <sense n="(b)">of the living body: <ref osisRef="Luke.11.34">Lk 11:34</ref>, <ref osisRef="1Cor.6.13">I Co 6:13</ref>, al.; <foreign xml:lang="grc">ἐν σ. εἶναι</foreign>, <ref osisRef="Heb.13.3">He 13:3</ref>; as the instrument of the soul, <foreign xml:lang="grc">τὰ διὰ τοῦ σ.</foreign>, <ref osisRef="2Cor.5.10">II Co 5:10</ref>; opp. to <foreign xml:lang="grc">πνεῦμα</foreign>, <ref osisRef="Rom.8.10">Ro 8:10</ref>, <ref osisRef="1Cor.5.3">I Co 5:3</ref>  <ref osisRef="1Cor.7.4">7:4</ref>, <ref osisRef="Jas.2.26">Ja 2:26</ref>; to ψυχή, <ref osisRef="Matt.6.25">Mt 6:25</ref>  <ref osisRef="Matt.10.28">10:28</ref>, <ref osisRef="Luke.12.22">Lk 12:22</ref> (cf. <ref osisRef="Wis.1.1">Wi 1:1</ref>, al.); to <foreign xml:lang="grc">τὸ π. καὶ ἡ ψ.</foreign>, <ref osisRef="1Thess.5.23">I Th 5:23</ref>; <foreign xml:lang="grc">σ. ψυχικόν</foreign>, opp. to <foreign xml:lang="grc">σ. πνευματικόν</foreign>, <ref osisRef="1Cor.15.44">I Co 15:44</ref>; <foreign xml:lang="grc">ὁ ναὸς τοῦ σ. αὐτοῦ</foreign> (gen. epexeg.), <ref osisRef="John.2.21">Jo 2:21</ref>; <foreign xml:lang="grc">τὸ σ. τ. ταπεινώσεως</foreign> (Hebraistic "gen. of definition"; M, <emph>Pr.</emph>, 73f.; Bl., §35, 5), opp. to <foreign xml:lang="grc">τὸ σ. τ. δοξῆς αὐτοῦ</foreign>, <ref osisRef="Phil.3.21">Phl 3:21</ref>; similarly, <foreign xml:lang="grc">τὸ σ. τ. σαρκός</foreign>, <ref osisRef="Col.1.22">Col 1:22</ref>; <foreign xml:lang="grc">σ. τοῦ θανάτου</foreign> (subject to death), <ref osisRef="Rom.7.24">Ro 7:24</ref>; <foreign xml:lang="grc">σ. τ. ἁμαρτίας</foreign>, <ref osisRef="Rom.6.6">Ro 6:6</ref>; </sense>
+      <sense n="(c)">periphr., <foreign xml:lang="grc">ἀνθρώπου</foreign>, then absol., <foreign xml:lang="grc">σῶμα</foreign> (Soph., Xen., al.), <gloss>a person</gloss>, and in later writers (Polyb., al.), <gloss>a slave</gloss>: <ref osisRef="Rev.18.13">Re 18:13</ref> (cf. MM, i, ii, xxiv; Deiss., <emph>BS</emph>, 160). </sense>
+    </sense>
+    <sense n="2.">Of the bodies of animals: living, <ref osisRef="Jas.3.3">Ja 3:3</ref>; dead, <ref osisRef="Heb.13.11">He 13:11</ref> ( <ref osisRef="Exod.29.14">Ex 29:14</ref>, al.). </sense>
+    <sense n="3.">Of inanimate objects (cf. Eng. "heavenly bodies"): <ref osisRef="1Cor.15.37">I Co 15:37</ref>,  <ref osisRef="1Cor.15.38">38</ref> <ref osisRef="1Cor.15.40">40</ref> (Diod., al.). </sense>
+    <sense n="4.">Of any corporeal substance (Plat., al.): opp. to <foreign xml:lang="grc">σκιά</foreign>, <ref osisRef="Col.2.17">Col 2:17</ref>. Metaph., of a number of persons united by a common bond; in NT, of the Church as the spiritual body of Christ: <ref osisRef="Rom.12.5">Ro 12:5</ref>, <ref osisRef="1Cor.10.16">I Co 10:16</ref>, <ref osisRef="1Cor.10.17">17</ref> <ref osisRef="1Cor.12.13">12:13</ref>, <ref osisRef="1Cor.12.27">27</ref>, <ref osisRef="Eph.1.23">Eph 1:23</ref>  <ref osisRef="Eph.2.16">2:16</ref> <ref osisRef="Eph.4.4">4:4</ref>, <ref osisRef="Eph.4.12">12</ref>, <ref osisRef="Eph.4.16">16</ref> <ref osisRef="Eph.5.23">5:23</ref>, <ref osisRef="Eph.5.30">30</ref>, <ref osisRef="Col.1.18">Col 1:18</ref>, <ref osisRef="Col.1.24">24</ref> <ref osisRef="Col.2.19">2:19</ref> <ref osisRef="Col.3.15">3:15</ref>; <foreign xml:lang="grc">ἓν σ. κ. ἓν πνεῦμα</foreign>, <ref osisRef="Eph.4.4">Eph 4:4</ref>. </sense>
+  </sense>
+</entry>
 
 **aw,iaTiK&lt;5s, -rj, -ov «o-S/ta), [in LXX: IV Mac 132 31*;] (a) of 
 or for the body, bodily: yvfj-vama, i Ti 4^; (b) (opp. to do-w/iaTos) 
