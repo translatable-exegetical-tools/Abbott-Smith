@@ -1,7 +1,7 @@
 Word List
 =
 
-This file contains a list of words with Strong's numbers and frequency data. The first table includes words that occur 100+ times in the NT. The second table includes the rest of the words in the NT. Both tables are sorted alphabetically. To see what pages contributors are currently working on, see https://github.com/translatable-exegetical-tools/Abbott-Smith/wiki/Task-Assignments. 
+This file contains a list of words sorted alphabetically with Strong's numbers and frequency data. To see what pages contributors are currently working on, see https://github.com/translatable-exegetical-tools/Abbott-Smith/wiki/Task-Assignments. 
 
 This list is not exhaustive, nor do we expect it to match Abbott-Smith exactly because some lines are taken from Strong's. We simply want to try to match Strong's numbers with the correct lexemes in Abbott-Smith and clean up entries in Abbott-Smith that are not on this list. 
 
