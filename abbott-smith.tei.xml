@@ -29482,25 +29482,22 @@ Wi, 11. c, and v. Westc. on i Jo 23.), i Co 7i9.t
 
 TtPcpids, -aSos, Tj «Tt/3eptos), Tiberias, a city of Galilee: Jo 6^^; 
 
-ddXacra-a rrj? T., Jo 61 211 ^^f Tewr)(Tap4T, raXtXata).t 
+
+  ***ddXacra-a rrj? T., Jo 61 211 ^^f Tewr)(Tap4T, raXtXata).t 
 TiP^pios, -ov, 6, the Emperor Tiberius: Lk 3i.t 
-Ti0Tj(jii, [in LXX for miZT, ]T)2, JTW , etc.;] 1. causative of 
-Ket/Atti, (a) to place, lay, set: Lk 6*^, Ro 9^3, al.; of laying the dead to 
-rest, Mk 15*^ Lk 2355, Jo ll^*, Ac 7i«, al.; seq. cVc', c. gen., Lk 8i«, Jo 
-1919, al.; id. c. ace, Mk 421, 11 Co 31^, al.; wo, Mt 5i5, al.; -n-apd, Ac 
-435,37^ Mid., to have put or placed, to place for oneself: of putting in 
-prison, Ac 4*, 51^' 2^, al.; of giving counsel, fiovkrjv, Ac 271^; of laying 
-up in one's heart, Lk I*'" 21i* (i Ki 21i2); (6) to put down, lay down: 
-of bending the knees, t. yovara, to kneel, Mk 15i^ Ac 7"", al.; of 
-putting off garments, Jo 13*; of laying down life, t. t/oix^v, Jo 
-1011,15,17,18 1337, 38 1513 1 Jo 316; of laying by money. Trap iavrw, 1 Co 
-162; of setting on food, Jo 2i0; metaph., of setting forth an idea in 
-symbolism, Mk 4^0. 2. to set, fix, establish: vTroSciy/xa, 11 Pe 2". 3. to 
-make, appoint: Mt 22**, Mk 12^6, Lk 20*3, Ac 2^5, Ro 41^, al. Mid., 
-to make, set or appoint for oneself: Ac 202^, i Co 1228, i Th 5^, i Ti V^, 
-al.; seq. iva, Jo 15l® (cf . dva-, irpoa-ava-, aTTO-, Sta-, avn-Sia-, eK-, ctti-, 
-crvv-eTTL-, Kara-, crw-Kara-, ft-fra-, irapa-, irepi-, rrpo-, Trpoa-, (tuv-, vtto- 
-TiOrjfjLt). 
+
+<entry n="τίθημι|G5087">
+  <note type="occurrencesNT">100</note>
+  <form><orth>τίθημι</orth>, [in LXX for <foreign xml:lang="heb">שִׁית ,נתן ,שׂוּם</foreign>, etc.;] </form>
+  <sense>
+    <sense n="1.">causative of <foreign xml:lang="grc">κεῖμαι</foreign>, 
+      <sense n="(a)"><gloss>to place, lay, set</gloss>: <ref osisRef="Luke.6.48">Lk 6:48</ref>, <ref osisRef="Rom.9.33">Ro 9:33</ref>, al.; of laying the dead to rest, <ref osisRef="Mark.15.47">Mk 15:47</ref>, <ref osisRef="Luke.23.55">Lk 23:55</ref>, <ref osisRef="John.11.34">Jo 11:34</ref>, <ref osisRef="Acts.7.16">Ac 7:16</ref>, al.; seq. <foreign xml:lang="grc">ἐπί</foreign>, c. gen., <ref osisRef="Luke.8.16">Lk 8:16</ref>, <ref osisRef="John.19.19">Jo 19:19</ref>, al.; id. c. acc., <ref osisRef="Mark.4.21">Mk 4:21</ref>, <ref osisRef="2Cor.3.13">II Co 3:13</ref>, al.; <foreign xml:lang="grc">ὑπό</foreign>, <ref osisRef="Matt.5.15">Mt 5:15</ref>, al.; <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="Acts.4.35">Ac 4:35</ref>, 37. Mid., <gloss>to have put or placed, to place for oneself</gloss>: of putting in prison, <ref osisRef="Acts.4.3">Ac 4:3</ref>, <ref osisRef="Acts.5.18">5:18</ref>, <ref osisRef="Acts.5.25">25</ref>, al.; of giving counsel, <foreign xml:lang="grc">βουλήν</foreign>, <ref osisRef="Acts.27.12">Ac 27:12</ref>; of laying up in one's heart, <ref osisRef="Luke.1.66">Lk 1:66</ref>  <ref osisRef="Luke.21.14">21:14</ref> ( <ref osisRef="1Sam.21.12">I Ki 21:12</ref>); </sense>
+      <sense n="(b)"><gloss>to put down, lay down</gloss>: of bending the knees, <foreign xml:lang="grc">τ. γόνατα</foreign>, <gloss>to kneel</gloss>, <ref osisRef="Mark.15.19">Mk 15:19</ref>, <ref osisRef="Acts.7.60">Ac 7:60</ref>, al.; of putting off garments, <ref osisRef="John.13.4">Jo 13:4</ref>; of laying down life, <foreign xml:lang="grc">τ. ψυχήν</foreign>, <ref osisRef="John.10.11">Jo 10:11</ref>,  <ref osisRef="John.10.15">15</ref> <ref osisRef="John.10.17">17</ref>, <ref osisRef="John.10.18">18</ref> <ref osisRef="John.13.37">13:37</ref>, <ref osisRef="John.13.38">38</ref> <ref osisRef="John.15.13">15:13</ref>, <ref osisRef="1John.3.16">I Jo 3:16</ref>; of laying by money, <foreign xml:lang="grc">παρ᾽ ἑαυτῷ</foreign>, <ref osisRef="1Cor.16.2">I Co 16:2</ref>; of setting on food, <ref osisRef="John.2.10">Jo 2:10</ref>; metaph., of setting forth an idea in symbolism, <ref osisRef="Mark.4.30">Mk 4:30</ref>. </sense>
+    </sense>
+    <sense n="2."><gloss>to set, fix, establish</gloss>: <foreign xml:lang="grc">ὑπόδειγμα</foreign>, <ref osisRef="2Pet.2.6">II Pe 2:6</ref>. </sense>
+    <sense n="3."><gloss>to make, appoint</gloss>: <ref osisRef="Matt.22.44">Mt 22:44</ref>, <ref osisRef="Mark.12.36">Mk 12:36</ref>, <ref osisRef="Luke.20.43">Lk 20:43</ref>, <ref osisRef="Acts.2.35">Ac 2:35</ref>, <ref osisRef="Rom.4.17">Ro 4:17</ref>, al. Mid., <gloss>to make, set</gloss> or <gloss>appoint for oneself</gloss>: <ref osisRef="Acts.20.28">Ac 20:28</ref>, <ref osisRef="1Cor.12.28">I Co 12:28</ref>, <ref osisRef="1Thess.5.9">I Th 5:9</ref>, <ref osisRef="1Tim.1.12">I Ti 1:12</ref>, al.; seq. <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="John.15.16">Jo 15:16</ref> (cf . <foreign xml:lang="grc">ἀνα-, προσ-ανα-, ἀπο-, δια-, ἀντι-δια-, ἐκ-, ἐπι-, συν-επι-, κατα-, συν-κατα-, μετα-, παρα-, περι-, προ-, προσ-, συν-, ὑπο-τίθημι</foreign>). </sense>
+  </sense>
+</entry>
 
 TiKTu, [in LXX chiefly for lb'';] prop., of parents, to beget, bring 
 
