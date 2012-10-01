@@ -6261,21 +6261,16 @@ lifeless: 1 Co 14^.†
  <div type="letter">
  <head type="heading2">Β</head> 
 
-B, P, pTJTa, TO, indecl., beta, b, the second letter. As a numeral, 
-/r = 2; /?, = 2000. 
+<entry n="Β">
+  <form><orth>Β, β, βῆτα, τὸ</orth>, indecl., </form>
+  <sense><gloss>beta, b</gloss>, the second letter. As a numeral, <foreign xml:lang="grc">β'</foreign> = 2; <foreign xml:lang="grc">β,</foreign> = 2000. </sense>
+</entry>
 
-BdaX (Eec. BaaA), 6, 17, indecl. (Heb. byn, lord), Baal: Ro 
-
-114 (LXX) i'}^g iem. art. here agrees with the usage of LXX, where, 
-
-following a similar Hebrew practice {TXDI for bv'2), ala-^^yrq appears 
-
-to have been substituted in reading for the written BaaX (cf. iii Ki 
-18^9), and to account for the freq. use of the fem. art. bef. B. The 
-usage, however, is not general, and in the passage cited in Ro (iii Ki 
-I918), LXX reads tw B.t 
-
-
+<entry n="Βάαλ|G896">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βάαλ</orth> (Rec. <foreign xml:lang="grc">βαάλ</foreign>)<orth>, ὁ, ἡ</orth>, indecl. (Heb. <foreign xml:lang="heb">בַּעַל</foreign>, <emph>lord</emph>), </form>
+  <sense><gloss>Baal</gloss>: <ref osisRef="Rom.11.4">Ro 11:4</ref> (LXX). The fem. art. here agrees with the usage of LXX, where, following a similar Hebrew practice (<foreign xml:lang="heb">בֹּשֶׁת</foreign> for <foreign xml:lang="heb">בַּעַל</foreign>), <foreign xml:lang="grc">αἰσχύνη</foreign> appears to have been substituted in reading for the written <foreign xml:lang="grc">Βάαλ</foreign> (cf. <ref osisRef="1Kgs.18.19">III Ki 18:19</ref>), and to account for the freq. use of the fem. art. bef. <foreign xml:lang="grc">Β.</foreign> The usage, however, is not general, and in the passage cited in Ro (<ref osisRef="1Kgs.19.18">III Ki 19:18</ref>), LXX reads <foreign xml:lang="grc">τῷ Β.</foreign>† </sense>
+</entry>
 
  <pb n="74" /> <!-- typed="" checked="" --> 
 

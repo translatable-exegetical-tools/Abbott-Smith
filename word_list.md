@@ -795,7 +795,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0870</td><td>Βάαλ</td><td>G896</td><td>1</td></tr>
 <tr><td>0871</td><td>Βαβυλών</td><td>G897</td><td>12</td></tr>
 <tr><td>0872</td><td>βαθμός</td><td>G898</td><td>1</td></tr>
 <tr><td>0873</td><td>βάθος</td><td>G899</td><td>8</td></tr>
