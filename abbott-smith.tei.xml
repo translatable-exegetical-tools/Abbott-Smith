@@ -29480,11 +29480,17 @@ the means" (Thayer s.v.).
 ward (v. Deiss., <emph>BS</emph>, 267): Ac 4^ 51*. 2. a keeping: t. ivroXuiv (cf. Si, 
 Wi, 11. c, and v. Westc. on i Jo 23.), i Co 7i9.t 
 
-TtPcpids, -aSos, Tj «Tt/3eptos), Tiberias, a city of Galilee: Jo 6^^; 
+<entry n="Τιβεριάς|G5085">
+  <note type="occurrencesNT">3</note>
+  <form><orth>Τιβεριάς, -άδος, ἡ</orth> (&lt; <foreign xml:lang="grc">Τιβέριος</foreign>), </form>
+  <sense><gloss>Tiberias</gloss>, a city of Galilee: <ref osisRef="John.6.23">Jo 6:23</ref>, <ref osisRef="John.6.1">Jo 6:1</ref> <ref osisRef="John.21.1">21:1</ref> (cf <foreign xml:lang="grc">Γεννησσαρέτ, Γαλιλαία</foreign>).† </sense>
+</entry>
 
-
-  ***ddXacra-a rrj? T., Jo 61 211 ^^f Tewr)(Tap4T, raXtXata).t 
-TiP^pios, -ov, 6, the Emperor Tiberius: Lk 3i.t 
+<entry n="Τιβέριος|G5086">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Τιβέριος, -ου, ὁ</orth>, </form>
+  <sense>the Emperor <gloss>Tiberius</gloss>: <ref osisRef="Luke.3.1">Lk 3:1</ref>. †</sense>
+</entry>
 
 <entry n="τίθημι|G5087">
   <note type="occurrencesNT">100</note>

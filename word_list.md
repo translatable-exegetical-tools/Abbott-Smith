@@ -4726,8 +4726,6 @@ Each row includes the following information:
 <tr><td>4955</td><td>τηλικοῦτος</td><td>G5082</td><td>4</td></tr>
 <tr><td>4956</td><td>τηρέω</td><td>G5083</td><td>70</td></tr>
 <tr><td>4957</td><td>τήρησις</td><td>G5084</td><td>3</td></tr>
-<tr><td>4958</td><td>Τιβεριάς</td><td>G5085</td><td>3</td></tr>
-<tr><td>4959</td><td>Τιβέριος</td><td>G5086</td><td>1</td></tr>
 <tr><td>4961</td><td>τίκτω</td><td>G5088</td><td>18</td></tr>
 <tr><td>4962</td><td>τίλλω</td><td>G5089</td><td>3</td></tr>
 <tr><td>4963</td><td>Τιμαῖος</td><td>G5090</td><td>1</td></tr>
