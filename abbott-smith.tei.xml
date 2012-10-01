@@ -29679,17 +29679,15 @@ wo-Te, Mt 1533; absol.: pi., Jo 6^, Ga 3*; of price, too-otjtov, Ac 5^; dat.,
 Too-ovTw KpciTTOJV, He 1* ', T. fiaWov ocTii), He 102*; KaO' oaov . . . Kara 
 T., He 722.t 
 
-Tore, demonstr. adv. of time, correlat. of ot€, then, at that time; 
-(a) of concurrent events: Mt 2i7 3* and freq., Ro 621; seq. ptcp., Mt 
-2i«, Ga 48; opp. to vw, Ga 42^, He 1226; 6 t. Kdo-/tos, 11 Pe 36; (b) of 
-consequent events, then, thereupon: Mt 27 3* 41 and freq., Lk 1126; 
-t. o^v, Jo 111* 191,16 208; iieiws t., Ac 171*; ot€ . . . t., Mt 1326 211, 
-Jo 1216; dffo T., Mt 417 1621 2616, Lk I6I6; (c) of things future: Mt 
-2428,40 25i'3ifl.; opp. to Sipn, I Co 1312; Kal r., Mt 723, Mk 1321, Lk 
-2127, I Co 45, al.; Zrav . . . T., Mt 9l^ Mk 22o, Lk 535, i Th 53, al. 
-(more freq. in Mt than in the rest of the NT). 
-
-
+<entry n="τότε|G5119">
+  <note type="occurrencesNT">160</note>
+  <form><orth>τότε</orth>, <gramGrp><pos>demonstr. adv.</pos></gramGrp> of time, correlat. of <foreign xml:lang="grc">ὅτε</foreign>, </form>
+  <sense><gloss>then, at that time</gloss>; 
+    <sense n="(a)">of concurrent events: <ref osisRef="Matt.2.17">Mt 2:17</ref>  <ref osisRef="Matt.3.5">3:5</ref> and freq., <ref osisRef="Rom.6.21">Ro 6:21</ref>; seq. ptcp., <ref osisRef="Matt.2.16">Mt 2:16</ref>, <ref osisRef="Gal.4.8">Ga 4:8</ref>; opp. to <foreign xml:lang="grc">νῦν</foreign>, <ref osisRef="Gal.4.29">Ga 4:29</ref>, <ref osisRef="Heb.12.26">He 12:26</ref>; <foreign xml:lang="grc">ὁ τ. κόσμος</foreign>, <ref osisRef="2Pet.3.6">II Pe 3:6</ref>; </sense>
+    <sense n="(b)">of consequent events, <gloss>then, thereupon</gloss>: <ref osisRef="Matt.2.7">Mt 2:7</ref>  <ref osisRef="Matt.3.5">3:5</ref> <ref osisRef="Matt.4.1">4:1</ref> and freq., <ref osisRef="Luke.11.26">Lk 11:26</ref>; <foreign xml:lang="grc">τ. οὖν</foreign>, <ref osisRef="John.11.14">Jo 11:14</ref>  <ref osisRef="John.19.1">19:1</ref>, <ref osisRef="John.19.16">16</ref> <ref osisRef="John.20.8">20:8</ref>; <foreign xml:lang="grc">εὐθέως τ.</foreign>, <ref osisRef="Acts.17.14">Ac 17:14</ref>; <foreign xml:lang="grc">ὅτε . . . τ.</foreign>, <ref osisRef="Matt.13.26">Mt 13:26</ref>  <ref osisRef="Matt.21.1">21:1</ref>, <ref osisRef="John.12.16">Jo 12:16</ref>; <foreign xml:lang="grc">ἀπὸ τ.</foreign>, <ref osisRef="Matt.4.17">Mt 4:17</ref>  <ref osisRef="Matt.16.21">16:21</ref> <ref osisRef="Matt.26.16">26:16</ref>, <ref osisRef="Luke.16.16">Lk 16:16</ref>; </sense>
+    <sense n="(c)">of things future: <ref osisRef="Matt.24.28">Mt 24:28</ref>, <ref osisRef="Matt.24.40">40</ref> <ref osisRef="Matt.25.1">25:1</ref>, <ref osisRef="Matt.15.31">31</ref>ff.; opp. to <foreign xml:lang="grc">ἄρτι</foreign>, <ref osisRef="1Cor.13.12">I Co 13:12</ref>; <foreign xml:lang="grc">καὶ τ.</foreign>, <ref osisRef="Matt.7.23">Mt 7:23</ref>, <ref osisRef="Mark.13.21">Mk 13:21</ref>, <ref osisRef="Luke.21.27">Lk 21:27</ref>, <ref osisRef="1Cor.4.5">I Co 4:5</ref>, al.; <foreign xml:lang="grc">ὅταν . . . τ.</foreign>, <ref osisRef="Matt.9.15">Mt 9:15</ref>, <ref osisRef="Mark.2.20">Mk 2:20</ref>, <ref osisRef="Luke.5.35">Lk 5:35</ref>, <ref osisRef="1Thess.5.3">I Th 5:3</ref>, al. (more freq. in Mt than in the rest of the NT). </sense>
+  </sense>
+</entry>
 
  <pb n="449" /> <!-- typed="" checked="" --> 
 
