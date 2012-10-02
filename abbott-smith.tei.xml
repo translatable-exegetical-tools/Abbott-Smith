@@ -6274,40 +6274,61 @@ lifeless: 1 Co 14^.†
 
  <pb n="74" /> <!-- typed="" checked="" --> 
 
-BaPuXwc, -wvos, 17 (^515, Heb. form of Assyr. Bab-ili, Gate of 
-God), Babylon: Mt I".i2,i7^ Ac 7*3 (Lxx); symbolically, of Borne: 
-Ee 14s 1619 17* 182.10.21, and prob. also i Pe S^^.t 
+<entry n="Βαβυλών|G897">
+  <note type="occurrencesNT">12</note>
+  <form><orth>Βαβυλών, -ῶνος, ἡ</orth> (<foreign xml:lang="heb">בָּבֶל</foreign>, Heb. form of Assyr. <foreign xml:lang="akk">Bab-ili</foreign>, <emph>Gate of God</emph>), </form>
+  <sense><gloss>Babylon</gloss>: <ref osisRef="Matt.1.11">Mt 1:11</ref>,  <ref osisRef="Matt.1.12">12</ref> <ref osisRef="Matt.1.17">17</ref>, <ref osisRef="Acts.7.43">Ac 7:43</ref> (LXX); symbolically, of <emph>Rome</emph>: <ref osisRef="Rev.14.8">Re 14:8</ref>  <ref osisRef="Rev.16.19">16:19</ref> <ref osisRef="Rev.17.5">17:5</ref> <ref osisRef="Rev.18.2">18:2</ref>, <ref osisRef="Rev.18.10">10</ref>, <ref osisRef="Rev.18.21">21</ref>, and prob. also <ref osisRef="1Pet.5.13">I Pe 5:13</ref>.† </sense>
+</entry>
 
-PaG^wS, V.S. /Sa^us. 
-t pa0jui(5s, -ov, 6, Ion. form of /3ao-/&gt;tos (■&lt; ^atVw, to siep), [in LXX 
-I Ki 55 (]ri5P), IV Ki 20^.10.11 (nbyo), Si 636*;] a step (iv Ki, I.e., of 
-degrees of a dial); metapb., a degree, standing: i Ti S^^.t 
+<entry n="βαθέως"><form><orth>βαθέως</orth>, v.s. <foreign xml:lang="grc">βαθύς</foreign>. </form></entry>
 
-Pa0os, -€os (-ous), TO, [in LXX for "innn , nbisp, etc.;] depth: 
+<entry n="βαθμός|G898">
+  <note type="occurrencesNT">1</note>
+  <form>† <orth>βαθμός, -οῦ, ὁ</orth>, Ion. form of <foreign xml:lang="grc">βασμός</foreign> (&lt; <foreign xml:lang="grc">βαίνω</foreign>, <emph>to step</emph>), [in LXX <ref osisRef="1Sam.5.5">I Ki 5:5</ref> (<foreign xml:lang="heb">מִפְתָּן</foreign>), <ref osisRef="2Kgs.20.9">IV Ki 20:9</ref>,  <ref osisRef="2Kgs.20.10">10</ref> 11 (<foreign xml:lang="heb">מַעֲלָה</foreign>), <ref osisRef="Sir.6.36">Si 6:36</ref>*;] </form>
+  <sense><gloss>a step</gloss> (IV Ki, l.c., of <gloss>degrees</gloss> of a dial); metaph., a <gloss>degree, standing</gloss>: <ref osisRef="1Tim.3.13">I Ti 3:13</ref>.† </sense>
+</entry>
 
-Mt 135, Mk 45, Ro 83'\ Eph S^^; t6 yS., i/ie deep sea: Lk 5*; metapb., 
-(3. ttXovtov . . . ®eov, Ro 11^3; to. /3. t. @eov (tbe Divine counsels), 
-I Co 210; 17 Kara /3&lt;j.0ov&lt;; irTwxtia, deej) poverty, 11 Co B^.t 
+<entry n="βάθος|G899">
+  <note type="occurrencesNT">8</note>
+  <form><orth>βάθος, -εος (-ους), τό</orth>, [in LXX for <foreign xml:lang="heb">מְצוּלָה ,תַּחְתִּי</foreign>, etc.;] </form>
+  <sense><gloss>depth</gloss>: <ref osisRef="Matt.13.5">Mt 13:5</ref>, <ref osisRef="Mark.4.5">Mk 4:5</ref>, <ref osisRef="Rom.8.39">Ro 8:39</ref>, <ref osisRef="Eph.3.18">Eph 3:18</ref>; <foreign xml:lang="grc">τὸ β.</foreign>, <gloss>the deep sea</gloss>: <ref osisRef="Luke.5.4">Lk 5:4</ref>; metaph., <foreign xml:lang="grc">β. πλούτου . . . Θεοῦ</foreign>, <ref osisRef="Rom.11.33">Ro 11:33</ref>; <foreign xml:lang="grc">τὰ β. τ. Θεοῦ</foreign> (the Divine counsels), <ref osisRef="1Cor.2.10">I Co 2:10</ref>; <foreign xml:lang="grc">ἡ κατὰ βάθους πτωχεία</foreign>, <gloss>deep poverty</gloss>, <ref osisRef="2Cor.8.2">II Co 8:2</ref>.† </sense>
+</entry>
 
-M""" {&lt;M^^), [in LXX for pay: Ps 91 (92)* Je 29 (49)8 
-30(49)30*;] to deepen: Lk e-'s.t 
+<entry n="βαθύνω|G900">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βαθύνω</orth> (&lt; <foreign xml:lang="grc">βαθύς</foreign>), [in LXX for <foreign xml:lang="heb">עמד</foreign>: <ref osisRef="LXX:Ps.91.5">Ps 91 (92):5</ref>, <ref osisRef="LXX:Jer.29.8">Je 29 (49):8</ref> <ref osisRef="LXX:Jer.30.30">30(49)30</ref>*;] </form>
+  <sense><gloss>to deepen</gloss>: <ref osisRef="Luke.6.48">Lk 6:48</ref>.† </sense>
+</entry>
 
-PaStis (gen. -£cos, vernac, Lk, I.e.; Bl., §8, 5), -tia, -v, [in LXX 
-chiefly for pay;] deep; Jo 411; metapb., opOpov /SaOew; (v. supr.), 
-early dawn, Lk 24i; vttvos, Ac 20^; ra /?. tou Sarava, Ee 22*. t 
+<entry n="βαθύς|G901">
+  <note type="occurrencesNT">4</note>
+  <form><orth>βαθύς</orth> (gen. -<foreign xml:lang="grc">έως</foreign>, vernac., Lk, l.c.; Bl., §8, 5), <orth>-εῖα, -ύ</orth>, [in LXX chiefly for <foreign xml:lang="heb">עמק</foreign>;] </form>
+  <sense><gloss>deep</gloss>; <ref osisRef="John.4.11">Jo 4:11</ref>; metaph., <foreign xml:lang="grc">ὄρθρου βαθέως</foreign> (v. supr.), <gloss>early dawn</gloss>, <ref osisRef="Luke.24.1">Lk 24:1</ref>; <foreign xml:lang="grc">ὕπνος</foreign>, <ref osisRef="Acts.20.9">Ac 20:9</ref>; <foreign xml:lang="grc">τὰ β. τοῦ Σατανᾶ</foreign>, <ref osisRef="Rev.2.24">Re 2:24</ref>.†</sense>
+</entry>
 
-**tpatoi', ov, TO (also /?aioi', another form of fSaU, from the 
-Egyptian), [in LXX: i Mae IS^i *;] (freq. in Egyptian tt., v. MM, 
-Exp., x); a palm-branch: Jo 12i3 {DB, i, 314).t 
+<entry n="βάϊον|G903">
+  <note type="occurrencesNT">1</note>
+  <form>**†<orth>βαΐον, -ου, τό</orth> (also <orth>βάϊον</orth>, another form of <foreign xml:lang="grc">βαΐς</foreign>, from the Egyptian), [in LXX: <ref osisRef="1Macc.13.51">I Mac 13:51</ref> *;] (freq. in Egyptian <foreign xml:lang="grc">π.</foreign>, v. MM, <emph>Exp.</emph>, x); </form>
+  <sense><gloss>a palm-branch</gloss>: <ref osisRef="John.12.13">Jo 12:13</ref> (<emph>DB</emph>, i, 314).†</sense>
+</entry>
 
-BaXad/i, 6, indecl. (Heb. DJripn), as in LXX (FIJ has 6 
+<entry n="Βαλαάμ|G903">
+  <note type="occurrencesNT">3</note>
+  <form><orth>Βαλαάμ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בִּלְעָם</foreign>), as in LXX (FlJ has <foreign xml:lang="grc">ὁ βάλαμος</foreign>); </form>
+  <sense><gloss>Balaam</gloss> (<ref osisRef="Num.22-Num.24">Nu 22-24</ref>): <ref osisRef="2Pet.2.15">II Pe 2:15</ref>, <ref osisRef="Jude.1.11">Ju 11</ref>, <ref osisRef="Rev.2.14">Re 2:14</ref>.†</sense>
+</entry>
 
-BaXa/Aos); Balaam (Nu 22-24): 11 Pe 2i5, Ju n, Ee 2^\f 
+<entry n="Βαλάκ|G904">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βαλάκ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בָּלָק</foreign>), </form>
+  <sense><gloss>Balak</gloss>; (<ref osisRef="Num.22.2">Nu 222</ref>): <ref osisRef="Rev.2.14">Re 2:14</ref>.†</sense>
+</entry>
 
-Ba\dK, 6, indecl. (Heb. p^a), J5aZaA; (Nu 222) . -^q gi^.t 
-
-PaXXd.'Tio*' (Eec. /3aXd-), -ov, TO, [in LXX: Jb 141^ ("lilV), 
-Pr 11* (D^3), To 11* 82, Si 1833 ^2*.^ ^ ^^^^^^ . l^ 10* 1233 2235, 36,t 
+<entry n="βαλλάντιον|G905">
+  <note type="occurrencesNT">4</note>
+  <form><orth>βαλλάντιον</orth> (Rec. <foreign xml:lang="grc">βαλά-</foreign>), <orth>-ου, ὁ</orth>, [in LXX: <ref osisRef="Job.14.17">Jb 14:17</ref> (<foreign xml:lang="heb">צְרוֹר</foreign>), <ref osisRef="Prov.1.14">Pr 1:14</ref> (<foreign xml:lang="heb">כִּיס</foreign>), <ref osisRef="Tob.1.14">To 1:14</ref>  <ref osisRef="Tob.8.2">8:2</ref>, <ref osisRef="Sir.18.33">Si 18:33</ref> <foreign xml:lang="heb">א</foreign><hi rend="superscript">2</hi>*;] </form>
+  <sense><gloss>a purse</gloss>: <ref osisRef="Luke.10.4">Lk 10:4</ref>  <ref osisRef="Luke.12.33">12:33</ref> <ref osisRef="Luke.22.35">22:35</ref>, <ref osisRef="Luke.22.36">36</ref>.†</sense>
+</entry>
 
 <entry n="βάλλω|G906">
   <note type="occurrencesNT">122</note>
@@ -6325,8 +6346,6 @@ Lk 1138. 3. Of ablution, immersion, as a religious rite, to baptize;
 (a) absol.; Mk 1*. Jo 125,2^,28 322,23,26 42 io4o_ i Co li^; 6 /SatrriCwv 
 (= 6 fia-n-TLarrj^, M, <emph>Pr.</emph>, 127), Mk 61*. 2*; c. acc, Jo 41, Ac 83*, i Co 
 
-
-
  <pb n="75" /> <!-- typed="" checked="" --> 
 
 114,16. Q cogn. ace, to /3a.7rTiafji.a, Ac 19* (cf. Mk 10^^, supr.); pass., 
@@ -6340,7 +6359,7 @@ element, purpose or result (Lft., <emph>Notes</emph>, 155), Mt 3" 28i9, Mk 1^, A
 816 193, 5^ Ro 63, I Co 113. 15 1(^2 i2i3_ Qa 32-; c. dat., {ISan, Lk 3i«, 
 Ac 1* 11^"; virip Twv veKpwv, perh. to fulfil the wish of a dead friend, 
 I Co 1529 (v. ICC, in 1.; cf. DB, i, 238 flf.; DCG, i, 169 ^ ii, 605 b; 
-Cremer, 126).t 
+Cremer, 126).† 
 
 *t pdirriCTfjia, -tos, to «; ySaTrri^o)) , prop., the result of the act, TO 
 fiaTTTL^eLv, as distinct from ^aTTTtcr/ios, the act itself, immersion, 

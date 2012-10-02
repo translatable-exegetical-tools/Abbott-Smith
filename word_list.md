@@ -795,15 +795,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0871</td><td>Βαβυλών</td><td>G897</td><td>12</td></tr>
-<tr><td>0872</td><td>βαθμός</td><td>G898</td><td>1</td></tr>
-<tr><td>0873</td><td>βάθος</td><td>G899</td><td>8</td></tr>
-<tr><td>0874</td><td>βαθύνω</td><td>G900</td><td>1</td></tr>
-<tr><td>0875</td><td>βαθύς</td><td>G901</td><td>4</td></tr>
-<tr><td>0876</td><td>βάϊον</td><td>G902</td><td>1</td></tr>
-<tr><td>0877</td><td>Βαλαάμ</td><td>G903</td><td>3</td></tr>
-<tr><td>0878</td><td>Βαλάκ</td><td>G904</td><td>1</td></tr>
-<tr><td>0879</td><td>βαλλάντιον</td><td>G905</td><td>4</td></tr>
 <tr><td>0881</td><td>βαπτίζω</td><td>G907</td><td>77</td></tr>
 <tr><td>0882</td><td>βάπτισμα</td><td>G908</td><td>19</td></tr>
 <tr><td>0883</td><td>βαπτισμός</td><td>G909</td><td>4</td></tr>
