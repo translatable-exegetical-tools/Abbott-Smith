@@ -2153,8 +2153,14 @@
  </sense>
  </entry>
 
-a8w (Attic form of Ion. and poet. deiSo)), [in LXX chiefly for 
-"VU;] to sing, (a) intrans., c. dat. (MM, <emph>VGT</emph>, s.v.), of praise to God: Eph 519, Col 316; (b) trans., c. cogn. ace.: w8^v, Re 5^ 14^ IS^.t 
+<entry n="ᾄδω|G103">
+ <note type="occurrencesNT">5</note>
+ <form><orth>ᾄδω</orth> (Attic form of Ion. and poët. <foreign xml:lang="grc">ἀείδω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שִׁיר</foreign> ;] </form>
+ <sense><gloss>to sing</gloss>, 
+   <sense n="(a)">intrans., c. dat. (MM, <emph>VGT</emph>, s.v.), of praise to God: <ref osisRef="Eph.5.19">Eph 5:19</ref>, <ref osisRef="Col.3.16">Col 3:16</ref> ; </sense> 
+   <sense n="(b)">trans., c. cogn. acc.: <foreign xml:lang="grc">ᾠδὴν</foreign>, <ref osisRef="Rev.5.9">Re 5:9</ref> <ref osisRef="Rev.14.3">14:3</ref> <ref osisRef="Rev.15.3">15:3</ref>. </sense> † 
+ </sense>
+ </entry>
 
 de{, adv., [in LXX: Is 42^* (Qbisrn) 511^ (Tpn), Ps 94 (95)io, al.;] 
 
