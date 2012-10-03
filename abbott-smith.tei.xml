@@ -2196,11 +2196,14 @@
  <sense><gloss>Azotus</gloss>, a Philistine city: <ref osisRef="Acts.8.40">Ac 8:40</ref>. †</sense>
  </entry>
 
-dT)8ia, -as, yj « d- neg., -^Sos, pleasure), [in LXX: Pr 2329 (niiz;)*;] 
-
-1. of things or persons, unpleasantru^ss, odiousncss (Hipp., Dem., al.); 
-
-2. dislike (Plat.), disagreement (MM, <emph>VGT</emph>, s.v.): Lk 23^2 D.† 
+<entry n="ἀηδία">
+ <note type="occurrencesNT">1</note>
+ <form><orth>ἀηδία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀ-</foreign> neg., <foreign xml:lang="grc">ἦδος</foreign>, pleasure), [in LXX: Pr 2329 (<foreign xml:lang="heb">שִׂיחַ</foreign>)* ;] </form>
+ <sense>
+   <sense n="1.">of things or persons, <gloss>unpleasantness, odiousness</gloss> (Hipp., Dem., al.); </sense> 
+   <sense n="2."><gloss>dislike</gloss> (Plat.), <gloss>disagreement</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Luke.23.12">Lk 23:12</ref> D. </sense> † 
+ </sense>
+ </entry>
 
 
 
