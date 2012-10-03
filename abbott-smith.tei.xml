@@ -2162,11 +2162,14 @@
  </sense>
  </entry>
 
-de{, adv., [in LXX: Is 42^* (Qbisrn) 511^ (Tpn), Ps 94 (95)io, al.;] 
-
-ever; 1. of continuous time, unceasingly, perpetually: Ac 7^-^, 2 Co 4^^ 
-6^**, Tit 1^2^ jje 310^ 2. Of successive occurrences, on every occasion 
-(MM, <emph>VGT</emph>, s.v.): i Pe S^^, n Pe li2.t 
+<entry n="ἀεί|G104">
+ <note type="occurrencesNT">7</note>
+ <form><orth>ἀεί</orth>, <gramGrp><pos>adv.</pos></gramGrp>, [in LXX: <ref osisRef="Isa.42.14">Is 42:14</ref> (<foreign xml:lang="heb">מֵעוֹלָם</foreign>) 51:13 (<foreign xml:lang="heb">תָּמִיד</foreign>), <ref osisRef="Ps.95.10">Ps 94(95):10</ref>, al. ;] </form>
+ <sense><gloss>ever</gloss>; 
+   <sense n="1.">of continuous time, <gloss>unceasingly, perpetually</gloss>: <ref osisRef="Acts.7.51">Ac 7:51</ref>, 2 Co 4:11 6:10, <ref osisRef="Titus.1.12">Tit 1:12</ref>, <ref osisRef="Heb.3.10">He 3:10</ref>.</sense> 
+   <sense n="2.">Of successive occurrences, <gloss>on every occasion</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="1Pet.3.15">I Pe 3:15</ref>, <ref osisRef="2Pet.1.12">II Pe 1:12</ref>. </sense> † 
+ </sense>
+ </entry>
 
 dcTos, -ov, 6, [in LXX for 11273;] an eagle: Ee 4^ 8^^ (Eec. ayyeXov) 
 
