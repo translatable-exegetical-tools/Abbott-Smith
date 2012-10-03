@@ -2135,10 +2135,14 @@
  </sense>
  </entry>
 
-d8umTe'w, -i «d8i-m-ros), [in LXX: De 17^ Za 8^ (sbsni.), 
-Jb 422 (-2jri ni.), al.;] to be miable (cl., Philo; tt., v. MM, <emph>VGT</emph>, s.v.). 
-2. In LXX and NT (Kennedy, Sources, 124; Hatch, Essays, 4; 
-Field, <emph>Notes</emph>, 46 f.), to be impossible: Mt 1V\ Lk l^^.t 
+<entry n="ἀδυνατέω|G101">
+ <note type="occurrencesNT">2</note>
+ <form><orth>ἀδυνατέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">ἀδύνατος</foreign>), [in LXX: <ref osisRef="Deut.17.8">De 17:8</ref>, <ref osisRef="Zech.8.6">Za 8:6</ref> (<foreign xml:lang="heb">פּלא</foreign> ni.), <ref osisRef="Job.42.2">Jb 42:2</ref> (<foreign xml:lang="heb">בּצר</foreign> ni.), al. ;] </form>
+ <sense>
+   <sense n="1."><note>Abbott-Smith omits this number</note> <gloss>to be unable</gloss> (cl., Philo; π., v. MM, <emph>VGT</emph>, s.v.). </sense> 
+   <sense n="2.">In LXX and NT (Kennedy, <emph>Sources</emph>, 124; Hatch, <emph>Essays</emph>, 4; Field, <emph>Notes</emph>, 46 f.), <gloss>to be impossible</gloss>: <ref osisRef="Matt.17.20">Mt 17:20</ref>, <ref osisRef="Luke.1.37">Lk 1:37</ref>. </sense> † 
+ </sense>
+ </entry>
 
 d-SuVaros, -ov, [in LXX for 'Jl'^^N' , bl , etc.;] 1. of persons, unable, 
 
