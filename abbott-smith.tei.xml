@@ -2144,10 +2144,14 @@
  </sense>
  </entry>
 
-d-SuVaros, -ov, [in LXX for 'Jl'^^N' , bl , etc.;] 1. of persons, unable, 
-
-jmverless: Ac 148; fig_^ Rq 15^ (MM, <emph>VGT</emph>, s.v.). 2. Of things, im- 
-possible: Mt 192«, Mk 1027, Lk 1827, j^o g^, He 6*'i8 10* ll^.t 
+<entry n="ἀδύνατος|G102">
+ <note type="occurrencesNT">10</note>
+ <form><orth>ἀ-δύνατος, -ον,</orth> [in LXX for <foreign xml:lang="heb">אֶבְיוֹן</foreign>, <foreign xml:lang="heb">דַּל</foreign>, etc. ;] </form>
+ <sense>
+   <sense n="1.">of persons, <gloss>unable, powerless</gloss>: <ref osisRef="Acts.14.8">Ac 14:8</ref>; fig. <ref osisRef="Rom.15.1">Ro 15:1</ref> (MM, <emph>VGT</emph>, s.v.). </sense> 
+   <sense n="2.">Of things, <gloss>impossible</gloss>: <ref osisRef="Matt.19.26">Mt 19:26</ref>, <ref osisRef="Mark.10.27">Mk 10:27</ref>, <ref osisRef="Luke.18.27">Lk 18:27</ref>, <ref osisRef="Rom.8.3">Ro 8:3</ref>, <ref osisRef="Heb.6.4">He 6:4</ref>,<ref osisRef="Heb.6.18">18</ref> <ref osisRef="Heb.10.4">10:4</ref> <ref osisRef="Heb.11.6">11:6</ref>. </sense> † 
+ </sense>
+ </entry>
 
 a8w (Attic form of Ion. and poet. deiSo)), [in LXX chiefly for 
 "VU;] to sing, (a) intrans., c. dat. (MM, <emph>VGT</emph>, s.v.), of praise to God: Eph 519, Col 316; (b) trans., c. cogn. ace.: w8^v, Re 5^ 14^ IS^.t 
