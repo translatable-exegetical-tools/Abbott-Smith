@@ -2114,8 +2114,11 @@
  </sense>
  </entry>
 
-Ἀ8pa/jiui/TT)f6s (T, Rec. ἈBpa/xvTrrjvos), -rj, -ov, of Adramyttium, 
-a seaport of Mysia: Ac 272.t 
+<entry n="Ἁδραμυττηνός|G98">
+ <note type="occurrencesNT">1</note>
+ <form><orth>Ἁδραμυντηνός</orth> (T, Rec. <foreign xml:lang="grc">Ἀδραμυττηνός</foreign>), <orth>-ή,-όν</orth>, </form>
+ <sense>of <gloss>Adramyttium</gloss>, a seaport of Mysia: <ref osisRef="Acts.27.2">Ac 27:2</ref>. †</sense>
+ </entry>
 
 ἈSptas (T, Eec. ἈSpias), -ov, 6, the Adriatic sea, in later Greek 
 usage extended to take in all the waters between Greece and Italy: 
