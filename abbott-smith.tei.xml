@@ -2095,12 +2095,14 @@
 
  <pb n="10" /> <!-- typed="" checked="" --> 
 
-a-86Kifxos, -ov, [in LXX: Pr 25\ Is I22 (rp)*;] 1. of things (prop. 
-
-of metals: LXX, 11. c), not standing the test, rejected: yrj, He 6^. 
-2. Of persons, rejected after testing, reprobate: Ro 1^^, i Co 9^'^, 
-
-11 Co 135-7, II Ti 3% Tit li« (Cremer, 212). t 
+<entry n="ἀδόκιμος|G96">
+ <note type="occurrencesNT">8</note>
+ <form><orth>ἀ-δόκιμος, -ον,</orth> [in LXX: <ref osisRef="Prov.25.4">Pr 25:4</ref>, <ref osisRef="Isa.1.22">Is 1:22</ref> (<foreign xml:lang="heb">סִיג</foreign>) * ;] </form>
+ <sense>
+   <sense n="1.">of things (prop. of metals: LXX, ll. c.), <gloss>not standing the test, rejected</gloss>: <foreign xml:lang="grc">γῆ</foreign>, <ref osisRef="Heb.6.8">He 6:8</ref>. </sense>
+   <sense n="2.">Of persons, <gloss>rejected after testing, reprobate</gloss>: <ref osisRef="Rom.1.28">Ro 1:28</ref>, <ref osisRef="1Cor.9.27">I Co 9:27</ref>, <ref osisRef="2Cor.13.5">II Co 13:5-7</ref>, <ref osisRef="2Tim.3.8">II Ti 3:8</ref>, <ref osisRef="Titus.1.16">Tit 1:16</ref> (Cremer, 212).</sense> †
+ </sense>
+ </entry>
 
 *a-8oXos, -ov, 1. guileless (Find., Thuc). 2. Of liquids (^sch., 
 Eur., and late prose writers), genuine, jnire (in tt. and in MGr. of wine, 
