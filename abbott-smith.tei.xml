@@ -2221,10 +2221,15 @@
  <sense><gloss>immortality</gloss>: <ref osisRef="1Cor.15.53">I Co 15:53</ref>,<ref osisRef="1Cor.15.54">54</ref> <ref osisRef="1Tim.6.16">I Ti 6:16</ref> (cf. Cremer, 285 f.). †</sense>
  </entry>
 
-**d-0€&gt;iTos (late form of dOefjua-To?, LS, MM, <emph>VGT</emph>, s.v.), -ov 
-«^e&gt;ts, custom, right), [in LXX: 11 Mac 6^ 7^ 10^4, m Mac 520*;] 
-(a) of persons, laxvless (iii Mac, I.e.); ih) of things, laivless, unlawful: 
-Ac 1028, I Pe 43. t <lb /><emph>SYN.</emph>: V.S. d^€o-/xos. 
+<entry n="ἀθέμιτος|G111">
+ <note type="occurrencesNT">2</note>
+ <form>** <orth>ἀ-θέμιτος</orth> (late form of <foreign xml:lang="grc">ἀθέμιστος</foreign>, LS, MM, <emph>VGT</emph>, s.v.), <orth>-ον</orth> (&lt; <foreign xml:lang="grc">θέμις</foreign>, <emph>custom, right</emph>), [in LXX: <ref osisRef="2Macc.6.5">II Mac 6:5</ref> <ref osisRef="2Macc.7.1">7:1</ref> <ref osisRef="2Macc.10.34">10:34</ref>, <ref osisRef="3Macc.5.20">III Mac 5:20</ref> *;] </form>
+ <sense>
+   <sense n="(a)">of persons, <gloss>lawless</gloss> (III Mac, l.c.);</sense>
+   <sense n="(b)">of things, <gloss>lawless, unlawful</gloss>: <ref osisRef="Acts.10.28">Ac 10:28</ref>, <ref osisRef="1Pet.4.3">I Pe 4:3</ref>. †</sense>
+   <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">ἄθεσμος</foreign>. 
+ </sense>
+ </entry>
 
 *a-6eos, -ov, 1. in cl. (a) slighting or denyiyig the gods (Plat.; cf. 
 MM, <emph>VGT</emph>, s.v.); {h) godless, ungodly (Pind.); (c) abandoned by the 
