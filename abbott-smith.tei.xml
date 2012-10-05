@@ -2291,9 +2291,11 @@
  <sense><gloss>a contest, combat</gloss>, esp. of athletes; fig., <gloss>a struggle</gloss>: <ref osisRef="Heb.10.32">He 10:32</ref> (for exx., v. MM, <emph>VGT</emph>, s.v.). †</sense>
  </entry>
 
-dOpoi^w (&lt;^ d6p6o&lt;;, assembled in croivds, MM, <emph>VGT</emph>, s.v.; &lt;C dp6o&lt;;, 
-a 7ioise, tumult), [in LXX chiefly for V^p;] to gather, assemble: 
-Lk 2433.t 
+<entry n="ἀθροίζω">
+ <note type="occurrencesNT">1</note>
+ <form><orth>ἀθροίζω</orth> (&lt; <foreign xml:lang="grc">ἀθρόος</foreign>, <emph>assembled in crowds</emph>, MM, <emph>VGT</emph>, s.v.; &lt; <foreign xml:lang="grc">θρόος</foreign>, <emph>a noise, tumult</emph>), [in LXX chiefly for <foreign xml:lang="heb">קבץ</foreign> ;]</form>
+ <sense><gloss>to gather, assemble</gloss>: <ref osisRef="Luke.24.33">Lk 24:33</ref>. †</sense>
+ </entry>
 
 dGufieu, -w (d-^v/xos, witlvout heart), [in LXX for mn , etc.;] to &amp;fi 
 disheartened: Col 32i.t 
