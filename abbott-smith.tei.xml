@@ -6446,8 +6446,11 @@ lifeless: 1 Co 14^.†
   </sense>
 </entry>
 
-*† ^aTm&lt;TTr\s, -ov, 6 (&lt;&lt; ^aTrrt'^w) , a baptizer: of John the Baptist, 
-Mt 31 1111-12 142.8 I6U 1713^ Mk 625 828^ Lk 72«.33 9i9.†
+<entry n="βαπτιστής|G910">
+  <note type="occurrencesNT">12</note>
+  <form>*† <orth>βαπτιστής, -ον, ὁ</orth> (&lt; <foreign xml:lang="grc">βαπτίζω</foreign>) , </form>
+  <sense><gloss>a baptizer</gloss>: of John the Baptist, <ref osisRef="Matt.3.1">Mt 3:1</ref>  <ref osisRef="Matt.11.11">11:11</ref>, <ref osisRef="Matt.11.12">12</ref> <ref osisRef="Matt.14.2">14:2</ref>, <ref osisRef="Matt.14.8">8</ref> <ref osisRef="Matt.16.14">16:14</ref> <ref osisRef="Matt.17.13">17:13</ref>, <ref osisRef="Mark.6.25">Mk 6:25</ref>  <ref osisRef="Mark.8.28">8:28</ref>, <ref osisRef="Luke.7.20">Lk 7:20</ref>, <ref osisRef="Luke.7.33">33</ref> <ref osisRef="Luke.9.19">9:19</ref>.†</sense>
+</entry>
 
 pdiTTw, [in LXX chiefly for bnifl;] (a) to dip: Lk 162*, Jo 132« 
 (c'/xyS-, L); (b) to dip in dye, to dye: Ee 19i3 (Eec.; pepavTLo-fievov, WH; 
