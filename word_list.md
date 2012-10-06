@@ -770,10 +770,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0891</td><td>βαρέως</td><td>G917</td><td>2</td></tr>
-<tr><td>0892</td><td>Βαρθολομαῖος</td><td>G918</td><td>4</td></tr>
-<tr><td>0893</td><td>Βαριησοῦς</td><td>G919</td><td>1</td></tr>
-<tr><td>0894</td><td>Βαριωνᾶ</td><td>G920</td><td>1</td></tr>
 <tr><td>0895</td><td>Βαρναβᾶς</td><td>G921</td><td>28</td></tr>
 <tr><td>0896</td><td>βάρος</td><td>G922</td><td>6</td></tr>
 <tr><td>0897</td><td>Βαρσαββᾶς</td><td>G923</td><td>2</td></tr>
