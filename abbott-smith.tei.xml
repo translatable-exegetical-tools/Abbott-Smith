@@ -6485,12 +6485,11 @@ lifeless: 1 Co 14^.†
   <sense><gloss>Barachiah</gloss>: <ref osisRef="Matt.23.35">Mt 23:35</ref>, v.s. <foreign xml:lang="grc">Ζαχαρίας</foreign>.† </sense>
 </entry>
 
-p(ip3apo9, -ov (prob. onomatop., descriptive of unintelligible 
-sounds), [in LXX: Ps 113 (114)i {ivb), Ez 213i (36) (-,yri), n Mac 22i 
-425 10*, III Mac 32* *;] barbarous, barbarian, strange to Greek language 
-and culture (and also, after the Persian war, with the added sense of 
-brutal, rude): Ac 282. 4^ jj^ lu^ j Co I411, Col 311 (v. Lft., in 1., and 
-Notes, 249).†
+<entry n="βάρβαρος|G915">
+  <note type="occurrencesNT">6</note>
+  <form><orth>βάρβαρος, -ον</orth> (prob. onomatop., descriptive of unintelligible sounds), [in LXX: <ref osisRef="LXX:Ps.113.1">Ps 113 (114):1</ref> (<foreign xml:lang="heb">לעז</foreign>), <ref osisRef="Ezek.21.31">Ez 21:31 (36)</ref> (<foreign xml:lang="heb">בּער</foreign>), <ref osisRef="2Macc.2.21">II Mac 2:21</ref>  <ref osisRef="2Macc.4.25">4:25</ref> <ref osisRef="2Macc.10.4">10:4</ref>, <ref osisRef="3Macc.3.24">III Mac 3:24</ref>*;] </form>
+  <sense><gloss>barbarous, barbarian</gloss>, strange to Greek language and culture (and also, after the Persian war, with the added sense of <gloss>brutal, rude</gloss>): <ref osisRef="Acts.28.2">Ac 28:2</ref>,  <ref osisRef="Acts.28.4">4</ref> <ref osisRef="Rom.1.14">Ro 1:14</ref>, <ref osisRef="1Cor.14.11">I Co 14:11</ref>, <ref osisRef="Col.3.11">Col 3:11</ref> (v. Lft., in l., and <emph>Notes</emph>, 249).†</sense>
+</entry>
 
 Pap^u, -w (later form of papvvw, q.v.), [in LXX: Ex 71* (133), 
 
