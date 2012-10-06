@@ -6425,13 +6425,17 @@ lifeless: 1 Co 14^.†
   </sense>
 </entry>
 
-*t pdirriCTfjia, -tos, to «; ySaTrri^o)) , prop., the result of the act, TO 
-fiaTTTL^eLv, as distinct from ^aTTTtcr/ios, the act itself, immersion, 
-baptism; 1. metaph., of affliction: Mk 103^.39, Lk 125o. 2. Of the 
-religious rite of baptism; (a) of John's baptism: Mt 3^ 212^, Mk Ipo, 
-Lk 729 20*, Ac 122 103' 1825 193 . ^ ^eravot'as, Mk 1*, Lk 33, Ac 132* 
-19*; (b) of Christian baptism; Ro 6*, Eph 4^, Col 2i2 (Tr., -/x(3, q.v.), 
-I Pe 321 (cf. Cremer, 130; Tr., <emph>Syn.</emph> §xcix).t 
+<entry n="βάπτισμα|G908">
+  <note type="occurrencesNT">19</note>
+  <form>*† <orth>βάπτισμα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">βαπτίζω</foreign>) , prop., the result of the act, <foreign xml:lang="grc">τὸ βαπτίζειν</foreign>, as distinct from <foreign xml:lang="grc">βαπτισμός</foreign>, the act itself, </form>
+  <sense><gloss>immersion, baptism</gloss>; 
+    <sense n="1.">metaph., of affliction: <ref osisRef="Mark.10.38">Mk 10:38</ref>,  <ref osisRef="Mark.10.39">39</ref> <ref osisRef="Luke.12.50">Lk 12:50</ref>. </sense>
+    <sense n="2.">Of the religious rite of baptism; 
+      <sense n="(a)">of John's baptism: <ref osisRef="Matt.3.7">Mt 3:7</ref>  <ref osisRef="Matt.21.25">21:25</ref>, <ref osisRef="Mark.11.30">Mk 11:30</ref>, <ref osisRef="Luke.7.29">Lk 7:29</ref>  <ref osisRef="Luke.20.4">20:4</ref>, <ref osisRef="Acts.1.22">Ac 1:22</ref>  <ref osisRef="Acts.10.37">10:37</ref> <ref osisRef="Acts.18.25">18:25</ref> <ref osisRef="Acts.19.3">19:3</ref>; <foreign xml:lang="grc">β. μετανοίας</foreign>, <ref osisRef="Mark.1.4">Mk 1:4</ref>, <ref osisRef="Luke.3.3">Lk 3:3</ref>, <ref osisRef="Acts.13.24">Ac 13:24</ref>  <ref osisRef="Acts.19.4">19:4</ref>; </sense>
+      <sense n="(b)">of Christian baptism; <ref osisRef="Rom.6.4">Ro 6:4</ref>, <ref osisRef="Eph.4.5">Eph 4:5</ref>, <ref osisRef="Col.2.12">Col 2:12</ref> (Tr., <foreign xml:lang="grc">-μῷ</foreign>, q.v.), <ref osisRef="1Pet.3.21">I Pe 3:21</ref> (cf. Cremer, 130; Tr., <emph>Syn.</emph> §xcix).†</sense>
+    </sense> 
+  </sense>
+</entry>
 
 *t PaTmap.6s, -ov, 6 (•&lt;[ ySaTTTt'^w) , prop., the act of which ^dirTicTfx.a 
 is the result; 1. a dipping, washing, lustration: Mk 7*; of Jewish 
