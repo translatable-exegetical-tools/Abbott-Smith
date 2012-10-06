@@ -6467,10 +6467,11 @@ lifeless: 1 Co 14^.†
   <sense><foreign xml:lang="grc">β. Ἰωνᾶ</foreign>, <gloss>son of Jonah</gloss>, <ref osisRef="Matt.16.17">Mt 16:17</ref>, Rec. (L, T, WH, <foreign xml:lang="grc">Βαριωνᾶ</foreign>, q.v.).†</sense>
 </entry>
 
-BapaPPas, -a, 6 (Aram. X1N"13 , lit., son of a father, i.e. ace. to 
-Jerome, filius magistri), Barabbas: Mt 27i^'i^'2o. 21, 26^ M]j 157,11,15^ 
-Lk 2318, Jo 18*0. (In Mt 271^, some MSS. read 'Ir/o-oCv B.; v. WH, 
-App., 19f.)t 
+<entry n="Βαραββᾶς|G912">
+  <note type="occurrencesNT">11</note>
+  <form><orth>Βαραββᾶς, -ᾶ, ὁ</orth> (Aram. <foreign xml:lang="arc">בַּר־אַבָּא</foreign>, lit., <gloss>son of a father</gloss>, i.e. acc. to Jerome, <foreign xml:lang="lat">filius magistri</foreign>), </form>
+  <sense><gloss>Barabbas</gloss>: <ref osisRef="Matt.27.16">Mt 27:16</ref>,  <ref osisRef="Matt.27.17">17</ref> <ref osisRef="Matt.27.20">20</ref>, <ref osisRef="Matt.27.21">21</ref>, <ref osisRef="Matt.27.26">26</ref>, <ref osisRef="Mark.15.7">Mk 15:7</ref>,  <ref osisRef="Mark.15.11">11</ref> <ref osisRef="Mark.15.15">15</ref>, <ref osisRef="Luke.23.18">Lk 23:18</ref>, <ref osisRef="John.18.40">Jo 18:40</ref>. (In <ref osisRef="Matt.27.16">Mt 27:16</ref>, some MSS. read <foreign xml:lang="grc">Ἰησοῦν Β.</foreign>; v. WH, App., 19f.).† </sense>
+</entry>
 
 BapdK, 6, indecl. (Heb. pia), Barak (Jg 4«): He 1132.t 
 
