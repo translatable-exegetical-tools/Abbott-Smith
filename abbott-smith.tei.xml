@@ -94,8 +94,8 @@
  <head type="heading1">LIST OF ABBREVIATIONS</head>
 
  <p>
+ <head type="heading2">I. GENERAL.</head>
  <table>
- <head type="tableheading2">I. GENERAL.</head>
  <row>
   <cell>absol.</cell>
   <cell>= absolute.</cell>
@@ -421,10 +421,10 @@
   <pb n="xii" /> <!-- typed="DCO" checked="" -->
  
  <p>
+ <head type="heading2">II. BIBLICAL.</head>
+ <head type="heading3">(a) BOOKS</head>
+ <head type="heading4">Septuagint.</head>
  <table>
- <head type="tableheading2">II. BIBLICAL.</head>
- <head type="tableheading3">(a) BOOKS</head>
- <head type="tableheading4">Septuagint.</head>
  <row>
   <cell>Ge</cell>
   <cell>= Genesis.</cell>
@@ -613,8 +613,8 @@
  </p>
 
  <p>
+ <head type="heading4">New Testament.</head>
  <table>
- <head type="tableheading4">New Testament.</head>
  <row>
   <cell>Mt</cell>
   <cell>= St. Matthew.</cell>
@@ -703,8 +703,8 @@
  </p>
  
  <p>
+ <head type="heading3">(b) VERSIONS AND EDITIONS.</head>
  <table>
- <head type="tableheading3">(b) VERSIONS AND EDITIONS.</head>
  <row>
   <cell>Al.</cell>
   <cell>= anon, version quoted by Origen.</cell>
@@ -788,9 +788,9 @@
 
 
  <p>
+ <head type="heading2">III. ANCIENT WITNESSES</head>
+ <head type="heading3"> (i/, ii/, etc. = 1st, 2nd century, etc.)</head>
  <table>
- <head type="tableheading2">III. ANCIENT WITNESSES</head>
- <head type="tableheading3"> (i/, ii/, etc. = 1st, 2nd century, etc.)</head>
  <row>
   <cell>Ael.</cell>
   <cell>= Aelian, ii/A.D.</cell>
@@ -976,8 +976,8 @@
 
 
  <p>
+ <head type="heading2">IV. MODERN WITNESSES.</head>
  <table>
- <head type="tableheading2">IV. MODERN WITNESSES.</head>
  <row>
  <cell>Abbott, <emph>Essays</emph></cell>
   <cell>= Essays chiefly on the Original Texts of the Old and New Testaments, by T. K. Abbott. Longmans, 1891.</cell>
