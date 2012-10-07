@@ -770,15 +770,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0895</td><td>Βαρναβᾶς</td><td>G921</td><td>28</td></tr>
-<tr><td>0896</td><td>βάρος</td><td>G922</td><td>6</td></tr>
-<tr><td>0897</td><td>Βαρσαββᾶς</td><td>G923</td><td>2</td></tr>
-<tr><td>0898</td><td>Βαρτιμαῖος</td><td>G924</td><td>1</td></tr>
-<tr><td>0899</td><td>βαρύνω</td><td>G925</td><td>1</td><td>KJV</td></tr>
-<tr><td>0900</td><td>βαρύς</td><td>G926</td><td>6</td></tr>
-<tr><td>0901</td><td>βαρύτιμος</td><td>G927</td><td>1</td></tr>
-<tr><td>0902</td><td>βασανίζω</td><td>G928</td><td>12</td></tr>
-<tr><td>0903</td><td>βασανισμός</td><td>G929</td><td>6</td></tr>
 <tr><td>0910</td><td>βασιλεύω</td><td>G936</td><td>21</td></tr>
 <tr><td>0911</td><td>βασιλικός</td><td>G937</td><td>5</td></tr>
 <tr><td>0912</td><td>βασίλισσα</td><td>G938</td><td>4</td></tr>

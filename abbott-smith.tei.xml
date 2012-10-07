@@ -6493,7 +6493,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="βαρέω|G916">
   <note type="occurrencesNT">6</note>
-  <form><orth>βαρέω, -ῶ</orth> (later form of <foreign xml:lang="grc">βαρύνω</foreign>, q.v.), [in LXX: <ref osisRef="Exod.7.14">Ex 7:14</ref> (<foreign xml:lang="heb">כָּבֵד</foreign>), <pb n="76" /> <!-- typed="" checked="" --> <ref osisRef="2Macc.13.9">II Mac 13:9</ref>*;] </form>
+  <form><orth>βαρέω, -ῶ</orth> (later form of <foreign xml:lang="grc">βαρύνω</foreign>, q.v.), [in LXX: <ref osisRef="Exod.7.14">Ex 7:14</ref> (<foreign xml:lang="heb">כָּבֵד</foreign>), <pb n="76" /> <!-- typed="DCO" checked="" --> <ref osisRef="2Macc.13.9">II Mac 13:9</ref>*;] </form>
   <sense><gloss>to depress, weigh down</gloss>. In NT, in pass. only: <ref osisRef="Matt.26.43">Mt 26:43</ref>, <ref osisRef="Luke.9.32">Lk 9:32</ref>  <ref osisRef="Luke.21.34">21:34</ref>, <ref osisRef="2Cor.1.8">II Co 1:8</ref>  <ref osisRef="2Cor.5.4">5:4</ref>, <ref osisRef="1Tim.5.16">I Ti 5:16</ref>.† </sense>
 </entry>
 
@@ -6521,46 +6521,69 @@ lifeless: 1 Co 14^.†
   <sense><gloss>Bar-Jonah</gloss>, a surname of Peter: <ref osisRef="Matt.16.17">Mt 16:17</ref>.† </sense>
 </entry>
 
-Bap-fdPas, -a, 6 (Aram. 12 , son, as prefix to another word interpreted in Ac 43^, T^? 7rapa/cX7/o-€o)s, perh. nX123 , wh., hov^ever, should be rendered by TrpocftrjTeta as in 11 Es 6^'*, LXX. Deiss., <emph>BS</emph>, 309 f., thinks B. may be a variant of the name Bapvefiovs, son of Nebo, found in a Syrian Inscr., altered with a view to disguising its origin; v. also Milligan, NTD, iii; Dalman, Gr., 142), Barnabas: Ac 43« 9^^ II22.30 12^5 13.15^ I Co 96, Ga 21.9' 13, Col 4io.t 
+<entry n="Βαρναβᾶς|G921">
+  <note type="occurrencesNT">28</note>
+  <form><orth>Βαρναβᾶς, -α, ὁ</orth> (Aram. <foreign xml:lang="arc">בַּר</foreign>, <gloss>son</gloss>, as prefix to another word interpreted in <ref osisRef="Acts.4.36">Ac 4:36</ref>, <foreign xml:lang="grc">τῆς παρακλήσεως</foreign>, perh. <foreign xml:lang="heb">נְבוּאָה</foreign>, wh., however, should be rendered by <foreign xml:lang="grc">προφητεία</foreign> as in <ref osisRef="Ezra.6.14">II <ref osisRef="Esth.6.14">Es 6:14</ref></ref>, LXX. Deiss., <emph>BS</emph>, 309f., thinks <foreign xml:lang="grc">Β.</foreign> may be a variant of the name <foreign xml:lang="grc">Βαρνεβοῦς</foreign>, <emph>son of Nebo</emph>, found in a Syrian Inscr., altered with a view to disguising its origin; v. also Milligan, <emph>NTD</emph>, iii; Dalman, <emph>Gr.</emph>, 142), </form>
+  <sense><gloss>Barnabas</gloss>: <ref osisRef="Acts.4.36">Ac 4:36</ref>  <ref osisRef="Acts.9.27">9:27</ref> <ref osisRef="Acts.11.22">11:22</ref>, <ref osisRef="Acts.11.30">30</ref> <ref osisRef="Acts.12.25">12:25</ref> <ref osisRef="Acts.13-Acts.15">13-15</ref>, <ref osisRef="1Cor.9.6">I Co 9:6</ref>, <ref osisRef="Gal.2.1">Ga 2:1</ref>,  <ref osisRef="Gal.2.9">9</ref> <ref osisRef="Gal.2.13">13</ref>, <ref osisRef="Col.4.10">Col 4:10</ref>.†</sense>
+</entry>
 
-Pdpos, -€o?, TO, [in LXX: Jg IS'-^i (123), Jth 7*, Si I32, 11 Mac 910, 
+<entry n="βάρος|G922">
+  <note type="occurrencesNT">6</note>
+  <form><orth>βάρος, -εος, τό</orth>, [in LXX: <ref osisRef="Judg.18.21">Jg 18:21</ref> (<foreign xml:lang="heb">כּבד</foreign>), <ref osisRef="Jdt.7.4">Jth 7:4</ref>, <ref osisRef="Sir.13.2">Si 13:2</ref>, <ref osisRef="2Macc.9.10">II Mac 9:10</ref>, <ref osisRef="3Macc.5.47">III Mac 5:47</ref>*;] </form>
+  <sense>weight; 
+    <sense n="(a)"><gloss>a weight, burden</gloss>, lit. and metaph.: <ref osisRef="Matt.20.12">Mt 20:12</ref>, <ref osisRef="Acts.15.28">Ac 15:28</ref>, <ref osisRef="2Cor.4.17">II Co 4:17</ref>, <ref osisRef="Rev.2.24">Re 2:24</ref>; ἀλλήλων τὰ β., <gloss>one another's faults</gloss>, <ref osisRef="Gal.6.2">Ga 6:2</ref>; <foreign xml:lang="grc">ἐν β.</foreign>, <gloss>burdensome</gloss>: <ref osisRef="1Thess.2.6">I Th 2:6</ref>, R, txt., but v. infr.; </sense>
+    <sense n="(b)">in late Gk. (Soph., <emph>Lex.</emph>, s.v.), <gloss>dignity, authority</gloss>: <foreign xml:lang="grc">ἐν βάρει</foreign>, <ref osisRef="1Thess.2.6">I Th 2:6</ref> (R, mg.; v. Milligan, <emph>ICG</emph>, in l.).†  </sense>
+  <lb /><emph>SYN.</emph>: ὄγκος, <emph>an encumbrance</emph>; <foreign xml:lang="grc">φορτίον</foreign>, <gloss>a burden</gloss>, that which is borne.
+  </sense>
+</entry>
 
-III Mac b"^"' *;] loeight; (a) a iveight, burden, lit. and metaph.: Mt 201^, 
-Aci 15-^, II Co 4I'', Ee 2-*; aXAryAwv to, /3., one another's fa^dts, Ga 6^; 
-€v p., burdensome: 1 Th 2^, E, txt., but v. infr.; {b) in late Gk. (Soph., 
-Lex., s.v.), dignity, authority: iv /3iipei, i Th 2^ (E, mg.; v. Milligan, 
-ICG, in l.).t <lb /><emph>SYN.</emph>: oy/cos, an encumbrance; t^opriov, a burden, that which is 
-borne. 
+<entry n="Βαρσαββᾶς|G923">
+  <note type="occurrencesNT">2</note>
+  <form><orth>Βαρσαββᾶς</orth> (Rec. <foreign xml:lang="grc">-αβᾶς</foreign>), <orth>-ᾶ</orth> (Aram., <gloss>son of Sabba</gloss>), </form>
+  <sense><gloss>Barsabbas</gloss>: 
+    <sense n="1.">the surname of one Joseph: <ref osisRef="Acts.1.23">Ac 1:23</ref>. </sense>
+    <sense n="2.">The surname of one Judas: <ref osisRef="Acts.15.22">Ac 15:22</ref>.†</sense>
+  </sense>
+</entry>
 
-BapcraPPds (Eec. -a/Ja?), -a (Aram., son of Sabba), Barsabbas: 1. 
-the surname of one Joseph: Ac 1-3. 2. The surname of one Judas: 
-Ac 1522.t 
+<entry n="Βαρτιμαῖος|G924">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βαρτίμαιος, -ου, ὁ</orth> (<foreign xml:lang="grc">-μαῖος</foreign>, T; perh. Aram. <foreign xml:lang="arc">בַּר־טִמְאַי</foreign>, v. <emph>DB</emph>, iv, p. 762), </form>
+  <sense><gloss>Bartimæus</gloss>: <ref osisRef="Mark.10.46">Mk 10:46</ref>.†</sense>
+</entry>
 
-Baprifiaios, -ov, o {-pLolo';, T; perh. Aram. ""NO^'IS , v. DB, iv, 
+<entry n="βαρύνω|G925">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βαρύνω</orth>, </form>
+  <sense><gloss>to weigh down</gloss> = <foreign xml:lang="grc">βαρέω</foreign> (q.v.): <ref osisRef="Luke.21.34">Lk 21:34</ref>, Rec.†</sense>
+</entry>
 
-p. 762), Bartimmis: Mk lO^'^.t 
+<entry n="βαρύς|G926">
+  <note type="occurrencesNT">6</note>
+  <form><orth>βαρύς, -εῖα, ύ</orth>, [in LXX chiefly for <foreign xml:lang="heb">כָּבֵד</foreign>;] </form>
+  <sense><gloss>heavy</gloss>: <ref osisRef="Matt.23.4">Mt 23:4</ref>. Metaph., <gloss>burdensome</gloss>: <foreign xml:lang="grc">ἐντολή</foreign>, <ref osisRef="1John.5.3">I Jo 5:3</ref>; <gloss>severe</gloss> (perh. <gloss>impressive</gloss>): <foreign xml:lang="grc">ἐπιστολή</foreign>, <ref osisRef="2Cor.10.10">II Co 10:10</ref>; <gloss>weighty</gloss>: <foreign xml:lang="grc">τὰ βαρύτερα τ. νόμου</foreign>, <ref osisRef="Matt.23.23">Mt 23:23</ref>; <foreign xml:lang="grc">αἰτιώματα</foreign>, <ref osisRef="Acts.25.7">Ac 25:7</ref>; <gloss>violent, cruel</gloss> (EV, <gloss>grievous</gloss>): <foreign xml:lang="grc">λύκος</foreign>, <ref osisRef="Acts.20.29">Ac 20:29</ref>.†</sense>
+</entry>
 
-Paput'w, to iveigh down = ^apetn (q.v.): Lk 213^, Eec.t 
+<entry n="βαρύτιμος|G927">
+  <note type="occurrencesNT">1</note>
+  <form>* βαρύτιμος, -ον (&lt; <foreign xml:lang="grc">βαρύς, τιμή</foreign>), </form>
+  <sense><gloss>of great value, very costly</gloss>: <ref osisRef="Matt.26.7">Mt 26:7</ref> (T, <foreign xml:lang="grc">πολυτίμου</foreign>) .†</sense>
+</entry>
 
-Papos, -ela, v, [in LXX chiefly for 12.^;] heavy: Mt 23*. Metaph., 
+<entry n="βασανίζω|G928">
+  <note type="occurrencesNT">12</note>
+  <form><orth>βασανίζω</orth> (&lt; <foreign xml:lang="grc">βάσανος</foreign>), [in LXX: <ref osisRef="1Sam.5.3">I Ki 5:3</ref>, <ref osisRef="Sir.4.17">Si 4:17</ref>, and freq. in Wi, II, IV Mac;] </form>
+  <sense>
+    <sense n="1.">prop., <gloss>to rub on the touchstone, put to the test</gloss>. </sense>
+    <sense n="2."><gloss>>to examine by torture,</gloss> hence, generally, <gloss>to torture, torment, distress</gloss>: <ref osisRef="Matt.8.6">Mt 8:6</ref>, <ref osisRef="Matt.8.29">29</ref> <ref osisRef="Matt.14.24">14:24</ref>, <ref osisRef="Mark.5.7">Mk 5:7</ref>  <ref osisRef="Mark.6.48">6:48</ref>, <ref osisRef="Luke.8.28">Lk 8:28</ref>, <ref osisRef="2Pet.2.8">II Pe 2:8</ref>, <ref osisRef="Rev.9.5">Re 9:5</ref>  <ref osisRef="Rev.11.10">11:10</ref> <ref osisRef="Rev.12.2">12:2</ref> <ref osisRef="Rev.14.10">14:10</ref> <ref osisRef="Rev.20.10">20:10</ref>.†</sense>
+  </sense>
+</entry>
 
-burdensome: IvToXrj, i Jo 53; severe (perh. impressive): cTrio-ToXi;, 11 Co 
-IQi^; weighty: ra ^apvrepa T. vofjbov, Mt 23'^3 J amw/xara, Ac 25"; violent, 
-cruel (EV, grievous): Xv'kos, Ac 20''^'*. t 
-
-* PapuTifAos, -ov (-&lt; ySapus, TLfxy), of great value, very costly: Mt 26^ 
-
-(T, TToXvTLpOv) .'\' 
-
-paaai'i^o, « ^acravos), [in LXX: I Ki 53, Si 4^^ and freq. in Wi, 
-II, IV Mac;] 1. prop., to rub on the touchstone, put to the test. 2. to 
-examine by torture, hence, generally, to torture, torment, distress: Mt 
-Q6,-iQ 1424^ Mk 57 6*8, Lk 828, II Pe 2^, Ee 9^ llio 12'-^ 14i« 20i".t 
-
-**pa(ra.'iafi6s, -ov, n {&lt;^ fiaaavl^w), [in LXX: IV Mac 9^ 112*;] 
-torture, torment: Ee 9^ 14^ 18^' i"' ^Kf 
-
-
+<entry n="βασανισμός|G929">
+  <note type="occurrencesNT">6</note>
+  <form>** <orth>βασανισμός, -οῦ, ὁ</orth> (&lt; <foreign xml:lang="grc">βασανίζω</foreign>), [in LXX: <ref osisRef="4Macc.9.6">IV Mac 9:6</ref>  <ref osisRef="4Macc.11.2">11:2</ref>*;] </form>
+  <sense><gloss>torture, torment</gloss>: <ref osisRef="Rev.9.5">Re 9:5</ref>  <ref osisRef="Rev.14.11">14:11</ref> <ref osisRef="Rev.18.7">18:7</ref>, <ref osisRef="Rev.18.10">10</ref>, <ref osisRef="Rev.18.15">15</ref>.†</sense>
+</entry>
 
  <pb n="77" /> <!-- typed="DCO" checked="" --> 
 
