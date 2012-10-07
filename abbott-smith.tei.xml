@@ -6463,7 +6463,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="βάρ">
   <note type="occurrencesNT">1</note>
-  <form>βάρ (Aram.: <foreign xml:lang="arc">בַּר</foreign>, <gloss>son</gloss>), indecl.: </form>
+  <form><orth>βάρ</orth> (Aram.: <foreign xml:lang="arc">בַּר</foreign>, <gloss>son</gloss>), indecl.: </form>
   <sense><foreign xml:lang="grc">β. Ἰωνᾶ</foreign>, <gloss>son of Jonah</gloss>, <ref osisRef="Matt.16.17">Mt 16:17</ref>, Rec. (L, T, WH, <foreign xml:lang="grc">Βαριωνᾶ</foreign>, q.v.).†</sense>
 </entry>
 
