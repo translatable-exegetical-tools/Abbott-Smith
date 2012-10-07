@@ -6516,7 +6516,8 @@ lifeless: 1 Co 14^.†
 </entry>
 
 <entry n="Βαριωνᾶ|Βαριωνᾶς|G920">
-  <form>Βαριωνᾶς, -ᾶ, ὁ (Aram. <foreign xml:lang="arc">בַּר־יוֹנָה</foreign>, <gloss>son of Jonah</gloss>), </form>
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βαριωνᾶς, -ᾶ, ὁ</orth> (Aram. <foreign xml:lang="arc">בַּר־יוֹנָה</foreign>, <gloss>son of Jonah</gloss>), </form>
   <sense><gloss>Bar-Jonah</gloss>, a surname of Peter: <ref osisRef="Matt.16.17">Mt 16:17</ref>.† </sense>
 </entry>
 
