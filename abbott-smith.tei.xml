@@ -2307,10 +2307,15 @@
 
  <pb n="12" /> <!-- typed="" checked="" --> 
 
-d6wos (Rec. wrongly, -wos; LS, s.v.; Mayser, 131), -ov (&lt;^^cot^ 
-a penalty), [in LXX chiefly for np2 ni., pi., "^j"?!;] 1. unpunished (MM, 
+<entry n="ἀθῷος|G121">
+ <note type="occurrencesNT">2</note>
+ <form><orth>ἀθῷος</orth> (Rec. wrongly, <foreign xml:lang="grc">-ῶος</foreign>; LS, s.v.; Mayser, 131), <orth>-ον</orth> (&lt; <foreign xml:lang="grc">θωή</foreign>, <gloss>a penalty</gloss>), [in LXX chiefly for <foreign xml:lang="heb">נקה</foreign> ni., pi., <foreign xml:lang="heb">נָקִי</foreign> ;] </form>
+ <sense>
+   <sense n="1."><gloss>unpunished</gloss> (MM, <emph>VGT</emph>, s.v.). </sense>
+   <sense n="2."><gloss>innocent</gloss>: <ref osisRef="Matt.27.4">Mt 27:4</ref> (WH, R, mg., <foreign xml:lang="grc">δίκαιον</foreign>) <ref osisRef="Matt.27.24">27:24</ref>.</sense>
+ </sense>
+ </entry>
 
-VGT, s.v.). 2. innocejit: Mt 27^ (WH, R, mg., BCKmoiA 27^\f 
 
 atycios (WH, -ytos), -a, -ov (&lt;[ ai^, a goat), [in LXX for 7?;] o/ a 
 
