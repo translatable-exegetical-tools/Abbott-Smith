@@ -2363,25 +2363,20 @@
 
 <entry n="Αἰλαμίτης"><form><orth>Αἰλαμίτης</orth>, v.s. <foreign xml:lang="grc">Ἐλαμείτης</foreign>.</form></entry>
 
-atia, -Tos, TO, [in LXX for Dl;] blood. 1. In the ordinary sense: 
-
-Mk525, Lk 8^3, 44 22*4, Jo 19^^ Ac I520.29 2125, Ee 8^.8 ne i63,4,6 
-191^. 2. In special senses: (a) of generation, origin, kinship (cl.): 
-Jo 1^3 (v. MM, <emph>VGT</emph>, s.v.); (b) as in OT (AR on Eph, I.e.), in the 
-phrase adp^ koL at. (at. k. a.), to indicate human nature as opp. to God 
-and created spirits: Mt 161^, i Co 15^0, Ga l^^, Eph 6^2, He 2^^; 
-
-(c) of things in colour resembling blood: Ac 2i9&gt; 20^ jje 6^2 1418-20 . 
-
-(d) of bloodshed, a bloody death (cl.): Mt 233o. 35 274. 6. s, 24, 25^ l^ 
-1150, 51 131^ Ac 119 528 186 2026 2220, He 12*, Re 6io 17^ 182* I92; 
-al. €Vx«tv (Deiss., <emph>LAE</emph>, 428; MM, <emph>VGT</emph>, s.v., at), Ro 3^5, Re 16^; 
-
-(e) of sacrificial blood, as an expiation: He 9'^' 12, 13, 18-22, 25 iQi ]^228 
-1311; of the blood of Christ, Mt 2628, Mk I42*, Lk 222o, Jo 6^3, 54, 56^ 
-Ac 2028, Ro 325 59, I Co 1016 1125. 27^ Eph 1^ 21^, Col 120, He 912. 1* 
-1019,29 1224 1320^ I pe 12.19^ i Jq 17 (cf. S^' «), Re 15 59 71* 1211. 
-(Cremer, 69 f., 612 f.)t 
+<entry n="αἷμα|G129">
+ <note type="occurrencesNT">97</note>
+ <form><orth>αἷμα, ατος, τό</orth>, [in LXX for <foreign xml:lang="heb">דָּם</foreign> ;] </form>
+ <sense><gloss>blood.</gloss> 
+   <sense n="1.">In the ordinary sense: <ref osisRef="Mark.5.25">Mk 5:25</ref>, <ref osisRef="Luke.8.43">Lk 8:43</ref>,<ref osisRef="Luke.8.44">44</ref> <ref osisRef="Luke.22.44">22:44</ref>, <ref osisRef="John.19.34">Jo 19:34</ref>, <ref osisRef="Acts.15.20">Ac 15:20</ref>,<ref osisRef="Acts.15.29">29</ref> <ref osisRef="Acts.21.25">21:25</ref>, <ref osisRef="Rev.8.7">Re 8:7</ref>,<ref osisRef="Rev.8.8">8</ref> <ref osisRef="Rev.11.6">11:6</ref> <ref osisRef="Rev.16.3">16:3</ref>,<ref osisRef="Rev.16.4">4</ref>,<ref osisRef="Rev.16.6">6</ref> <ref osisRef="Rev.19.13">19:13</ref>. </sense>
+   <sense n="2.">In special senses: 
+     <sense n="(a)">of generation, origin, kinship (cl.): <ref osisRef="John.1.13">Jo 1:13</ref> (v. MM, <emph>VGT</emph>, s.v.); </sense>
+     <sense n="(b)">as in OT (AR on <emph>Eph</emph>, l.c.), in the phrase <foreign xml:lang="grc">σάρξ καὶ αἷ.</foreign> (<foreign xml:lang="grc">αἷ. κ. σ.</foreign>), to indicate human nature as opp. to God and created spirits: <ref osisRef="Matt.16.17">Mt 16:17</ref>, <ref osisRef="1Cor.15.50">I Co 15:50</ref>, <ref osisRef="Gal.1.16">Ga 1:16</ref>, <ref osisRef="Eph.6.12">Eph 6:12</ref>, <ref osisRef="Heb.2.14">He 2:14</ref>; </sense>
+     <sense n="(c)">of things in colour resembling blood: <ref osisRef="Acts.2.19">Ac 2:19</ref>,<ref osisRef="Acts.2.20">20</ref>, <ref osisRef="Rev.6.12">Re 6:12</ref> <ref osisRef="Rev.14.18">14:18</ref>-<ref osisRef="Rev.14.20">20</ref>. </sense>
+     <sense n="(d)">of bloodshed, a bloody death (cl.): <ref osisRef="Matt.23.30">Mt 23:30</ref>,<ref osisRef="Matt.23.35">35</ref> <ref osisRef="Matt.27.4">27:4</ref>,<ref osisRef="Matt.27.6">6</ref>,<ref osisRef="Matt.27.8">8</ref>,<ref osisRef="Matt.27.24">24</ref>,<ref osisRef="Matt.27.25">25</ref>, <ref osisRef="Luke.11.50">Lk 11:50</ref>,<ref osisRef="Luke.11.51">51</ref> <ref osisRef="Luke.13.1">13:1</ref>, <ref osisRef="Acts.1.19">Ac 1:19</ref> <ref osisRef="Acts.5.28">5:28</ref> <ref osisRef="Acts.18.6">18:6</ref> <ref osisRef="Acts.20.26">20:26</ref> <ref osisRef="Acts.22.20">22:20</ref>, <ref osisRef="Heb.12.4">He 12:4</ref>, <ref osisRef="Rev.6.10">Re 6:10</ref> <ref osisRef="Rev.17.6">17:6</ref> <ref osisRef="Rev.18.24">18:24</ref> <ref osisRef="Rev.19.2">19:2</ref> ; <foreign xml:lang="grc">αἷ. ἐκχέειν</foreign> (Deiss., <emph>LAE</emph>, 428; MM, <emph>VGT</emph>, s.v., <foreign xml:lang="grc">αἷ.</foreign>), <ref osisRef="Rom.3.15">Ro 3:15</ref>, <ref osisRef="Rev.16.6">Re 16:6</ref>; </sense>
+     <sense n="(e)">of sacrificial blood, as an expiation: <ref osisRef="Heb.9.7">He 9:7</ref>,<ref osisRef="Heb.9.12">12</ref>,<ref osisRef="Heb.9.13">13</ref>,<ref osisRef="Heb.9.18">18</ref>-<ref osisRef="Heb.9.22">22</ref>,<ref osisRef="Heb.9.25">25</ref> <ref osisRef="Heb.10.4">10:4</ref> <ref osisRef="Heb.11.28">11:28</ref> <ref osisRef="Heb.13.11">13:11</ref>; of the blood of Christ, <ref osisRef="Matt.26.28">Mt 26:28</ref>, <ref osisRef="Mark.14.24">Mk 14:24</ref>, <ref osisRef="Luke.22.20">Lk 22:20</ref>, <ref osisRef="John.6.53">Jo 6:53</ref>,<ref osisRef="John.6.54">54</ref>,<ref osisRef="John.6.56">56</ref>, <ref osisRef="Acts.20.28">Ac 20:28</ref>, <ref osisRef="Rom.3.25">Ro 3:25</ref> <ref osisRef="Rom.5.9">5:9</ref>, <ref osisRef="1Cor.10.16">I Co 10:16</ref> <ref osisRef="1Cor.11.25">11:25</ref>,<ref osisRef="1Cor.11.27">27</ref>, <ref osisRef="Eph.1.7">Eph 1:7</ref> <ref osisRef="Eph.2.13">2:13</ref>, <ref osisRef="Col.1.20">Col 1:20</ref>, <ref osisRef="Heb.9.12">He 9:12</ref>,<ref osisRef="Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29">29</ref> <ref osisRef="Heb.12.24">12:24</ref> <ref osisRef="Heb.13.20">13:20</ref>, <ref osisRef="1Pet.1.2">I Pe 1:2</ref>,<ref osisRef="1Pet.1.19">19</ref>, <ref osisRef="1John.1.7">I Jo 1:7</ref> (cf. <ref osisRef="1John.5.6">5:6</ref>,<ref osisRef="1John.5.8">8</ref>), <ref osisRef="Rev.1.5">Re 1:5</ref> <ref osisRef="Rev.5.9">5:9</ref> <ref osisRef="Rev.7.14">7:14</ref> <ref osisRef="Rev.12.11">12:11</ref>. (Cremer, 69 f., 612 f.) †</sense>
+   </sense>
+ </sense>
+ </entry>
 
 *t alfiarcKXUCTta, -as, 17 {"Calfxa, Ik, x^'w), shedding of blood (Eccl.; 
 Cremer, 71): He 922.t 
