@@ -35,7 +35,8 @@
 
 <xsl:template match="tei:div[@type='letter']">
     <div type="chapter">
-    	<xsl:apply-templates/>
+      <xsl:attribute name="osisID"><xsl:value-of select="./@n"/></xsl:attribute>
+      <xsl:apply-templates/>
     </div>
 </xsl:template>
 
@@ -145,6 +146,7 @@
 
 <xsl:template match="tei:entry">
   <div type="x-entry">
+    <xsl:attribute name="osisID"><xsl:value-of select="./@n"/></xsl:attribute>
     <p>
     	<xsl:apply-templates/>
     </p>
