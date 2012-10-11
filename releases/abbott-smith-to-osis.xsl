@@ -3,7 +3,7 @@
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
   xmlns:tei="http://www.crosswire.org/2008/TEIOSIS/namespace" 
   xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace">
-<xsl:output method="xml" />
+<xsl:output method="xml" encoding="UTF-8"/>
 
 <xsl:template match="tei:TEI">
 	<osis xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace 
@@ -150,6 +150,8 @@
     <p>
     	<xsl:apply-templates/>
     </p>
+    <p>
+    </p>
   </div>
 </xsl:template>
 
@@ -162,7 +164,7 @@
 </xsl:template>
 
 <xsl:template match="tei:orth">
-    	<foreign xml:lang="grc"><xsl:value-of select="."/></foreign>
+    	<hi><xsl:attribute name="type">bold</xsl:attribute><foreign xml:lang="grc"><xsl:value-of select="."/></foreign></hi>
 </xsl:template>
 
 <xsl:template match="tei:foreign">
