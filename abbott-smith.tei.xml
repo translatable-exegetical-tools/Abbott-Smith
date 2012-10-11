@@ -2400,9 +2400,11 @@
 
  <pb n="13" /> <!-- typed="" checked="" --> 
 
-+ aiKco-is, -cojs, ^7 (■&lt; alveo)), [in LXX chiefly for rryiri , n^np;] 
-
-praise (Eccl.): Ova-ta atveVcws (Le 7^^, n^lH n5), He IS^^.t 
+<entry n="αἴνεσις|G133">
+ <note type="occurrencesNT">1</note>
+ <form>† <orth>αἴνεσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">αἰνέω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">תּוֹדָה</foreign> , <foreign xml:lang="heb">תְּהִלָּה</foreign> ;] </form>
+ <sense><gloss>praise</gloss> (Eccl.): <foreign xml:lang="grc">θυσία αἰνέσεως</foreign> (Le 7:12, <foreign xml:lang="heb">זֶבַח תּוֹדָה</foreign>), <ref osisRef="Heb.13.15">He 13:15</ref>. †</sense>
+ </entry>
 
 aiK^u, -o) (&lt;^aLvo'i), poet., Ion. and late prose (MM, FGT, s.v.) 
 for cl. eTraivco), [in LXX chiefly for bbn , nT;] to praise: c. ace, t. ^ew, 
