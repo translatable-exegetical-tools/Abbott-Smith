@@ -2436,14 +2436,16 @@
  <sense><gloss>Aenon</gloss>: <ref osisRef="John.3.23">Jo 3:23</ref>. †</sense>
  </entry>
 
-aipeais, -cws, 17 {&lt;^aipew, -ofxai), [in LXX for H^IJ ,] 1. capture. 
-
-2. choosing, choice (v. MM, FGT, s.v.). 3. ^/jai which is chosen, 
-hence, opinio7i; esp. a peculiar opinion, heresy: i Co 11^^, Ga S^", 
-II Pe 2\ E, txt. 4. In late writers (MM, <emph>VGT</emph>), of a set of persons 
-professing particular principles or opinions, a school, sect, party, 
-faction: Ac 6^^ 15^ 245.i* 26^ 2822, i Co, Ga, 11 Pe, I.e., E, mg. 
-(Cremer, 614). t 
+<entry n="αἵρεσις|G139">
+ <note type="occurrencesNT">9</note>
+ <form><orth>αἵρεσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">αἱρέω, -ομαι</foreign>), [in LXX for <foreign xml:lang="heb">נְדָבָה</foreign> ,] </form>
+ <sense>
+   <sense n="1."><gloss>capture</gloss>. </sense>
+   <sense n="2."><gloss>choosing, choice</gloss> (v. MM, <emph>VGT</emph>, s.v.). </sense>
+   <sense n="3."><gloss>that which is chosen</gloss>, hence, <gloss>opinion</gloss>; esp. <gloss>a peculiar opinion, heresy</gloss>: <ref osisRef="1Cor.11.19">I Co 11:19</ref>, <ref osisRef="Gal.5.20">Ga 5:20</ref>, <ref osisRef="2Pet.2.1">II Pe 2:1</ref> R, txt. </sense>
+   <sense n="4.">In late writers (MM, <emph>VGT</emph>), of a set of persons professing particular principles or opinions, <gloss>a school, sect, party, faction</gloss>: <ref osisRef="Acts.5.17">Ac 5:17</ref> <ref osisRef="Acts.15.5">15:5</ref> <ref osisRef="Acts.24.5">24:5</ref>,<ref osisRef="Acts.24.14">14</ref> <ref osisRef="Acts.26.5">26:5</ref> <ref osisRef="Acts.28.22">28:22</ref>, I Co, Ga, II Pe, l.c., R, mg. (Cremer, 614).</sense> †
+ </sense>
+ </entry>
 
 aiperi^w, [in LXX chiefly for in2 (v. Cremer, 615);] = alpeofxat 
 (Hipp., Inscr.), to choose: Mt 12^^ (LXX, a.vTi\r]fxtf/ofx,ai).f 
