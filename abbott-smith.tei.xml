@@ -2391,47 +2391,73 @@
 
  <pb n="13" /> <!-- typed="" checked="" --> 
 
-+ aiKco-is, -cojs, ^7 (■&lt; alveo)), [in LXX chiefly for rryiri , n^np;] 
+<entry n="αἴνεσις|G133">
+ <note type="occurrencesNT">1</note>
+ <form>† <orth>αἴνεσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">αἰνέω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">תּוֹדָה</foreign> , <foreign xml:lang="heb">תְּהִלָּה</foreign> ;] </form>
+ <sense><gloss>praise</gloss> (Eccl.): <foreign xml:lang="grc">θυσία αἰνέσεως</foreign> (Le 7:12, <foreign xml:lang="heb">זֶבַח תּוֹדָה</foreign>), <ref osisRef="Heb.13.15">He 13:15</ref>. †</sense>
+ </entry>
 
-praise (Eccl.): Ova-ta atveVcws (Le 7^^, n^lH n5), He IS^^.t 
+<entry n="αἰνέω|G134">
+ <note type="occurrencesNT">9</note>
+ <form><orth>αἰνέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">αἶνος</foreign>), poët., Ion. and late prose (MM, <emph>VGT</emph>, s.v.) for cl. <foreign xml:lang="grc">ἐπαινέω</foreign>, [in LXX chiefly for <foreign xml:lang="heb">הלל</foreign>, <foreign xml:lang="heb">ידה</foreign> ;] </form>
+ <sense><gloss>to praise</gloss>: c. acc, <foreign xml:lang="grc">τ. θεόν</foreign>, <ref osisRef="Luke.2.13">Lk 2:13</ref>,<ref osisRef="Luke.2.20">20</ref> <ref osisRef="Luke.19.37">19:37</ref> <ref osisRef="Luke.24.53">24:53</ref>, <ref osisRef="Acts.2.47">Ac 2:47</ref> <ref osisRef="Acts.3.8">3:8</ref>,<ref osisRef="Acts.3.9">9</ref>, <ref osisRef="Rom.15.11">Ro 15:11</ref>; c. dat., <foreign xml:lang="grc">τ. Θεῷ</foreign> (Je 20:13, al. for <foreign xml:lang="heb">הִלֵּל לְ</foreign>; v. Field, <emph>Notes</emph>, 245), <ref osisRef="Rev.19.5">Re 19:5</ref>. †
+ <lb /><emph>SYN.</emph>.: <foreign xml:lang="grc">ἐξομολογέω</foreign>, <foreign xml:lang="grc">εὐλογέω</foreign>, <foreign xml:lang="grc">εὐχαριστέω</foreign>, <foreign xml:lang="grc">μακαρίζω</foreign> (v. <emph>DCG</emph>, i, 211). 
+ </sense>
+ </entry>
 
-aiK^u, -o) (&lt;^aLvo'i), poet., Ion. and late prose (MM, FGT, s.v.) 
-for cl. eTraivco), [in LXX chiefly for bbn , nT;] to praise: c. ace, t. ^ew, 
-Lk 2^3,20 1937 2463, Ac 2*7 S^'^, Ro IS^^; c. dat., t. ^e&lt;3 (Je 20i3, al. for 
-!? b^n; V. Field, <emph>Notes</emph>, 245), Ee IQ^.t 
+<entry n="αἴνιγμα|G135">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἴνιγμα, -ατος, τό</orth> (&lt; <foreign xml:lang="grc">αἰνίσσομαι</foreign>, <gloss>to speak in riddles</gloss>; &lt; <foreign xml:lang="grc">αἰνός</foreign> = <foreign xml:lang="grc">δεινός</foreign>, <gloss>dread, strange</gloss>), [in LXX for <foreign xml:lang="heb">חִידָה</foreign>, <ref osisRef="Num.12.8">Nu 12:8</ref> and always exc. <ref osisRef="Deut.28.37">De 28:37</ref> (<foreign xml:lang="heb">שַׁמָּה</foreign>) ;] </form>
+ <sense><gloss>a dark saying, riddle</gloss>: <ref osisRef="1Cor.13.12">I Co 13:12</ref> (cf. Nu, l.c.). † </sense>
+ </entry>
 
-SYJV.: i^ofxoXoyeui, evXoyeo), ev^apicTTSw, /xaKapL^o) (v. DCG, i, 211). 
+<entry n="αἶνος|G136">
+ <note type="occurrencesNT">2</note>
+ <form><orth>αἶνος, ου, ὁ</orth>, [in LXX for <foreign xml:lang="heb">הלל</foreign> pi, <foreign xml:lang="heb">עֹז</foreign> ;] </form>
+ <sense>poët, and Ion., 
+   <sense n="1.">= <foreign xml:lang="grc">μῦθος</foreign>, <gloss>a tale</gloss> (Horn., al.). </sense>
+   <sense n="2.">= Att. <foreign xml:lang="grc">ἔπαινος</foreign>, <gloss>praise</gloss> (Horn., al.): <ref osisRef="Matt.21.16">Mt 21:16</ref> (<hi rend="subscript">LXX</hi>), <ref osisRef="Luke.18.43">Lk 18:43</ref>. </sense>
+   <sense n="3.">In π., <gloss>a decree</gloss> (MM, <emph>VGT</emph>, s.v.).</sense> †
+ </sense>
+ </entry>
 
-aii/iyfia, -T09, to (&lt;^ alvLcra-ofjiaL, to speak ill riddles; &lt;^ atvos = Seivos, 
+<entry n="Αἰνών|G137">
+ <note type="occurrencesNT">1</note>
+ <form><orth>Αἰνών, ἡ</orth>, indecl. (cf. Heb.<foreign xml:lang="heb">עַיִן</foreign>, <gloss>a spring</gloss>), </form>
+ <sense><gloss>Aenon</gloss>: <ref osisRef="John.3.23">Jo 3:23</ref>. †</sense>
+ </entry>
 
-dread, strange), [in LXX for nTn , Nu 12^ and always exc. De 28^'' 
+<entry n="αἵρεσις|G139">
+ <note type="occurrencesNT">9</note>
+ <form><orth>αἵρεσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">αἱρέω, -ομαι</foreign>), [in LXX for <foreign xml:lang="heb">נְדָבָה</foreign> ,] </form>
+ <sense>
+   <sense n="1."><gloss>capture</gloss>. </sense>
+   <sense n="2."><gloss>choosing, choice</gloss> (v. MM, <emph>VGT</emph>, s.v.). </sense>
+   <sense n="3."><gloss>that which is chosen</gloss>, hence, <gloss>opinion</gloss>; esp. <gloss>a peculiar opinion, heresy</gloss>: <ref osisRef="1Cor.11.19">I Co 11:19</ref>, <ref osisRef="Gal.5.20">Ga 5:20</ref>, <ref osisRef="2Pet.2.1">II Pe 2:1</ref> R, txt. </sense>
+   <sense n="4.">In late writers (MM, <emph>VGT</emph>), of a set of persons professing particular principles or opinions, <gloss>a school, sect, party, faction</gloss>: <ref osisRef="Acts.5.17">Ac 5:17</ref> <ref osisRef="Acts.15.5">15:5</ref> <ref osisRef="Acts.24.5">24:5</ref>,<ref osisRef="Acts.24.14">14</ref> <ref osisRef="Acts.26.5">26:5</ref> <ref osisRef="Acts.28.22">28:22</ref>, I Co, Ga, II Pe, l.c., R, mg. (Cremer, 614).</sense> †
+ </sense>
+ </entry>
 
-in^W);] a dark saying, riddle: i Co 13^2 (cf_ ^^^ l.c.).t 
+<entry n="αἱρετίζω|G140">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἱρετίζω</orth>, [in LXX chiefly for <foreign xml:lang="heb">בּחר</foreign> (v. Cremer, 615) ;] = <foreign xml:lang="grc">αἱρέομαι</foreign> (Hipp., Inscr.), </form>
+ <sense><gloss>to choose</gloss>: <ref osisRef="Matt.12.18">Mt 12:18</ref> (LXX, <foreign xml:lang="grc">ἀντιλήμψομαι</foreign>). † </sense>
+ </entry>
 
-ati'os, -ov, 6, [in LXX for bbn pi, TJT;] poet, and Ion., 1. = fiv6o&lt;;, 
-a tale (Horn., al.). 2. = Att. cTraivos, ^jraise (Horn., al.): Mt 21i«'^^^', 
-Lk 1843. 3, In ,r., a decree (MM, <emph>VGT</emph>, s.v.).t 
+<entry n="αἱρετικός|G141">
+ <note type="occurrencesNT">1</note>
+ <form>* <orth>αἱρετικός, -ή, όν</orth> (&lt; <foreign xml:lang="grc">αἱρέομαι</foreign>), </form>
+ <sense>
+   <sense n="1."><gloss>capable of choosing</gloss> (Plat.). </sense>
+   <sense n="2."><gloss>causing division, heretical, factious</gloss> (Cremer, 614): as subst., <ref osisRef="Titus.3.10">Tit 3:10</ref>.</sense> †
+ </sense>
+ </entry>
 
-AiciJi', 17, indecl. (cf. Heb. ]^r, a sjyring), Aenon: Jo S^^.t 
-
-aipeais, -cws, 17 {&lt;^aipew, -ofxai), [in LXX for H^IJ ,] 1. capture. 
-
-2. choosing, choice (v. MM, FGT, s.v.). 3. ^/jai which is chosen, 
-hence, opinio7i; esp. a peculiar opinion, heresy: i Co 11^^, Ga S^", 
-II Pe 2\ E, txt. 4. In late writers (MM, <emph>VGT</emph>), of a set of persons 
-professing particular principles or opinions, a school, sect, party, 
-faction: Ac 6^^ 15^ 245.i* 26^ 2822, i Co, Ga, 11 Pe, I.e., E, mg. 
-(Cremer, 614). t 
-
-aiperi^w, [in LXX chiefly for in2 (v. Cremer, 615);] = alpeofxat 
-(Hipp., Inscr.), to choose: Mt 12^^ (LXX, a.vTi\r]fxtf/ofx,ai).f 
-
-*alpeTiK6s, -ij, -ot/ (&lt;^ alpeofiaL), 1. capable of choosing (Plat.). 
-2. causing division, heretical, factious (Cremer, 614): as subst., Tit 3^*'.t 
-
-atpc'w, [in LXX for HiDN hi., inn , etc.;] to take; Mid., -ofxai (M, 
-Pr., 158 f.; MM, <emph>VGT</emph>, s.v.), to choose: Phi I22, n Th 2^3^ He IP^. 
-(Cf. av-, a.&lt;f&gt;-, OL-, i^-, KaO-, Trepi-, Trpo-aiplo}.)f 
+<entry n="αἱρέω|G138">
+ <note type="occurrencesNT">3</note>
+ <form><orth>αἱρέω</orth>, [in LXX for <foreign xml:lang="heb">אמר</foreign> hi., <foreign xml:lang="heb">בּחר</foreign>, etc. ;] </form>
+ <sense><gloss>to take</gloss>; Mid., <foreign xml:lang="grc">-ομαι</foreign> (M, Pr., 158 f.; MM, <emph>VGT</emph>, s.v.), <gloss>to choose</gloss>: <ref osisRef="Phil.1.22">Phl 1:22</ref>, <ref osisRef="2Thess.2.13">II Th 2:13</ref>, <ref osisRef="Heb.11.25">He 11:25</ref>. (Cf. <foreign xml:lang="grc">ἀν-</foreign>, <foreign xml:lang="grc">ἀφ-</foreign>, <foreign xml:lang="grc">δι-</foreign>, <foreign xml:lang="grc">ἐξ-</foreign>, <foreign xml:lang="grc">καθ-</foreign>, <foreign xml:lang="grc">περι-</foreign>, <foreign xml:lang="grc">προ-αιρέω.</foreign>) †</sense>
+ </entry>
 
 <entry n="αἴρω|G142">
   <note type="occurrencesNT">101</note>
@@ -2443,21 +2469,30 @@ Pr., 158 f.; MM, <emph>VGT</emph>, s.v.), to choose: Phi I22, n Th 2^3^ He IP^.
   </sense>
 </entry>
 
+<entry n="αἰσθάνομαι|G143">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἰσθάνομαι</orth>, [in LXX for <foreign xml:lang="heb">בּין</foreign>, <foreign xml:lang="heb">חפז</foreign>, <foreign xml:lang="heb">ידע</foreign> ;] </form>
+ <sense><gloss>to perceive</gloss>: c.acc. rei (Bl., §36, 5; MM, <emph>VGT</emph>, s.v.), <ref osisRef="Luke.9.45">Lk 9:45</ref> (Cremer, 619 f.). †</sense>
+ </entry>
 
-aiaOdi/ofjiai, [in LXX for j^n , TDPI , JTT;] to perceive: c.acc. rei 
-(Bl., §36, 5; MM, <emph>VGT</emph>, s.v.), Lk 9« (Cremer, 619 f.).t 
+<entry n="αἴσθησις|G144">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἴσθησις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">αἰσθάνομαι</foreign>), [in LXX chiefly for <foreign xml:lang="heb">דַּעַת</foreign> ;] </form>
+ <sense><gloss>perception</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Phil.1.9">Phl 1:9</ref>. †
+ <lb /><emph>SYN.</emph>.: <foreign xml:lang="grc">ἐπίγνωσις</foreign>, q.v. (cf. Cremer, 620).</sense>
+ </entry>
 
-aio-0TCTis, -ews, 17 « alo-BdvofjLaL), [in LXX chiefly for T)^;] per- 
-ception (MM, <emph>VGT</emph>, s.v.): Phi VA 
+<entry n="αἰσθητήριον|G145">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἰσθητήριον, -ου, τό</orth> (&lt; <foreign xml:lang="grc">αἰσθάνομαι</foreign>), [in LXX: <ref osisRef="Jer.4.19">Je 4:19</ref> (<foreign xml:lang="heb">קִיר</foreign>), <ref osisRef="4Macc.2.22">IV Mac 2:22</ref> * ;] </form>
+ <sense><gloss>sense, organ of perception</gloss>: <ref osisRef="Heb.5.14">He 5:14</ref> (MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
-Syn.: cTriyvcDo-ts, q.v. (cf. Cremer, 620). 
-
-aio-6T)Tiqpio»', -ov, to (&lt;^ ala-6avop.ai), [in LXX: Je 4^® ^P)' 
-
-IV Mac 222 * .-] sense, organ of perception: He 5^* (MM, <emph>VGT</emph>, 8.v.).t 
-
-* aioxpoKcpSiis, -es (&lt;C aio-xpos, K€p8o&lt;;), greedy of base gains: i Ti 3', 
-Tit l^.t 
+<entry n="αἰσχροκερδής|G146">
+ <note type="occurrencesNT">3</note>
+ <form>* <orth>αἰσχροκερδής, -ες</orth> (&lt; <foreign xml:lang="grc">αἰσχρός</foreign>, <foreign xml:lang="grc">κέρδος</foreign>), </form>
+ <sense><gloss>greedy of base gains</gloss>: <ref osisRef="1Tim.3.3">I Ti 3:3</ref>,<ref osisRef="1Tim.3.8">8</ref> <note>Abbot-Smith omits I Ti 3:3</note>, <ref osisRef="Titus.1.7">Tit 1:7</ref>. †</sense>
+ </entry>
 
 
 
