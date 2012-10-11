@@ -2447,8 +2447,11 @@
  </sense>
  </entry>
 
-aiperi^w, [in LXX chiefly for in2 (v. Cremer, 615);] = alpeofxat 
-(Hipp., Inscr.), to choose: Mt 12^^ (LXX, a.vTi\r]fxtf/ofx,ai).f 
+<entry n="αἱρετίζω|G140">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἱρετίζω</orth>, [in LXX chiefly for <foreign xml:lang="heb">בּחר</foreign> (v. Cremer, 615) ;] = <foreign xml:lang="grc">αἱρέομαι</foreign> (Hipp., Inscr.), </form>
+ <sense><gloss>to choose</gloss>: <ref osisRef="Matt.12.18">Mt 12:18</ref> (LXX, <foreign xml:lang="grc">ἀντιλήμψομαι</foreign>). † </sense>
+ </entry>
 
 *alpeTiK6s, -ij, -ot/ (&lt;^ alpeofiaL), 1. capable of choosing (Plat.). 
 2. causing division, heretical, factious (Cremer, 614): as subst., Tit 3^*'.t 
