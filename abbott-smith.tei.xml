@@ -2420,9 +2420,15 @@
  <sense><gloss>a dark saying, riddle</gloss>: <ref osisRef="1Cor.13.12">I Co 13:12</ref> (cf. Nu, l.c.). † </sense>
  </entry>
 
-ati'os, -ov, 6, [in LXX for bbn pi, TJT;] poet, and Ion., 1. = fiv6o&lt;;, 
-a tale (Horn., al.). 2. = Att. cTraivos, ^jraise (Horn., al.): Mt 21i«'^^^', 
-Lk 1843. 3, In ,r., a decree (MM, <emph>VGT</emph>, s.v.).t 
+<entry n="αἶνος|G136">
+ <note type="occurrencesNT">2</note>
+ <form><orth>αἶνος, ου, ὁ</orth>, [in LXX for <foreign xml:lang="heb">הלל</foreign> pi, <foreign xml:lang="heb">עֹז</foreign> ;] </form>
+ <sense>poët, and Ion., 
+   <sense n="1.">= <foreign xml:lang="grc">μῦθος</foreign>, <gloss>a tale</gloss> (Horn., al.). </sense>
+   <sense n="2.">= Att. <foreign xml:lang="grc">ἔπαινος</foreign>, <gloss>praise</gloss> (Horn., al.): <ref osisRef="Matt.21.16">Mt 21:16</ref> (<hi rend="subscript">LXX</hi>), <ref osisRef="Luke.18.43">Lk 18:43</ref>. </sense>
+   <sense n="3.">In π., <gloss>a decree</gloss> (MM, <emph>VGT</emph>, s.v.).</sense> †
+ </sense>
+ </entry>
 
 AiciJi', 17, indecl. (cf. Heb. ]^r, a sjyring), Aenon: Jo S^^.t 
 
