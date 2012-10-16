@@ -2553,16 +2553,18 @@
   <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">δέησις</foreign>. </sense>
  </entry>
 
-alTia, -as, V, [^^ LXX: Ge 413 (iy), Pr 28^' (ptzrV), and freq. in 
-
-Wi, II, III Mac;] 1. cause, reason, occasion, case: Mt 193, l]^ 347^ ^c 102^ 
-2224 2820, II Ti 1"' 12^ Tit 1^3, He 2^; d o^tw&lt;; ia-riv y ai. (cf. Lat. si ita 
-res se habet, and v. MM. VGT, s.v.), Mt 19^0. 2. In forensic sense, 
-(a) accusation: Ac 25^^' 2''; (b) cause for ptmishment, crime: Mt 273'', 
-Mk 1526, Jo 1838 19*' 6, Ac 1328 2328 28i8.t 
-
-Syn.: eXtyxos, a charge, whether moral or judicial, which has 
-been proven, dt. is an accusation simply, false or true. 
+<entry n="αἰτία|G156">
+ <note type="occurrencesNT">20</note>
+ <form><orth>αἰτία, -ας, ἡ</orth>, [in LXX: <ref osisRef="Gen.4.13">Ge 4:13</ref> (<foreign xml:lang="heb">עָוֹן</foreign>), <ref osisRef="Prov.28.17">Pr 28:17</ref> (<foreign xml:lang="heb">עָשַׁק</foreign>), and freq. in Wi, II, III Mac;] </form>
+ <sense>
+   <sense n="1."><gloss>cause, reason, occasion, case</gloss>: <ref osisRef="Matt.19.3">Mt 19:3</ref>, <ref osisRef="Luke.8.47">Lk 8:47</ref>, <ref osisRef="Acts.10.21">Ac 10:21</ref> <ref osisRef="Acts.22.24">22:24</ref> <ref osisRef="Acts.28.20">28:20</ref>, <ref osisRef="2Tim.1.6">II Ti 1:6</ref>,<ref osisRef="2Tim.1.12">12</ref>, <ref osisRef="Titus.1.13">Tit 1:13</ref>, <ref osisRef="Heb.2.11">He 2:11</ref> ; <foreign xml:lang="grc">εἰ οὕτως ἐστιν ἡ αἰ.</foreign> (cf. Lat. <foreign xml:lang="lat">si ita res se habet</foreign>, and v. MM. VGT, s.v.), <ref osisRef="Matt.19.10">Mt 19:10</ref>. </sense>
+   <sense n="2.">In forensic sense, 
+    <sense n="(a)"><gloss>accusation</gloss>: <ref osisRef="Acts.25.18">Ac 25:18</ref>,<ref osisRef="Acts.25.27">27</ref>; </sense>
+    <sense n="(b)"><gloss>cause for punishment, crime</gloss>: <ref osisRef="Matt.27.37">Mt 27:37</ref>, <ref osisRef="Mark.15.26">Mk 15:26</ref>, <ref osisRef="John.18.38">Jo 18:38</ref> <ref osisRef="John.19.4">19:4</ref>,<ref osisRef="John.19.6">6</ref>, <ref osisRef="Acts.13.28">Ac 13:28</ref> <ref osisRef="Acts.23.28">23:28</ref> <ref osisRef="Acts.28.18">28:18</ref>.</sense> †
+   </sense>
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἔλεγχος</foreign>, a charge, whether moral or judicial, which has been proven, <foreign xml:lang="grc">αἰ.</foreign> is an accusation simply, false or true. 
+  </sense>
+ </entry>
 
 aiTiafJia, -to&lt;;, to, V.S. atrtw/xa. 
 
