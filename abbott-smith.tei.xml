@@ -2575,16 +2575,14 @@
  <form>* <orth>αἴτιον, -ου, τό</orth>, v.s. <foreign xml:lang="grc">αἴτιος</foreign>. </form>
  </entry>
 
-amos, -a, -ov « airt'a), [in LXX: I Ki 2222 (-^^q)^ Da LXX Bel «, 
-TH ib. *2, Su 53, II Mac 4*'^ 13*, iv Mac 1^^ *;] 1. causative of, responsible 
-
-
-
- <pb n="15" /> <!-- typed="" checked="" --> 
-
-for; as subst., 6 a?., tM cause, author: He 5^; to ai., the cause, Ac 19**'. 
-2. blameworthy, culpable; as subst., 6 a*., the culprit, the accused 
-(Lat. reus); to ai. (= atTia, 3), the crime, Lk 23^''^*''^'^.† 
+<entry n="αἴτιος|G159">
+ <note type="occurrencesNT">5</note>
+ <form><orth>αἴτιος, -α, ὁ</orth> (&lt; <foreign xml:lang="grc">αἰτία</foreign>), [in LXX: <ref osisRef="1Sam.22.22">I Ki 22:22</ref> (<foreign xml:lang="heb">סבב</foreign>) Da LXX Bel 41, TH ib. 42, Su 53, <ref osisRef="2Macc.4.47">II Mac 4:47</ref> <ref osisRef="2Macc.13.4">13:4</ref>, <ref osisRef="4Macc.1.11">IV Mac 1:11</ref> *;] </form>
+ <sense>
+   <sense n="1."><gloss>causative of, responsible <pb n="15" /> <!-- typed="" checked="" --> for</gloss>; as subst., <foreign xml:lang="grc">ὁ αἰ.</foreign>, <gloss>the cause, author</gloss>: <ref osisRef="Heb.5.9">He 5:9</ref>; <foreign xml:lang="grc">τὸ αἰ.</foreign>, <gloss>the cause</gloss>, <ref osisRef="Acts.19.40">Ac 19:40</ref>. </sense>
+   <sense n="2."><gloss>blameworthy, culpable</gloss>; as subst., <foreign xml:lang="grc">ὁ αἰ.</foreign>, <gloss>the culprit, the accused</gloss> (Lat. <foreign xml:lang="lat">reus</foreign>); <foreign xml:lang="grc">τὸ αἰ.</foreign> (= <foreign xml:lang="grc">αἰτία</foreign>, 3), <gloss>the crime</gloss>, <ref osisRef="Luke.23.4">Lk 23:4</ref>,<ref osisRef="Luke.23.14">14</ref>,<ref osisRef="Luke.23.22">22</ref>. †</sense>
+ </sense>
+ </entry>
 
 *+aiTiwxa (Eec. oLTLa^a, the usual form; v. MM, <emph>VGT</emph>, s.v.), -to?, 
 TO (&lt; aiTtrio/x,ai, aiTLa), a charge, accusation: Ac 25'. t 
