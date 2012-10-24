@@ -733,16 +733,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0910</td><td>βασιλεύω</td><td>G936</td><td>21</td></tr>
-<tr><td>0911</td><td>βασιλικός</td><td>G937</td><td>5</td></tr>
-<tr><td>0912</td><td>βασίλισσα</td><td>G938</td><td>4</td></tr>
-<tr><td>0913</td><td>βάσις</td><td>G939</td><td>1</td></tr>
-<tr><td>0914</td><td>βασκαίνω</td><td>G940</td><td>1</td></tr>
-<tr><td>0915</td><td>βαστάζω</td><td>G941</td><td>27</td></tr>
-<tr><td>0916</td><td>βάτος</td><td>G942</td><td>6</td></tr>
-<tr><td>0917</td><td>βάτος</td><td>G943</td><td>6</td></tr>
-<tr><td>0918</td><td>βάτραχος</td><td>G944</td><td>1</td></tr>
-<tr><td>0919</td><td>βατταλογέω</td><td>G945</td><td>1</td></tr>
 <tr><td>0920</td><td>βδέλυγμα</td><td>G946</td><td>6</td></tr>
 <tr><td>0921</td><td>βδελυκτός</td><td>G947</td><td>1</td></tr>
 <tr><td>0922</td><td>βδελύσσομαι</td><td>G948</td><td>2</td></tr>

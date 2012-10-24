@@ -6701,75 +6701,91 @@ lifeless: 1 Co 14^.†
   <sense><gloss>a king</gloss>: <ref osisRef="Matt.1.6">Mt 1:6</ref>  <ref osisRef="Matt.2.1">2:1</ref>; used by courtesy of Herod the Tetrarch, <ref osisRef="Matt.14.9">Mt 14:9</ref>; of the Roman Emperor, as freq. in <foreign xml:lang="grc">κοινή</foreign> (Deiss., <emph>LAE</emph>, p. 367), <ref osisRef="1Pet.2.13">I Pe 2:13</ref>, <ref osisRef="1Pet.2.17">17</ref>; of the Christ, in the phrase <foreign xml:lang="grc">ὁ β. τ. Ἰουδαίων</foreign>, <ref osisRef="Matt.2.2">Mt 2:2</ref>, al.; <foreign xml:lang="grc">τοῦ Ἰσραήλ</foreign>, <ref osisRef="Mark.15.32">Mk 15:32</ref>, <ref osisRef="John.1.50">Jo 1:50</ref>  <ref osisRef="John.12.13">12:13</ref>; of God, <ref osisRef="Matt.5.35">Mt 5:35</ref>, <ref osisRef="1Tim.1.17">I Ti 1:17</ref>, <ref osisRef="Rev.15.3">Re 15:3</ref>; <foreign xml:lang="grc">β. βασιλέων</foreign>, <ref osisRef="Rev.17.14">Re 17:14</ref>  <ref osisRef="Rev.19.16">19:16</ref>; <foreign xml:lang="grc">β. τ. βασιλευόντων</foreign>, <ref osisRef="1Tim.6.15">I Ti 6:15</ref> (on the associations of the word to Jewish Hellenists, v. <emph>Cl. Rev.</emph>, i, 7).†</sense>
 </entry> 
 
- <pb n="78" /> <!-- typed="" checked="" --> 
+ <pb n="78" /> <!-- typed="DCO" checked="" --> 
 
-<entry n="βασιλεύω|G936">PaaiXeo'w, (■&lt; ySao-tXcvs) , [in LXX for 1jb)D , its parts and deri- 
-vatives, exc. IV Ki 15* (SUT);] to be king, to reign, rule: i Ti 6^*; c. 
-gen. (cl.), Mt 22^; seq. eVt', c. ace. (= Heb. bv TJ^D; Bl., §36, 8), Lk 
-133 1914,27^ Ro 514 . ^Vi T. y^?, on earth, Ee 5^0; of God, Ee lli*- ^^ 196; 
-of Christ, Lk 1^3, i Co IS'-^*, Ee ll^*; of Christians, Ee 5^0 20* (con- 
-stative aor., M, <emph>Pr.</emph>, 130), ib.« 22*. Metaph., Christians, Ro b^\ 
-I Co 4^; 6avaTo&lt;;, Ro 5^*'^^; d/Aapria, Ro 5^'^ 6^2. Ingressive aor. 
-(M, <emph>Pr.</emph>, 109), to begin to reign: i Co 48, Ee ll^^ 19« (Cremer, 137).t 
+<entry n="βασιλεύω|G936">
+  <note type="occurrencesNT">21</note>
+  <form><orth>βασιλεύω</orth>, (&lt; <foreign xml:lang="grc">βασιλεύς</foreign>) , [in LXX for <foreign xml:lang="heb">מלךְ</foreign>, its parts and derivatives, exc. <ref osisRef="2Kgs.15.5">IV Ki 15:5</ref> (<foreign xml:lang="heb">ישׁב</foreign>);] </form>
+  <sense><gloss>to be king, to reign, rule</gloss>: <ref osisRef="1Tim.6.15">I Ti 6:15</ref>; c. gen. (cl.), <ref osisRef="Matt.2.22">Mt 2:22</ref>; seq. <foreign xml:lang="grc">ἐπί</foreign>, c. acc. (= Heb. <foreign xml:lang="heb">מלךְ על</foreign>; Bl., §36, 8), <ref osisRef="Luke.1.33">Lk 1:33</ref>  <ref osisRef="Luke.19.14">19:14</ref>,  <ref osisRef="Luke.19.27">27</ref> <ref osisRef="Rom.5.14">Ro 5:14</ref>; <foreign xml:lang="grc">ἐπὶ τ. γῆς</foreign>, <gloss>on earth</gloss>, <ref osisRef="Rev.5.10">Re 5:10</ref>; of God, <ref osisRef="Rev.11.15">Re 11:15</ref>, <ref osisRef="Rev.11.17">17</ref> <ref osisRef="Rev.19.6">19:6</ref>; of Christ, <ref osisRef="Luke.1.33">Lk 1:33</ref>, <ref osisRef="1Cor.15.25">I Co 15:25</ref>, <ref osisRef="Rev.11.15">Re 11:15</ref>; of Christians, <ref osisRef="Rev.5.10">Re 5:10</ref>  <ref osisRef="Rev.20.4">20:4</ref> (constative aor., M, <emph>Pr.</emph>, 130), <ref osisRef="Rev.20.6">ib. 6</ref> <ref osisRef="Rev.22.5">22:5</ref>. Metaph., Christians, <ref osisRef="Rom.5.17">Ro 5:17</ref>, <ref osisRef="1Cor.4.8">I Co 4:8</ref>; <foreign xml:lang="grc">θάνατος</foreign>, <ref osisRef="Rom.5.14">Ro 5:14</ref>, <ref osisRef="Rom.5.17">17</ref>; <foreign xml:lang="grc">ἁμαρτία</foreign>, <ref osisRef="Rom.5.21">Ro 5:21</ref>  <ref osisRef="Rom.6.12">6:12</ref>. Ingressive aor. (M, <emph>Pr.</emph>, 109), <gloss>to begin to reign</gloss>: <ref osisRef="1Cor.4.8">I Co 4:8</ref>, <ref osisRef="Rev.11.17">Re 11:17</ref>  <ref osisRef="Rev.19.6">19:6</ref> (Cremer, 137).†</sense>
 </entry>
 
-PaaiXiKos, -rj, -ov « /Sao-iXcv's) , [in LXX for IJ^p and its cog- 
-nates;] royal, belonging to a king: x*^P°-' ^^ -^2^*^ &gt; icrOrj^, Ac 12^^; vo/x,os 
-j3., a sjqireme law, " a law which governs other laws and so has a 
-specially regal character" (Hort), or because made by a king {LAE, 
-p. 367 3), Ja 2^; ns, one in the service of a king, a cotirtier, Jo 4*^1 *» 
+<entry n="βασιλικός|G937">
+  <note type="occurrencesNT">5</note>
+  <form><orth>βασιλικός, -ή, -όν</orth> (&lt; <foreign xml:lang="grc">βασιλεύς</foreign>) , [in LXX for <foreign xml:lang="heb">מֶלֶךְ</foreign> and its cognates;] </form>
+  <sense><gloss>royal, belonging to a king</gloss>: <foreign xml:lang="grc">χώρα</foreign>, Act 12:20; <foreign xml:lang="grc">ἐσθής</foreign>, <ref osisRef="Acts.12.21">Ac 12:21</ref>; <foreign xml:lang="grc">νόμος β.</foreign>, <gloss>a supreme law</gloss>, "a law which governs other laws and so has a specially regal character" (Hort), or because made by a king (<emph>LAE</emph>, p. 367<hi rend="superscript">3</hi>), <ref osisRef="Jas.2.8">Ja 2:8</ref>; <foreign xml:lang="grc">τις</foreign>, <gloss>one in the service of a king, a courtier</gloss>, <ref osisRef="John.4.46">Jo 4:46</ref>, <ref osisRef="John.4.49">49</ref> (WH, mg., <foreign xml:lang="grc">βασιλίσκος</foreign>).† </sense>
+</entry>
 
-(WH, mg., ^acri\(0-KOs).t 
+<entry n="βασιλίσκος">
+  <form>†<orth>βασιλίσκος, -ου, ὁ</orth> (dim. of <foreign xml:lang="grc">βασιλεύς</foreign>), [in LXX <gloss>a basilisk</gloss>: <ref osisRef="LXX:Ps.90.13">Ps 90  (91):13</ref> (<foreign xml:lang="heb">פֶּתֶן</foreign>), <ref osisRef="Isa.59.5">Is 59:5</ref> (<foreign xml:lang="heb">אֶפְעֶה</foreign>)*;] </form>
+  <sense>prop., <gloss>a petty king</gloss>: <ref osisRef="John.4.46">Jo 4:46</ref>,  <ref osisRef="John.4.49">49</ref> WH, mg. (v.s. <foreign xml:lang="grc">βασιλικός</foreign>).† </sense>
+</entry>
 
-t Pao-iXiaKos, -ov, 6 (dim. of /?ao-iX«vs), [in LXX a basilisk: Ps 90 
-(91)13 (jj^g)^ ig 595 (-,y^j^)*.j pj-op^ a petty king: Jo 4*6,49^ WH, 
+<entry n="βασίλισσα|G938">
+  <form><orth>βασίλισσα, -ης, ἡ</orth> (in Attic, <foreign xml:lang="grc">βασιλεία, βασιλίς</foreign>), [in LXX chiefly for <foreign xml:lang="heb">מַלְכָּה</foreign>;] </form>
+  <sense><gloss>a queen</gloss>: <ref osisRef="Matt.12.42">Mt 12:42</ref>, <ref osisRef="Luke.11.31">Lk 11:31</ref>, <ref osisRef="Acts.8.27">Ac 8:27</ref>, <ref osisRef="Rev.18.7">Re 18:7</ref>.† </sense>
+</entry>
 
-mg. (v.s. /3ao-iXiKos).t 
+<entry n="βάσις|G939">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βάσις, ־εως, ἡ</orth> (&lt; <foreign xml:lang="grc">βαίνω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">אֶדֶן</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>a step</gloss> (Æsch., al.). </sense>
+    <sense n="2.">Hence, <gloss>a foot</gloss> (Plat.; <ref osisRef="Wis.13.18">Wi 13:18</ref>): <ref osisRef="Acts.3.7">Ac 3:7</ref>.</sense>†
+  </sense>
+</entry>
 
-PaaiXiaaa, -77s, r) (in Attic, ySacrtXcia, /?acrtXis), [in LXX chiefly fof 
-n3!?D;] a queen: Mt 12*2, l^ ll^i, Ac 82^, Ee 18".t 
+<entry n="βασκαίνω|G940">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βασκαίνω</orth>, [in LXX: <ref osisRef="Deut.28.54">De 28:54</ref>, <ref osisRef="Deut.28.56">56</ref> (<foreign xml:lang="heb">רעע</foreign>), <ref osisRef="Sir.14.6">Si 14:6</ref>, <ref osisRef="Sir.14.8">8</ref>*.] </form>
+  <sense>
+    <sense n="1."><gloss>to slander</gloss> (Dem.). </sense>
+    <sense n="2."><gloss>to blight by the evil eye, to fascinate, bewitch</gloss>: <ref osisRef="Gal.3.1">Ga 3:1</ref>.</sense>†
+  </sense>
+</entry>
 
-pdais, -ccos, 17 (•&lt;;3atv(u), [in LXX chiefly for ]1N;] 1. a si«p 
+<entry n="βαστάζω|G941">
+  <note type="occurrencesNT">27</note>
+  <form>βαστάζω, [in LXX: <ref osisRef="Judg.16.30">Jg 16:30</ref> (<foreign xml:lang="heb">נטה</foreign>), <ref osisRef="Ruth.2.16">Ru 2:16</ref>, <ref osisRef="2Sam.23.5">II Ki 23:5</ref>, <ref osisRef="2Kgs.18.14">IV Ki 18:14</ref> and <ref osisRef="Job.21.3">Jb 21:3</ref> (<foreign xml:lang="heb">נשׂא</foreign>), <ref osisRef="Sir.6.25">Si 6:25</ref>, <ref osisRef="Bel.1.36">Da TH Bel 36</ref>*;] </form>
+  <sense>
+    <sense n="1."><gloss>to take up</gloss> with the hands, <gloss>to lift</gloss>: <foreign xml:lang="grc">λίθους</foreign>, <ref osisRef="John.10.31">Jo 10:31</ref>. </sense>
+    <sense n="2."><gloss>to bear, to carry</gloss>, as a burden, and metaph., <gloss>to endure</gloss>; <ref osisRef="Matt.3.11">Mt 3:11</ref>  <ref osisRef="Matt.20.12">20:12</ref>, <ref osisRef="Mark.14.13">Mk 14:13</ref>, <ref osisRef="Luke.7.14">Lk 7:14</ref>  <ref osisRef="Luke.10.7">10:7</ref> 11:27 14:27 22:10, <ref osisRef="John.16.12">Jo 16:12</ref>  <ref osisRef="John.19.17">19:17</ref>, <ref osisRef="Acts.3.2">Ac 3:2</ref>  <ref osisRef="Acts.9.15">9:15</ref> <ref osisRef="Acts.15.1">15:1</ref> <ref osisRef="Acts.21.35">21:35</ref>, <ref osisRef="Rom.11.18">Ro 11:18</ref>  <ref osisRef="Rom.15.1">15:1</ref>, <ref osisRef="Gal.5.10">Ga 5:10</ref>  <ref osisRef="Gal.6.2">6:2</ref>,  <ref osisRef="Gal.6.5">5</ref> <ref osisRef="Gal.6.17">17</ref>, <ref osisRef="Rev.2.2">Re 2:2</ref>, <ref osisRef="Rev.2.3">3</ref> <ref osisRef="Rev.17.7">17:7</ref>. </sense>
+    <sense n="3.">In late writers (MM, <emph>Exp.</emph>, ii, iii, x), 
+      <sense n="(a)"><gloss>to take away</gloss>; <ref osisRef="Matt.8.17">Mt 8:17</ref> (<ref osisRef="Isa.53.4">Is 53:4</ref>, Heb.); </sense>
+      <sense n="(b)"><gloss>to carry off, steal</gloss>: <ref osisRef="John.12.6">Jo 12:6</ref>  <ref osisRef="John.20.15">20:15</ref>.</sense>†
+    </sense>
+  </sense>
+</entry>
 
-(iEsch., al.). 2. Hence, a /oof (Plat.; Wi 13^8): Ac S^.t 
+<entry n="βάτος|G942">
+  <note type="occurrencesNT">5</note>
+  <form><orth>βάτος, -ον, ὁ, ἡ</orth>, [in LXX (always masc, as in Attic): <ref osisRef="Exod.3.2-Exod.3.4">Ex 3:2-4</ref>, <ref osisRef="Deut.33.16">De 33:16</ref> (<foreign xml:lang="heb">סְנֶה</foreign>), <ref osisRef="Job.31.40">Jb 31:40</ref> (<foreign xml:lang="heb">בָּאְשָׁה</foreign>)*;] </form>
+  <sense><sense>a bramble-bush</sense>: <ref osisRef="Luke.6.44">Lk 6:44</ref>, <ref osisRef="Acts.7.30">Ac 7:30</ref>, <ref osisRef="Acts.7.35">35</ref>; <foreign xml:lang="grc">ἐπὶ τοῦ (τῆς) β.</foreign>, <gloss>in the place concerning the bush</gloss>: <ref osisRef="Mark.12.26">Mk 12:26</ref>, <ref osisRef="Luke.20.37">Lk 20:37</ref>.†</sense>
+</entry>
 
-PaaKaiVo), [in LXX: De 285*. ^^ (yy-,)_ gj 146,8*.] 1. ^0 slander 
-(Dem.). 2. to &amp;%/ii by the evil eye, to fascinate, bewitch: Ga 3^t 
+<entry n="βάτος|G943">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βάτος, -ου, ὁ</orth> (Heb. <foreign xml:lang="heb">בַּת</foreign>), [in LXX (also <foreign xml:lang="grc">βαίθ, βάδος</foreign>): <ref osisRef="Ezra.7.22">II <ref osisRef="Esth.7.22">Es 7:22</ref></ref>*;] </form>
+  <sense><gloss>bath</gloss>, a Jewish liquid measure, = <foreign xml:lang="grc">μετρητής</foreign> (q.v.), or about 8 3/4 gals.: <ref osisRef="Luke.16.6">Lk 16:6</ref>.†</sense>
+</entry>
 
-pa&lt;rT&lt;it(u, [in LXX: Jg 163o (nw:), Eu 2i«, 11 Ki 23^ iv Ki 18^* 
-and Jb 21^ (xiZTJ), Si 62*, Da th Bel ^^ *;] 1. to take up with the hands, 
-to lift: Xt'^ovs, Jo lO^K 2. to bear, to carry, as a burden, and metaph., 
-to enrf;^re; Mt 3^1 20^2, Mk U^\ Lk 71* 10' 1127 1427 22io, Jo I612 
-19l^ Ac 32 915 1510 2P5, Ro 1118 151, Ga S^o 62. ». i7, Re 22. 3 177. 3. In 
-late writers (MM, <emph>Exp.</emph>, ii, iii, x), (a) to to^'e awajr; Mt Q^'' (Is 53*, 
-Heb.); {b) to carry off, steal: Jo 12** 20i5.t 
+<entry n="βάτραχος|G944">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βάτραχος, -ον, ὁ</orth>, [in LXX: Ex 8, <ref osisRef="LXX:Ps.77.45">Ps 77 (78):45</ref> <ref osisRef="LXX:Ps.104.30">104 (105):30</ref> (<foreign xml:lang="heb">צְכַרִדֵּעַ</foreign>), <ref osisRef="Wis.19.10">Wi 19:10</ref>*;] </form>
+  <sense><gloss>a frog</gloss>: <ref osisRef="Rev.16.13">Re 16:13</ref>.†</sense>
+</entry>
 
-PttTos, -OV, 6, 17, [in LXX (always masc, as in Attic): Ex 32"*, 
-De 3316 (n?q), Jb 31*0 (ntzrya)*;] a bramble-bush: Lk 6**, Ac 730.35. 
+<entry n="βατταλογέω|G945">
+  <note type="occurrencesNT">1</note>
+  <form>*† <orth>βατταλογέω, -ῶ</orth> (Rec. <foreign xml:lang="grc">βαττολ-</foreign>, D, <foreign xml:lang="grc">βλαττ-</foreign> = <foreign xml:lang="grc">βατταρίζω</foreign>, prob. onomatop.; v. MM, s.v.; <emph>DCG</emph>, ii, 499b, 790a); </form>
+  <sense><gloss>to stammer, repeat idly</gloss>: <ref osisRef="Matt.6.7">Mt 6:7</ref> (Cremer, 765).†</sense>
+</entry>
 
-cTTi Tov (t^?) y8., in the ])lace concerning the bush: Mk 122^, Lk 2037. t 
-tpdros -ov, 6 (Heb. na), [in LXX (also ^aid, /3d8o^): 11 Es 722*;] 
-
-bath, a Jewish liquid measure, = /icrpT^TrJs (q.v,), or about 8f gals.: 
-Lk 166.t 
-
-Pdrpaxos, -ov, 6, [in LXX: Ex 8, Ps 77 (78)** 104 (105)30 
-(yi-lSy), Wi 1910*;] a frog: Ee 16i3.t 
-
-*t paTTaXoyeu, -w (Eec. fiarTok-, D, pXarr- = /SaTTapL^w, prob. 
-onomatop.; v. MM, s.v.; DCG, ii, 499 b, 790^); to stammer, repeat 
-idly: Mt 6^ (Cremer, 765). t 
-
-t pScXuyiJia, -Tos, TO (&lt;^ ySScXvaa-o)), [in LXX chiefly for n^iyiDj 
-yp^;] aw abomination, a detestable thing: Lk I61*, Ee 17*. •'' 2127; to 
-
-
-
- <pb n="79" /> <!-- typed="" checked="" --> 
-
-p. T. iprjfxioaem (Da LXX U^\ cf . I Mac 1^*; DB, i, 12 f .; DCG, i, 
-6 f.), Mk 131*. Mt 2415 (Cremer, 138).t 
-
+<entry n="βδέλυγμα|G946">
+  <note type="occurrencesNT">6</note>
+  <form>† <orth>βδέλυγμα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">βδελύσσω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שֶׁקֶץ ,תּוֹעֵבָה</foreign>;] </form>
+  <sense><gloss>an abomination, a detestable thing</gloss>: <ref osisRef="Luke.16.15">Lk 16:15</ref>, <ref osisRef="Rev.17.4">Re 17:4</ref>, <ref osisRef="Rev.17.5">5</ref> <ref osisRef="Rev.21.27">21:27</ref>; <foreign xml:lang="grc">τὸ <pb n="79" /> β. τ. ἐρημώσεως<!-- typed="" checked="" --></foreign> (<ref osisRef="LXX:Dan.12.11">Da LXX 12:11</ref>, cf . <ref osisRef="1Macc.1.54">I Mac 1:54</ref>; <emph>DB</emph>, i, 12f.; <emph>DCG</emph>, i, 6f.), <ref osisRef="Mark.13.14">Mk 13:14</ref>, <ref osisRef="Matt.24.15">Mt 24:15</ref> (Cremer, 138).†</sense>
+</entry>
+ 
 t p8e\uKT(5s, V, -oy « ySStA-vVo-o)), [in LXX: Pr IT^^ (nnrin), Si 
 41*, II Mac 127*;] abominable, detestable: Tit V^ (Cremer, 137).t 
 
