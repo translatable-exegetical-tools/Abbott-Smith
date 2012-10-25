@@ -733,15 +733,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0921</td><td>βδελυκτός</td><td>G947</td><td>1</td></tr>
-<tr><td>0922</td><td>βδελύσσομαι</td><td>G948</td><td>2</td></tr>
-<tr><td>0923</td><td>βέβαιος</td><td>G949</td><td>8</td></tr>
-<tr><td>0924</td><td>βεβαιόω</td><td>G950</td><td>8</td></tr>
-<tr><td>0925</td><td>βεβαίωσις</td><td>G951</td><td>2</td></tr>
-<tr><td>0926</td><td>βέβηλος</td><td>G952</td><td>5</td></tr>
-<tr><td>0927</td><td>βεβηλόω</td><td>G953</td><td>2</td></tr>
-<tr><td>0928</td><td>Βεελζεβούλ</td><td>G954</td><td>7</td></tr>
-<tr><td>0929</td><td>Βελιάρ</td><td>G955</td><td>1</td></tr>
 <tr><td>0930</td><td>βέλος</td><td>G956</td><td>1</td></tr>
 <tr><td>0931</td><td>βέλτιον</td><td>G957</td><td>1</td></tr>
 <tr><td>0932</td><td>Βενιαμίν</td><td>G958</td><td>4</td></tr>

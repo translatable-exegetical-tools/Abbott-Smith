@@ -6783,68 +6783,81 @@ lifeless: 1 Co 14^.†
 <entry n="βδέλυγμα|G946">
   <note type="occurrencesNT">6</note>
   <form>† <orth>βδέλυγμα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">βδελύσσω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שֶׁקֶץ ,תּוֹעֵבָה</foreign>;] </form>
-  <sense><gloss>an abomination, a detestable thing</gloss>: <ref osisRef="Luke.16.15">Lk 16:15</ref>, <ref osisRef="Rev.17.4">Re 17:4</ref>, <ref osisRef="Rev.17.5">5</ref> <ref osisRef="Rev.21.27">21:27</ref>; <foreign xml:lang="grc">τὸ <pb n="79" /> β. τ. ἐρημώσεως<!-- typed="" checked="" --></foreign> (<ref osisRef="LXX:Dan.12.11">Da LXX 12:11</ref>, cf . <ref osisRef="1Macc.1.54">I Mac 1:54</ref>; <emph>DB</emph>, i, 12f.; <emph>DCG</emph>, i, 6f.), <ref osisRef="Mark.13.14">Mk 13:14</ref>, <ref osisRef="Matt.24.15">Mt 24:15</ref> (Cremer, 138).†</sense>
+  <sense><gloss>an abomination, a detestable thing</gloss>: <ref osisRef="Luke.16.15">Lk 16:15</ref>, <ref osisRef="Rev.17.4">Re 17:4</ref>, <ref osisRef="Rev.17.5">5</ref> <ref osisRef="Rev.21.27">21:27</ref>; <foreign xml:lang="grc">τὸ <pb n="79" /><!-- typed="DCO" checked="" --> β. τ. ἐρημώσεως</foreign> (<ref osisRef="LXX:Dan.12.11">Da LXX 12:11</ref>, cf . <ref osisRef="1Macc.1.54">I Mac 1:54</ref>; <emph>DB</emph>, i, 12f.; <emph>DCG</emph>, i, 6f.), <ref osisRef="Mark.13.14">Mk 13:14</ref>, <ref osisRef="Matt.24.15">Mt 24:15</ref> (Cremer, 138).†</sense>
 </entry>
- 
-t p8e\uKT(5s, V, -oy « ySStA-vVo-o)), [in LXX: Pr IT^^ (nnrin), Si 
-41*, II Mac 127*;] abominable, detestable: Tit V^ (Cremer, 137).t 
 
-pSeXuVau {&lt;^/3Se(j), to stink), [in LXX chiefly for mm, Vp^'] ^^ 
-cl., mid. only (Attic, -TTOfxai); to mahe foul; pass., Ee 21^; mid., to 
-turn away in disgust from , to detest: Ro 2^^ (Cremer, 137). t 
+<entry n="βδελυκτός|G947">
+  <note type="occurrencesNT">1</note>
+  <form>† <orth>βδελυκτός, ή, -όν</orth> (&lt; <foreign xml:lang="grc">βδελύσσω</foreign>), [in LXX: <ref osisRef="Prov.17.15">Pr 17:15</ref> (<foreign xml:lang="heb">תֹּועֵבָה</foreign>), <ref osisRef="Sir.41.5">Si 41:5</ref>, <ref osisRef="2Macc.1.27">II Mac 1:27</ref>*;] </form>
+  <sense><gloss>abominable, detestable</gloss>: <ref osisRef="Titus.1.16">Tit 1:16</ref> (Cremer, 137).†</sense>
+</entry>
 
-**P£'3aios, -ov (also -a, -ov; &lt;i^a&amp;w), [in LXX: Es 3^3, Wi 723, 
-III Mac 5^1 T^, IV Mac 17* *;] firm, secure: ayKvpa, He 6^^; metaph., 
-sure (esp. "in the sense of legally guaranteed security," Deiss., <emph>BS</emph>, 
-109; cf . two foil, words): i-n-ayycKia, Ro 4^^; cXttis, ii Co 1®; \dyos. 
-He 22; irapprja-La, He 3"; apxrj (t. viroa-rda-ewi) , He 3^*; hiadrfKT], He Q^^; 
-KA^(ris K. eKkoyrj, II Pe 1^*^ ', COmp. (-orepo-;), irpoffirjTiKos A.oyos, II Pe l^^.t 
-Pcj3ai&lt;5a., -w « /?e7^aio9), [in LXX: Ps 40 (41)12 (nsj hi.), 118 
-(119)2^ (mp pi.), Ill Mac 5*2*;] to confirm, establish, secure, of things 
-(cl.): X6yov, Mk 16 [20]; cVayyeXt'a?, Ro IS^; of persons (DCG, ii, 605): 
+<entry n="βδελύσσομαι|βδελύσσω|G948">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βδελύσσω</orth> (&lt; <foreign xml:lang="grc">βδέω</foreign>, <gloss>to stink</gloss>), [in LXX chiefly for <foreign xml:lang="heb">שׁקץ ,תּעב</foreign>;] </form>
+  <sense>in cl., mid. only (Attic, <foreign xml:lang="grc">-ττομαι</foreign>); <gloss>to make foul</gloss>; pass., <ref osisRef="Rev.21.8">Re 21:8</ref>; mid., <gloss>to turn away in disgust from, to detest</gloss>: <ref osisRef="Rom.2.22">Ro 2:22</ref> (Cremer, 137).†</sense>
+</entry>
 
-I Co 18, II Co 121. Pass., I Co 16, Col 2^, He 2^ 13^ (as an Attic legal 
-term, to guarantee the validity of a purchase, establish or confirm a 
-title; V. next word, Cremer, 139; cf. 8ta-^.).t 
+<entry n="βέβαιος|G949">
+  <note type="occurrencesNT">8</note>
+  <form>** <orth>βέβαιος, -ον</orth> (also <orth>-α, -ον</orth>; &lt; <foreign xml:lang="grc">βαίνω</foreign>), [in LXX: <ref osisRef="Esth.3.13">Es 3:13</ref>, <ref osisRef="Wis.7.23">Wi 7:23</ref>, <ref osisRef="3Macc.5.31">III Mac 5:31</ref>  <ref osisRef="3Macc.7.7">7:7</ref>, <ref osisRef="4Macc.17.4">IV Mac 17:4</ref>*;] </form>
+  <sense><gloss>firm, secure</gloss>: <foreign xml:lang="grc">ἄγκυρα</foreign>, He 6·19; metaph., <gloss>sure</gloss> (esp. "in the sense of legally guaranteed security," Deiss., <emph>BS</emph>, 109; cf . two foll. words): <foreign xml:lang="grc">ἐπαγγελία</foreign>, <ref osisRef="Rom.4.16">Ro 4:16</ref>; <foreign xml:lang="grc">ἐλπίς</foreign>, <ref osisRef="2Cor.1.6">II Co 1:6</ref>; <foreign xml:lang="grc">λόγος</foreign>, <ref osisRef="Heb.2.2">He 2:2</ref>; <foreign xml:lang="grc">παρρησία</foreign>, <ref osisRef="Heb.3.6">He 3:6</ref>; <foreign xml:lang="grc">ἀρχή (τ. ὑποστάσεως)</foreign>, <ref osisRef="Heb.3.14">He 3:14</ref>; <foreign xml:lang="grc">διαθήκη</foreign>, <ref osisRef="Heb.9.17">He 9:17</ref>; <foreign xml:lang="grc">κλῆσις κ. ἐκλογή</foreign>, <ref osisRef="2Pet.1.10">II Pe 1:10</ref>; comp. (<foreign xml:lang="grc">-ότερος</foreign>), <foreign xml:lang="grc">προφητικὸς λόγος</foreign>, <ref osisRef="2Pet.1.19">II Pe 1:19</ref>.†</sense>
+</entry>
+  
+<entry n="βεβαιόω|G950">
+  <note type="occurrencesNT">8</note>
+  <form><orth>βεβαιόω, -ῶ</orth> (&lt; <foreign xml:lang="grc">βέβαιος</foreign>), [in LXX: <ref osisRef="LXX:Ps.40.12">Ps 40 (41)12</ref> (<foreign xml:lang="heb">נצב</foreign> hi.), <ref osisRef="Ps.118.28">118 (119)28</ref> (<foreign xml:lang="heb">קוּם</foreign> pi.), <ref osisRef="3Macc.5.42">III Mac 5:42</ref>*;] </form>
+  <sense><gloss>to confirm, establish, secure</gloss>, of things (cl.): <foreign xml:lang="grc">λόγον</foreign>, <ref osisRef="Mark.16.20">Mk 16:[20]</ref>; <foreign xml:lang="grc">ἐπαγγελίας</foreign>, <ref osisRef="Rom.15.8">Ro 15:8</ref>; of persons (<emph>DCG</emph>, ii, 605): <ref osisRef="1Cor.1.8">I Co 1:8</ref>, <ref osisRef="2Cor.1.21">II Co 1:21</ref>. Pass., <ref osisRef="1Cor.1.6">I Co 1:6</ref>, <ref osisRef="Col.2.7">Col 2:7</ref>, <ref osisRef="Heb.2.3">He 2:3</ref>  <ref osisRef="Heb.13.9">13:9</ref> (as an Attic legal term, <gloss>to guarantee</gloss> the validity of a purchase, <gloss>establish</gloss> or <gloss>confirm</gloss> a title; v. next word, Cremer, 139; cf. <foreign xml:lang="grc">δια-β.</foreign>).†</sense>
+</entry>
 
-pepaiuffis, -£0)5, V « yScySatow, q.v.), [in LXX: Le 2523 (nrT'ay), 
+<entry n="βεβαίωσις|G951">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βεβαίωσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">βεβαιόω</foreign>, q.v.), [in LXX: <ref osisRef="Lev.25.23">Le 25:23</ref> (<foreign xml:lang="heb">צְמִיתֻת</foreign>), <ref osisRef="Wis.6.19">Wi 6:19</ref>*;] </form>
+  <sense><gloss>confirmation</gloss>: <foreign xml:lang="grc">τ. εὐαγγελίου</foreign>, <ref osisRef="Phil.1.7">Phl 1:7</ref>; <foreign xml:lang="grc">εἰς β.</foreign>, <ref osisRef="Heb.6.16">He 6:16</ref>, a phrase freq. in <foreign xml:lang="grc">π.</foreign> of guarantee in a business transaction (Deiss., <emph>BS</emph>, 104ff.; Cremer, 140).†</sense>
+</entry>
 
-Wi 61^*;] confirmation: t. evayyeXtbv, Phi 1^; ets ft.. He 6i®, a phrase 
-freq. in tt. of guarantee in a business transaction (Deiss., <emph>BS</emph>, 104 fif.; 
-Cremer, 140).t 
+<entry n="βέβηλος|G952">
+  <note type="occurrencesNT">5</note>
+  <form><orth>βέβηλος, -ον</orth> (&lt; <foreign xml:lang="grc">βαίνω</foreign>, whence <foreign xml:lang="grc">βηλός</foreign>, <emph>a threshold</emph>), [in LXX chiefly for <foreign xml:lang="heb">חֹל</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>permitted to be trodden, accessible</gloss> (v. <emph>DCG</emph>, ii, 422<hi rend="superscript">b</hi>); hence, </sense>
+    <sense n="2.">(opp. to <foreign xml:lang="grc">ἱερός</foreign>) <gloss>unhallowed, profane</gloss>: of things, <ref osisRef="1Tim.4.7">I Ti 4:7</ref>  <ref osisRef="1Tim.6.20">6:20</ref>, <ref osisRef="2Tim.2.16">II Ti 2:16</ref>; of men, <ref osisRef="1Tim.1.9">I Ti 1:9</ref>, <ref osisRef="Heb.12.16">He 12:16</ref> (cf. <foreign xml:lang="grc">κοινός</foreign>; Cremer, 140).</sense>†</sense>
+</entry>
 
-Pe'3T)Xos, -ov {&lt;C ySatVw, whence /3rj\6^, a threshold), [in LXX chiefly 
-for bh;] 1. permitted to be trodden, accessible (v. DCG, ii, 422^); 
-hence, 2. (opp. to lepo's) unhallowed, profane: of things, I Ti 4J &amp;^^, 
+<entry n="βεβηλόω|G953">
+  <note type="occurrencesNT">2</note>
+  <form>† <orth>βεβηλόω, -ῶ</orth> (&lt; <foreign xml:lang="grc">βέβηλος</foreign>), [in LXX chiefly for <foreign xml:lang="heb">חלל</foreign>;] </form>
+  <sense><gloss>to profane</gloss>: <foreign xml:lang="grc">τ. σάββατον</foreign>, <ref osisRef="Matt.12.5">Mt 12:5</ref>; <foreign xml:lang="grc">τ. ἱερόν</foreign>, <ref osisRef="Acts.24.6">Ac 24:6</ref> (Cremer, 141).† 
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">κοινόω</foreign>, q.v. 
+  </sense>
+</entry>
 
-II Ti 21"; of men, i Ti P, He 12i« (cf. Kotvos; Cremer, 140).t 
+<entry n="Βεελζεβούλ|G954">
+  <note type="occurrencesNT">7</note>
+  <form><orth>Βεελζεβούλ</orth> (WH, <emph>App.</emph>, 159, Rec., <foreign xml:lang="grc">βεελζεβούλ</foreign>), <orth>ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בַּעַל</foreign>, <emph>lord</emph>, and the Talmudic <foreign xml:lang="heb">זִבּוּל</foreign>, from <foreign xml:lang="heb">זֶבֶל</foreign>, <emph>dung</emph> (Dalman, <emph>Gr.</emph>, 137<hi rend="subscript">n</hi>), or perh. <foreign xml:lang="heb">זִבֻל</foreign>, <gloss>habitation</gloss>, but, v. <emph>DB</emph>, iv, 409f.; <emph>DCG</emph>, i, 181). The AV, RV, <gloss>Beelzebub</gloss>, comes through Vg. from <ref osisRef="2Kgs.1.2">IV Ki 1:2</ref>, <foreign xml:lang="heb">בַּעַל זִבוּב</foreign>, <gloss>lord of flies</gloss> (LXX, <foreign xml:lang="grc">βάαλ μυῖα</foreign>, Sm., <foreign xml:lang="grc">βεελζεβούβ</foreign>), </form>
+  <sense><gloss>Beelzebul, Beelzebub</gloss>, a name of Satan: <ref osisRef="Matt.10.25">Mt 10:25</ref>  <ref osisRef="Matt.12.24">12:24</ref>,  <ref osisRef="Matt.12.27">27</ref> <ref osisRef="Mark.3.22">Mk 3:22</ref>, <ref osisRef="Luke.11.15">Lk 11:15</ref>,  <ref osisRef="Luke.11.18">18</ref> <ref osisRef="Luke.11.19">19</ref>.†</sense>
+</entry>
 
-t PePtjXow, -to « ySc'^T/Xos), [in LXX chiefly for bbn;] io profane: 
-T. (rd/3(3aTov, Mt 12^ T. Upw, Ac 24« (Cremer, 141).t <lb /><emph>SYN.</emph>: Koivow, q.v. 
+<entry n="Βελίαλ">
+  <form><orth>Βελίαλ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בְּלִיַּעַל</foreign>, <gloss>worthlessness</gloss>, but v. <emph>DB</emph>, i, 268), </form>
+  <sense><gloss>Belial</gloss>, a name of Satan: <ref osisRef="2Cor.6.15">II Co 6:15</ref>, Rec. See next word.†</sense>
+</entry>
 
-Be^cpou'X (WH, <emph>App.</emph>, 159, Eec, y3«X^y8ov'X), 6, indecl. (Heb. 
-b:?3 , lord, and the Talmudic bl27 , from ^3? , dung (Dalman, O., 137n), 
-or perh. by} , habitation, but, v. DB, iv, 409 f.; DCG, i, 181). The 
-AV, EV, Beelzebub, comes through Vg. from iv Ki 1^, 3117 bv2. , lord 
+<entry n="Βελιάρ|G955">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βελιάρ, ὁ</orth>, indecl. (another form of previous word, "due to harsh Syriac pronunciation," or else &lt; Heb. <foreign xml:lang="heb">בֵּל יַעַר</foreign>, <emph>lord of the forest</emph>), </form>
+  <sense><gloss>Beliar</gloss>, a name of Satan: <ref osisRef="2Cor.6.15">II Co 6:15</ref> (v. <emph>DB</emph>, i, 269).†</sense>
+</entry>
 
-of flies (LXX, Bct'aX p,ma, Sm., fieeXleftov/S), Beelzebul, Beelzebub, a 
-name of Satan: Mt 102^ 122*.27^ Mk 322, Lk Ili5,i8,i9_t 
+<entry n="βελόνη">
+  <form>* <orth>βελόνη, -ῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">βέλος</foreign>), </form>
+  <sense>
+    <sense n="1."><gloss>a sharp point</gloss>, as of a spear. </sense>
+    <sense n="2."><gloss>a needle</gloss>: <ref osisRef="Luke.18.25">Lk 18:25</ref> (Rec. <foreign xml:lang="grc">ῥαφίς</foreign>, q.v.).</sense>†
+  </sense>
+</entry>
 
-BeXiaX, o, indecl. (Heb. bv^^b'^, worthlessness, but v. DB, i, 268), 
-
-Belial, a name of Satan: 11 Co 61^, Eec. See next word.t 
-
-BeXiap, 6, indecl. (another form of previous word, " due to harsh 
-Syriac pronunciation," or else &lt;C Heb. nr^ b^ , lord of the forest), 
-
-Beliar, a name of Satan: 11 Co 61* (v. DB, i, 269). t 
-
-*PcX6i'i(], -rj&lt;;, r) (&lt;; ySeἈos), 1. a sharp point, as of a spear. 2. a 
-needle: Lk 182^ (Eec. pa&lt;/)is, q.v.).t 
-
-
-
- <pb n="80" /> <!-- typed="" checked="" --> 
+<pb n="80" /> <!-- typed="" checked="" --> 
 
 P^Xos, -€os, TO « fidWo)), [in LXX chiefly for yu &gt;] o, missile, 
 
