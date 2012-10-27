@@ -146,19 +146,19 @@
 <xsl:template match="tei:foreign">
 <xsl:choose>
   <xsl:when test="./@xml:lang='heb'">
-    	<bdo dir="rtl"><span class="hebrew"><xsl:value-of select="."/></span></bdo>
+    	<bdo dir="rtl"><span class="hebrew"><xsl:apply-templates/></span></bdo>
   </xsl:when>
   <xsl:when test="./@xml:lang='arc'">
-    	<bdo dir="rtl"><span class="aramaic"><xsl:value-of select="."/></span></bdo>
+    	<bdo dir="rtl"><span class="aramaic"><xsl:apply-templates/></span></bdo>
   </xsl:when>
   <xsl:when test="./@xml:lang='grc'">
-    	<span class="greek"><xsl:value-of select="."/></span>
+    	<span class="greek"><xsl:apply-templates/></span>
   </xsl:when>
   <xsl:when test="./@xml:lang='lat'">
-    	<span class="latin"><xsl:value-of select="."/></span>
+    	<span class="latin"><xsl:apply-templates/></span>
   </xsl:when>
   <xsl:otherwise>
-    <span class="foreign"><xsl:value-of select="."/></span>
+    <span class="foreign"><xsl:apply-templates/></span>
   </xsl:otherwise>
 </xsl:choose>
 </xsl:template>
