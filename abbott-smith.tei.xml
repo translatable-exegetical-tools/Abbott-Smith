@@ -6857,73 +6857,102 @@ lifeless: 1 Co 14^.†
   </sense>
 </entry>
 
-<pb n="80" /> <!-- typed="" checked="" --> 
+<pb n="80" /> <!-- typed="DCO" checked="" --> 
 
-P^Xos, -€os, TO « fidWo)), [in LXX chiefly for yu &gt;] o, missile, 
+<entry n="βέλος|G956">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βέλος, -εος, τό</orth> (&lt; <foreign xml:lang="grc">βάλλω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">חֵץ</foreign>;] </form>
+  <sense><gloss>a missile, a dart</gloss>: <ref osisRef="Eph.6.16">Eph 6:16</ref>.† </sense>
+</entry>
 
-a dart: Eph G^^.t 
+<entry n="βέλτιον|G957">
+  <form><orth>βελτίων, -ον</orth> (gen. <foreign xml:lang="grc">-ονος</foreign>), comp. of <foreign xml:lang="grc">ἀγαθός</foreign>, [in LXX chiefly for <foreign xml:lang="heb">טוֹב</foreign>;] neut. as <gramGrp><pos>adv.</pos></gramGrp>, </form>
+  <sense><gloss>better, very well</gloss>: <ref osisRef="2Tim.1.18">II Ti 1:18</ref> (also <ref osisRef="Acts.10.28">Ac 10:28</ref> D). On <emph>elative</emph> use in these passages, v. M, <emph>Pr.</emph>, 78, 236.†</sense>
+</entry>
 
-PcXticjc, -ov (gen. -ovos), comp. of aya^os, [in LXX chiefly for 
-a"llD;] neut. as adv., better, very well: ii Ti 1^^ (also Ac lO^^ D). On 
-elative use in these passages, v. M, <emph>Pr.</emph>, 78, 236. t 
+<entry n="Βενιαμίν|G958">
+  <note type="occurrencesNT">4</note>
+  <form><orth>Βενιαμίν</orth>, (Rec. <foreign xml:lang="grc">-μίν</foreign>), <orth>ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בֶּנְיָמִין</foreign>), </form>
+  <sense><gloss>Benjamin</gloss>: <ref osisRef="Acts.13.21">Ac 13:21</ref>, <ref osisRef="Rom.11.1">Ro 11:1</ref>, <ref osisRef="Phil.3.5">Phl 3:5</ref>, <ref osisRef="Rev.7.8">Re 7:8</ref>.†</sense>
+</entry>
 
-BeKta/ieii', (Rec. -/xtv), 6, indecl. (Heb. ]''a^53), Benjamin: Ac 13^^, 
+<entry n="Βερνίκη|G959">
+  <note type="occurrencesNT">3</note>
+  <form><orth>Βερνίκη</orth> (elsewhere <foreign xml:lang="grc">Βερενίκη</foreign>), Macedonian form of <foreign xml:lang="grc">Φερενίκη</foreign>, cf. <emph>Veronica, Victoria</emph>), <orth>-ης, ἡ</orth>, </form>
+  <sense><gloss>Bernice, Berenice</gloss>, dau. of Herod Agrippa I: <ref osisRef="Acts.25.13">Ac 25:13</ref>, 23 26:3o.†</sense>
+</entry>
 
-Ro 11\ Phi 3*, Re 7^t 
+<entry n="Βέροια|G960">
+  <form><orth>Βέροια, -ας, ἡ</orth>, </form>
+  <sense><gloss>Berœa</gloss>, a city of Macedonia: <ref osisRef="Acts.17.10">Ac 17:10</ref>, <ref osisRef="Acts.17.13">13</ref>.†</sense>
+</entry>
 
-BepciKT) (elsewhere BepevLKr), Macedonian form of ^epevLKt], cf. 
-Veronica, Victoria), -r;?, 17, Bernice, Berenice, dau. of Herod Agrippa I: 
-Ac 2513. 23 263o.t 
+<entry n="Βεροιαῖος|G961">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βεροιαῖος, -α, -ον</orth>, </form>
+  <sense>Berœan: <ref osisRef="Acts.20.4">Ac 20:4</ref>.†</sense>
+</entry>
 
-Be'poia, -as, r], Bero&amp;a, a city of Macedonia: Ac 17^°' ^'.t 
+<entry n="Βεώρ">
+  <form><orth>Βεώρ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בְּעוֹר</foreign>), </form>
+  <sense><gloss>Beor</gloss>, father of Balaam: <ref osisRef="2Pet.2.15">II Pe 2:15</ref> (Rec. <foreign xml:lang="grc">Βοσόρ</foreign>).†</sense></entry>
 
-Bepoialos, -a, -ov, BeroRan: Ac 20*. t 
+<entry n="Βηθαβαρά|G962">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βηθαβαρά, -ας</orth> (Rec. <foreign xml:lang="grc">-ρᾶ</foreign>, indecl.; Heb. <foreign xml:lang="heb">בֵּית עֲבָרָה</foreign>, <emph>place of crossing</emph>; <foreign xml:lang="grc">-αραβᾷ</foreign>, R, mg.), </form>
+  <sense><gloss>Bethabara</gloss>: <ref osisRef="John.1.28">Jo 1:28</ref>, Rec. (WH, R, <foreign xml:lang="grc">βηθανία</foreign>).†</sense>
+</entry>
 
-Becip, 6, indecl. (Heb. 11^51) , Beor, father of Balaam: 11 Pe 2*' 
+<entry n="Βηθανία|G963">
+  <note type="occurrencesNT">12</note>
+  <form><orth>Βηθανία, -ας</orth> (also <foreign xml:lang="grc">-ιά</foreign>, indecl., <ref osisRef="Luke.19.29">Lk 19:29</ref> and in B*, <ref osisRef="Mark.11.1">Mk 11:1</ref>), <orth>ἡ</orth>, (Heb. <foreign xml:lang="heb">בֵּית עֲנִיָּה</foreign>, <emph>house of affliction</emph>, acc. to Jerome, or perh., <emph>house of dates</emph>, cf. <emph>Bethphage</emph>), </form>
+  <sense><gloss>Bethany</gloss>; 
+    <sense n="1.">a village fifteen furlongs from Jerusalem, the modern <emph>El Azerîyeh</emph>: <ref osisRef="Matt.21.17">Mt 21:17</ref>  <ref osisRef="Matt.26.6">26:6</ref>, <ref osisRef="Mark.8.22">Mk 8:22</ref> (WH, mg.) <ref osisRef="Mark.11.1">11:1</ref>, <ref osisRef="Mark.11.11">11</ref>, <ref osisRef="Mark.11.12">12</ref> <ref osisRef="Mark.14.3">14:3</ref> <ref osisRef="Luke.19.29">Lk 19:29</ref>  <ref osisRef="Luke.24.50">24:50</ref>, <ref osisRef="John.11.1">Jo 11:1</ref>, <ref osisRef="John.11.18">18</ref> <ref osisRef="John.12.1">12:1</ref>. </sense>
+    <sense n="2.">A place on E. bank of Jordan: <ref osisRef="John.1.28">Jo 1:28</ref> (R, mg., <foreign xml:lang="grc">Βηθαβαρά</foreign>, q.v.).</sense>†
+  </sense>
+</entry>
 
-(Rec. Boo-op).†
+<entry n="Βηθεσδά|G964">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βηθεσδά, ἡ</orth>, indecl. (deriv. uncertain, v. Westc. on <ref osisRef="John.5.2">Jo 5:2</ref>, and <emph>DB</emph>, i, 279), </form>
+  <sense><gloss>Bethesda</gloss>, a pool in Jerusalem: <ref osisRef="John.5.2">Jo 5:2</ref>, Rec. (<foreign xml:lang="grc">Βηθζαθά</foreign>, WH, <foreign xml:lang="grc">Βηθσαϊδά</foreign>, WH, mg.).†</sense>
+</entry>
 
-BT]Oapap(i, -as (Rec. -pa, indecl.; Heb. TTay 11!^^, place of crossing; 
+<entry n="Βηθζαθά">
+  <form><orth>Βηθζαθά, ἡ</orth>, indecl. (perh. Aram. <foreign xml:lang="heb">בֵּית זַיְתָה</foreign>, <emph>house of olives</emph>) </form>
+  <sense><gloss>Bethzatha</gloss>: <ref osisRef="John.5.2">Jo 5:2</ref>, WH (Rec. <foreign xml:lang="grc">Βηθεσδά</foreign>, q.v.).†</sense>
+</entry>
 
--apa/Sa, R, mg.), Bethabara: Jo l^s, Rec. (WH, R, Br]6avLa.).f 
+<entry n="Βηθλέεμ|G965">
+  <note type="occurrencesNT">8</note>
+  <form><orth>Βηθλέεμ, ἡ</orth>, indecl. (Heb. <foreign xml:lang="heb">בֵּית לֶחֶם</foreign>, <emph>house of bread</emph>), </form>
+  <sense><gloss>Bethlehem</gloss>, a town 6 m. S. of Jerusalem: <ref osisRef="Matt.2.1">Mt 2:1</ref>,  <ref osisRef="Matt.2.5">5</ref> <ref osisRef="Matt.2.6">6</ref>, <ref osisRef="Matt.2.8">8</ref>, <ref osisRef="Matt.2.16">16</ref>, <ref osisRef="Luke.2.4">Lk 2:4</ref>,  <ref osisRef="Luke.2.15">15</ref> <ref osisRef="John.7.42">Jo 7:42</ref>.†</sense>
+</entry>
 
-BriBavia, -as (also -ta, indecl., Lk 19^*^ and in B*, Mk 11^), r], 
-(Heb. tV2S[ JT'Sl , house of affliction, ace. to Jerome, or perh., house of 
+<entry n="Βηθσαϊδά|G966">
+  <note type="occurrencesNT">5</note>
+  <form><orth>Βηθσαιδά</orth> (Rec. <foreign xml:lang="grc">-σαϊδά</foreign>), and <foreign xml:lang="grc">-δάν</foreign> (Mt, Mk, ll. c.), <orth>ἡ</orth>, indecl. (Syr., <emph>house of fish</emph>), </form>
+  <sense><gloss>Bethsaida</gloss>, a town on NE. shore of the Sea of Galilee: <ref osisRef="Luke.9.10">Lk 9:10</ref>. It is generally supposed that a second B. on the W. shore is referred to in <ref osisRef="Matt.11.21">Mt 11:21</ref>, <ref osisRef="Mark.6.45">Mk 6:45</ref>  <ref osisRef="Mark.8.22">8:22</ref>, <ref osisRef="Luke.10.13">Lk 10:13</ref>, <ref osisRef="John.1.45">Jo 1:45</ref>  <ref osisRef="John.12.21">12:21</ref> (<emph>DB</emph>, i, 282f.; but v. Swete on <ref osisRef="Mark.6.45">Mk 6:45</ref>). 
+  <sense n="2.">2. v.l. for <foreign xml:lang="grc">Βηθζαθά, Βηθεσδά</foreign>, <ref osisRef="John.5.2">Jo 5:2</ref>.†</sense>
+  </sense>
+</entry>
 
-dates, cf. Bethphage), Bethany; 1. a village fifteen furlongs from 
-Jerusalem, the modern El Azertyeh: Mt 211^ 26^, Mk S^'^ (WH, 
-mg.) IV' 11' 12 143^ Lk 1929 2450, Jo 111' 18 121. 2. A place on E. 
-bank of Jordan: Jo 1^^ (R, mg., BrjOafSapd, q.v.).t 
+<entry n="Βηθφαγή|G967">
+  <note type="occurrencesNT">3</note>
+  <form><orth>Βηθφαγή</orth> (L, <foreign xml:lang="grc">-γῆ</foreign>), <orth>ἡ</orth>, indecl. (Aram. <foreign xml:lang="heb">בֵּית־פַּגֵּי</foreign>, <emph>house of unripe figs</emph>; Dalman, <emph>Gr.</emph>, 191), </form>
+  <sense><gloss>Bethphage</gloss>: <ref osisRef="Matt.21.1">Mt 21:1</ref>, <ref osisRef="Mark.11.1">Mk 11:1</ref>, <ref osisRef="Luke.19.29">Lk 19:29</ref>.†</sense>
+</entry>
 
-BTjOeaSd, rj, indecl. (deriv. uncertain, v. Westc. on Jo 5^, and 
-DB, i, 279), Bethesda, a pool in Jerusalem: Jo 5^, Rec. (BT^e^a^a, WH, 
-B77^o-ai8a, WH, mg.).t 
+<entry n="βῆμα|G968">
+  <note type="occurrencesNT">12</note>
+  <form><orth>βῆμα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">βαίνω</foreign>), [in LXX: <ref osisRef="Deut.2.5">De 2:5</ref> (<foreign xml:lang="heb">מִדְרָךְ</foreign>), <ref osisRef="Neh.8.4">Ne 8:4</ref> (<foreign xml:lang="heb">מִגְדָּל</foreign>), I <ref osisRef="Esth.9.42">Es 9:42</ref>, <ref osisRef="Sir.19.30">Si 19:30</ref>  <ref osisRef="Sir.45.9">45:9</ref>, <ref osisRef="2Macc.13.26">II Mac 13:26</ref>*;] </form>
+  <sense>
+    <sense n="1."><gloss>a step, stride, pace</gloss>: <ref osisRef="Acts.7.5">Ac 7:5</ref>. </sense>
+    <sense n="2."><gloss>a raised place, a platform</gloss> reached by steps, originally that in the Pnyx at Athens from which orations were made; freq. of the <gloss>tribune</gloss> or <gloss>tribunal</gloss> of a Roman magistrate or ruler: <ref osisRef="Matt.27.19">Mt 27:19</ref>, <ref osisRef="John.19.13">Jo 19:13</ref>, <ref osisRef="Acts.12.21">Ac 12:21</ref>, <ref osisRef="Acts.18.12">18:12</ref>, <ref osisRef="Acts.18.16">16</ref>, <ref osisRef="Acts.18.17">17</ref> <ref osisRef="Acts.25.6">25:6</ref>, <ref osisRef="Acts.25.10">10</ref>, <ref osisRef="Acts.25.17">17</ref>; <foreign xml:lang="grc">β. τοῦ θεοῦ</foreign>, <ref osisRef="Rom.14.10">Ro 14:10</ref>; <foreign xml:lang="grc">τ. Χριστοῦ</foreign>, <ref osisRef="2Cor.5.10">II Co 5:10</ref>.†</sense>
+  </sense>
+</entry>
 
-BT]0ta0(£, 7}, indecl. (perh. Aram. SJV\ IT'S, house of olives) 
-Bethzatha: Jo 5^, WH (Rec. Br/^eo-Sa, q.v.).t 
-
-BTjOXe^fi, 17, indecl. (Heb. DFI^ TT^. , house of bread), Bethlehem, a 
-
-town 6 m. S. of Jerusalem: Mt 2^' ^' «• s. i^ Lk 2*' ^^, Jo 7*2.t 
-
-BTj0(rai8(£ (Rec. -craiSa), and -Sdv (Mt, Mk, 11. c), 17, indecl. 
-(Syr., hoiise of fish), Bethsaida, a town on NE. shore of the Sea of 
-Galilee: Lk 9^*^. It is generally supposed that a second B. on the W. 
-shore is referred to in Mt ll^i, Mk 6** 822, Lk lO^^, Jo 1*^ 1221 {DB, i, 
-282 f.; but v. Swete on IVIk 6**). 2. v.l. for B-qO^aed, BrjOca-Sd, Jo 52.t 
-BT]0&lt;l&gt;aYT] (L, -yrj), rj, indecl. (Aram. '^SSITI^^ , house of unripe figs; 
-Dalman, Gr., 191), Bethphage: Mt 21^, Mk 11^, Lk 1929.t 
-
-pTJfia, -Tos, TO «y8atVa&gt;), [in LXX: De 2^ (^nip), Ne 8* (blJO), 
-I Es 9*2, Si 193*&gt; 459, II Mac 1326 * .] i_ ^ ^^^^^ g^^i^g^ p^ce: Ac 7^. 2. a 
-raised place, a platform reached by steps, originally that in the Pnyx at 
-Athens from which orations were made; freq. of the tribune or tribunal 
-of a Roman magistrate or ruler: Mt ^V^, Jo 19^3, Ac 122\ 18i2,i«,i7 
-256,10, 17; y3. .rov Oeov, Ro 1410; r. XpLCTTov, II Co 5io.t 
-
-
-
- <pb n="81" /> <!-- typed="" checked="" --> 
+<pb n="81" /> <!-- typed="" checked="" --> 
 
 ♦♦t pi^poXXos, -ov, 6, ^, [in LXX: To 13^^ (-vAXiov in Ex 282», 
 DiTJiS')*;] beryl, a jewel of sea-green colour: Be 2V^.f 
