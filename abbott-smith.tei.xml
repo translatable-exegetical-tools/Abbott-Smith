@@ -2614,7 +2614,11 @@
  <sense><gloss>to take</gloss> or <gloss>lead captive</gloss>: seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Luke.21.24">Lk 21:24</ref> (cf. <ref osisRef="Tob.1.10">To 1:10</ref>); metaph., <ref osisRef="Rom.7.23">Ro 7:23</ref>, <ref osisRef="2Cor.10.5">II Co 10:5</ref>, <ref osisRef="2Tim.3.6">II Ti 3:6</ref>. †</sense>
  </entry>
 
-aixfAtxXojTos, -ov (&lt;] alxp.^, a Spear, oAtV/co^ai, to be taken), [in LXX chiefly for nnc;, nblS;] cajjtive: Lk 4i8(Lxx)_t 
+<entry n="αἰχμάλωτος|G164">
+ <note type="occurrencesNT">1</note>
+ <form><orth>αἰχμάλωτος, -ον</orth> (&lt; <foreign xml:lang="grc">αἰχμή</foreign>, <gloss>a spear</gloss>, <foreign xml:lang="grc">ἁλίσκομαι</foreign>, <gloss>to be taken</gloss>), [in LXX chiefly for <foreign xml:lang="heb">שָׁבָה</foreign>, <foreign xml:lang="heb">גּוֹלָה</foreign> ;] </form>
+ <sense><gloss>captive</gloss>: <ref osisRef="Luke.4.18">Lk 4:18</ref> <hi rend="superscript">(LXX)</hi>. †</sense>
+ </entry>
 
 <entry n="αἰών|G165">
   <note type="occurrencesNT">122</note>
