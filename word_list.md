@@ -727,17 +727,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0943</td><td>βήρυλλος</td><td>G969</td><td>1</td></tr>
-<tr><td>0944</td><td>βία</td><td>G970</td><td>3</td></tr>
-<tr><td>0945</td><td>βιάζω</td><td>G971</td><td>2</td></tr>
-<tr><td>0946</td><td>βίαιος</td><td>G972</td><td>1</td></tr>
-<tr><td>0947</td><td>βιαστής</td><td>G973</td><td>1</td></tr>
-<tr><td>0948</td><td>βιβλαρίδιον</td><td>G974</td><td>3</td></tr>
-<tr><td>0949</td><td>βιβλίον</td><td>G975</td><td>34</td></tr>
-<tr><td>0950</td><td>βίβλος</td><td>G976</td><td>10</td></tr>
-<tr><td>0951</td><td>βιβρώσκω</td><td>G977</td><td>1</td></tr>
-<tr><td>0952</td><td>Βιθυνία</td><td>G978</td><td>2</td></tr>
-<tr><td>0953</td><td>βίος</td><td>G979</td><td>10</td></tr>
 <tr><td>0954</td><td>βιόω</td><td>G980</td><td>1</td></tr>
 <tr><td>0955</td><td>βίωσις</td><td>G981</td><td>1</td></tr>
 <tr><td>0956</td><td>βιωτικός</td><td>G982</td><td>3</td></tr>

@@ -6962,79 +6962,92 @@ lifeless: 1 Co 14^.†
 
 <pb n="81" /> <!-- typed="" checked="" --> 
 
-♦♦t pi^poXXos, -ov, 6, ^, [in LXX: To 13^^ (-vAXiov in Ex 282», 
-DiTJiS')*;] beryl, a jewel of sea-green colour: Be 2V^.f 
+<entry n="βήρυλλος|G969">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βήρυλλος, -ου, ὁ, ἡ</orth>, [in LXX: <ref osisRef="Tob.13.17">To 13:17</ref> (<foreign xml:lang="grc">-ύλλιον</foreign> in <ref osisRef="Exod.28.20">Ex 28:20</ref>, <foreign xml:lang="heb">שֹׁהַם</foreign>*;] </form>
+  <sense><gloss>beryl</gloss>, a jewel of sea-green colour: <ref osisRef="Rev.21.20">Re 21:20</ref>.†</sense>
+</entry>
 
-fiia, -as, 17, [in LXX for "SJISI , etc.;] strength, force, violence: Ac 
-526 2135 247 274i.t 
+<entry n="βία|G970">
+  <note type="occurrencesNT">3</note>
+  <form><orth>βία, -ας, ἡ</orth>, [in LXX for <foreign xml:lang="heb">פֶּרֶךְ</foreign>, etc.;] </form>
+  <sense><gloss>strength, force, violence</gloss>: <ref osisRef="Acts.5.26">Ac 5:26</ref>  <ref osisRef="Acts.21.35">21:35</ref> <ref osisRef="Acts.24.7">24:7</ref> <ref osisRef="Acts.27.41">27:41</ref>.†</sense>
+</entry>
 
-^idlu (•&lt; ySia), and depon. -o/xai, [in LXX for ^^IQ , lYQ , etc.;] to 
-force, constrain, rare in act. (poet, and late prose), but found in cl. in 
-pass., and so perh. /Jia^erat, siiffereth violence, Mt 11^^, EV (but v. infr.), 
-whether (a) in good sense, of disciples (Thayer, al.), or {h) in bad 
-sense, of the enemies of the kingdom (Meyer, in 1.; Dalman, <emph>Words</emph>, 
-139 ff.; Cremer, 141 ff.). Mid., advanceth violently, Mt, I.e. (Deiss., <emph>BS</emph>., 
-258; Banks, v. ref . in DCG, ii, 803 f .); seq. cis, to press violently, or 
-force one's way into, Lk 16^^ (v. ICC, in 1., and in Mt, I.e.; cf. irapa- 
-/3id^oixaL and v. MM, s.v.).t 
+<entry n="βιάζω|G971">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βιάζω</orth> (&lt; <foreign xml:lang="grc">βία</foreign>), and depon. <foreign xml:lang="grc">-ομαι</foreign>, [in LXX for <foreign xml:lang="heb">פּרץ</foreign>, <foreign xml:lang="heb">פּצר</foreign>, etc.;] </form>
+  <sense><gloss>to force, constrain</gloss>, rare in act. (poet, and late prose), but found in cl. in pass., and so perh. <foreign xml:lang="grc">βιάζεται</foreign>, <gloss>suffereth violence</gloss>, <ref osisRef="Matt.11.12">Mt 11:12</ref>, EV (but v. infr.), whether 
+    <sense n="(a)">in good sense, of disciples (Thayer, al.), or </sense>
+    <sense n="(b)">in bad sense, of the enemies of the kingdom (Meyer, in l.; Dalman, <emph>Words</emph>, 139ff.; Cremer, 141ff.). Mid., <gloss>advanceth violently</gloss>, Mt, l.c. (Deiss., <emph>BS</emph>., 258; Banks, v. ref. in DCG, ii, 803f.); seq. <foreign xml:lang="grc">εἰς</foreign>, <gloss>to press violently</gloss>, or <gloss>force one's way into</gloss>, <ref osisRef="Luke.16.16">Lk 16:16</ref> (v. <emph>ICC</emph>, in l., and in Mt, l.c.; cf. <foreign xml:lang="grc">παραβιάζομαι</foreign> and v. MM, s.v.).</sense>†
+  </sense>
+</entry>
 
-pi'aios, -a, -ov «y3ta), [in LXX for Brj^, 7;?, ly , etc.;] 
+<entry n="βίαιος|G972">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βίαιος, -α, -ον</orth> (&lt; <foreign xml:lang="grc">βία</foreign>), [in LXX for <foreign xml:lang="heb">אָנַשׁ</foreign>, <foreign xml:lang="heb">עַז</foreign>, <foreign xml:lang="heb">צַר</foreign>, etc.;] </form>
+  <sense><gloss>violent</gloss>: <ref osisRef="Acts.2.2">Ac 2:2</ref>.†</sense>
+</entry>
 
-violent: Ac 2^.f 
+<entry n="βιαστής|G973">
+  <note type="occurrencesNT">1</note>
+  <form>*† <orth>βιαστής, -οῦ, ὁ</orth> (&lt; <foreign xml:lang="grc">βιάζω</foreign>), late form of <foreign xml:lang="grc">βιατάς</foreign>; </form>
+  <sense>
+    <sense n="1."><gloss>strong, forceful</gloss>. </sense>
+    <sense n="2."><gloss>violent</gloss> (Philo): <ref osisRef="Matt.11.12">Mt 11:12</ref> (see <foreign xml:lang="grc">βιάζω</foreign>).</sense>†
+  </sense>
+</entry>
 
-*tpia&lt;mfis, -ov, 6 {&lt;C/3i(iCio), late form of /Staras; 1. strong, forceful. 
-2. violent (Philo): Mt II12 (see /3ia^a)).t 
+<entry n="βιβλαρίδιον|G974">
+  <note type="occurrencesNT">3</note>
+  <form>*† <orth>βιβλαρίδιον, -ου, τό</orth> (dim. of <foreign xml:lang="grc">βιβλάριον</foreign>, dim. of <foreign xml:lang="grc">βίβλος</foreign>), </form>
+  <sense><gloss>a little book</gloss>: <ref osisRef="Rev.10.2">Re 10:2</ref>, <ref osisRef="Rev.10.8">8</ref> (WH, <foreign xml:lang="grc">βιβλιόν</foreign>, T<hi rend="superscript">2, 7</hi> <foreign xml:lang="grc">βιβλιδάριον</foreign>) <ref osisRef="Rev.10.9">9</ref>, <ref osisRef="Rev.10.10">10</ref>. Not hitherto found elsewhere.†</sense>
+</entry>
 
-*t PipXapiSiow, -ov, TO (dim. of fii^Xdpiov, dim. of /JiySXos), a little 
-book: Ee lO^-s (WH, ySiySXiW, T2.7 /3tJ3Ai8a/&gt;iov)9. 10. Not hitherto 
-found elsewhere. t 
+<entry n="βιβλιδάριον"><form><orth>βιβλιδάριον, -ου, τό,</orth> v.s. <foreign xml:lang="grc">βιβλαρίδιον</foreign>.</form></entry> 
 
-^i^XiStipioi', -ov, TO, V.S. /SifiXapihiOV. 
+<entry n="βιβλίον|G975">
+  <note type="occurrencesNT">34</note>
+  <form>βιβλίον, -ου, τό (dim. of <foreign xml:lang="grc">βίβλος</foreign>, q.v.), [in LXX also in the alternat. form <foreign xml:lang="grc">βυβ-</foreign>, chiefly for <foreign xml:lang="heb">סֶפֶר</foreign> and the most freq. of the cognate forms;] </form>
+  <sense>
+    <sense n="1."><gloss>a paper, letter, written document</gloss>: <foreign xml:lang="grc">β. ἀποστασίου</foreign>, <gloss>bill of divorce</gloss>, <ref osisRef="Matt.19.7">Mt 19:7</ref>, <ref osisRef="Mark.10.4">Mk 10:4</ref>. </sense>
+    <sense n="2."><gloss>a book, a roll</gloss>: <ref osisRef="Luke.4.17">Lk 4:17</ref>,  <ref osisRef="Luke.4.20">20</ref> <ref osisRef="John.20.30">Jo 20:30</ref>  <ref osisRef="John.21.25">21:25</ref>, <ref osisRef="Gal.3.10">Ga 3:10</ref>, <ref osisRef="2Tim.4.13">II Ti 4:13</ref>, <ref osisRef="Heb.9.19">He 9:19</ref>  <ref osisRef="Heb.10.7">10:7</ref>, <ref osisRef="Rev.1.11">Re 1:11</ref> <ref osisRef="Rev.5.1-Rev.5.9">5:1-9</ref> <ref osisRef="Rev.6.14">6:14</ref> <ref osisRef="Rev.10.8">10:8</ref> <ref osisRef="Rev.20.12">20:12</ref> <ref osisRef="Rev.22.7-Rev.22.19">22:7-19</ref>; <foreign xml:lang="grc">β. τ. ζωῆς</foreign>, <ref osisRef="Rev.13.8">Re 13:8</ref>  <ref osisRef="Rev.17.8">17:8</ref> <ref osisRef="Rev.20.12">20:12</ref> <ref osisRef="Rev.21.27">21:27</ref>.</sense>†
+  </sense>
+</entry>
 
-PipXi'of, -or, TO (dim. of ySiySXos, q.v.), [in LXX also in the 
-alternat. form ftv/^-, chiefly for Igp and the most freq. of the cognate 
+<entry n="βίβλος|G976">
+  <note type="occurrencesNT">10</note>
+  <form><orth>βίβλος, -ου, ἡ</orth> (variant form of <foreign xml:lang="grc">βύβλος</foreign>, the Egyptian <emph>papyrus</emph>, paper made from its fibrous coat), [in LXX for <foreign xml:lang="heb">סֶפֶר</foreign>, the form <foreign xml:lang="grc">βύβ-</foreign> being sometimes used;] </form>
+  <sense><gloss>a book, a roll</gloss>, used much less freq. than <foreign xml:lang="grc">βιβλίον</foreign>, and with a "connotation of sacredness and veneration" (MM, <emph>Exp.</emph>, x), <ref osisRef="Matt.1.1">Mt 1:1</ref> <ref osisRef="Mark.12.26">Mk 12:26</ref>, <ref osisRef="Luke.3.4">Lk 3:4</ref>  <ref osisRef="Luke.20.42">20:42</ref> <ref osisRef="Acts.1.20">Ac 1:20</ref>  <ref osisRef="Acts.7.42">7:42</ref> <ref osisRef="Acts.19.19">19:19</ref>; <foreign xml:lang="grc">β. τ. ζωῆς</foreign>, <ref osisRef="Phil.4.3">Phl 4:3</ref>, <ref osisRef="Rev.3.5">Re 3:5</ref>  <ref osisRef="Rev.20.15">20:15</ref>.†</sense>
+</entry>
 
-forms;] 1. a paper, letter, writteyi document: /3. dwoa-Taariov, bill of 
-divorce, Mt 19^, Mk 10*. 2. a book, a roll: Lk 4I'. 20, Jo 20^0 2125, 
-Ga 310, II Ti 413, He 9^9 10", Ee l^^ 5i-» 6^* lO^ 20^2 227-i»; p. t. ^u,^s., 
-Ee 138 178 2012 2127.t 
+<entry n="βιβρώσκω|G977">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βιβρώσκω</orth>, poët, and late prose, [in LXX for <foreign xml:lang="heb">אכל</foreign>;] </form>
+  <sense><gloss>to eat</gloss>: <ref osisRef="John.6.13">Jo 6:13</ref>.†</sense>
+</entry>
 
-Pi'pXos, -ov, 17 (variant form of ySu^Xos, the Egyptian papyrus, 
-paper made from its fibrous coat), [in LXX for ipQ , the form /8v/8- 
+<entry n="Βιθυνία|G978">
+  <note type="occurrencesNT">2</note>
+  <form><orth>Βιθυνία, -ַας</orth>, </form>
+  <sense><gloss>Bithynia</gloss>, a province in Asia Minor: <ref osisRef="Acts.16.7">Ac 16:7</ref>, <ref osisRef="1Pet.1.1">I Pe 1:1</ref>.†</sense>
+</entry>
 
-being sometimes used;] a book, a roll, used much less freq. than 
-fii^Xiov, and with a "connotation of sacredness and veneration" 
-(MM, Exj)., x), Mt 1\ Mk 122^, Lk 3* 20*2 Ac I20 7*2 igi^; p. r. (;u&gt;^s. 
-Phi 43, Ee 3* 20i5.t 
+<entry n="βίος|G979">
+  <note type="occurrencesNT">10</note>
+  <form><orth>βίος, -ον, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">יָמִים</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>period</gloss> or <gloss>course of life, life</gloss>: <ref osisRef="Luke.8.14">Lk 8:14</ref>, <ref osisRef="1Tim.2.2">I Ti 2:2</ref>, <ref osisRef="2Tim.2.4">II Ti 2:4</ref>, <ref osisRef="1John.2.16">I Jo 2:16</ref>. </sense>
+    <sense n="2."><gloss>living, livelihood, means</gloss> (in <ref osisRef="Prov.31.14">Pr 31:14</ref> for <foreign xml:lang="heb">לֶחֶם</foreign>; v. <emph>DCG</emph>, ii, 39<hi rend="superscript">a</hi>): <ref osisRef="Mark.12.44">Mk 12:44</ref>, <ref osisRef="Luke.8.43">Lk 8:43</ref>  <ref osisRef="Luke.15.12">15:12</ref>, <ref osisRef="Luke.15.30">30</ref> <ref osisRef="Luke.21.4">21:4</ref>, <ref osisRef="1John.3.17">I Jo 3:17</ref>.† </sense>
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ζωή</foreign>, is life <emph>intensive</emph>, "vita quâ, vivimus," the vital principle; <foreign xml:lang="grc">βίος</foreign>, life <emph>extensive</emph>, "vita quam vivimus," (1) the period of life, (2) the means by which it is sustained. Hence, in cl., <foreign xml:lang="grc">ζ.</foreign>, being confined to the physical life common to men and animals, is the <pb n="82" /> <!-- typed="" checked="" --> inferior word (cf. <emph>zoology, biography</emph>). In NT, <foreign xml:lang="grc">ζωή</foreign> is elevated into the ethical and spiritual sphere (cf. Tr., <emph>Syn.</emph>, §xxvii). 
+  </sense>
+</entry>
 
-PiPpolaKu, poet, and late prose, [in LXX for bDH;] to eat: Jo 
-6i3.t 
-
-BiQuvia, -as, Bithynia, a province in Asia Minor: Ac 16^, i Pe 1^.†
-^ios, -ov, 6, [in LXX chiefly for D'^p^;] 1. period or course of life, 
-
-life: Lk 8^*, i Ti 22, 11 Ti 2*, i Jo 2^^. 2. living, livelihood, means (in 
-Pr 311* for Di^^; v. DCG, ii, 39^): Mk 12**, Lk 8*3 I512.30 2I*, 
-
-I Jo 3i7.t 
-
-SvN.: C'^-q, is life intensive, "vita qu§, vivimus," the vital 
-principle; ySios, life extensive, "vita quam vivimus," (1) the period of 
-life, (2) the means by which it is sustained. Hence, in cl., ., being 
-confined to the physical life common to men and animals, is the 
-
-6 
-
-
-
- <pb n="82" /> <!-- typed="" checked="" --> 
-
-inferior word (cf. zoology, biography). In NT, ^wi^ is elevated into the 
-ethical and spiritual sphere (cf. Tr., <emph>Syn.</emph>, §xxvii). 
+***
 
 pi6cu, -w «/86os), [in LXX: Pr 7^ 9^ (n^n), Jb 29^8, Wi 4* i&lt;\ 
 1223, Si 40^8, IV Mac 5^2 n^«*;] to spend life, to live: r. xpovov fiiwa-at 
-(cl., more freq. 2 aor,, -vat), i Pe 4^ (cf. Jb, l.c.).t 
+(cl., more freq. 2 aor,, -vat), i Pe 4^ (cf. Jb, l.c.).†
 
 Syn.: ^(iw (q.v.). 
 **tpiWis, -6W9, 17 (&lt;y8idco), [in LXX: Siprol}^*-^ manner of life: 
@@ -7088,6 +7101,8 @@ II Ti 32, II Pe 211 (cf. Ju 9); {b) as subst. a blasphemer: i Ti li^
 * PXe'fjLp.a, -Tos, TO {&lt;C /3Xe7r&lt;ji) , a look, a glance: /SXe/xfiarL koI aKofj, 
 II Pe 28, sight and hearing, a sense not found for yS. in Gk. lit., but 
 perh. recognized in the vernacular {ICC, in l.)t 
+
+***
 
 <entry n="βλέπω|G991">
   <note type="occurrencesNT">132</note>
