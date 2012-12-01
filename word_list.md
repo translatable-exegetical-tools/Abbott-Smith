@@ -727,17 +727,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0954</td><td>βιόω</td><td>G980</td><td>1</td></tr>
-<tr><td>0955</td><td>βίωσις</td><td>G981</td><td>1</td></tr>
-<tr><td>0956</td><td>βιωτικός</td><td>G982</td><td>3</td></tr>
-<tr><td>0957</td><td>βλαβερός</td><td>G983</td><td>1</td></tr>
-<tr><td>0958</td><td>βλάπτω</td><td>G984</td><td>2</td></tr>
-<tr><td>0959</td><td>βλαστάνω</td><td>G985</td><td>4</td></tr>
-<tr><td>0960</td><td>Βλάστος</td><td>G986</td><td>1</td></tr>
-<tr><td>0961</td><td>βλασφημέω</td><td>G987</td><td>34</td></tr>
-<tr><td>0962</td><td>βλασφημία</td><td>G988</td><td>18</td></tr>
-<tr><td>0963</td><td>βλάσφημος</td><td>G989</td><td>4</td></tr>
-<tr><td>0964</td><td>βλέμμα</td><td>G990</td><td>1</td></tr>
 <tr><td>0966</td><td>βλητέος</td><td>G992</td><td>1</td></tr>
 <tr><td>0967</td><td>Βοανηργές</td><td>G993</td><td>1</td></tr>
 <tr><td>0968</td><td>βοάω</td><td>G994</td><td>12</td></tr>

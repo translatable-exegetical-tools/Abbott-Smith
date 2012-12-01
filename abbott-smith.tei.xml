@@ -7043,66 +7043,84 @@ lifeless: 1 Co 14^.†
   </sense>
 </entry>
 
-***
+<entry n="βιόω|G980">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βιόω, -ῶ</orth> (&lt; <foreign xml:lang="grc">βίος</foreign>), [in LXX: <ref osisRef="Prov.7.2">Pr 7:2</ref>  <ref osisRef="Prov.9.6">9:6</ref> (<foreign xml:lang="heb">חיה</foreign>), <ref osisRef="Job.29.18">Jb 29:18</ref>, <ref osisRef="Wis.4.4">Wi 4:4</ref> <foreign xml:lang="heb">א</foreign><hi rend="superscript">1</hi>, <ref osisRef="Wis.12.23">12:23</ref>, <ref osisRef="Sir.40.28">Si 40:28</ref>, <ref osisRef="4Macc.5.22">IV Mac 5:22</ref>  <ref osisRef="4Macc.17.18">17:18</ref>*;] </form>
+  <sense><gloss>to spend life, to live</gloss>: <foreign xml:lang="grc">τ. χρόνον βιῶσαι</foreign> (cl., more freq. 2 aor., <foreign xml:lang="grc">-ναι</foreign>), <ref osisRef="1Pet.4.2">I Pe 4:2</ref> (cf. Jb, l.c.).†
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ζάω</foreign> (q.v.). 
+  </sense>
+</entry>
 
-pi6cu, -w «/86os), [in LXX: Pr 7^ 9^ (n^n), Jb 29^8, Wi 4* i&lt;\ 
-1223, Si 40^8, IV Mac 5^2 n^«*;] to spend life, to live: r. xpovov fiiwa-at 
-(cl., more freq. 2 aor,, -vat), i Pe 4^ (cf. Jb, l.c.).†
+<entry n="βίωσις|G981">
+  <note type="occurrencesNT">1</note>
+  <form>**† <orth>βίωσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">βιόω</foreign>), [in LXX: Si <emph>prol.</emph> <hi rend="superscript">12</hi>*;] </form>
+  <sense><gloss>manner of life</gloss>: <ref osisRef="Acts.26.4">Ac 26:4</ref>.†</sense>
+</entry>
 
-Syn.: ^(iw (q.v.). 
-**tpiWis, -6W9, 17 (&lt;y8idco), [in LXX: Siprol}^*-^ manner of life: 
-Ac 26^t 
+<entry n="βιωτικός|G982">
+  <note type="occurrencesNT">3</note>
+  <form>* <orth>βιωτικός, -ή, -όν</orth> (&lt; <foreign xml:lang="grc">βιός</foreign>), </form>
+  <sense><gloss>pertaining to life</gloss>, hence, <gloss>worldly</gloss> (Field, <emph>Notes</emph>, 171): <ref osisRef="Luke.21.34">Lk 21:34</ref>, <ref osisRef="1Cor.6.3">I Co 6:3</ref>, <ref osisRef="1Cor.6.4">4</ref>.†</sense>
+</entry>
 
-* PiwTiKos, -1], -o'v (■&lt; /3ios), pertaining to life, hence, worldly (Field, 
-Notes, 171): Lk 2P^ i Co G^.^.t 
+<entry n="βλαβερός|G983">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βλαβερός, -ά, -όν</orth> (&lt; <foreign xml:lang="grc">βλάπτω</foreign>), [in LXX: <ref osisRef="Prov.10.26">Pr 10:26</ref>*;] </form>
+  <sense><gloss>hurtful</gloss>: <ref osisRef="1Tim.6.9">I Ti 6:9</ref>.†</sense>
+</entry>
 
-3\ap6p6s, -a, -dv «y8\a7rTO)), [in LXX: Pr 1026*;] hurtful: 
+<entry n="βλάπτω|G984">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βλάπτω</orth>, [in LXX: <ref osisRef="Prov.25.20">Pr 25:20</ref>, <ref osisRef="Tob.12.2">To 12:2</ref>, <ref osisRef="Wis.10.8">Wi 10:8</ref>  <ref osisRef="Wis.18.2">18:2</ref>, <ref osisRef="2Macc.12.22">II Mac 12:22</ref>, <ref osisRef="4Macc.9.7">IV Mac 9:7</ref>*;] </form>
+  <sense><gloss>to hurt, injure</gloss>: c. acc., <ref osisRef="Mark.16.18">Mk 16:[18]</ref>, <ref osisRef="Luke.4.35">Lk 4:35</ref>.†</sense>
+</entry>
 
-I Ti 69.t 
+<entry n="βλαστάνω|G985">
+  <note type="occurrencesNT">4</note>
+  <form><orth>βλαστάνω</orth>, [in LXX for <foreign xml:lang="heb">צמח</foreign>, etc.;] </form>
+  <sense>
+    <sense n="1."><gloss>to sprout</gloss>: <ref osisRef="Matt.13.26">Mt 13:26</ref>, <ref osisRef="Mark.4.27">Mk 4:27</ref>, <ref osisRef="Heb.9.4">He 9:4</ref>. </sense>
+    <sense n="2.">In late Gk., causal, <gloss>to make to grow, produce</gloss>: c. acc., <ref osisRef="Jas.5.18">Ja 5:18</ref>.</sense>†
+  </sense>
+</entry>
 
-pXdTTTo,, [in LXX: Pr 252o, To 122, wi lO^ IS^, 11 Mac I222, 
-IV Mac 9^ *;] to hurt, injure: c. ace, Mk IG^^^]^ Lk 4^5. t 
+<entry n="Βλάστος|G986">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βλάστος, -ου, ὁ</orth>, </form>
+  <sense><gloss>Blastus</gloss>, chamberlain of Agrippa: <ref osisRef="Acts.12.20">Ac 12:20</ref>.†</sense>
+</entry>
 
-pXaordi/u, [in LXX for HDS , etc.;] 1. to sp-out: Mt 1326, 
-Mk 42'', He 9*. 2. In late Gk., causal, to make to grow, produce: 
-c. ace, Ja 5i8_f 
+<entry n="βλασφημέω|G987">
+  <note type="occurrencesNT">34</note>
+  <form><orth>βλασφημέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">βλάσφημος</foreign>), [in LXX: <ref osisRef="2Kgs.19.4">IV Ki 19:4</ref> (<foreign xml:lang="heb">יכח</foreign> hi.) <ref osisRef="2Kgs.19.6">ib. 6</ref>, <ref osisRef="2Kgs.19.22">22</ref> (<foreign xml:lang="heb">גּדף</foreign> pi.), <ref osisRef="Isa.52.5">Is 52:5</ref> (<foreign xml:lang="heb">נאץ</foreign> hith.), <ref osisRef="Dan.3.29">Da LXX 3:29 (96)</ref> (<foreign xml:lang="heb">אמר שׁלח</foreign>), <ref osisRef="Tob.1.18">To 1:18</ref>, <ref osisRef="Bel.1.9">Da TH Bel 9</ref>, <ref osisRef="2Macc.1.2">II Mac 2</ref> *;] </form>
+  <sense>
+    <sense n="1."><gloss>to speak lightly or profanely of sacred things</gloss> (in cl., opp. of <foreign xml:lang="grc">εὐφημέω</foreign>), esp. <gloss>to speak impiously of God, to blaspheme, speak blasphemously</gloss>: absol., <ref osisRef="Matt.9.3">Mt 9:3</ref>  <ref osisRef="Matt.26.65">26:65</ref>, <ref osisRef="Mark.2.7">Mk 2:7</ref>, <ref osisRef="John.10.36">Jo 10:36</ref>, <ref osisRef="Acts.26.11">Ac 26:11</ref>, <ref osisRef="1Tim.1.20">I Ti 1:20</ref>, <ref osisRef="2Pet.2.12">II Pe 2:12</ref>; <foreign xml:lang="grc">τ. θεόν</foreign>, <ref osisRef="Acts.19.37">Ac 19:37</ref>, <ref osisRef="Rev.16.11">Re 16:11</ref>, <ref osisRef="Rev.16.21">21</ref>; <foreign xml:lang="grc">τὸ ὄνομα τ. θεοῦ</foreign>, <ref osisRef="Rev.13.6">Re 13:6</ref>  <ref osisRef="Rev.16.9">16:9</ref>; <foreign xml:lang="grc">δόξας</foreign>, <ref osisRef="Jude.1.3">Ju 3</ref>, <ref osisRef="2Pet.2.10">II Pe 2:10</ref>; <foreign xml:lang="grc">εἰς τὸ πνεῦμα τὸ πνεῦμα τὸ ἅγιον</foreign>, <ref osisRef="Mark.3.29">Mk 3:29</ref>, <ref osisRef="Luke.12.10">Lk 12:10</ref>. </sense>
+    <sense n="2."><gloss>to revile, rail at, slander</gloss>: absol., <ref osisRef="Luke.22.65">Lk 22:65</ref>, <ref osisRef="Acts.13.45">Ac 13:45</ref>  <ref osisRef="Acts.18.6">18:6</ref>, <ref osisRef="1Pet.4.4">I Pe 4:4</ref>; c. acc., <ref osisRef="Matt.27.39">Mt 27:39</ref>, <ref osisRef="Mark.3.28">Mk 3:28</ref>  <ref osisRef="Mark.15.29">15:29</ref>, <ref osisRef="Luke.23.39">Lk 23:39</ref>, <ref osisRef="Titus.3.2">Tit 3:2</ref>, <ref osisRef="Jas.2.7">Ja 2:7</ref>, <ref osisRef="Jude.1.10">Ju 10</ref>. Pass.: <ref osisRef="Rom.2.24">Ro 2:24</ref>  <ref osisRef="Rom.3.8">3:8</ref> 14:16, <ref osisRef="1Cor.10.30">I Co 10:30</ref>, <ref osisRef="1Tim.6.1">I Ti 6:1</ref>, <ref osisRef="Titus.2.5">Tit 2:5</ref>, <ref osisRef="2Pet.2.2">II Pe 2:2</ref> (Cremer, 570).</sense>†
+  </sense>
+</entry>
 
-BXciaTos, -ov, 6, Blastus, chamberlain of Agrippa: Ac 122&lt;'.t 
+<entry n="βλασφημία|G988">
+  <note type="occurrencesNT">18</note>
+  <form><orth>βλασφημία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">βλάσφημος</foreign>), [in LXX: <ref osisRef="Ezek.35.12">Ez 35:12</ref> (<foreign xml:lang="heb">נֶאָצָה</foreign>), <ref osisRef="Dan.3.29">Da TH 3:29 (96)</ref> (<foreign xml:lang="heb">שׁלה</foreign>) , <ref osisRef="Tob.1.18">To 1:18</ref>, <ref osisRef="1Macc.2.6">I Mac 2:6</ref>, <ref osisRef="2Macc.8.4">II Mac 8:4</ref>  <ref osisRef="2Macc.10.35">10:35</ref> <ref osisRef="2Macc.15.24">15:24</ref> *;] </form>
+  <sense n="(a)"><gloss>railing slander</gloss>: <ref osisRef="Matt.12.31">Mt 12:31</ref>  <ref osisRef="Matt.15.19">15:19</ref>, <ref osisRef="Mark.3.28">Mk 3:28</ref>  <ref osisRef="Mark.7.22">7:22</ref>, <ref osisRef="Eph.4.31">Eph 4:31</ref>, <ref osisRef="Col.3.8">Col 3:8</ref>, <ref osisRef="1Tim.6.4">I Ti 6:4</ref>, <ref osisRef="Jude.1.9">Ju 9</ref>, <ref osisRef="Rev.2.9">Re 2:9</ref> </sense>
+  <sense n="(b)">spec., <gloss>impious speech against God, blasphemy</gloss>: <ref osisRef="Matt.26.65">Mt 26:65</ref>, <ref osisRef="Mark.14.64">Mk 14:64</ref>, <ref osisRef="Luke.5.21">Lk 5:21</ref>, <ref osisRef="John.10.33">Jo 10:33</ref>, <ref osisRef="Rev.13.5">Re 13:5</ref>; <foreign xml:lang="grc">ὄνομα βλασφημίας</foreign>, <ref osisRef="Rev.13.1">Re 13:1</ref>  <ref osisRef="Rev.17.3">17:3</ref>; c. gen. obj. <ref osisRef="Matt.12.31">Mt 12:31</ref>; 
+    <foreign xml:lang="grc">πρὸς τ. θεόν</foreign>, <ref osisRef="Rev.13.6">Re 13:6</ref> (Cremer, 570; <emph>DB</emph>, i, 305; <emph>DCG</emph> ii, 423).</sense>†
+</entry>
 
-p\aor&lt;j)Tifji^w, -w «/SAao-&lt;^r;/&gt;ios), [in LXX: IV Ki 19* (HD"' hi.) 
-ib.«'22 (pia pi.), Is 525 (,j^3 hith.), Da LXX 329&lt;96) (-,brzr nnx). To 118, 
+<entry n="βλάσφημος|G989">
+  <note type="occurrencesNT">4</note>
+  <form><orth>βλάσφημος, -ον</orth> (&lt; <foreign xml:lang="grc">βλασ-</foreign>, of uncertain deriv., v. Thayer, Boisacq; + <foreign xml:lang="grc">φήμη</foreign>, speech), [in LXX: <ref osisRef="Isa.66.3">Is 66:3</ref> (<foreign xml:lang="heb">מְבָרֵךְ אָוֶן</foreign>), <ref osisRef="Wis.1.6">Wi 1:6</ref>, <ref osisRef="Sir.3.16">Si 3:16</ref>, <ref osisRef="2Macc.9.28">II Mac 9:28</ref>  <ref osisRef="2Macc.10.4">10:4</ref>, <ref osisRef="2Macc.10.36">36</ref>*;] </form>
+  <sense>
+    <sense n="(a)"><gloss>evil-speaking, slanderous, blasphemous</gloss>: <ref osisRef="Acts.6.11">Ac 6:11</ref>, <ref osisRef="2Tim.3.2">II Ti 3:2</ref>, <ref osisRef="2Pet.2.11">II Pe 2:11</ref> (cf. <ref osisRef="Jude.1.9">Ju 9</ref>); </sense>
+    <sense n="(b)">as subst. <gloss>a blasphemer</gloss>: <ref osisRef="1Tim.1.13">I Ti 1:13</ref> (Cremer, 570).</sense>†
+  </sense>
+</entry>
 
-Da TH Bel ^, 11 Mac 2 *;] 1. to spteak lightly or profanely of sacred things 
-(in cl., opp. of €vcf)7]ixioi), esp. to speak impiously of God, to blaspheme, 
-speak blasphemously: absol., Mt 9^ 26^5, Mk 2\ Jo lO^", Ac 26^\ 1 Ti I20, 
-
-II Pe 212; T. e€6v, Ac 1937, Ee I611.21; r^ Svofjia T. 6€oZ, Ee IS" 16^; 
-86^a^, Ju 8, II Pe 210; ek t6 nvei/xa to 5ytov, Mk 329, Lk 12i». 2. to 
-revile, rail at, slander: absol., Lk 22*^*, Ac 13*^5 18^, i Pe 4*; c. ace, 
-Mt 2739, Mk 328 1529, Lk 2339, Tit 32, Ja 2^, Ju^o. Pass.: Ro 22* 38 
-I416, I Co 1030, I Ti 61, Tit 2^, 11 Pe 22 (Cremer, 570).t 
-
-p\a(T4)Tixia, -a?, -7 {&lt;C/3Xd(T(f&gt;rj,jLo&lt;;), [in LXX: Ez 3512 (nsKj), Da 
-
-TH 329 (96) (nbizr) , To 118, J Mac 26, II Mac 8* 103^ 152* *;] (a) railing 
-slander: Mt 123i 15i9, Mk 328 722, Eph 43i, Col 38, i Ti 6*, Ju9, Ee 29 
-(b) spec, impious speech against God, blasphemy: Mt 26^*, Mk 14^* 
-Lk 521, Jo 1033, Ee 13^ ovofxa y8Aaa&lt;/)7;^tas, Ee 131 173; c. gen. obj. 
-Mt 1231; Trpds T. 6(01', Ee 13« (Cremer, 570; DB, i, 305; DCG 
-ii, 423).t 
-
-p\da&lt;j&gt;T)jios, -ov (&lt;^ /SAacr-, of uncertain deriv., v. Thayer, 
-Boisacq; + &lt;^7//Ar?, speech), [in LXX: Is 663 (^j&lt; '•[12.'0) , Wi 1^, Si 3i« 
-
-II Mac 928 10*' 36 *;] (a) evil-speaking, slanderous, blasphemous: Ac 611 
-II Ti 32, II Pe 211 (cf. Ju 9); {b) as subst. a blasphemer: i Ti li^ 
-(Cremer, 570). t 
-
-* PXe'fjLp.a, -Tos, TO {&lt;C /3Xe7r&lt;ji) , a look, a glance: /SXe/xfiarL koI aKofj, 
-II Pe 28, sight and hearing, a sense not found for yS. in Gk. lit., but 
-perh. recognized in the vernacular {ICC, in l.)t 
-
-***
+<entry n="βλέμμα|G990">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>βλέμμα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">βλέπω</foreign>), </form>
+  <sense><gloss>a look, a glance</gloss>: <foreign xml:lang="grc">βλέμματι καὶ ἀκοῇ</foreign>, <ref osisRef="2Pet.2.8">II Pe 2:8</ref>, <gloss>sight and hearing</gloss>, a sense not found for <foreign xml:lang="grc">β.</foreign> in Gk. lit., but perh. recognized in the vernacular (<gloss>ICC</gloss>, in l.)†</sense>
+</entry>
 
 <entry n="βλέπω|G991">
   <note type="occurrencesNT">132</note>
