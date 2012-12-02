@@ -727,17 +727,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>0966</td><td>βλητέος</td><td>G992</td><td>1</td></tr>
-<tr><td>0967</td><td>Βοανηργές</td><td>G993</td><td>1</td></tr>
-<tr><td>0968</td><td>βοάω</td><td>G994</td><td>12</td></tr>
-<tr><td>0969</td><td>βοή</td><td>G995</td><td>1</td></tr>
-<tr><td>0970</td><td>βοήθεια</td><td>G996</td><td>2</td></tr>
-<tr><td>0971</td><td>βοηθέω</td><td>G997</td><td>8</td></tr>
-<tr><td>0972</td><td>βοηθός</td><td>G998</td><td>1</td></tr>
-<tr><td>0973</td><td>βόθυνος</td><td>G999</td><td>3</td></tr>
-<tr><td>0974</td><td>βολή</td><td>G1000</td><td>1</td></tr>
-<tr><td>0975</td><td>βολίζω</td><td>G1001</td><td>2</td></tr>
-<tr><td>0976</td><td>βολίς</td><td>G1002</td><td>1</td><td>KJV</td></tr>
 <tr><td>0977</td><td>Βόος</td><td>G1003</td><td>1</td></tr>
 <tr><td>0978</td><td>βόρβορος</td><td>G1004</td><td>1</td></tr>
 <tr><td>0979</td><td>βορρᾶς</td><td>G1005</td><td>2</td></tr>
