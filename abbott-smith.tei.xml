@@ -7217,72 +7217,90 @@ lifeless: 1 Co 14^.†
   <sense><gloss>a dart, javelin</gloss>: <ref osisRef="Heb.12.20">He 12:20</ref>, Rec. (LXX).†</sense>
 </entry>
 
-<pb n="84" /> <!-- typed="" checked="" -->
+<pb n="84" /> <!-- typed="DCO" checked="" -->
 
-Boos and Boe's (RV, Bod^ Rec Boot,), o, indecl. (Heb. 7^3), Boaz 
-(Ru 21): Mt 16, Lk S^^f 
+<entry n="Βόος|G1003">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βοός</orth> and <orth>Βοές</orth> (RV, <foreign xml:lang="grc">Βοάζ</foreign>, Rec. <foreign xml:lang="grc">Βοόζ</foreign>), <orth>ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">בֹּעַז</foreign>), </form>
+  <sense><gloss>Boaz</gloss> (<ref osisRef="Ruth.2.1">Ru 2:1</ref>): <ref osisRef="Matt.1.5">Mt 1:5</ref>, <ref osisRef="Luke.3.32">Lk 3:32</ref>.†</sense>
+</entry>
 
-P6pPopos, -ov, 6, [in LXX: Je 45 (38)« (la-^M)*;] mud, filth: ii Pe 
+<entry n="βόρβορος|G1004">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βόρβορος, -ον, ὁ</orth>, [in LXX: <ref osisRef="LXX:Jer.45.6">Je 45(38):6</ref> (<foreign xml:lang="heb">טִיט</foreign>)*;] </form>
+  <sense><gloss>mud, filth</gloss>: <ref osisRef="2Pet.2.22">II Pe 2:22</ref>.†</sense>
+</entry>
 
-222 + 
+<entry n="βορρᾶς|G1005">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βορρᾶς, -ᾶ</orth> (Attic contr. of <foreign xml:lang="grc">Βορέας</foreign>, the North wind personified), [in LXX for <foreign xml:lang="heb">צָפֹון</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>Boreas, the North wind</gloss>. </sense>
+    <sense n="2."><gloss>the north</gloss>: <ref osisRef="Luke.13.29">Lk 13:29</ref>, <ref osisRef="Rev.21.13">Re 21:13</ref>.</sense>†</sense>
+</entry>
 
-Poppas, -a (Attic contr. of Bopc'as, the North wind personified), [in 
-LXX for ]iB^;] 1. Boreas, the North wind. 2. the north: Lk IS^^, 
+<entry n="βόσκω|G1006">
+  <note type="occurrencesNT">9</note>
+  <form>βόσκω, [in LXX for <foreign xml:lang="heb">רעה</foreign>;] </form>
+  <sense>prop., of a herdsman, <gloss>to feed</gloss>: <ref osisRef="Matt.8.33">Mt 8:33</ref>, <ref osisRef="Mark.5.14">Mk 5:14</ref>, <ref osisRef="Luke.8.34">Lk 8:34</ref>  <ref osisRef="Luke.15.15">15:15</ref>; metaph., of Christian pastoral care, <ref osisRef="John.21.15">Jo 21:15</ref>, <ref osisRef="John.21.17">17</ref>. Pass., of cattle, <gloss>to feed, graze</gloss>: <ref osisRef="Matt.8.30">Mt 8:30</ref>, <ref osisRef="Mark.5.11">Mk 5:11</ref>, <ref osisRef="Luke.8.32">Lk 8:32</ref>.† 
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ποιμαίνειν</foreign>, <gloss>to tend, shepherd</gloss>, a wider term, including oversight as well as feeding (v. Tr., <emph>Syn.</emph>, §xxv). </sense>
+</entry>
 
-Re 21i3.t 
+<entry n="Βοσόρ|G1007">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Βοσόρ</orth> v. <foreign xml:lang="grc">Βεώρ</foreign>.</form>
+</entry>
 
-^oaKw, [in LXX for nv^;] prop., of a herdsman, to feed: Mt 8^^, 
-Mk 51*, Lk 33* 15^5; metaph., of Christian pastoral care, Jo 21^5, 17, 
-Pass., of cattle, to feed, graze: Mt B^o, Mk 5^\ Lk B^'-^.t^ <lb /><emph>SYN.</emph>: TToifiaiveiv, to tend, shepherd, a wider term, including over- 
-sight as well as feeding (v. Tr., <emph>Syn.</emph>, §xxv). 
+<entry n="βοτάνη|G1008">
+  <note type="occurrencesNT"></note>
+  <form><orth>βοτάνη, -ῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">βόσκω</foreign>), [in LXX for <foreign xml:lang="heb">עֵשֶׂב</foreign>, <foreign xml:lang="heb">דֶשֶׁא</foreign>, <foreign xml:lang="heb">חָצִיר</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>grass, fodder</gloss>. </sense>
+    <sense n="2."><gloss>green herb</gloss>: <ref osisRef="Heb.6.7">He 6:7</ref>.†</sense>
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">λάχανον</foreign>, <emph>a garden herb</emph>, a vegetable. </sense>
+</entry>
 
-Boaop, V. Bcwp. 
+<entry n="βότρυς|G1009">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βότρυς, -οῦ, ὁ</orth>, [in LXX for <foreign xml:lang="heb">אֶשְׁכֹּל</foreign>;] </form>
+  <sense><gloss>a cluster of grapes</gloss>: <ref osisRef="Rev.14.18">Re 14:18</ref> (cf. <foreign xml:lang="grc">στραφυλή</foreign>) .†</sense>
+</entry>
 
-Poxdi^, -r;s, 7] «/?oV»ca)), [in LXX for n^y, Nizr^, Txn;] 1. 
+<entry n="βουλευτής|G1010">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βουλευτής, -οῦ, ὁ</orth> (&lt; <foreign xml:lang="grc">βουλεύω</foreign>), [in LXX: <ref osisRef="Job.3.14">Jb 3:14</ref>  <ref osisRef="Job.12.17">12:17</ref> (<foreign xml:lang="heb">יעץ</foreign>)*;] </form>
+  <sense><gloss>a councillor, a senator</gloss>; of a member of the Sanhedrin: <ref osisRef="Mark.15.34">Mk 15:34</ref>, <ref osisRef="Luke.23.50">Lk 23:50</ref>.†</sense>
+</entry>
 
-grass, fodder. 2. green herb: He 6^.t 
+<entry n="βουλεύω|G1011">
+  <note type="occurrencesNT">6</note>
+  <form>βουλεύω (&lt; <foreign xml:lang="grc">βουλή</foreign>), [in LXX chiefly for <foreign xml:lang="heb">יעץ</foreign>;] </form>
+  <sense><gloss>to take counsel, deliberate, resolve</gloss>. In mid., 
+    <sense n="1."><gloss>to take counsel with oneself, consider</gloss>: seq. <foreign xml:lang="grc">εἰ</foreign>, <ref osisRef="Luke.14.31">Lk 14:31</ref>. </sense>
+    <sense n="2."><gloss>to determine with oneself, resolve</gloss>: c. inf., <ref osisRef="Acts.5.33">Ac 5:33</ref>  <ref osisRef="Acts.27.39">27:39</ref>; c. acc., <ref osisRef="2Cor.1.17">II Co 1:17</ref>; seq. <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="John.11.53">Jo 11:53</ref>  <ref osisRef="John.12.10">12:10</ref> (cf. <foreign xml:lang="grc">παρα-</foreign>, <foreign xml:lang="grc">συμ-</foreign>).</sense>†
+  </sense>
+</entry>
 
-Syn.: Xaxavov, a garden herb, a vegetable. 
+<entry n="βουλή|G1012">
+  <note type="occurrencesNT">12</note>
+  <form><orth>βουλή, -ῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">βούλομαι</foreign>), [in LXX freq. for <foreign xml:lang="heb">עֵצָה</foreign>;] </form>
+  <sense><gloss>counsel, purpose</gloss> (in cl., esp. of the gods): <ref osisRef="Luke.23.51">Lk 23:51</ref>, <ref osisRef="Acts.4.28">Ac 4:28</ref>  <ref osisRef="Acts.5.38">5:38</ref> <ref osisRef="Acts.19.1">19:1</ref> <ref osisRef="Acts.27.12">27:12</ref>, <ref osisRef="Acts.27.42">42</ref>; pl., <ref osisRef="1Cor.4.5">I Co 4:5</ref>; of the Divine purpose, <ref osisRef="Heb.6.17">He 6:17</ref>; <foreign xml:lang="grc">τ. βουλὴν τ. θελήματος αὐτοῦ</foreign>, <ref osisRef="Eph.1.11">Eph 1:11</ref>; <foreign xml:lang="grc">β. τ. Θεοῦ</foreign>, <ref osisRef="Luke.7.30">Lk 7:30</ref>, <ref osisRef="Acts.2.23">Ac 2:23</ref>  <ref osisRef="Acts.13.36">13:36</ref> <ref osisRef="Acts.20.27">20:27</ref>.†</sense>
+</entry>
 
-Porpos, -uos, 6, [in LXX for bstjr^;] a cluster of grapes: Re 14^' 
+<entry n="βούλημα|G1013">
+  <note type="occurrencesNT">3</note>
+  <form><orth>βούλημα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">βούλομαι</foreign>), [in LXX: <ref osisRef="Prov.9.10">Pr 9:10</ref> (<foreign xml:lang="heb">דַּעַת</foreign>), <ref osisRef="2Macc.15.5">II Mac 15:5</ref>, <ref osisRef="4Macc.8.18">IV Mac 8:18</ref> *;] </form>
+  <sense><gloss>purpose, will</gloss>: <ref osisRef="Acts.27.43">Ac 27:43</ref>, <ref osisRef="Rom.9.19">Ro 9:19</ref>, <ref osisRef="1Pet.4.3">I Pe 4:3</ref>.†
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">θέλημα</foreign>.</sense>
+</entry>
 
-(of. a-Ta&lt;^v\rj) .^ 
+<entry n="βούλομαι|G1014">
+  <note type="occurrencesNT">37</note>
+  <form><orth>βούλομαι</orth>, [in LXX for <foreign xml:lang="heb">חפץ</foreign>, <foreign xml:lang="heb">אבה</foreign>, <foreign xml:lang="heb">יעץ</foreign>, etc.;] </form>
+  <sense><gloss>to will, wish, desire, purpose, be minded</gloss>, implying more strongly than <foreign xml:lang="grc">θέλω</foreign> (q.v.), the deliberate exercise of volition (v. Hort on <ref osisRef="Jas.1.18">Ja 1:18</ref>): c. inf. (M, <emph>Pr.</emph>, 205; Bl., §69, 4), <ref osisRef="Mark.15.15">Mk 15:15</ref>, <ref osisRef="Acts.5.28">Ac 5:28</ref>, 33 12:4 15:37 17:20 18:15, 27 19:30 22:30 23:28 27:43 28:18, <ref osisRef="2Cor.1.15">II Co 1:15</ref>, <ref osisRef="1Tim.6.9">I Ti 6:9</ref>, <ref osisRef="Heb.6.17">He 6:17</ref>, <ref osisRef="2John.1.12">II Jo 12</ref>, <ref osisRef="3John.1.10">III Jo 10</ref>, <ref osisRef="Jude.1.5">Ju 5</ref>; c. acc., <ref osisRef="2Cor.1.17">II Co 1:17</ref>; c. acc. et inf., <ref osisRef="Phil.1.12">Phl 1:12</ref>, <ref osisRef="1Tim.2.8">I Ti 2:8</ref>  <ref osisRef="1Tim.5.14">5:14</ref>, <ref osisRef="Titus.3.8">Tit 3:8</ref>, <ref osisRef="2Pet.3.9">II Pe 3:9</ref>; of the will making choice between alternatives, <ref osisRef="Matt.1.19">Mt 1:19</ref>  <ref osisRef="Matt.11.27">11:27</ref>, <ref osisRef="Luke.10.22">Lk 10:22</ref>, <ref osisRef="Acts.25.20">Ac 25:20</ref>, <ref osisRef="1Cor.12.11">I Co 12:11</ref>, <ref osisRef="Jas.3.4">Ja 3:4</ref>  <ref osisRef="Jas.4.4">4:4</ref>; <foreign xml:lang="grc">εἰ βούλει</foreign> (cl., a courteous phrase = <foreign xml:lang="grc">θέλεις</foreign>, colloq.; Bl., §21, 8; LS, s.v.), <ref osisRef="Luke.22.42">Lk 22:42</ref>; c. subjc., adding force to a question of deliberation (Bl., §64, 6), <ref osisRef="John.18.39">Jo 18:39</ref>; <foreign xml:lang="grc">βουληθείς</foreign>, <gloss>of set purpose</gloss> (v. Hort, in l.), <ref osisRef="Jas.1.18">Ja 1:18</ref>; impf., <foreign xml:lang="grc">ἐβουλόμην</foreign> (= cl. <foreign xml:lang="grc">βουλοίμην ἄν</foreign>; Bl., §63, 5; Lft., <emph>Phm.</emph> 13), <ref osisRef="Acts.25.22">Ac 25:22</ref>, <ref osisRef="Phlm.1.13">Phm 13</ref> (v. also Cremer, 143).†</sense>
+</entry>
 
-pooXcurVis, -ov, 6 {&lt;:/3ov\€vw), [in LXX: Jb 3" 12i7 (^y^)*;] a 
-councillor, a senator; of a member of the Sanhedrin: Mk 15*^, Lk 
-235o.t 
-
-PouXcuw {&lt;^PovXrj), [in LXX chiefly for ^jr;] to take counsel, 
-deliberate, resolve. In mid., 1. to take counsel with oneself, consider: 
-seq. tl, Lk 14^i. 2. to determine with oneself, resolve: c. inf., Ac 5^" 
-273^ C. ace, II Co V'; seq. cva, Jo IV^ 12^^ (cf. -rrapa-, &lt;rv^-).f 
-
-PouXii, -rj^, rj (&lt;^ y8ov\o/xai), [in LXX freq. for nxy;] counsel, 
-purpose (in cl., esp. of the gods): Lk 23*1, Ac 428 538 191 2712, 42 . 
-pi., I Co 45; of the Divine purpose, He 6^''; t. ^ovXrjv t. OiXrjfj.aTO'; 
-airov, Eph 111 . ^, ^. o^oC, Lk T^o, Ac 2^3 1336 2027.t 
-
-pouXtjixa, -T05, TO «y8ovA.o/Aai), [in LXX: Pr 910 (nri), II Mac 
-155, IV Mac 818 *;] purpose, will: Ac 27*3^ Ro d^^, i Pe 43.t 
-
-SVJV.: BiX-qfia. 
-
-PouXo/iai, [in LXX for ^Bn , niN , ^3r , etc.;] to will, wish, desire, 
-purpose, be minded, implying more strongly than diXat (q.v.), the 
-deliberate exercise of volition (v. Hort on Ja li^): c. inf. (M, <emph>Pr.</emph>, 205; 
-Bl., §69, 4), Mk 1515, Ac 528.33 12* 1537 1720 IB15.27 1930 2230 2328 27« 
-2818, II Co 115, I Ti 69, He 61^, 11 Jo 12, m Jo 10, Ju *; c. ace, 11 Co l^^; 
-c. ace. et inf.. Phi I12, i Ti 28 51^, Tit 38, 11 Pe 3^; of the will making 
-choice between alternatives, Mt li9 1127, Lk IO22, Ac 2520, i Co 12ii, 
-Ja 3* 4*; d /SovXn (cl., a courteous phrase = 6iXei^, colloq.; Bl., §21, 
-8; LS, s.v.), Lk 22*2 • q gubjc, adding force to a question of delibera- 
-tion (Bl., §64, 6), Jo 183'' . povXiqOii'i, of set purpose (v. Hort, in 1.), 
-Ja 118; impf., efiovXofjirjv ( = cl. ^ovXc'/jL-qv av ] Bl., §63, 5; Lft., Phm. ^^), 
-Ac 2522, Phm 13 (v. also Cremer, 143).t 
-
-
-
- <pb n="85" /> <!-- typed="" checked="" --> 
+<pb n="85" /> <!-- typed="" checked="" --> 
 
 PoukcJs, -ov, 6 (a Cyrenaic word, Hdt., iv, 199), [in LXX chiefly for 
 nyaa;] a hill: Lk 35(lxx) 233o.t 
