@@ -2732,8 +2732,11 @@
  </sense>
  </entry>
 
-**td-KaTd-\uTos, -ov (&lt;;»caTaXi;w), [in LXX: IV Mac 10^1*;] iiidis- 
-soluble: He l^^.f 
+<entry n="ἀκατάλυτος|G179">
+ <note type="occurrencesNT">1</note>
+ <form>**† <orth>ἀ-κατά-λυτος, -ον</orth> (&lt; <foreign xml:lang="grc">καταλύω</foreign>), [in LXX: <ref osisRef="4Macc.10.11">IV Mac 10:11</ref> *;] </form>
+ <sense><gloss>indissoluble</gloss>: <ref osisRef="Heb.7.16">He 7:16</ref>. †</sense>
+ </entry>
 
 *t dKaTdirao-Tos (v. Mayor, 11 Pe, cxcvii; WH. App., 170; MM. 
 VGT, s.v.), -ov, a form otherwise unknown, prob. colloq. for -irava-ros 
