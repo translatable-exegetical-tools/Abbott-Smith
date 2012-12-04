@@ -2738,14 +2738,16 @@
  <sense><gloss>indissoluble</gloss>: <ref osisRef="Heb.7.16">He 7:16</ref>. †</sense>
  </entry>
 
-*t dKaTdirao-Tos (v. Mayor, 11 Pe, cxcvii; WH. App., 170; MM. 
-VGT, s.v.), -ov, a form otherwise unknown, prob. colloq. for -irava-ros 
-(q.v.): II Pe 2^*, L., Tr. mg., WH.t 
+<entry n="ἀκατάπαστος|G180">
+ <note type="occurrencesNT">1</note>
+ <form>*† <orth>ἀκατάπαστος</orth> (v. Mayor, II Pe, cxcvii; WH. <emph>App.</emph>, 170; MM. <emph>VGT</emph>, s.v.), <orth>-ον</orth>, a form otherwise unknown, prob. colloq. for <foreign xml:lang="grc">-παυστος</foreign> (q.v.): <ref osisRef="2Pet.2.14">II Pe 2:14</ref>, L., Tr. mg., WH. †</form>
+ </entry>
 
-*t dKardTraoo-Tos, -ov (&lt;^ /caraTrai'w) , that cannot cease, not to be re- 
-strained: c. gen. rei, 11 Pe 2^*, T, Tr. txt.t 
-
-
+<entry n="ἀκατάπαυστος|G180">
+ <note type="occurrencesNT">1</note>
+ <form>*† <orth>ἀκατάπαυστος, -ον</orth> (&lt; <foreign xml:lang="grc">καταπαύω</foreign>), </form>
+ <sense><gloss>that cannot cease, not to be restrained</gloss>: c. gen. rei, <ref osisRef="2Pet.2.14">II Pe 2:14</ref>, T, Tr. txt. †</sense>
+ </entry>
 
  <pb n="17" /> <!-- typed="" checked="" --> 
 
