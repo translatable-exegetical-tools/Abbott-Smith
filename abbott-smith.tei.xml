@@ -2677,7 +2677,7 @@
 
 <entry n="ἀκαίρως|G171">
  <note type="occurrencesNT">1</note>
- <form>** <orth>ἀκαίρως</orth>, <pos>adv.</pos> (&lt; <foreign xml:lang="grc">ἄκαιρος</foreign>, <gloss>unseasonable</gloss>), [in LXX: Si 35 (32):4 *;] </form>
+ <form>** <orth>ἀκαίρως</orth>, <pos>adv.</pos> (&lt; <foreign xml:lang="grc">ἄκαιρος</foreign>, <gloss>unseasonable</gloss>), [in LXX: <ref osisRef="Sir.32.4">Si 35 (32):4</ref> *;] </form>
  <sense><gloss>out of season, unseasonably</gloss>: opp. to <foreign xml:lang="grc">εὐκαίρως</foreign> (q.v.), <ref osisRef="2Tim.4.2">II Ti 4:2</ref> (cf. Cremer, 740; MM, <emph>VGT</emph>, s.v.). † </sense>
  </entry>
 
