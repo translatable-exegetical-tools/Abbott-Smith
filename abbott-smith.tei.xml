@@ -2659,13 +2659,15 @@
  <sense><gloss>uncleanness</gloss>: <ref osisRef="Rev.17.4">Re 17:4</ref>, Rec. (for <foreign xml:lang="grc">τ. ἀκάθαρτα</foreign>). †</sense>
  </entry>
 
-dKdOapTos, -ov « d- neg., Kadatpw), [in LXX chiefly for NQ^;] mw- 
-
-cZea?i, impure; (a) physically (LS, MM, <emph>VGT</emph>, s.v.); (&amp;) ceremonially: 
-Ac IQi'*' ^8 118, 1 Co 714, II Co 617, Re 18^; (c) morally: Eph 5^ Re 17*; 
-c. TTv^ifxa, as always in Gosp., Mt 10^ 12*^, Mk 123,26,27 311,30 52,8,13 
-67 725 925^ Lk 433,36 618 829 942 ii24_ Ac 516 8^ Re 16^3 (cf. Cremer, 
-320). t 
+<entry n="ἀκάθαρτος|G169">
+ <note type="occurrencesNT">32</note>
+ <form><orth>ἀκάθαρτος, -ον</orth> (&lt; <foreign xml:lang="grc">ἀ-</foreign> neg., <foreign xml:lang="grc">καθαίρω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">טָמֵא</foreign> ;] </form>
+ <sense><gloss>unclean, impure</gloss>; 
+   <sense n="(a)">physically (LS, MM, <emph>VGT</emph>, s.v.);</sense>
+   <sense n="(b)">ceremonially: <ref osisRef="Acts.10.14">Ac 10:14</ref>,<ref osisRef="Acts.10.28">28</ref> <ref osisRef="Acts.11.8">11:8</ref>, <ref osisRef="1Cor.7.14">I Co 7:14</ref>, <ref osisRef="2Cor.6.17">II Co 6:17</ref>, <ref osisRef="Rev.18.2">Re 18:2</ref>; </sense>
+   <sense n="(c)">morally: <ref osisRef="Eph.5.5">Eph 5:5</ref>, <ref osisRef="Rev.17.4">Re 17:4</ref>; c. <foreign xml:lang="grc">πνεῦμα</foreign>, as always in Gosp., <ref osisRef="Matt.10.1">Mt 10:1</ref> <ref osisRef="Matt.12.43">12:43</ref>, <ref osisRef="Mark.1.23">Mk 1:23</ref>,<ref osisRef="Mark.1.26">26</ref>,<ref osisRef="Mark.1.27">27</ref> <ref osisRef="Mark.3.11">3:11</ref>,<ref osisRef="Mark.3.30">30</ref> <ref osisRef="Mark.5.2">5:2</ref>,<ref osisRef="Mark.5.8">8</ref>,<ref osisRef="Mark.5.13">13</ref> <ref osisRef="Mark.6.7">6:7</ref> <ref osisRef="Mark.7.25">7:25</ref> <ref osisRef="Mark.9.25">9:25</ref>, <ref osisRef="Luke.4.33">Lk 4:33</ref>,<ref osisRef="Luke.4.36">36</ref> <ref osisRef="Luke.6.18">6:18</ref> <ref osisRef="Luke.8.29">8:29</ref> <ref osisRef="Luke.9.42">9:42</ref> <ref osisRef="Luke.11.24">11:24</ref>, <ref osisRef="Acts.5.16">Ac 5:16</ref> <ref osisRef="Acts.8.7">8:7</ref>, <ref osisRef="Rev.16.13">Re 16:13</ref> (cf. Cremer, 320). †</sense>
+ </sense>
+ </entry>
 
 *t dKaip€'o(i,ai, -ovfj.ai (&lt;^ aKatpo?, unseasonable), to have no oppor- 
 tunity (opp. to evKaLpiOi): Phi A^'^.f 
