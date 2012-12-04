@@ -2705,10 +2705,11 @@
  </sense>
  </entry>
 
-d-KapTTos, -ov, [in LXX: Je 26 (Dip^S), Wi 15*, iv Mac 16'*;] 
-
-unfruitful, barren: fig., Mt I322, Mk 4^9, i Co 14^*, Eph 5^\ Tit 3^*, 
-II Pe 18, Ju i2.t 
+<entry n="ἄκαρπος|G175">
+ <note type="occurrencesNT">7</note>
+ <form><orth>ἄ-καρπος, -ον</orth>, [in LXX: <ref osisRef="Jer.2.6">Je 2:6</ref> (<foreign xml:lang="heb">צַלְמָוֶת</foreign>), <ref osisRef="Wis.15.4">Wi 15:4</ref>, <ref osisRef="4Macc.16.7">IV Mac 16:7</ref> ;] </form>
+ <sense><gloss>unfruitful, barren</gloss>: fig., <ref osisRef="Matt.13.22">Mt 13:22</ref>, <ref osisRef="Mark.4.19">Mk 4:19</ref>, <ref osisRef="1Cor.14.14">I Co 14:14</ref>, <ref osisRef="Eph.5.11">Eph 5:11</ref>, <ref osisRef="Titus.3.14">Tit 3:14</ref>, <ref osisRef="2Pet.1.8">II Pe 1:8</ref>, <ref osisRef="Jude.1.12">Ju 12</ref>. †</sense>
+ </entry>
 
 **t d-KaTd-YkwoTTOs, -ov (&lt;^ Karayi Vwo-kw) , [in LXX: II Mac 4*''*;] not 
 open to just rebtike, irrejyrehensible: Tit 2* (v. Cremer, 676; and for 
