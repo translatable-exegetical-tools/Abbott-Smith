@@ -2723,9 +2723,14 @@
  <sense><gloss>uncovered, unveiled</gloss>: <ref osisRef="1Cor.11.5">I Co 11:5</ref>, <ref osisRef="1Cor.11.13">13</ref>. †</sense>
  </entry>
 
-*t d-Kard-KpiTos, -ov (&lt; KaTaKpcvw), 1. imcondemned (EV): Ac 16*^ 
-2225. 2. = cl. aKpiTo&lt;;, without trial, not yet tried (MM, <emph>VGT</emph>, s.v.) 
-Ac, 11. cc.t 
+<entry n="ἀκατάκριτος|G178">
+ <note type="occurrencesNT">2</note>
+ <form>*† <orth>ἀ-κατά-κριτος, -ον</orth> (&lt; <foreign xml:lang="grc">κατακρίνω</foreign>), </form>
+ <sense>
+   <sense n="1."><gloss>uncondemned</gloss> (EV): <ref osisRef="Acts.16.37">Ac 16:37</ref>, 22:25.</sense>
+   <sense n="2.">= cl. <foreign xml:lang="grc">ἄκριτος</foreign>, <gloss>without trial, not yet tried</gloss> (MM, <emph>VGT</emph>, s.v.) Ac, ll. cc. † </sense>
+ </sense>
+ </entry>
 
 **td-KaTd-\uTos, -ov (&lt;;»caTaXi;w), [in LXX: IV Mac 10^1*;] iiidis- 
 soluble: He l^^.f 
