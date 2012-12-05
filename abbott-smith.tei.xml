@@ -7297,75 +7297,120 @@ lifeless: 1 Co 14^.†
 <entry n="βούλομαι|G1014">
   <note type="occurrencesNT">37</note>
   <form><orth>βούλομαι</orth>, [in LXX for <foreign xml:lang="heb">חפץ</foreign>, <foreign xml:lang="heb">אבה</foreign>, <foreign xml:lang="heb">יעץ</foreign>, etc.;] </form>
-  <sense><gloss>to will, wish, desire, purpose, be minded</gloss>, implying more strongly than <foreign xml:lang="grc">θέλω</foreign> (q.v.), the deliberate exercise of volition (v. Hort on <ref osisRef="Jas.1.18">Ja 1:18</ref>): c. inf. (M, <emph>Pr.</emph>, 205; Bl., §69, 4), <ref osisRef="Mark.15.15">Mk 15:15</ref>, <ref osisRef="Acts.5.28">Ac 5:28</ref>, 33 12:4 15:37 17:20 18:15, 27 19:30 22:30 23:28 27:43 28:18, <ref osisRef="2Cor.1.15">II Co 1:15</ref>, <ref osisRef="1Tim.6.9">I Ti 6:9</ref>, <ref osisRef="Heb.6.17">He 6:17</ref>, <ref osisRef="2John.1.12">II Jo 12</ref>, <ref osisRef="3John.1.10">III Jo 10</ref>, <ref osisRef="Jude.1.5">Ju 5</ref>; c. acc., <ref osisRef="2Cor.1.17">II Co 1:17</ref>; c. acc. et inf., <ref osisRef="Phil.1.12">Phl 1:12</ref>, <ref osisRef="1Tim.2.8">I Ti 2:8</ref>  <ref osisRef="1Tim.5.14">5:14</ref>, <ref osisRef="Titus.3.8">Tit 3:8</ref>, <ref osisRef="2Pet.3.9">II Pe 3:9</ref>; of the will making choice between alternatives, <ref osisRef="Matt.1.19">Mt 1:19</ref>  <ref osisRef="Matt.11.27">11:27</ref>, <ref osisRef="Luke.10.22">Lk 10:22</ref>, <ref osisRef="Acts.25.20">Ac 25:20</ref>, <ref osisRef="1Cor.12.11">I Co 12:11</ref>, <ref osisRef="Jas.3.4">Ja 3:4</ref>  <ref osisRef="Jas.4.4">4:4</ref>; <foreign xml:lang="grc">εἰ βούλει</foreign> (cl., a courteous phrase = <foreign xml:lang="grc">θέλεις</foreign>, colloq.; Bl., §21, 8; LS, s.v.), <ref osisRef="Luke.22.42">Lk 22:42</ref>; c. subjc., adding force to a question of deliberation (Bl., §64, 6), <ref osisRef="John.18.39">Jo 18:39</ref>; <foreign xml:lang="grc">βουληθείς</foreign>, <gloss>of set purpose</gloss> (v. Hort, in l.), <ref osisRef="Jas.1.18">Ja 1:18</ref>; impf., <foreign xml:lang="grc">ἐβουλόμην</foreign> (= cl. <foreign xml:lang="grc">βουλοίμην ἄν</foreign>; Bl., §63, 5; Lft., <emph>Phm.</emph> 13), <ref osisRef="Acts.25.22">Ac 25:22</ref>, <ref osisRef="Phlm.1.13">Phm 13</ref> (v. also Cremer, 143).†</sense>
+  <sense><gloss>to will, wish, desire, purpose, be minded</gloss>, implying more strongly than <foreign xml:lang="grc">θέλω</foreign> (q.v.), the deliberate exercise of volition (v. Hort on <ref osisRef="Jas.1.18">Ja 1:18</ref>): c. inf. (M, <emph>Pr.</emph>, 205; Bl., §69, 4), <ref osisRef="Mark.15.15">Mk 15:15</ref>, <ref osisRef="Acts.5.28">Ac 5:28</ref>, 33 12:4 15:37 17:20 18:15, 27 19:30 22:30 23:28 27:43 28:18, <ref osisRef="2Cor.1.15">II Co 1:15</ref>, <ref osisRef="1Tim.6.9">I Ti 6:9</ref>, <ref osisRef="Heb.6.17">He 6:17</ref>, <ref osisRef="2John.1.12">II Jo 12</ref>, <ref osisRef="3John.1.10">III Jo 10</ref>, <ref osisRef="Jude.1.5">Ju 5</ref>; c. acc., <ref osisRef="2Cor.1.17">II Co 1:17</ref>; c. acc. et inf., <ref osisRef="Phil.1.12">Phl 1:12</ref>, <ref osisRef="1Tim.2.8">I Ti 2:8</ref>  <ref osisRef="1Tim.5.14">5:14</ref>, <ref osisRef="Titus.3.8">Tit 3:8</ref>, <ref osisRef="2Pet.3.9">II Pe 3:9</ref>; of the will making choice between alternatives, <ref osisRef="Matt.1.19">Mt 1:19</ref>  <ref osisRef="Matt.11.27">11:27</ref>, <ref osisRef="Luke.10.22">Lk 10:22</ref>, <ref osisRef="Acts.25.20">Ac 25:20</ref>, <ref osisRef="1Cor.12.11">I Co 12:11</ref>, <ref osisRef="Jas.3.4">Ja 3:4</ref>  <ref osisRef="Jas.4.4">4:4</ref>; <foreign xml:lang="grc">εἰ βούλει</foreign> (cl., a courteous phrase = <foreign xml:lang="grc">θέλεις</foreign>, colloq.; Bl., §21, 8; LS, s.v.), <ref osisRef="Luke.22.4PoukcJs, -ov, 6 (a Cyrenaic word, Hdt., iv, 199), [in LXX chiefly for 
+nyaa;] a hill: Lk 35(lxx) 233o.t 2">Lk 22:42</ref>; c. subjc., adding force to a question of deliberation (Bl., §64, 6), <ref osisRef="John.18.39">Jo 18:39</ref>; <foreign xml:lang="grc">βουληθείς</foreign>, <gloss>of set purpose</gloss> (v. Hort, in l.), <ref osisRef="Jas.1.18">Ja 1:18</ref>; impf., <foreign xml:lang="grc">ἐβουλόμην</foreign> (= cl. <foreign xml:lang="grc">βουλοίμην ἄν</foreign>; Bl., §63, 5; Lft., <emph>Phm.</emph> 13), <ref osisRef="Acts.25.22">Ac 25:22</ref>, <ref osisRef="Phlm.1.13">Phm 13</ref> (v. also Cremer, 143).†</sense>
 </entry>
 
 <pb n="85" /> <!-- typed="" checked="" --> 
 
-PoukcJs, -ov, 6 (a Cyrenaic word, Hdt., iv, 199), [in LXX chiefly for 
-nyaa;] a hill: Lk 35(lxx) 233o.t 
+<entry n="βουνός|G1015">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βουνός, -οῦ, ὁ</orth> (a Cyrenaїc word, Hdt., iv, 199), [in LXX chiefly for <foreign xml:lang="heb">גִּבְעָה</foreign>;] </form>
+  <sense><gloss>a hill</gloss>: <ref osisRef="Luke.3.5">Lk 3:5</ref> (LXX) <ref osisRef="Luke.23.30">23:30</ref>.†</sense>
+</entry>
 
-Pous, (3o6&lt;i, 6, -q, [in LXX chiefly for ij?^;] an ox, a cow: Lk 13" 
+<entry n="βοῦς|G1016">
+  <note type="occurrencesNT">8</note>
+  <form><orth>βοῦς, βοός, ὁ, ἡ</orth>, [in LXX chiefly for <foreign xml:lang="heb">בָּקָר</foreign>;] </form>
+  <sense><gloss>an ox, a cow</gloss>: <ref osisRef="Luke.13.15">Lk 13:15</ref>  <ref osisRef="Luke.14.5">14:5</ref>,  <ref osisRef="Luke.14.19">19</ref> <ref osisRef="John.2.14">Jo 2:14</ref>,  <ref osisRef="John.2.15">15</ref> <ref osisRef="1Cor.9.9">I Co 9:9</ref> (LXX), <ref osisRef="1Tim.5.18">I Ti 5:18</ref>.†</sense>
+</entry>
 
-146. 19^ Jo 214. IS, I Co 99 (^^^\ I Ti 5i8.t 
+<entry n="βραβεῖον|G1017">
+  <note type="occurrencesNT">2</note>
+  <form>* <orth>βραβεῖον, -ου, τό</orth> (&lt; <foreign xml:lang="heb">βραβεύς</foreign>, <emph>an umpire</emph>), </form>
+  <sense><gloss>a prize</gloss> in the games: <ref osisRef="1Cor.9.24">I Co 9:24</ref>; metaph., of the Christian's reward, <ref osisRef="Phil.3.14">Phl 3:14</ref>.†</sense>
+</entry>
 
-* PpaPciok, -ov, TO («&lt; /SpayScvs, an Umpire), a prize in the games: 
-I Co 924; metaph., of the Christian's reward. Phi 3i*.t 
+<entry n="βραβεύω|G1018">
+  <note type="occurrencesNT">1</note>
+  <form>** <orth>βραβεύω</orth> (&lt; <foreign xml:lang="grc">βραβεύς</foreign>, <emph>an umpire</emph>), [in LXX: <ref osisRef="Wis.10.12">Wi 10:12</ref>*;] </form>
+  <sense>
+    <sense n="(a)">prop., <gloss>to act as umpire</gloss>; hence, </sense>
+    <sense n="(b)">generally, <gloss>to arbitrate, decide</gloss> (Isocr., Dem.; Lft., <emph>Col.</emph>, l.c.; MM, s.v.): <ref osisRef="Col.3.15">Col 3:15</ref>; </sense>
+    <sense n="(c)">in some late writers, <gloss>to direct, rule, control</gloss> (so in Col., l.c., acc. to Thayer, s.v., Meyer, in l.), (cf. <foreign xml:lang="grc">κατα-βραβεύω</foreign>).</sense>†
+  </sense>
+</entry>
 
-** ppaPco'u (&lt;;3pa/?ev?, aw Umpire), [in LXX: Wi 10^2 *;] (a) prop., 
-to act as umpire; hence, {b) generally, to arbitrate, decide (Isocr., 
-Dem.; Lft., Col., I.e.; MM, s.v.): Col 3^*; (c) in some late writers, 
-to direct, rule, control (so in Col., I.e., ace. to Thayer, s.v., Meyer, 
-in 1.), (cf. Kara- /3 pa 13 evo)).f 
+<entry n="βραδύνω|G1019">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βραδύνω</orth> (&lt; <foreign xml:lang="grc">βραδύς</foreign>), [in LXX: <ref osisRef="Gen.43.10">Ge 43:10</ref> (<foreign xml:lang="heb">מההּ</foreign> hith.), <ref osisRef="Deut.7.10">De 7:10</ref>, <ref osisRef="Isa.46.13">Is 46:13</ref> (<foreign xml:lang="grc">אחר</foreign> pi.), <ref osisRef="Sir.32.18">Si 32 (35):18</ref>*;] </form>
+  <sense>
+    <sense n="1.">trans., <gloss>to retard</gloss> (Soph., Is, l.c.). </sense>
+    <sense n="2.">More freq. intrans., <gloss>to be slow, to tarry</gloss>: <ref osisRef="1Tim.3.15">I Ti 3:15</ref>, <ref osisRef="2Pet.3.9">II Pe 3:9</ref>.</sense>†
+  </sense>
+</entry>
 
-ppaSuVu «;8pa8vs), [in LXX: Ge 43io (ma hith.), De T^", 
-Is 46^3 (-inN pi.), Si 32 (35)i8*;] 1. trans., to retard (Soph., Is, I.e.). 
-2. More freq. intrans., to be slow, to tarry: i Ti 3", 11 Pe 3^.t 
+<entry n="βραδυπλοέω|G1020">
+  <note type="occurrencesNT">1</note>
+  <form>*† <orth>βραδυπλοέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">βραδύς, πλοῦς</foreign>), </form>
+  <sense><gloss>to sail slowly</gloss>: <ref osisRef="Acts.27.7">Ac 27:7</ref>.†</sense>
+</entry>
 
-*t ppaSuirXoc'u, -w {&lt;C /3pa8v&lt;:, ttAovs), to sail slowly: Ac 27''.t 
+<entry n="βραδύς|G1021">
+  <note type="occurrencesNT">3</note>
+  <form>* <orth>βραδύς, -εῖα, -ύ</orth>, </form>
+  <sense><gloss>slow</gloss>: <foreign xml:lang="grc">εἰς τὸ λαλῆσαι</foreign>, <ref osisRef="Jas.1.19">Ja 1:19</ref>; metaph., of the understanding: <foreign xml:lang="grc">β. τ. καρδίᾳ</foreign>, assoc. with <foreign xml:lang="grc">ἀνόητος</foreign>, <ref osisRef="Luke.24.25">Lk 24:25</ref>.†</sense>
+</entry>
 
-* ppaSus, -cia, -V, slow: €is to Xakija-ai, Ja 1^^; metaph., of the 
-understanding: ft. t. KapSia, assoc. with dvoT/ro?, Lk 24^*. t 
+<entry n="βραδύτης|G1022">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>βραδύτης, -ῆτος, ἡ</orth>, </form>
+  <sense><gloss>slowness</gloss>: <ref osisRef="2Pet.3.9">II Pe 3:9</ref>.†</sense>
+</entry>
 
-*Ppa8oTiis, -»}tos, rj, slowness: 11 Pe 3^.t 
-fipaxiiav, -ovos, 6, [in LXX, ft. KvpCov, freq. for njiT. y^lT;] the 
+<entry n="βραχίων|G1023">
+  <note type="occurrencesNT">3</note>
+  <form><orth>βραχίων, -ὀνος, ὁ</orth>, [in LXX, <foreign xml:lang="grc">β. Κυρίου</foreign>, freq. for <foreign xml:lang="heb">זְרוֹעַ יהוָֹה</foreign>;] </form>
+  <sense><gloss>the arm</gloss>; as in OT, <foreign xml:lang="grc">β. Κυρίου</foreign>, metaph., for the Divine power: <ref osisRef="Luke.1.51">Lk 1:51</ref>, <ref osisRef="John.12.38">Jo 12:38</ref> (LXX), <ref osisRef="Acts.13.17">Ac 13:17</ref>.†</sense>
+</entry>
 
-arm; as in OT, ft. Kvpiov, metaph., for the Divine power: Lk 1*^, 
-Jo 1238 (LXX)^ Ac 13i7.t 
+<entry n="βραχύς|G1024">
+  <note type="occurrencesNT">5</note>
+  <form><orth>βραχύς, -εῖα, -ύ</orth>, [in LXX chiefly for <foreign xml:lang="heb">מְעַט</foreign>;] </form>
+  <sense><gloss>short</gloss>; 
+  <sense n="(a)">of time; <gloss>short, little</gloss>: <foreign xml:lang="grc">βραχύ</foreign>, <ref osisRef="Acts.5.34">Ac 5:34</ref>; <foreign xml:lang="grc">μετὰ β.</foreign>, <ref osisRef="Luke.22.58">Lk 22:58</ref>; <foreign xml:lang="grc">β. τι</foreign>, <gloss>a short time</gloss>, <ref osisRef="Heb.2.7">He 2:7</ref>,  <ref osisRef="Heb.2.9">9</ref> RV, mg.; </sense>
+  <sense n="(b)">of distance: <ref osisRef="Acts.27.28">Ac 27:28</ref>; </sense>
+  <sense n="(c)">of quantity or value, <gloss>little, few</gloss>: <ref osisRef="John.6.7">Jo 6:7</ref>, <ref osisRef="Heb.2.7">He 2:7</ref>,  <ref osisRef="Heb.2.9">9</ref> RV, txt.; pl., <foreign xml:lang="grc">διὰ βραχέων</foreign>, <gloss>in few words</gloss>, <ref osisRef="Heb.13.22">He 13:22</ref>.</sense>†</sense>
+</entry>
 
-Ppaxus, -eta, -V, [in LXX chiefly for layp;] short; (a) of time; 
+<entry n="βρέφος|G1025">
+  <note type="occurrencesNT">8</note>
+  <form>** <orth>βρέφος, -ους, τό</orth>, [in LXX: <ref osisRef="Sir.19.11">Si 19:11</ref>, <ref osisRef="1Macc.1.61">I Mac 1:61</ref>, <ref osisRef="2Macc.6.10">II Mac 6:10</ref>, <ref osisRef="3Macc.5.49">III Mac 5:49</ref>, <ref osisRef="4Macc.4.25">IV Mac 4:25</ref>*;] </form>
+  <sense>
+    <sense n="1."><gloss>an unborn child</gloss>: <ref osisRef="Luke.1.41">Lk 1:41</ref>, <ref osisRef="Luke.1.44">44</ref>. </sense>
+    <sense n="2."><gloss>a newborn child, a babe</gloss>: <ref osisRef="Luke.2.12">Lk 2:12</ref>, <ref osisRef="Luke.2.16">16</ref> <ref osisRef="Luke.18.15">18:15</ref>, <ref osisRef="Acts.7.19">Ac 7:19</ref>, <ref osisRef="1Pet.2.2">I Pe 2:2</ref>; <foreign xml:lang="grc">ἀπὸ βρέφους</foreign>, <gloss>from infancy</gloss>, <ref osisRef="2Tim.3.15">II Ti 3:15</ref>.</sense>†
+    </sense>
+</entry>
 
-short, little: ftpa-xy, Ac 5^*; /actci ft., Lk 22*®; ft. n, a short time, 
-He 2'^. ^, EV, mg.; (6) of distance: Ac 27^®; (c) of quantity or value, 
-little, few: Jo 6^, He 2''»^, EV, txt.; pi., hia ftpaxeav, in few words. 
-He 1322.t 
+<entry n="βρέχω|G1026">
+  <note type="occurrencesNT">8</note>
+  <form>βρέχω, [in LXX chiefly for <foreign xml:lang="heb">מטר</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>to wet</gloss>: <ref osisRef="Luke.7.38">Lk 7:38</ref>, <ref osisRef="Luke.7.44">44</ref>. </sense>
+    <sense n="2.">In late Gk. writers and vernac. = <foreign xml:lang="grc">ὕειν</foreign>, <gloss>to send rain, to rain</gloss> (Kennedy, <emph>Sources</emph>, 39, 155): <ref osisRef="Matt.5.45">Mt 5:45</ref>; trop., <foreign xml:lang="grc">β. πῦρ κ. θεῖον</foreign>, <ref osisRef="Luke.17.29">Lk 17:29</ref>; impers., <foreign xml:lang="grc">βρέχει</foreign>, <gloss>it rains</gloss>: <ref osisRef="Jas.5.17">Ja 5:17</ref>; with <foreign xml:lang="grc">ὐετός</foreign> as subj., <ref osisRef="Rev.11.6">Re 11:6</ref>.†</sense>
+  </sense>
+</entry>
 
-**Pp^4.os, -ovs, to, [in LXX: Si 19ii, i Mac le^, 11 Mac 6^0, 
-III Mac 5*^, IV Mac 4^**;] 1. an unborn child: Lk l^i. •**. 2. a new- 
-born child, a babe: Lk 2^2, le igis^ Ac 7l^ i Pe 2^; 6.-Kh ftpe&lt;f&gt;ov&lt;;, from 
-infancy, 11 Ti 3".t 
+<entry n="βροντή|G1027">
+  <note type="occurrencesNT">12</note>
+  <form><orth>βροντή, -ῆς, ἡ</orth>, [in LXX for <foreign xml:lang="heb">רַעַם</foreign>;] </form>
+  <sense><gloss>thunder</gloss>: <ref osisRef="Mark.3.17">Mk 3:17</ref>, <ref osisRef="John.12.29">Jo 12:29</ref>, <ref osisRef="Rev.4.5">Re 4:5</ref>  <ref osisRef="Rev.6.1">6:1</ref> <ref osisRef="Rev.8.5">8:5</ref> <ref osisRef="Rev.10.3">10:3</ref>, <ref osisRef="Rev.10.4">4</ref> <ref osisRef="Rev.11.19">11:19</ref> <ref osisRef="Rev.14.2">14:2</ref> <ref osisRef="Rev.16.18">16:18</ref> <ref osisRef="Rev.19.6">19:6</ref>.†</sense>
+</entry>
 
-pp^X«, [in LXX chiefly for 1130;] 1. &lt;o wet: Lk 738.**. 2. In 
-late Gk. writers and vernac. = vctv, to send rain, to rain (Kennedy, 
-Sources, 39, 155): Mt 5"; trop., ft. Tzvp k. Bilov, Lk 17^^; impers., 
-ftp^X^i, it rains: Ja 5^"^; with vctos as subj., Ee ll^.t 
+<entry n="βροχή|G1028">
+  <note type="occurrencesNT">2</note>
+  <form><orth>βροχή, -ἠῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">βρέχω</foreign>), [in LXX: <ref osisRef="LXX:Ps.67.9">Ps 67 (68):9</ref>, <ref osisRef="LXX:Ps.104.32">104 (105):32</ref> (<foreign xml:lang="heb">גֶּשֶׁם</foreign>)*;] </form>
+  <sense>
+    <sense n="1.">= <foreign xml:lang="grc">βροχετός</foreign>, <gloss>a wetting</gloss> (in <foreign xml:lang="grc">π.</foreign>, of irrigation in Egypt; Deiss., <emph>LAE</emph>, 77). </sense>
+    <sense n="2.">As in MGr. (Kennedy, <emph>Sources</emph>, 153), = <foreign xml:lang="grc">ὑετός</foreign>, <gloss>rain</gloss>: <ref osisRef="Matt.7.25">Mt 7:25</ref>, <ref osisRef="Matt.7.27">27</ref>.</sense>†
+  </sense>
+</entry>
 
-PpofTT), -^s, V, [in LXX for Dm;] thunder: Mk 3^^ Jo 1229, 
-
-Ee 45 61 85 103. " 1119 142 1618 19«.t 
-
-tppoxVi, -^s, V «/8/)£», [in LXX: Ps 67 (68)», 104 (105)32 
-(DTS^a)*;] 1. = ftpoxiT6&lt;i, a wetting (in tt., of irrigation in Egypt; 
-
-Deiss., <emph>LAE</emph>, 77). 2. As in MGr. (Kennedy, Sources, 153), = wcto's, 
-rain: Mt 725.27.t 
-
-pp&lt;5xos, -ov, 6, [in LXX: Pr 6* (Tj 721 (p^D) 2225 (tzrpto), 
-
-III Mac 48 *;] a noose, a slip-knot, a halter: metaph., a restraint (not, 
-as AV, E, txt., a snare): i Co l^^.f 
-
-
+<entry n="βρόχος|G1029">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βρόχος, -ου, ὁ</orth>, [in LXX: <ref osisRef="Prov.6.5">Pr 6:5</ref> (<foreign xml:lang="heb">יָד</foreign>) <ref osisref="Prov.7.21">7:21</ref> (<foreign xml:lang="heb">חֵלֶק</foreign>) <ref osisRef="Prov.22.25">22:25</ref> (<foreign xml:lang="heb">מֹוקֵשׁ</foreign>), <ref osisRef="3Macc.4.8">III Mac 4:8</ref> *;] </form>
+  <sense><gloss>a noose, a slip-knot, a halter</gloss>: metaph., <gloss>a restraint</gloss> (not, as AV, R, txt., <gloss>a snare</gloss>): <ref osisRef="1Cor.7.35">I Co 7:35</ref>.†</sense>
+</entry>
 
  <pb n="86" /> <!-- typed="" checked="" -->
 
