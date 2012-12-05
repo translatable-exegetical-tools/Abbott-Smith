@@ -2644,67 +2644,110 @@
  </sense>
  </entry>
 
-dKaOapaia, -as, rj « aKu^apros), [in LXX chiefly for HNDtf , XD^ l] 
+<entry n="ἀκαθαρσία|G167">
+ <note type="occurrencesNT">10</note>
+ <form><orth>ἀκαθαρσία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀκάθαρτος</foreign>), [in LXX chiefly for <foreign xml:lang="heb">טֻמְאָה</foreign>, <foreign xml:lang="heb">טָמֵא</foreign> ;] </form>
+ <sense><gloss>uncleanness, impurity,</gloss> 
+   <sense n="(a)">physical (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Matt.23.27">Mt 23:27</ref>;</sense>
+   <sense n="(b)">moral: <ref osisRef="Rom.1.24">Ro 1:24</ref> <ref osisRef="Rom.6.19">6:19</ref>, <ref osisRef="2Cor.12.21">II Co 12:21</ref>, <ref osisRef="Gal.5.19">Ga 5:19</ref>, <ref osisRef="Eph.4.19">Eph 4:19</ref> <ref osisRef="Eph.5.3">5:3</ref>, <ref osisRef="Col.3.5">Col 3:5</ref>, <ref osisRef="1Thess.2.3">I Th 2:3</ref> <ref osisRef="1Thess.4.7">4:7</ref>. †</sense>
+ </sense>
+ </entry>
 
-uncleanmss, impurity, (a) physical (MM, <emph>VGT</emph>, s.v.): Mt 23-^; (b) 
-moral: Bo V^^ 6'^, 11 Co 122\ Ga 5i9, Eph 4^9 5^, Col 3^, i Th 2^ 47.t 
-*t dKa0dpTTjs, -Tos, 17, uncleanness: Ee 17*, Rec. (for t. dKu6'apTa).t 
-dKdOapTos, -ov « d- neg., Kadatpw), [in LXX chiefly for NQ^;] mw- 
+<entry n="ἀκαθάρτης|G168">
+ <note type="occurrencesNT">1</note>
+ <form>*† <orth>ἀκαθάρτης, -τος, ἡ</orth>, </form>
+ <sense><gloss>uncleanness</gloss>: <ref osisRef="Rev.17.4">Re 17:4</ref>, Rec. (for <foreign xml:lang="grc">τ. ἀκάθαρτα</foreign>). †</sense>
+ </entry>
 
-cZea?i, impure; (a) physically (LS, MM, <emph>VGT</emph>, s.v.); (&amp;) ceremonially: 
-Ac IQi'*' ^8 118, 1 Co 714, II Co 617, Re 18^; (c) morally: Eph 5^ Re 17*; 
-c. TTv^ifxa, as always in Gosp., Mt 10^ 12*^, Mk 123,26,27 311,30 52,8,13 
-67 725 925^ Lk 433,36 618 829 942 ii24_ Ac 516 8^ Re 16^3 (cf. Cremer, 
-320). t 
+<entry n="ἀκάθαρτος|G169">
+ <note type="occurrencesNT">32</note>
+ <form><orth>ἀκάθαρτος, -ον</orth> (&lt; <foreign xml:lang="grc">ἀ-</foreign> neg., <foreign xml:lang="grc">καθαίρω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">טָמֵא</foreign> ;] </form>
+ <sense><gloss>unclean, impure</gloss>; 
+   <sense n="(a)">physically (LS, MM, <emph>VGT</emph>, s.v.);</sense>
+   <sense n="(b)">ceremonially: <ref osisRef="Acts.10.14">Ac 10:14</ref>,<ref osisRef="Acts.10.28">28</ref> <ref osisRef="Acts.11.8">11:8</ref>, <ref osisRef="1Cor.7.14">I Co 7:14</ref>, <ref osisRef="2Cor.6.17">II Co 6:17</ref>, <ref osisRef="Rev.18.2">Re 18:2</ref>; </sense>
+   <sense n="(c)">morally: <ref osisRef="Eph.5.5">Eph 5:5</ref>, <ref osisRef="Rev.17.4">Re 17:4</ref>; c. <foreign xml:lang="grc">πνεῦμα</foreign>, as always in Gosp., <ref osisRef="Matt.10.1">Mt 10:1</ref> <ref osisRef="Matt.12.43">12:43</ref>, <ref osisRef="Mark.1.23">Mk 1:23</ref>,<ref osisRef="Mark.1.26">26</ref>,<ref osisRef="Mark.1.27">27</ref> <ref osisRef="Mark.3.11">3:11</ref>,<ref osisRef="Mark.3.30">30</ref> <ref osisRef="Mark.5.2">5:2</ref>,<ref osisRef="Mark.5.8">8</ref>,<ref osisRef="Mark.5.13">13</ref> <ref osisRef="Mark.6.7">6:7</ref> <ref osisRef="Mark.7.25">7:25</ref> <ref osisRef="Mark.9.25">9:25</ref>, <ref osisRef="Luke.4.33">Lk 4:33</ref>,<ref osisRef="Luke.4.36">36</ref> <ref osisRef="Luke.6.18">6:18</ref> <ref osisRef="Luke.8.29">8:29</ref> <ref osisRef="Luke.9.42">9:42</ref> <ref osisRef="Luke.11.24">11:24</ref>, <ref osisRef="Acts.5.16">Ac 5:16</ref> <ref osisRef="Acts.8.7">8:7</ref>, <ref osisRef="Rev.16.13">Re 16:13</ref> (cf. Cremer, 320). †</sense>
+ </sense>
+ </entry>
 
-*t dKaip€'o(i,ai, -ovfj.ai (&lt;^ aKatpo?, unseasonable), to have no oppor- 
-tunity (opp. to evKaLpiOi): Phi A^'^.f 
+<entry n="ἀκαιρέομαι|G170">
+ <note type="occurrencesNT">1</note>
+ <form>*† <orth>ἀκαιρέομαι, -οῦμαι</orth> (&lt; <foreign xml:lang="grc">ἄκαιρος</foreign>, <gloss>unseasonable</gloss>), </form>
+ <sense><gloss>to have no opportunity</gloss> (opp. to <foreign xml:lang="grc">εὐκαιρέω</foreign>): <ref osisRef="Phil.4.10">Phl 4:10</ref>. †</sense>
+ </entry>
 
-** dKaipus, adv. (&lt;;dKatpos, iiuseasouable) , [in LXX: Si 35 (32)**;] 
-out of season, unseasonably: opp. to evKaLp(D&lt;; (q.v.), 11 Ti 42 (cf. Cremer, 
-740; MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἀκαίρως|G171">
+ <note type="occurrencesNT">1</note>
+ <form>** <orth>ἀκαίρως</orth>, <pos>adv.</pos> (&lt; <foreign xml:lang="grc">ἄκαιρος</foreign>, <gloss>unseasonable</gloss>), [in LXX: <ref osisRef="Sir.32.4">Si 35 (32):4</ref> *;] </form>
+ <sense><gloss>out of season, unseasonably</gloss>: opp. to <foreign xml:lang="grc">εὐκαίρως</foreign> (q.v.), <ref osisRef="2Tim.4.2">II Ti 4:2</ref> (cf. Cremer, 740; MM, <emph>VGT</emph>, s.v.). † </sense>
+ </entry>
 
-d-KttKos, -ov, [in LXX for iJig , Dri , etc.;] (a) as in cl. (-S^sch., 
+<entry n="ἄκακος|G172">
+ <note type="occurrencesNT">2</note>
+ <form><orth>ἄκακος, -ον</orth>, [in LXX for <foreign xml:lang="heb">פְּתִי</foreign>, <foreign xml:lang="heb">תָּם</foreign>, etc.;] </form>
+ <sense>
+   <sense n="(a)">as in cl. (Æsch., Plat., al.), of persons, <gloss>simple, guileless</gloss>: <ref osisRef="Rom.16.18">Ro 16:18</ref>, <ref osisRef="Heb.7.26">He 7:26</ref> (cf. Cremer, 327); </sense>
+   <sense n="(b)">of things, <gloss>undamaged</gloss> (? MM, <emph>VGT</emph>, s.v.). †</sense>
+ </sense>
+ </entry>
 
-Plat., al.), of persons, simple, guileless: Ro 16^^, He 72" (cf. Cremer, 
-327); (&amp;) of things, undamaged (? MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἄκανθα|G173">
+ <note type="occurrencesNT">14</note>
+ <form><orth>ἄκανθα, -ης, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀκή</foreign>, <gloss>a point</gloss>), [in LXX chiefly for <foreign xml:lang="heb">קוֹץ</foreign>, also for <foreign xml:lang="heb">סִיר</foreign>, <foreign xml:lang="heb">שַׁיִת</foreign>, etc.;] </form>
+ <sense><gloss>a prickly plant, thorn, brier</gloss>; in NT always pl.: <ref osisRef="Matt.7.16">Mt 7:16</ref> <ref osisRef="Matt.13.7">13:7</ref>,<ref osisRef="Matt.13.22">22</ref> <ref osisRef="Matt.27.29">27:29</ref>, <ref osisRef="Mark.4.7">Mk 4:7</ref>,<ref osisRef="Mark.4.18">18</ref>, <ref osisRef="Luke.6.44">Lk 6:44</ref> <ref osisRef="Luke.8.7">8:7</ref>,<ref osisRef="Luke.8.14">14</ref>, <ref osisRef="John.19.2">Jo 19:2</ref>, <ref osisRef="Heb.6.8">He 6:8</ref> (v. MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
-aKttt'Ga, -T/s, r) (-&lt;d/c77, a point), [in LXX chiefly for ^ip , also for 
-TD , n^l27 , etc.;] a prickly jtlc^nt, thorn, brier; in NT always pi.: 
+<entry n="ἀκάνθινος|G174">
+ <note type="occurrencesNT">2</note>
+ <form><orth>ἀκάνθινος, -ον</orth> (&lt; <foreign xml:lang="grc">ἄκανθα</foreign>), [in LXX: <ref osisRef="Isa.34.13">Is 34:13</ref> (<foreign xml:lang="heb">סיר</foreign>) *;] </form>
+ <sense>
+   <sense n="1."><gloss>of thorns</gloss>: <ref osisRef="Mark.15.17">Mk 15:17</ref>, <ref osisRef="John.19.5">Jo 19:5</ref>.</sense>
+   <sense n="2."><gloss>of acantha-wood</gloss> (Hdt.; π. ap. MM, <emph>VGT</emph>, s.v.). † </sense>
+ </sense>
+ </entry>
 
-Mt 716 137, 22 2729, Mk 4^' 18, Lk 6** 8"' ^\ Jo I92, He &amp; (v. MM, <emph>VGT</emph>, 
-s.v.).t 
+<entry n="ἄκαρπος|G175">
+ <note type="occurrencesNT">7</note>
+ <form><orth>ἄ-καρπος, -ον</orth>, [in LXX: <ref osisRef="Jer.2.6">Je 2:6</ref> (<foreign xml:lang="heb">צַלְמָוֶת</foreign>), <ref osisRef="Wis.15.4">Wi 15:4</ref>, <ref osisRef="4Macc.16.7">IV Mac 16:7</ref> ;] </form>
+ <sense><gloss>unfruitful, barren</gloss>: fig., <ref osisRef="Matt.13.22">Mt 13:22</ref>, <ref osisRef="Mark.4.19">Mk 4:19</ref>, <ref osisRef="1Cor.14.14">I Co 14:14</ref>, <ref osisRef="Eph.5.11">Eph 5:11</ref>, <ref osisRef="Titus.3.14">Tit 3:14</ref>, <ref osisRef="2Pet.1.8">II Pe 1:8</ref>, <ref osisRef="Jude.1.12">Ju 12</ref>. †</sense>
+ </entry>
 
-dKd^'0i»'os, -ov « dKav^a), [in LXX: Is 34^3 (td) *;] I. of thorns: 
-Mk 151^ Jo 195. 2. of acantha-wood (Hdt.; tt. ap. MM, <emph>VGT</emph>, 9.v.).t 
+<entry n="ἀκατάγνωστος|G176">
+ <note type="occurrencesNT">1</note>
+ <form>**† <orth>ἀ-κατά-γνωστος, -ον</orth> (&lt; <foreign xml:lang="grc">καταγινώσκω</foreign>), [in LXX: <ref osisRef="2Macc.4.47">II Mac 4:47</ref> ;] </form>
+ <sense><gloss>not open to just rebuke, irreprehensible</gloss>: <ref osisRef="Titus.2.8">Tit 2:8</ref> (v. Cremer, 676; and for other exx., MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
-d-KapTTos, -ov, [in LXX: Je 26 (Dip^S), Wi 15*, iv Mac 16'*;] 
+<entry n="ἀκατακάλυπτος|G177">
+ <note type="occurrencesNT">2</note>
+ <form>† <orth>ἀ-κατα-κάλυπτος, -ον</orth> (&lt; <foreign xml:lang="grc">κατακαλύπτω</foreign>), [in LXX: <ref osisRef="Lev.13.45">Le 13:45</ref> A (<foreign xml:lang="heb">פָּרוּע</foreign>) *;] </form>
+ <sense><gloss>uncovered, unveiled</gloss>: <ref osisRef="1Cor.11.5">I Co 11:5</ref>, <ref osisRef="1Cor.11.13">13</ref>. †</sense>
+ </entry>
 
-unfruitful, barren: fig., Mt I322, Mk 4^9, i Co 14^*, Eph 5^\ Tit 3^*, 
-II Pe 18, Ju i2.t 
+<entry n="ἀκατάκριτος|G178">
+ <note type="occurrencesNT">2</note>
+ <form>*† <orth>ἀ-κατά-κριτος, -ον</orth> (&lt; <foreign xml:lang="grc">κατακρίνω</foreign>), </form>
+ <sense>
+   <sense n="1."><gloss>uncondemned</gloss> (EV): <ref osisRef="Acts.16.37">Ac 16:37</ref>, 22:25.</sense>
+   <sense n="2.">= cl. <foreign xml:lang="grc">ἄκριτος</foreign>, <gloss>without trial, not yet tried</gloss> (MM, <emph>VGT</emph>, s.v.) Ac, ll. cc. † </sense>
+ </sense>
+ </entry>
 
-**t d-KaTd-YkwoTTOs, -ov (&lt;^ Karayi Vwo-kw) , [in LXX: II Mac 4*''*;] not 
-open to just rebtike, irrejyrehensible: Tit 2* (v. Cremer, 676; and for 
-other exx., MM, <emph>VGT</emph>, s.v.).t 
+<entry n="ἀκατάλυτος|G179">
+ <note type="occurrencesNT">1</note>
+ <form>**† <orth>ἀ-κατά-λυτος, -ον</orth> (&lt; <foreign xml:lang="grc">καταλύω</foreign>), [in LXX: <ref osisRef="4Macc.10.11">IV Mac 10:11</ref> *;] </form>
+ <sense><gloss>indissoluble</gloss>: <ref osisRef="Heb.7.16">He 7:16</ref>. †</sense>
+ </entry>
 
-t d-KaTa-KdXuTTTOs, -ov (&lt;^ KaTa/caAvrrTw), [in LXX: Le 13** A 
-lynp) *;] uncovered, unveiled: i Co 11^' ^^.t 
+<entry n="ἀκατάπαστος|G180">
+ <note type="occurrencesNT">1</note>
+ <form>*† <orth>ἀκατάπαστος</orth> (v. Mayor, II Pe, cxcvii; WH. <emph>App.</emph>, 170; MM. <emph>VGT</emph>, s.v.), <orth>-ον</orth>, a form otherwise unknown, prob. colloq. for <foreign xml:lang="grc">-παυστος</foreign> (q.v.): <ref osisRef="2Pet.2.14">II Pe 2:14</ref>, L., Tr. mg., WH. †</form>
+ </entry>
 
-*t d-Kard-KpiTos, -ov (&lt; KaTaKpcvw), 1. imcondemned (EV): Ac 16*^ 
-2225. 2. = cl. aKpiTo&lt;;, without trial, not yet tried (MM, <emph>VGT</emph>, s.v.) 
-Ac, 11. cc.t 
-
-**td-KaTd-\uTos, -ov (&lt;;»caTaXi;w), [in LXX: IV Mac 10^1*;] iiidis- 
-soluble: He l^^.f 
-
-*t dKaTdirao-Tos (v. Mayor, 11 Pe, cxcvii; WH. App., 170; MM. 
-VGT, s.v.), -ov, a form otherwise unknown, prob. colloq. for -irava-ros 
-(q.v.): II Pe 2^*, L., Tr. mg., WH.t 
-
-*t dKardTraoo-Tos, -ov (&lt;^ /caraTrai'w) , that cannot cease, not to be re- 
-strained: c. gen. rei, 11 Pe 2^*, T, Tr. txt.t 
-
-
+<entry n="ἀκατάπαυστος|G180">
+ <note type="occurrencesNT">1</note>
+ <form>*† <orth>ἀκατάπαυστος, -ον</orth> (&lt; <foreign xml:lang="grc">καταπαύω</foreign>), </form>
+ <sense><gloss>that cannot cease, not to be restrained</gloss>: c. gen. rei, <ref osisRef="2Pet.2.14">II Pe 2:14</ref>, T, Tr. txt. †</sense>
+ </entry>
 
  <pb n="17" /> <!-- typed="" checked="" --> 
 
