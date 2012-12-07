@@ -2,7 +2,7 @@
 open (INF, "../abbott-smith.tei.xml");
 my @data = <INF>;
 close (INF);
-open (OUTF, ">abbott-smith.v0.15b.xml");
+open (OUTF, ">abbott-smith.v0.15.xml");
 
 my $line;
 foreach $line (@data) {	
