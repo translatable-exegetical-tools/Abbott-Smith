@@ -6681,7 +6681,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="βαρύτιμος|G927">
   <note type="occurrencesNT">1</note>
-  <form>* βαρύτιμος, -ον (&lt; <foreign xml:lang="grc">βαρύς, τιμή</foreign>), </form>
+  <form>* <orth>βαρύτιμος, -ον</orth> (&lt; <foreign xml:lang="grc">βαρύς, τιμή</foreign>), </form>
   <sense><gloss>of great value, very costly</gloss>: <ref osisRef="Matt.26.7">Mt 26:7</ref> (T, <foreign xml:lang="grc">πολυτίμου</foreign>) .†</sense>
 </entry>
 
@@ -6796,7 +6796,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="βαστάζω|G941">
   <note type="occurrencesNT">27</note>
-  <form>βαστάζω, [in LXX: <ref osisRef="Judg.16.30">Jg 16:30</ref> (<foreign xml:lang="heb">נטה</foreign>), <ref osisRef="Ruth.2.16">Ru 2:16</ref>, <ref osisRef="2Sam.23.5">II Ki 23:5</ref>, <ref osisRef="2Kgs.18.14">IV Ki 18:14</ref> and <ref osisRef="Job.21.3">Jb 21:3</ref> (<foreign xml:lang="heb">נשׂא</foreign>), <ref osisRef="Sir.6.25">Si 6:25</ref>, <ref osisRef="Bel.1.36">Da TH Bel 36</ref>*;] </form>
+  <form><orth>βαστάζω</orth>, [in LXX: <ref osisRef="Judg.16.30">Jg 16:30</ref> (<foreign xml:lang="heb">נטה</foreign>), <ref osisRef="Ruth.2.16">Ru 2:16</ref>, <ref osisRef="2Sam.23.5">II Ki 23:5</ref>, <ref osisRef="2Kgs.18.14">IV Ki 18:14</ref> and <ref osisRef="Job.21.3">Jb 21:3</ref> (<foreign xml:lang="heb">נשׂא</foreign>), <ref osisRef="Sir.6.25">Si 6:25</ref>, <ref osisRef="Bel.1.36">Da TH Bel 36</ref>*;] </form>
   <sense>
     <sense n="1."><gloss>to take up</gloss> with the hands, <gloss>to lift</gloss>: <foreign xml:lang="grc">λίθους</foreign>, <ref osisRef="John.10.31">Jo 10:31</ref>. </sense>
     <sense n="2."><gloss>to bear, to carry</gloss>, as a burden, and metaph., <gloss>to endure</gloss>; <ref osisRef="Matt.3.11">Mt 3:11</ref>  <ref osisRef="Matt.20.12">20:12</ref>, <ref osisRef="Mark.14.13">Mk 14:13</ref>, <ref osisRef="Luke.7.14">Lk 7:14</ref>  <ref osisRef="Luke.10.7">10:7</ref> 11:27 14:27 22:10, <ref osisRef="John.16.12">Jo 16:12</ref>  <ref osisRef="John.19.17">19:17</ref>, <ref osisRef="Acts.3.2">Ac 3:2</ref>  <ref osisRef="Acts.9.15">9:15</ref> <ref osisRef="Acts.15.1">15:1</ref> <ref osisRef="Acts.21.35">21:35</ref>, <ref osisRef="Rom.11.18">Ro 11:18</ref>  <ref osisRef="Rom.15.1">15:1</ref>, <ref osisRef="Gal.5.10">Ga 5:10</ref>  <ref osisRef="Gal.6.2">6:2</ref>,  <ref osisRef="Gal.6.5">5</ref> <ref osisRef="Gal.6.17">17</ref>, <ref osisRef="Rev.2.2">Re 2:2</ref>, <ref osisRef="Rev.2.3">3</ref> <ref osisRef="Rev.17.7">17:7</ref>. </sense>
@@ -7427,7 +7427,7 @@ nyaa;] a hill: Lk 35(lxx) 233o.t 2">Lk 22:42</ref>; c. subjc., adding force to a
 
 <entry n="βρέχω|G1026">
   <note type="occurrencesNT">8</note>
-  <form>βρέχω, [in LXX chiefly for <foreign xml:lang="heb">מטר</foreign>;] </form>
+  <form><orth>βρέχω</orth>, [in LXX chiefly for <foreign xml:lang="heb">מטר</foreign>;] </form>
   <sense>
     <sense n="1."><gloss>to wet</gloss>: <ref osisRef="Luke.7.38">Lk 7:38</ref>, <ref osisRef="Luke.7.44">44</ref>. </sense>
     <sense n="2.">In late Gk. writers and vernac. = <foreign xml:lang="grc">ὕειν</foreign>, <gloss>to send rain, to rain</gloss> (Kennedy, <emph>Sources</emph>, 39, 155): <ref osisRef="Matt.5.45">Mt 5:45</ref>; trop., <foreign xml:lang="grc">β. πῦρ κ. θεῖον</foreign>, <ref osisRef="Luke.17.29">Lk 17:29</ref>; impers., <foreign xml:lang="grc">βρέχει</foreign>, <gloss>it rains</gloss>: <ref osisRef="Jas.5.17">Ja 5:17</ref>; with <foreign xml:lang="grc">ὐετός</foreign> as subj., <ref osisRef="Rev.11.6">Re 11:6</ref>.†</sense>
