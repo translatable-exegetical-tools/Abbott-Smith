@@ -7344,7 +7344,7 @@ lifeless: 1 Co 14^.†
 nyaa;] a hill: Lk 35(lxx) 233o.t 2">Lk 22:42</ref>; c. subjc., adding force to a question of deliberation (Bl., §64, 6), <ref osisRef="John.18.39">Jo 18:39</ref>; <foreign xml:lang="grc">βουληθείς</foreign>, <gloss>of set purpose</gloss> (v. Hort, in l.), <ref osisRef="Jas.1.18">Ja 1:18</ref>; impf., <foreign xml:lang="grc">ἐβουλόμην</foreign> (= cl. <foreign xml:lang="grc">βουλοίμην ἄν</foreign>; Bl., §63, 5; Lft., <emph>Phm.</emph> 13), <ref osisRef="Acts.25.22">Ac 25:22</ref>, <ref osisRef="Phlm.1.13">Phm 13</ref> (v. also Cremer, 143).†</sense>
 </entry>
 
-<pb n="85" /> <!-- typed="" checked="" --> 
+<pb n="85" /> <!-- typed="DCO" checked="" --> 
 
 <entry n="βουνός|G1015">
   <note type="occurrencesNT">2</note>
@@ -7455,75 +7455,111 @@ nyaa;] a hill: Lk 35(lxx) 233o.t 2">Lk 22:42</ref>; c. subjc., adding force to a
   <sense><gloss>a noose, a slip-knot, a halter</gloss>: metaph., <gloss>a restraint</gloss> (not, as AV, R, txt., <gloss>a snare</gloss>): <ref osisRef="1Cor.7.35">I Co 7:35</ref>.†</sense>
 </entry>
 
- <pb n="86" /> <!-- typed="" checked="" -->
+<pb n="86" /> <!-- typed="DCO" checked="" -->
+ 
+<entry n="βρυγμός|G1030">
+  <note type="occurrencesNT">7</note>
+  <form><orth>βρυγμός, -οῦ, ὁ</orth> (&lt; <foreign xml:lang="grc">βρύχω</foreign>), [in LXX: <ref osisRef="Prov.19.12">Pr 19:12</ref> (<foreign xml:lang="heb">נַהַם</foreign>), <ref osisRef="Sir.51.3">Si 51:3</ref>*;] </form>
+  <sense><gloss>a biting, a gnashing of teeth</gloss>: <ref osisRef="Matt.8.12">Mt 8:12</ref>  <ref osisRef="Matt.13.42">13:42</ref>, <ref osisRef="Matt.13.50">50</ref> <ref osisRef="Matt.22.13">22:13</ref> <ref osisRef="Matt.24.51">24:51</ref> <ref osisRef="Matt.25.30">25:30</ref>, <ref osisRef="Luke.13.28">Lk 13:28</ref>.†</sense>
+</entry>
 
-ppuYHiiJs, -ov, 6 KySpv'xo)), [in LXX: Pr 19^2 (nnj), Si 51**;] a 
+<entry n="βρύχω|G1031">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βρύχω</orth> (Attic, <foreign xml:lang="grc">βρύκω</foreign>), [in LXX: <ref osisRef="LXX:Job.16.10">Jb 16:10(9)</ref>, <ref osisRef="LXX:Ps.34.16">Ps 34 (35):16</ref> <ref osisRef="LXX:Ps.36.12">36 (37):12</ref> <ref osisRef="LXX:Ps.111.10">111 (112):10</ref>, <ref osisRef="Lam.2.16">La 2:16</ref> (<foreign xml:lang="heb">חרק</foreign>)*;] </form>
+  <sense>
+    <sense n="1."><gloss>to bite or eat greedily</gloss>. </sense>
+    <sense n="2."><gloss>to gnash, grind</gloss>, with the teeth: <ref osisRef="Acts.7.54">Ac 7:54</ref>.</sense>†
+  </sense>
+</entry>
 
-biting, a gnashing of teeth: Mt 8^^ 13*2. so 22i3 24^1 25^\ Lk 1328.t 
+<entry n="βρύω|G1032">
+  <note type="occurrencesNT">1</note>
+  <form>* <orth>βρύω</orth>, poët., late prose and vernac., </form>
+  <sense><gloss>to be full to bursting</gloss>; 
+    <sense n="1.">of the earth producing vegetation. </sense>
+    <sense n="2.">Of plants putting forth buds. </sense>
+    <sense n="3.">Of springs, <gloss>to gush with</gloss> water: <ref osisRef="Jas.3.11">Ja 3:11</ref>.</sense>†
+  </sense>
+</entry>
 
-Pp6x&lt;o (Attic, /SpvKco), [in LXX: Jb le^ow, Ps 34 (35)'^ 36 (37)^2 
+<entry n="βρῶμα|G1033">
+  <note type="occurrencesNT">17</note>
+  <form><orth>βρῶμα, -τος, τό</orth> (cf. <foreign xml:lang="grc">βιβρώσκω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">אֹכֶל</foreign>;] </form>
+  <sense><gloss>food</gloss>: <ref osisRef="Rom.14.15">Ro 14:15</ref>,  <ref osisRef="Rom.14.20">20</ref> <ref osisRef="1Cor.8.8">I Co 8:8</ref>, <ref osisRef="1Cor.8.13">13</ref> <ref osisRef="1Cor.10.3">10:3</ref>; pl., <ref osisRef="Matt.14.15">Mt 14:15</ref>, <ref osisRef="Mark.7.19">Mk 7:19</ref>, <ref osisRef="Luke.3.11">Lk 3:11</ref>  <ref osisRef="Luke.9.13">9:13</ref>, <ref osisRef="1Cor.6.13">I Co 6:13</ref>, <ref osisRef="1Tim.4.3">I Ti 4:3</ref>, <ref osisRef="Heb.9.10">He 9:10</ref>  <ref osisRef="Heb.13.9">13:9</ref>; trop., of spiritual food, <ref osisRef="John.4.34">Jo 4:34</ref>, <ref osisRef="1Cor.3.2">I Co 3:2</ref> (cf. <foreign xml:lang="grc">βρῶσις</foreign>).†</sense>
+</entry>
 
-111 (112)1", La 2^6 (pin)*;] 1. to bite or eat greedily. 2. to gnash, 
+<entry n="βρώσιμος|G1034">
+  <note type="occurrencesNT">1</note>
+  βρώσιμος, -ον (&lt; <foreign xml:lang="grc">βρῶσις</foreign>), [in LXX: <ref osisRef="Lev.19.23">Le 19:23</ref>, <ref osisRef="Neh.9.25">Ne 9:25</ref>, <ref osisRef="Ezek.47.12">Ez 47:12</ref> (<foreign xml:lang="heb">מַאֲכָל</foreign>)*;] 
+  <sense><gloss>eatable</gloss>: <ref osisRef="Luke.24.41">Lk 24:41</ref>.†</sense>
+</entry>
 
-grind, with the teeth: Ac 7**.t 
+<entry n="βρῶσις|G1035">
+  <note type="occurrencesNT">11</note>
+  <form><orth>βρῶσις, -εως, ἡ</orth> (cf. <foreign xml:lang="grc">βιβρώσκω</foreign>), [in LXX chiefly for parts and derivatives of <foreign xml:lang="heb">אכל</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>eating</gloss>: <foreign xml:lang="grc">β. καὶ πόσις</foreign>, <ref osisRef="Rom.14.17">Ro 14:17</ref>, <ref osisRef="Col.2.16">Col 2:16</ref> (v. Lft., <emph>ICC</emph>, in l.); c. gen. obj., <ref osisRef="1Cor.8.4">I Co 8:4</ref>; metaph., <gloss>corrosion, rust</gloss>: <ref osisRef="Matt.6.19">Mt 6:19</ref>, <ref osisRef="Matt.16.20">20</ref>. </sense>
+    <sense n="2.">As also in cl. (Hom., al.) = <foreign xml:lang="grc">βρῶμα</foreign>, <gloss>food</gloss>: <ref osisRef="John.6.27">Jo 6:27a</ref>, <ref osisRef="2Cor.9.10">II Co 9:10</ref>, <ref osisRef="Col.2.16">Col 2:16</ref> (EV, but v. supr.). <ref osisRef="Heb.12.16">He 12:16</ref>; metaph., of spiritual nourishment, <ref osisRef="John.4.32">Jo 4:32</ref> <ref osisRef="John.6.27">6:27b</ref>, <ref osisRef="John.6.55">55</ref>.†</sense>
+  </sense>
+</entry>
 
-*j3pua&gt;, poet., late prose and vernac, to be full to bursting; 1. of 
+<entry n="βυθίζω|G1036">
+  <note type="occurrencesNT">2</note>
+  <form>** <orth>βυθίζω</orth> (&lt; <foreign xml:lang="grc">βυθός</foreign>), [in LXX: <ref osisRef="2Macc.12.4">II Mac 12:4</ref>*;] </form>
+  <sense>trans., <gloss>to cause to sink, to sink</gloss>: metaph., <foreign xml:lang="grc">εἰς ὄλεθρον</foreign>, <ref osisRef="1Tim.6.9">I Ti 6:9</ref>; pass., <gloss>to sink</gloss>, intrans.: <ref osisRef="Luke.5.7">Lk 5:7</ref>.†</sense>
+</entry>
 
-the earth producing vegetation. 2. Of plants putting forth buds. 
+<entry n="βυθός|G1037">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βυθός, -οῦ, ὁ</orth>, [in LXX: <ref osisRef="Exod.15.5">Ex 15:5</ref>, <ref osisRef="Neh.9.11">Ne 9:11</ref> (<foreign xml:lang="heb">מְצוֹלָה</foreign>), <ref osisRef="LXX:Ps.67.22">Ps 67 (68):22</ref> <ref osisRef="LXX:Ps.68.2">68 (69):2</ref>, <ref osisRef="LXX:Ps.68.15">15</ref> <ref osisRef="LXX:Ps.106.24">106 (107):24</ref> (<foreign xml:lang="heb">מְצוּלָה</foreign>)*;] </form>
+  <sense>
+    <sense n="1."><gloss>the bottom</gloss>. </sense>
+    <sense n="2."><gloss>the depth</gloss> of the sea, <gloss>the deep sea</gloss>: <ref osisRef="2Cor.11.25">II Co 11:25</ref>.</sense>†
+  </sense>
+</entry>
 
-3. Of springs, to gtish with water: Ja 3i^t 
+<entry n="βυρσεύς|G1038">
+  <note type="occurrencesNT">3</note>
+  <form>*† <orth>βυρσεύς, -έως, ὁ</orth> (&lt; <foreign xml:lang="grc">βύρσα</foreign>, <emph>a hide</emph>), late form for <foreign xml:lang="grc">βυρσοδέψης</foreign>, </form>
+  <sense><gloss>a tanner</gloss>: <ref osisRef="Acts.9.43">Ac 9:43</ref>  <ref osisRef="Acts.10.6">10:6</ref>, <ref osisRef="Acts.10.32">32</ref>.†</sense>
+</entry>
 
-Ppa)jia, -Tos, TO (cf. /Sifipwa-Kw), [in LXX chiefly for b^X;] food: 
+<entry n="βύσσινος|G1039">
+  <note type="occurrencesNT">5</note>
+  <form><orth>βύσσινος, -η, -ον</orth> (&lt; <foreign xml:lang="grc">βύσσος</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שֵׁשׁ</foreign>, <foreign xml:lang="heb">בּוּץ</foreign>, etc.;] made of <foreign xml:lang="grc">βύσσος</foreign>, </form>
+  <sense><gloss>fine linen</gloss>: <ref osisRef="Rev.18.12">Re 18:12</ref>, <ref osisRef="Rev.18.16">16</ref> <ref osisRef="Rev.19.8">19:8</ref>, <ref osisRef="Rev.19.14">14</ref>.†</sense>
+</entry>
 
-Ro 1415.20, I Co 88.13 103; pi., Mt 1415, Mk Ti^, Lk 311 9i3, i Co 6i3, 
-I Ti 43, He 910 139; trop., of spiritual food, Jo 43*, i Co 32 (cf. /?pio-is).†
-PpoJai^ios, -ov «^p«o-i?), [in LXX: Le 1923, Ne 92^, Ez 4712 
-(bDhfa)*;] eatable: Lk 24".t 
+<entry n="βύσσος|G1040">
+  <note type="occurrencesNT">1</note>
+  <form><orth>βύσσος, -οῦ, ἡ</orth> (cf. Heb. <foreign xml:lang="heb">בּוּץ</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שֵׁשׁ</foreign>, <foreign xml:lang="heb">בּוּץ</foreign>;] </form>
+  <sense><gloss>byssus</gloss>, a fine species of flax, also the <gloss>linen</gloss> made from it: <ref osisRef="Luke.16.19">Lk 16:19</ref>.†</sense>
+</entry>
 
-Ppwais, -ews, rj (cf. jSi^pwaKU)), [in LXX chiefly for parts and 
-derivatives of bax;] 1. eating: ji. koI ir6a-i&lt;;, Ro I41", Col 2^*^ (v. Lft., 
-ICC, in 1.); c. gen. obj., i Co 8*; metaph., corrosion, rust: Mt 61^.20. 
-2. As also in cl. (Horn., al.) = /3pQyfxa, food: Jo 62^^, n Co 910, 
-Col 31^ (EV, but V. supr.). He 12i^; metaph., of spiritual nourishment, 
-
-Jo 432 62'1" 55.t 
-
-**^ueil&lt;^ «y8i'^o?), [in LXX: 11 Mac 12**;] trans., to cause to 
-sink, to sink: metaph., cis oXedpov, i Ti 6^; pass., to sink, intrans.: 
-Lk 5'.t 
-
-M^s, -ov, 6, [in LXX: Ex 15^, Ne 9" (nbiSO), Ps 67 (68)22 
-
-68 (69)2.15 106 (107)2* (n^isp)*;] 1. the bottom. 2. the depth of the 
-
-sea, the deep sea: 11 Co 1125.t 
-
-*+ Pupo-eu's, -e'oDs, 6 « /Svpara, a hide), late form for ySvpo-oSei/^i^s, a 
-tanner: Ac 9*3 10"- 32.t 
-
-Puo-cricos, -T], -ov (&lt;^ 0vcrcro&lt;;), [in LXX chiefly for Uhp , yi3 , etc.;] 
-made of /Jt'o-o-os, fine linen: Re I812. i** 19*' 1*.†
-
-Pu'acros, -ov, rj (cf. Heb. "J^Q), [in LXX chiefly for WW, ^n;] 
-byssus, a fine species of flax, also the linen made from it: Lk 16i^.t 
-
-Pwfios, -oO, 6 «/3aiVw), [in LXX (Hex.) for n^Tp , in Proph., 
-chiefly for nps;] 1. any raised place, a platform. 2. an altar: 
-Ac 1723 (cf. BvaLaarrjpiov and V. DB, i, 75). t 
+<entry n="βωμός|G1041">
+  <note type="occurrencesNT"></note>
+  <form>βωμός, -οῦ, ὁ (&lt; <foreign xml:lang="grc">βαίνω</foreign>), [in LXX (Hex.) for <foreign xml:lang="heb">מִזְבֵּחַ</foreign>, in Proph., chiefly for <foreign xml:lang="heb">בָּמָה</foreign>;] </form>
+  <sense>
+    <sense n="1.">any <gloss>raised place, a platform</gloss>. </sense>
+    <sense n="2."><gloss>an altar</gloss>: <ref osisRef="Acts.17.23">Ac 17:23</ref> (cf. <foreign xml:lang="grc">θυσιαστήριον</foreign> and v. <emph>DB</emph>, i, 75).</sense>†
+  </sense>
+</entry>
 
  </div>
  <div type="letter" n="Γ">
   <head type="heading2">Γ</head>
 
-TappaGd (Rec. -^5), rj, indecl., Gabbatha, the Greek trans- 
-literation of an uncertain Aramaic word {DB, s.v.; Dalman, <emph>Words</emph>, 
-7), used as the equivalent of XlOoo-tpihtov, stone pavement: Jo 19i3.t 
+<entry n="Γαββαθα|G1042">
+  <note type="occurrencesNT">1</note>
+  <form><orth>Γαββαθα</orth> (Rec. <foreign xml:lang="grc">-θᾶ</foreign>), <orth>ἡ</orth>, indecl., </form>
+  <sense><gloss>Gabbatha</gloss>, the Greek transliteration of an uncertain Aramaic word (<emph>DB</emph>, s.v.; Dalman, <emph>Words</emph>, 7), used as the equivalent of <foreign xml:lang="grc">λιθόστρωτον</foreign>, <gloss>stone pavement</gloss>: <ref osisRef="John.19.13">Jo 19:13</ref>.†</sense>
+</entry>
 
-raPpn^X, 6, indecl. (Heb. bN*"'15a, hero of God), the archangel 
-
-Gabriel: Lk li^. 26.t 
-
-
+<entry n="Γαβριήλ|G1043">
+  <note type="occurrencesNT">2</note>
+  <form><orth>Γαβριήλ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">גַּבְרִיאֵל</foreign>, <gloss>hero of God</gloss>), </form>
+  <sense>the archangel <gloss>Gabriel</gloss>: <ref osisRef="Luke.1.19">Lk 1:19</ref>, <ref osisRef="Luke.1.26">26</ref>.†</sense>
+</entry>
 
  <pb n="87" /> <!-- typed="" checked="" --> 
 
