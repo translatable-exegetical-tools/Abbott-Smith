@@ -1335,7 +1335,7 @@
  
 <entry n="αβαρής|G4">
   <note type="occurrencesNT">1</note>
-  <form>*<orth>αβαρής, -ές</orth> (&lt; <foreign xml:lang="grc">βαρός</foreign>), </form> 
+  <form>* <orth>αβαρής, -ές</orth> (&lt; <foreign xml:lang="grc">βαρός</foreign>), </form> 
   <sense><gloss>without weight</gloss>; metaph. (MM, <emph>VGT</emph>, s.v.) <gloss>not burdensome</gloss>: <ref osisRef="2Cor.11.9">II Co 11:9</ref>.†</sense>
  </entry> 
  
@@ -6469,7 +6469,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="Βάαλ|G896">
   <note type="occurrencesNT">1</note>
-  <form><orth>Βάαλ</orth> (Rec. <foreign xml:lang="grc">βαάλ</foreign>)<orth>, ὁ, ἡ</orth>, indecl. (Heb. <foreign xml:lang="heb">בַּעַל</foreign>, <gloss>lord</gloss>), </form>
+  <form><orth>Βάαλ</orth> (Rec. <foreign xml:lang="grc">βαάλ</foreign>) <orth>, ὁ, ἡ</orth>, indecl. (Heb. <foreign xml:lang="heb">בַּעַל</foreign>, <gloss>lord</gloss>), </form>
   <sense><gloss>Baal</gloss>: <ref osisRef="Rom.11.4">Ro 11:4</ref> <hi rend="superscript">(LXX)</hi>. The fem. art. here agrees with the usage of LXX, where, following a similar Hebrew practice (<foreign xml:lang="heb">בֹּשֶׁת</foreign> for <foreign xml:lang="heb">בַּעַל</foreign>), <foreign xml:lang="grc">αἰσχύνη</foreign> appears to have been substituted in reading for the written <foreign xml:lang="grc">Βάαλ</foreign> (cf. <ref osisRef="1Kgs.18.19">III Ki 18:19</ref>), and to account for the freq. use of the fem. art. bef. <foreign xml:lang="grc">Β.</foreign> The usage, however, is not general, and in the passage cited in Ro (<ref osisRef="1Kgs.19.18">III Ki 19:18</ref>), LXX reads <foreign xml:lang="grc">τῷ Β.</foreign>† </sense>
 </entry>
 
@@ -6509,7 +6509,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="βάϊον|G903">
   <note type="occurrencesNT">1</note>
-  <form>**†<orth>βαΐον, -ου, τό</orth> (also <orth>βάϊον</orth>, another form of <foreign xml:lang="grc">βαΐς</foreign>, from the Egyptian), [in LXX: <ref osisRef="1Macc.13.51">I Mac 13:51</ref> *;] (freq. in Egyptian <foreign xml:lang="grc">π.</foreign>, v. MM, <emph>Exp.</emph>, x); </form>
+  <form>**† <orth>βαΐον, -ου, τό</orth> (also <orth>βάϊον</orth>, another form of <foreign xml:lang="grc">βαΐς</foreign>, from the Egyptian), [in LXX: <ref osisRef="1Macc.13.51">I Mac 13:51</ref> *;] (freq. in Egyptian <foreign xml:lang="grc">π.</foreign>, v. MM, <emph>Exp.</emph>, x); </form>
   <sense><gloss>a palm-branch</gloss>: <ref osisRef="John.12.13">Jo 12:13</ref> (<emph>DB</emph>, i, 314).†</sense>
 </entry>
 
@@ -6777,7 +6777,7 @@ lifeless: 1 Co 14^.†
 </entry>
 
 <entry n="βασιλίσκος">
-  <form>†<orth>βασιλίσκος, -ου, ὁ</orth> (dim. of <foreign xml:lang="grc">βασιλεύς</foreign>), [in LXX <gloss>a basilisk</gloss>: <ref osisRef="LXX:Ps.90.13">Ps 90  (91):13</ref> (<foreign xml:lang="heb">פֶּתֶן</foreign>), <ref osisRef="Isa.59.5">Is 59:5</ref> (<foreign xml:lang="heb">אֶפְעֶה</foreign>)*;] </form>
+  <form>† <orth>βασιλίσκος, -ου, ὁ</orth> (dim. of <foreign xml:lang="grc">βασιλεύς</foreign>), [in LXX <gloss>a basilisk</gloss>: <ref osisRef="LXX:Ps.90.13">Ps 90  (91):13</ref> (<foreign xml:lang="heb">פֶּתֶן</foreign>), <ref osisRef="Isa.59.5">Is 59:5</ref> (<foreign xml:lang="heb">אֶפְעֶה</foreign>)*;] </form>
   <sense>prop., <gloss>a petty king</gloss>: <ref osisRef="John.4.46">Jo 4:46</ref>,  <ref osisRef="John.4.49">49</ref> WH, mg. (v.s. <foreign xml:lang="grc">βασιλικός</foreign>).† </sense>
 </entry>
 
