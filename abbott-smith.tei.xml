@@ -7499,7 +7499,7 @@ lifeless: 1 Co 14^.†
 
 <entry n="βρώσιμος|G1034">
   <note type="occurrencesNT">1</note>
-  βρώσιμος, -ον (&lt; <foreign xml:lang="grc">βρῶσις</foreign>), [in LXX: <ref osisRef="Lev.19.23">Le 19:23</ref>, <ref osisRef="Neh.9.25">Ne 9:25</ref>, <ref osisRef="Ezek.47.12">Ez 47:12</ref> (<foreign xml:lang="heb">מַאֲכָל</foreign>)*;] 
+  <form><orth>βρώσιμος, -ον</orth> (&lt; <foreign xml:lang="grc">βρῶσις</foreign>), [in LXX: <ref osisRef="Lev.19.23">Le 19:23</ref>, <ref osisRef="Neh.9.25">Ne 9:25</ref>, <ref osisRef="Ezek.47.12">Ez 47:12</ref> (<foreign xml:lang="heb">מַאֲכָל</foreign>)*;] </form>
   <sense><gloss>eatable</gloss>: <ref osisRef="Luke.24.41">Lk 24:41</ref>.†</sense>
 </entry>
 
