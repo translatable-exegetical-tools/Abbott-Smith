@@ -64,7 +64,7 @@
 	<xsl:attribute name="class">count</xsl:attribute>
 	<xsl:text> [NT: </xsl:text>
 	  <xsl:element name="span">
-	    <xsl:value-of select="@n"/> <xsl:value-of select="."/>
+	    <xsl:value-of select="@n"/> <xsl:apply-templates/>
 	  </xsl:element>
         <xsl:text>x] </xsl:text>
       </xsl:element>
@@ -73,7 +73,7 @@
       <xsl:element name="sup">
 	<xsl:text> [</xsl:text>
 	  <xsl:element name="span">
-	    <xsl:value-of select="@n"/>. <xsl:value-of select="."/>
+	    <xsl:value-of select="@n"/>. <xsl:apply-templates/>
 	  </xsl:element>
         <xsl:text>] </xsl:text>
       </xsl:element>
@@ -82,7 +82,7 @@
     <xsl:element name="sup">
 	<xsl:text> [</xsl:text>
 	  <xsl:element name="span">
-	    <xsl:value-of select="."/>
+	    <xsl:apply-templates/>
 	  </xsl:element>
         <xsl:text>] </xsl:text>
       </xsl:element>
@@ -136,11 +136,11 @@
 </xsl:template>
 
 <xsl:template match="tei:pos">
-    	<span class="pos"><xsl:value-of select="."/></span>
+    	<span class="pos"><xsl:apply-templates/></span>
 </xsl:template>
 
 <xsl:template match="tei:orth">
-    	<span class="orth"><xsl:value-of select="."/></span>
+    	<span class="orth"><xsl:apply-templates/></span>
 </xsl:template>
 
 <xsl:template match="tei:foreign">
@@ -166,10 +166,10 @@
 <xsl:template match="tei:hi">
 <xsl:choose>
   <xsl:when test="./@rend='subscript'">
-    	<sub><xsl:value-of select="."/></sub>
+    	<sub><xsl:apply-templates/></sub>
   </xsl:when>
   <xsl:when test="./@rend='superscript'">
-    	<sup><xsl:value-of select="."/></sup>
+    	<sup><xsl:apply-templates/></sup>
   </xsl:when>
 </xsl:choose>
 </xsl:template>
@@ -186,7 +186,7 @@
 <xsl:element name="a">
 <xsl:attribute name="href">http://www.crosswire.org/study/passagestudy.jsp?key=<xsl:value-of select="./@osisRef"/>&amp;mod=SBLGNT</xsl:attribute>
 <xsl:attribute name="target">_blank</xsl:attribute>
-<xsl:value-of select="."/>
+<xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
 	
