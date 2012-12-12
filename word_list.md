@@ -713,9 +713,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1038</td><td>γαστήρ</td><td>G1064</td><td>9</td></tr>
-<tr><td>1039</td><td>γέ</td><td>G1065</td><td>12</td><td>KJV</td></tr>
-<tr><td>1040</td><td>Γεδεών</td><td>G1066</td><td>1</td></tr>
 <tr><td>1041</td><td>γέεννα</td><td>G1067</td><td>12</td></tr>
 <tr><td>1042</td><td>Γεθσημανί</td><td>G1068</td><td>2</td></tr>
 <tr><td>1043</td><td>γείτων</td><td>G1069</td><td>4</td></tr>
