@@ -28,7 +28,7 @@
 
  <text>
  <front> 
- 
+
 <pb n="iii" />
 
  <titlePage>
@@ -42,17 +42,14 @@
  </docImprint>
  </titlePage>
 
- 
 <pb n="v" />
 
  <div type='dedication'>
  <p>TO MY WIFE</p>
  </div>
 
- 
 <pb n="vi" />
 
- 
 <pb n="vii" />
 
  <div type="preface">
@@ -429,7 +426,7 @@
 
   
 <pb n="xii" />
- 
+
  <p>
  <table>
  <head type="heading2">II. BIBLICAL.</head>
@@ -711,7 +708,7 @@
  </row>
  </table>
  </p>
- 
+
  <p>
  <table>
  <head type="heading3">(b) VERSIONS AND EDITIONS.</head>
@@ -794,9 +791,7 @@
  </table>
  </p>
 
- 
 <pb n="xiii" />
-
 
  <p>
  <table>
@@ -984,7 +979,6 @@
  </row>
  </table>
  </p>
-
 
  <p>
  <table>
@@ -1318,7 +1312,6 @@
  </div>
  </front>
 
- 
 <pb n="1" /> 
 
  <body>
@@ -1335,25 +1328,25 @@
     <sense n="3.">An <gloss>intensive</gloss> force (LS, s. <foreign xml:lang="grc">α</foreign>), as in <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense>
   </sense> 
 </entry>
- 
+
 <entry n="Ἀαρών|G2">
   <note type="occurrencesNT">5</note>
   <form><orth>Ἀαρών</orth> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <orth>-ῶνος</orth>), </form> 
   <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
  </entry> 
- 
+
 <entry n="Ἀβαδδών|G3">
   <note type="occurrencesNT">1</note>
   <form><orth>Ἀβαδδών</orth> (Heb. <foreign xml:lang="heb">אֲבַדֹּון</foreign>,</form>
   <sense><gloss>destruction</gloss>; LXX, <foreign xml:lang="grc">ἀπώλεια</foreign>, only in Wisdom Lit., of the place of the ruined dead: <ref osisRef="Job.26.6">Jb 26:6</ref>, <ref osisRef="Job.28.22">28:22</ref>, <ref osisRef="Job.31.12">31:12</ref>, <ref osisRef="Ps.88:12">Ps 88:12</ref>, <ref osisRef="Prov.15.11">Pr 15:11</ref>*), indecl.; in NT, <gloss>Abaddon</gloss>, the angel of the Abyss: <ref osisRef="Rev.9.11">Re 9:11</ref>.†</sense>
  </entry> 
- 
+
 <entry n="αβαρής|G4">
   <note type="occurrencesNT">1</note>
   <form>* <orth>αβαρής, -ές</orth> (&lt; <foreign xml:lang="grc">βαρός</foreign>), </form> 
   <sense><gloss>without weight</gloss>; metaph. (MM, <emph>VGT</emph>, s.v.) <gloss>not burdensome</gloss>: <ref osisRef="2Cor.11.9">II Co 11:9</ref>.†</sense>
  </entry> 
- 
+
 <entry n="Ἀββά|G5">
   <note type="occurrencesNT">3</note>
   <form><orth>Ἀββά</orth> (T, <orth>-ᾶ</orth>), indecl. (Aram, <foreign xml:lang="arc">אַבָּא</foreign>, emphatic form of <foreign xml:lang="arc">אַב</foreign> = Heb. <foreign xml:lang="heb">אָב</foreign>, <gloss>father</gloss>), </form> 
@@ -1397,14 +1390,13 @@
   <form><orth>Ἀβιούδ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">אֲבִיָּהוּד</foreign>), </form> 
   <sense><gloss>Abiud, Abihud</gloss>: <ref osisRef="Matt.1.13">Mt 1:13</ref>. †</sense>
  </entry> 
- 
+
 <entry n="Ἀβραάμ|G11">
   <note type="occurrencesNT">73</note>
   <form><orth>Ἀβραάμ</orth> (Heb. <foreign xml:lang="heb">אַבְרָהָם</foreign>), <orth>ὁ</orth>, indecl. (in FlJ, <orth>Ἄβραμος, -ου</orth>; MM, <emph>VGT</emph>, s.v.), </form>
   <sense><gloss>Abraham</gloss> (<ref osisRef="Gen.17.5">Ge 17:5</ref> al.): <ref osisRef="Matt.1.1-Matt.1.2">Mt 1:1, 2</ref> al.</sense>
  </entry> 
- 
- 
+
 <pb n="2" />
 
 <entry n="ἄβυσσος|G12">
@@ -1441,7 +1433,7 @@
     <sense n="(c)">acc. pers., <ref osisRef="Luke.6.33">Lk 6:33</ref>, <ref osisRef="Luke.6.35">35</ref> (Cremer, 8). </sense> †
   </sense>
  </entry>
- 
+
 <entry n="ἀγαθοποιΐα|G16">
   <note type="occurrencesNT">1</note>
   <form>*† <orth>ἀγαθοποιία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγαθοποιός</foreign>), </form>
@@ -1466,7 +1458,7 @@
   <form>*† <orth>ἀγαθουργέω, -ῶ</orth>, contracted form (rare, v. WH, <emph>App</emph>., 145) of <foreign xml:lang="grc">ἀγαθοερ-</foreign> (q.v.), </form>
   <sense><gloss>to do good</gloss>: <ref osisRef="Acts.14.17">Ac 14:17</ref>. †</sense>
  </entry>
- 
+
 <entry n="ἀγαθωσύνη|G19">
   <note type="occurrencesNT">4</note>
   <form>† <orth>ἀγαθωσύνη</orth> (on the termination, v.s. <foreign xml:lang="grc">ἁγιότης</foreign>, and cf . WH, <emph>App</emph>., 152; MM, <emph>VGT</emph>, s.v.), <orth>-ης, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγαθός</foreign>), [in LXX for <foreign xml:lang="heb">טוֹבָה</foreign>, <foreign xml:lang="heb">טוֹב</foreign>, <foreign xml:lang="heb">טוּב</foreign>, only in Heb. bks.;] </form>
@@ -1516,7 +1508,7 @@
     <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλέω</foreign>. From its supposed etymology (Thayer, LS; but v. also Boisacq) <foreign xml:lang="grc">ἀ.</foreign> is commonly understood properly to denote love based on esteem (<foreign xml:lang="lat">diligo</foreign>), as distinct from that expressed by <foreign xml:lang="grc">φιλέω</foreign> (<foreign xml:lang="lat">amo</foreign>), spontaneous natural affection, emotional and unreasoning. If this distinction holds, <foreign xml:lang="grc">ἀ.</foreign> is fitly used in NT of Christian love to God and man, the spiritual affection which follows the direction of the will, and which, therefore, unlike that feeling which is instinctive and unreasoned, can be commanded as a duty. (Cf. <foreign xml:lang="grc">ἀγάπη</foreign>, and <emph>v</emph>. Tr., <emph>Syn</emph>. §xii; Cremer, 9, 592; and esp. MM, <emph>VGT</emph>, s.v.)
   </sense>
  </entry> 
- 
+
 <entry n="ἀγάπη|G26">
   <note type="occurrencesNT">116</note>
   <form>† <orth>ἀγάπη, -ης, ἡ</orth> [in LXX for <foreign xml:lang="heb">אַהֲבָה</foreign>, which is also rendered by <foreign xml:lang="grc"> ἀγάπησις</foreign> and <foreign xml:lang="grc">φιλία</foreign>;] </form>
@@ -1536,7 +1528,7 @@
 <emph>DB</emph>, vol. i., 555; Cremer, 13, 593; MM, <emph>VGT</emph>, s.v.).
   </sense>
  </entry> 
- 
+
 <entry n="ἀγαπητός|G27">
   <note type="occurrencesNT">61</note>
   <form><orth>ἀγαπητός, -ή, -όν</orth> (&lt; <foreign xml:lang="grc">ἀγαπάω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">יָתִיד</foreign>, <foreign xml:lang="heb">יָדִיד</foreign> ;] </form> 
@@ -1688,7 +1680,6 @@
   <sense><gloss>a fish-hook</gloss>: <ref osisRef="Matt.17.27">Mt 17:27</ref>. †</sense>
  </entry>
 
- 
 <pb n="6" /> 
 
 <entry n="ἄγκυρα|G45">
@@ -1786,9 +1777,6 @@
   <sense><gloss>unknown</gloss>: <ref osisRef="Acts.17.23">Ac 17:23</ref> (cf. MM, <emph>VGT</emph>, s.v.). †</sense>
  </entry>
 
-
-
- 
 <pb n="7" /> 
 
 <entry n="ἀγορά|G58">
@@ -1808,7 +1796,6 @@
     <sense n="2."><gloss>to buy in the market</gloss>, <gloss>purchase</gloss> (Xen., al.; LXX; in π. very common in deeds of sale, v. MM, <emph>VGT</emph>, s.v.): absol., <ref osisRef="Matt.21.12">Mt 21:12</ref>, <ref osisRef="Mark.11.15">Mk 11:15</ref>; c. acc. rei, <ref osisRef="Matt.13.44">Mt 13:44</ref>, <ref osisRef="Matt.13.46">46</ref>, al.; seq. <foreign xml:lang="grc">παρά</foreign>, c. gen. pers., <ref osisRef="Rev.3.18">Re 3:18</ref> (LXX, Polyb.); <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Matt.27.7">Mt 27:7</ref>; c. gen. pret., <ref osisRef="Mark.6.37">Mk 6:37</ref>, al.; metaph., <ref osisRef="1Cor.6.20">I Co 6:20</ref>  <ref osisRef="1Cor.7.23">7:23</ref>, <ref osisRef="2Pet.2.1">II Pe 2:1</ref>, <ref osisRef="Rev.5.9">Re 5:9</ref>  <ref osisRef="Rev.14.3">14:3</ref>, <ref osisRef="Rev.14.4">4</ref>. </sense>
   </sense>
  </entry>
-
 
 <entry n="ἀγοραῖος|G60">
   <note type="occurrencesNT">2</note>
@@ -1895,7 +1882,6 @@
   <sense><gloss>sleeplessness, watching</gloss>: <ref osisRef="2Cor.6.5">II Co 6:5</ref>  <ref osisRef="2Cor.11.27">11:27</ref>. (Plat., Hdt.; for exx. in π., v. MM, VGT, s.v.) †</sense>
  </entry>
 
- 
 <pb n="8" /> 
 
 <entry n="ἀγυιά">
@@ -1920,7 +1906,6 @@
     <sense n="2."><gloss>a leading, guiding</gloss>; metaph., <gloss>training</gloss>; hence, from the expression <foreign xml:lang="grc">ἀ. τοῦ βίου</foreign>, absol., <gloss>conduct, way of life</gloss>: <ref osisRef="2Tim.3.10">II Ti 3:10</ref> (Cremer, 61; MM, <emph>VGT</emph>, s.v.).</sense> †
   </sense>
  </entry>
-
 
 <entry n="ἀγών|G73">
   <note type="occurrencesNT">6</note>
@@ -1997,9 +1982,6 @@
   </sense>
  </entry>
 
-
-
- 
 <pb n="9" />
 
 <entry n="ἄδηλος|G82">
@@ -2108,7 +2090,6 @@
   <sense><gloss>Admin.</gloss>: <ref osisRef="Luke.3.33">Lk 3:33</ref>. †</sense>
  </entry>
 
- 
 <pb n="10" /> 
 
 <entry n="ἀδόκιμος|G96">
@@ -2205,7 +2186,6 @@
  <sense><gloss>Azor</gloss>: <ref osisRef="Matt.1.13">Mt 1:13</ref>,<ref osisRef="Matt.1.14">14</ref>. †</sense>
  </entry>
 
-
 <entry n="Ἄζωτος|G108">
  <note type="occurrencesNT">1</note>
  <form><orth>Ἄζωτος, -ου, ἡ</orth> (Heb., <foreign xml:lang="heb">אַשְׁדּוֹד</foreign>), </form>
@@ -2221,9 +2201,6 @@
  </sense>
  </entry>
 
-
-
- 
 <pb n="11" /> 
 
 <entry n="ἀήρ|G109">
@@ -2320,9 +2297,6 @@
  <sense><gloss>to be disheartened</gloss>: <ref osisRef="Col.3.21">Col 3:21</ref>. †</sense>
  </entry>
 
-
-
- 
 <pb n="12" /> 
 
 <entry n="ἀθῷος|G121">
@@ -2333,7 +2307,6 @@
    <sense n="2."><gloss>innocent</gloss>: <ref osisRef="Matt.27.4">Mt 27:4</ref> (WH, R, mg., <foreign xml:lang="grc">δίκαιον</foreign>) <ref osisRef="Matt.27.24">27:24</ref>.</sense>
  </sense>
  </entry>
-
 
 <entry n="αἴγειος|G122">
  <note type="occurrencesNT">1</note>
@@ -2414,9 +2387,6 @@
  <sense><gloss>Æneas</gloss>: <ref osisRef="Acts.9.33">Ac 9:33</ref>,<ref osisRef="Acts.9.34">34</ref>. †</sense>
  </entry>
 
-
-
- 
 <pb n="13" /> 
 
 <entry n="αἴνεσις|G133">
@@ -2522,9 +2492,6 @@
  <sense><gloss>greedy of base gains</gloss>: <ref osisRef="1Tim.3.3">I Ti 3:3</ref>,<ref osisRef="1Tim.3.8">8</ref> <note>Abbot-Smith omits I Ti 3:3</note>, <ref osisRef="Titus.1.7">Tit 1:7</ref>. †</sense>
  </entry>
 
-
-
- 
 <pb n="14" /> 
 
 <entry n="αἰσχροκερδῶς|G147">
@@ -2781,18 +2748,7 @@
  <sense><gloss>that cannot cease, not to be restrained</gloss>: c. gen. rei, <ref osisRef="2Pet.2.14">II Pe 2:14</ref>, T, Tr. txt. †</sense>
  </entry>
 
- 
 <pb n="17" /> 
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἀκούω|G191">
   <note type="occurrencesNT">428</note>
@@ -2804,61 +2760,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="19" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="20" /> 
-
-
-
-
 
 <entry n="ἀλήθεια|G225">
   <note type="occurrencesNT">109</note>
@@ -2870,24 +2774,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="21" /> 
-
-
 
 <entry n="ἀλλά|G235">
   <note type="occurrencesNT">638</note>
@@ -2900,27 +2787,13 @@
   </sense>
  </entry>
 
-
-
-
-
-
-
-
-
 <entry n="ἀλλήλων|G240">
   <note type="occurrencesNT">100</note>
   <form><orth>ἀλλήλων</orth> (gen. pl.), dat. <foreign xml:lang="grc">-οις, -αις</foreign>, acc. <foreign xml:lang="grc">-ους, -ας, -α</foreign> (no nom.), recipr. pron. (&lt; <foreign xml:lang="grc">ἄλλος</foreign>), </form>
   <sense><gloss>of one another, mutually</gloss>: <ref osisRef="Matt.25.32">Mt 25:32</ref>, <ref osisRef="Mark.4.41">Mk 4:41</ref>, <ref osisRef="John.13.22">Jo 13:22</ref>, al. </sense>
 </entry>
 
-
-
-
-
- 
 <pb n="22" /> 
-
 
 <entry n="ἄλλος|G243">
   <note type="occurrencesNT">155</note>
@@ -2929,39 +2802,7 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἕτερος</foreign>, q.v. <foreign xml:lang="grc">ἄ.</foreign> denotes numerical, <foreign xml:lang="grc">ἕ.</foreign> qualitative difference (Cremer, 89). <foreign xml:lang="grc">ἄ.</foreign> generally "denotes simply distinction of individuals, <foreign xml:lang="grc">ἕ.</foreign> involves the secondary idea of difference in kind" (v. Lft., Meyer, Ramsay, on <ref osisRef="Gal.1.6">Ga 1:6</ref>, <ref osisRef="Gal.1.7">7</ref>; Tr., <emph>Syn.</emph>, §xcv; BL, §51, 6; M, <emph>Pr.</emph>, 79f., 246; MM, <emph>VGT</emph>, s.vv.). As to whether the distinction can be maintained in <ref osisRef="1Cor.12.8">I Co 12:8</ref>,  <ref osisRef="1Cor.12.10">10</ref> v. <emph>ICC</emph>, in l., and on <ref osisRef="Heb.11.35">He 11:35</ref>f., v. Westc, in l. </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="23" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἁμαρτία|G266">
   <note type="occurrencesNT">173</note>
@@ -2977,20 +2818,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <entry n="ἀμήν|G281">
   <note type="occurrencesNT">129</note>
   <form><orth>ἀμήν</orth>, indecl. (Heb. <foreign xml:lang="heb">אָמֵן</foreign>, verbal adj. fr. <foreign xml:lang="heb">אמן</foreign>, <gloss>to prop.</gloss> ni., <gloss>be firm</gloss>), [in LXX: <ref osisRef="1Chr.16.36">I Ch 16:36</ref>, I <ref osisRef="Esth.9.46">Es 9:46</ref>, <ref osisRef="Neh.5.13">Ne 5:13</ref>  <ref osisRef="Neh.8.6">8:6</ref>, <ref osisRef="Tob.8.8">To 8:8</ref>  <ref osisRef="Tob.14.15">14:15</ref>, <ref osisRef="3Macc.7.23">III Mac 7:23</ref>, 
@@ -3005,43 +2832,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="26" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἄν_1|G302">
   <note type="occurrencesNT">716</note>
@@ -3073,230 +2864,25 @@
   <form><orth>ἄν</orth>, contr. from <foreign xml:lang="grc">ἐάν</foreign>, q.v.</form>
  </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="28" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="29" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="30" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="31" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="32" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="33" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="34" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="35" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="36" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="37" /> 
-
-
 
 <entry n="ἀνήρ|G435">
   <note type="occurrencesNT">216</note>
@@ -3309,23 +2895,7 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἄνθρωπος</foreign>, q.v. (cf. MM, <emph>VGT</emph>, s.v.). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="38" /> 
-
-
 
 <entry n="ἄνθρωπος|G444">
   <note type="occurrencesNT">550</note>
@@ -3336,10 +2906,6 @@
     <sense n="3.">Definitely, c. art., of some particular person; <ref osisRef="Matt.12.13">Mt 12:13</ref>, <ref osisRef="Mark.3.5">Mk 3:5</ref>, al.; <foreign xml:lang="grc">οὗτος ὁ ἄ.</foreign>, <ref osisRef="Luke.14.30">Lk 14:30</ref>; <foreign xml:lang="grc">ὁ ἄ οὗτος, ἐκεῖνος</foreign>, <ref osisRef="Mark.14.71">Mk 14:71</ref>, <ref osisRef="Matt.12.45">Mt 12:45</ref>; <foreign xml:lang="grc">ὁ ἄ. τ. ἀνομίας</foreign>, <ref osisRef="2Thess.2.3">II Th 2:3</ref>; <foreign xml:lang="grc">ἄ τ. θεοῦ</foreign> (of Heb. <foreign xml:lang="heb">אִישׁ  אֱלֹהִים</foreign>), <ref osisRef="1Tim.6.11">I Ti 6:11</ref>, <ref osisRef="2Tim.3.17">II Ti 3:17</ref>, <ref osisRef="2Pet.1.21">II Pe 1:21</ref>; <foreign xml:lang="grc">ὁ υἰὸς τοῦ ἀ.</foreign>, v.s. <foreign xml:lang="grc">υἱός</foreign>. </sense>
   <lb/><emph>SYN.</emph>: <foreign xml:lang="grc">ἀνήρ</foreign>, q.v. (and cf. MM, <emph>VGT</emph>, 44; Cremer, 103, 635).</sense>
  </entry> 
- 
-
-
-
 
 <entry n="ἀνίστημι|G450">
   <note type="occurrencesNT">115</note>
@@ -3354,212 +2920,21 @@
   </sense>
 </entry>
 
- 
 <pb n="39" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="40" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="41" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="42" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="43" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="44" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="45" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="46" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἀπέρχομαι|G565">
   <note type="occurrencesNT">126</note>
@@ -3573,19 +2948,6 @@
     <sense n="2.">As in LXX, seq. <foreign xml:lang="grc">ὀπίσω</foreign>, c. gen. (Heb. <foreign xml:lang="heb">הָלַךְ אַחֲרֵי</foreign>), <gloss>to go after, follow</gloss>: <ref osisRef="Mark.1.20">Mk 1:20</ref>, <ref osisRef="John.12.19">Jo 12:19</ref>; metaph., <ref osisRef="Mark.1.42">Mk 1:42</ref>, <ref osisRef="Rev.21.1">Re 21:1</ref>. </sense>
   </sense>
 </entry>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἀπό|G575">
   <note type="occurrencesNT">616</note>
@@ -3615,46 +2977,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
- 
 <pb n="49" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="50" /> 
-
-
-
-
-
-
-
-
-
 
 <entry n="ἀποθνῄσκω|G599">
   <note type="occurrencesNT">111</note>
@@ -3662,24 +2987,7 @@
   <sense><gloss>to die</gloss>: of natural death, <ref osisRef="Mark.5.35">Mk 5:35</ref>, al.; of violent death (pass. of <foreign xml:lang="grc">ἀποκτείνω</foreign>), esp. of Christ, <ref osisRef="Matt.26.35">Mt 26:35</ref>, <ref osisRef="John.12.33">Jo 12:33</ref>, <ref osisRef="Heb.10.28">He 10:28</ref>, al.; of spiritual death, <ref osisRef="John.6.50">Jo 6:50</ref>, <ref osisRef="Rom.8.13">Ro 8:13</ref>, al.; c. dat. ref., <ref osisRef="Rom.6.2">Ro 6:2</ref>, <ref osisRef="Rom.6.10">10</ref> <ref osisRef="Rom.14.7">14:7</ref>, <ref osisRef="Rom.14.8">8</ref>, <ref osisRef="Gal.2.19">Ga 2:19</ref>; acc., <foreign xml:lang="grc">ὅ</foreign>, <ref osisRef="Rom.6.10">Ro 6:10</ref>; seq. <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="Matt.8.32">Mt 8:32</ref>, <ref osisRef="John.8.21">Jo 8:21</ref>,  <ref osisRef="John.8.24">24</ref> <ref osisRef="1Cor.15.22">I Co 15:22</ref>, <ref osisRef="Heb.11.37">He 11:37</ref>, <ref osisRef="Rev.14.13">Re 14:13</ref>; seq. <foreign xml:lang="grc">ὑπέρ, περί</foreign>, <ref osisRef="John.11.50">Jo 11:50</ref>, <ref osisRef="John.11.51">51</ref> <ref osisRef="John.18.14">18:14</ref>, <ref osisRef="Rom.5.6-Rom.5.8">Ro 5:6-8</ref> <ref osisRef="Rom.14.15">14:15</ref>, <ref osisRef="1Cor.15.3">I Co 15:3</ref>, <ref osisRef="2Cor.5.15">II Co 5:15</ref>, <ref osisRef="1Thess.5.10">I Th 5:10</ref>, <ref osisRef="1Pet.3.18">I Pe 3:18</ref>; <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Col.2.20">Col 2:20</ref>; <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Rev.8.11">Re 8:11</ref>; fig., <ref osisRef="1Cor.15.31">I Co 15:31</ref> (cf. <foreign xml:lang="grc">συν-αποθνήσκω</foreign>, and V. Milligan, <emph>NTD</emph>, 258f.; <emph>DCG</emph>, i, 791b; Cremer, 286; MM, s.v.; on the perfective force of this verb, M, <emph>Pr.</emph>, 112, 114; and on the distinction bet. pres. and aor., ib. 113 f.). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="51" /> 
-
-
-
-
-
-
 
 <entry n="ἀποκρίνομαι|ἀποκρίνω|G611">
   <note type="occurrencesNT">232</note>
@@ -3696,64 +3004,11 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
- 
 <pb n="52" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="53" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="54" /> 
-
-
-
-
-
-
 
 <entry n="ἀποστέλλω|G649">
   <note type="occurrencesNT">136</note>
@@ -3767,71 +3022,11 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">πέμπω</foreign>, the general term. <foreign xml:lang="grc">ἀ.</foreign> "suggests official or authoritative sending" (v. Thayer, s.v. <foreign xml:lang="grc">πέμπω</foreign>; Westc., <emph>Jo.</emph>, 298; <emph>Epp. Jo.</emph>, 125; Cremer, 529; MM, s.v.). </sense>
 </entry>
 
-
-
-
-
-
- 
 <pb n="55" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="56" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="57" /> 
-
-
 
 <entry n="ἄρα|G686">
   <note type="occurrencesNT">158</note>
@@ -3850,134 +3045,15 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="58" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="59" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="60" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="61" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="62" />
-
-
-
-
-
-
-
 
 <entry n="ἀρχιερεύς|G749">
   <note type="occurrencesNT">122</note>
@@ -3988,191 +3064,19 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="63" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="64" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="65" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="66" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="67" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="68" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="69" /> 
-
-
-
-
-
-
-
 
 <entry n="αὐτός|G846|G2248|G2249|G2254|G2257|G3165|G3427|G3450|G4571|G4671|G4675|G5209|G5210|G5213|G5216">
   <note type="occurrencesNT">5100</note>
@@ -4189,34 +3093,9 @@
   </sense>
 </entry>
 
-
 <pb n="70" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="71" />
-
-
-
 
 <entry n="ἀφίημι|G863">
   <note type="occurrencesNT">143</note>
@@ -4228,51 +3107,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="72" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="73" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Β">
@@ -4289,7 +3126,6 @@
   <sense><gloss>Baal</gloss>: <ref osisRef="Rom.11.4">Ro 11:4</ref> <hi rend="superscript">(LXX)</hi>. The fem. art. here agrees with the usage of LXX, where, following a similar Hebrew practice (<foreign xml:lang="heb">בֹּשֶׁת</foreign> for <foreign xml:lang="heb">בַּעַל</foreign>), <foreign xml:lang="grc">αἰσχύνη</foreign> appears to have been substituted in reading for the written <foreign xml:lang="grc">Βάαλ</foreign> (cf. <ref osisRef="1Kgs.18.19">III Ki 18:19</ref>), and to account for the freq. use of the fem. art. bef. <foreign xml:lang="grc">Β.</foreign> The usage, however, is not general, and in the passage cited in Ro (<ref osisRef="1Kgs.19.18">III Ki 19:18</ref>), LXX reads <foreign xml:lang="grc">τῷ Β.</foreign>† </sense>
 </entry>
 
- 
 <pb n="74" /> 
 
 <entry n="Βαβυλών|G897">
@@ -4530,7 +3366,6 @@
   <sense><gloss>torture, torment</gloss>: <ref osisRef="Rev.9.5">Re 9:5</ref>  <ref osisRef="Rev.14.11">14:11</ref> <ref osisRef="Rev.18.7">18:7</ref>, <ref osisRef="Rev.18.10">10</ref>, <ref osisRef="Rev.18.15">15</ref>.†</sense>
 </entry>
 
- 
 <pb n="77" /> 
 
 <entry n="βασανιστής|G930">
@@ -4583,7 +3418,6 @@
   <sense><gloss>a king</gloss>: <ref osisRef="Matt.1.6">Mt 1:6</ref>  <ref osisRef="Matt.2.1">2:1</ref>; used by courtesy of Herod the Tetrarch, <ref osisRef="Matt.14.9">Mt 14:9</ref>; of the Roman Emperor, as freq. in <foreign xml:lang="grc">κοινή</foreign> (Deiss., <emph>LAE</emph>, p. 367), <ref osisRef="1Pet.2.13">I Pe 2:13</ref>, <ref osisRef="1Pet.2.17">17</ref>; of the Christ, in the phrase <foreign xml:lang="grc">ὁ β. τ. Ἰουδαίων</foreign>, <ref osisRef="Matt.2.2">Mt 2:2</ref>, al.; <foreign xml:lang="grc">τοῦ Ἰσραήλ</foreign>, <ref osisRef="Mark.15.32">Mk 15:32</ref>, <ref osisRef="John.1.50">Jo 1:50</ref>  <ref osisRef="John.12.13">12:13</ref>; of God, <ref osisRef="Matt.5.35">Mt 5:35</ref>, <ref osisRef="1Tim.1.17">I Ti 1:17</ref>, <ref osisRef="Rev.15.3">Re 15:3</ref>; <foreign xml:lang="grc">β. βασιλέων</foreign>, <ref osisRef="Rev.17.14">Re 17:14</ref>  <ref osisRef="Rev.19.16">19:16</ref>; <foreign xml:lang="grc">β. τ. βασιλευόντων</foreign>, <ref osisRef="1Tim.6.15">I Ti 6:15</ref> (on the associations of the word to Jewish Hellenists, v. <emph>Cl. Rev.</emph>, i, 7).†</sense>
 </entry> 
 
- 
 <pb n="78" /> 
 
 <entry n="βασιλεύω|G936">
@@ -4741,7 +3575,6 @@
   </sense>
 </entry>
 
-
 <pb n="80" /> 
 
 <entry n="βέλος|G956">
@@ -4836,7 +3669,6 @@
     <sense n="2."><gloss>a raised place, a platform</gloss> reached by steps, originally that in the Pnyx at Athens from which orations were made; freq. of the <gloss>tribune</gloss> or <gloss>tribunal</gloss> of a Roman magistrate or ruler: <ref osisRef="Matt.27.19">Mt 27:19</ref>, <ref osisRef="John.19.13">Jo 19:13</ref>, <ref osisRef="Acts.12.21">Ac 12:21</ref>, <ref osisRef="Acts.18.12">18:12</ref>, <ref osisRef="Acts.18.16">16</ref>, <ref osisRef="Acts.18.17">17</ref> <ref osisRef="Acts.25.6">25:6</ref>, <ref osisRef="Acts.25.10">10</ref>, <ref osisRef="Acts.25.17">17</ref>; <foreign xml:lang="grc">β. τοῦ θεοῦ</foreign>, <ref osisRef="Rom.14.10">Ro 14:10</ref>; <foreign xml:lang="grc">τ. Χριστοῦ</foreign>, <ref osisRef="2Cor.5.10">II Co 5:10</ref>.</sense> †
   </sense>
 </entry>
-
 
 <pb n="81" /> 
 
@@ -5097,7 +3929,6 @@
   <sense><gloss>a dart, javelin</gloss>: <ref osisRef="Heb.12.20">He 12:20</ref>, Rec. (LXX).†</sense>
 </entry>
 
-
 <pb n="84" />
 
 <entry n="Βόος|G1003">
@@ -5182,7 +4013,6 @@
 <ref osisRef="2Cor.1.17">II Co 1:17</ref>; c. acc. et inf., <ref osisRef="Phil.1.12">Phl 1:12</ref>, <ref osisRef="1Tim.2.8">I Ti 2:8</ref>  <ref osisRef="1Tim.5.14">5:14</ref>, <ref osisRef="Titus.3.8">Tit 3:8</ref>, <ref osisRef="2Pet.3.9">II Pe 3:9</ref>; of the will making choice between alternatives, <ref osisRef="Matt.1.19">Mt 1:19</ref>  <ref osisRef="Matt.11.27">11:27</ref>, <ref osisRef="Luke.10.22">Lk 10:22</ref>, <ref osisRef="Acts.25.20">Ac 25:20</ref>, <ref osisRef="1Cor.12.11">I Co 12:11</ref>, <ref osisRef="Jas.3.4">Ja 3:4</ref>  <ref osisRef="Jas.4.4">4:4</ref>; <foreign xml:lang="grc">εἰ βούλει</foreign> (cl., a courteous phrase = <foreign xml:lang="grc">θέλεις</foreign>, colloq.; Bl., §21, 8; LS, s.v.), <ref osisRef="Luke.22.4">Lk 22:42</ref>; c. subjc., adding force to a question of deliberation (Bl., §64, 6), <ref osisRef="John.18.39">Jo 18:39</ref>; <foreign xml:lang="grc">βουληθείς</foreign>, <gloss>of set purpose</gloss> (v. Hort, in l.), <ref osisRef="Jas.1.18">Ja 1:18</ref>; impf., 
 <foreign xml:lang="grc">ἐβουλόμην</foreign> (= cl. <foreign xml:lang="grc">βουλοίμην ἄν</foreign>; Bl., §63, 5; Lft., <emph>Phm.</emph> 13), <ref osisRef="Acts.25.22">Ac 25:22</ref>, <ref osisRef="Phlm.1.13">Phm 13</ref> (v. also Cremer, 143).†</sense>
 </entry>
-
 
 <pb n="85" /> 
 
@@ -5295,9 +4125,8 @@
   <sense><gloss>a noose, a slip-knot, a halter</gloss>: metaph., <gloss>a restraint</gloss> (not, as AV, R, txt., <gloss>a snare</gloss>): <ref osisRef="1Cor.7.35">I Co 7:35</ref>.†</sense>
 </entry>
 
-
 <pb n="86" />
- 
+
 <entry n="βρυγμός|G1030">
   <note type="occurrencesNT">7</note>
   <form><orth>βρυγμός, -οῦ, ὁ</orth> (&lt; <foreign xml:lang="grc">βρύχω</foreign>), [in LXX: <ref osisRef="Prov.19.12">Pr 19:12</ref> (<foreign xml:lang="heb">נַהַם</foreign>), <ref osisRef="Sir.51.3">Si 51:3</ref>*;] </form>
@@ -5402,7 +4231,6 @@
   <sense>the archangel <gloss>Gabriel</gloss>: <ref osisRef="Luke.1.19">Lk 1:19</ref>, <ref osisRef="Luke.1.26">26</ref>.†</sense>
 </entry>
 
- 
 <pb n="87" /> 
 
 <entry n="γάγγραινα|G1044">
@@ -5529,9 +4357,6 @@
   </sense>
 </entry>
 
-
-
-
 <entry n="γάρ|G1063">
   <note type="occurrencesNT">1041</note>
   <form><orth>γάρ</orth>, </form>
@@ -5543,51 +4368,11 @@
   </sense>
  </entry>
 
-
-
-
-
-
-
-
- 
 <pb n="89" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="90" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="91" />
-
 
 <entry n="γῆ|G1093">
   <note type="occurrencesNT">275</note>
@@ -5603,14 +4388,12 @@
   </sense>
 </entry>
 
-
- 
 <pb n="92" />
- 
+
 <entry n="γίγνομαι">
   <form><orth>γίγνομαι</orth>, v.s. <foreign xml:lang="grc">γίνομαι</foreign>.</form>
  </entry>
- 
+
 <entry n="γίνομαι|G1096">
   <note type="occurrencesNT">667</note>
   <form><orth>γίνομαι</orth>, Ion. and <foreign xml:lang="grc">κοινή</foreign> for Att. <orth>γίγν-</orth> (M. <emph>Pr.</emph>, 47; Bl., §6, 8  Mayser, 166 f.), [in LXX chiefly for <foreign xml:lang="heb">היה</foreign>;] </form>
@@ -5621,7 +4404,7 @@
     <sense n="4."><gloss>to become, be made, come to be</gloss>: c. pred., <ref osisRef="Matt.4.3">Mt 4:3</ref>, <ref osisRef="Luke.4.3">Lk 4:3</ref>, <ref osisRef="John.2.9">Jo 2:9</ref>, <ref osisRef="1Cor.13.11">I Co 13:11</ref>, al.; seq. <foreign xml:lang="grc">ὡς, ὡσεί</foreign>, <ref osisRef="Matt.10.25">Mt 10:25</ref>, <ref osisRef="Mark.9.26">Mk 9:26</ref>; <foreign xml:lang="grc">εἰς</foreign> (M, <emph>Pr.</emph>, 71f.), <ref osisRef="Mark.12.1">Mk 12:1</ref>o, al.; c. gen. <ref osisRef="Rev.11.15">Re 11:15</ref>; id., of age, <ref osisRef="Luke.2.42">Lk 2:42</ref>; c. dat., <foreign xml:lang="grc">γ. ἀνδρί</foreign> ([LXX for <foreign xml:lang="heb">הָיָה לְאִישׁ</foreign>, <ref osisRef="Ruth.1.12">Ru 1:12</ref>, al.;] v. Field, <emph>Notes</emph>, 156), <ref osisRef="Rom.7.3">Ro 7:3</ref>, 4; seq. <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="Acts.22.17">Ac 22:17</ref>, <ref osisRef="Rev.1.10">Re 1:10</ref>, al.; <foreign xml:lang="grc">ἐπάνω</foreign>, <ref osisRef="Luke.19.19">Lk 19:19</ref>; <foreign xml:lang="grc">μετά</foreign>, c. gen., <ref osisRef="Mark.16.10">Mk 16:[10]</ref>, <ref osisRef="Acts.9.19">Ac 9:19</ref>; seq. <foreign xml:lang="grc">εἰς, ἐπί</foreign> (Field, <emph>Notes</emph>, 135), <foreign xml:lang="grc">κατά</foreign> (ib., 62), c. acc. of place, <ref osisRef="Acts.20.16">Ac 20:16</ref>  <ref osisRef="Acts.21.35">21:35</ref> <ref osisRef="Acts.27.7">27:7</ref>, al.; seq. <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Mark.9.7">Mk 9:7</ref>, <ref osisRef="Luke.3.22">Lk 3:22</ref>, <ref osisRef="2Thess.2.7">II Th 2:7</ref>, al. Aoristic pf. <foreign xml:lang="grc">γέγονα</foreign> (M, <emph>Pr.</emph>, 52, 145f.; Field, <emph>Notes</emph>, 1f.), <ref osisRef="Matt.25.6">Mt 25:6</ref>, <ref osisRef="Luke.10.36">Lk 10:36</ref>, al. Aor. <foreign xml:lang="grc">ἐγενήθη</foreign> (for <foreign xml:lang="grc">ἐγένετο</foreign>, M, <emph>Pr.</emph>, 139f.; Mayser, 379), <ref osisRef="Matt.11.23">Mt 11:23</ref>, al. (Cf. <foreign xml:lang="grc">απο-, δια-, επι-, παρα-, συμ-, παρα-, προ-</foreign>.)</sense>
   </sense>
 </entry>
- 
+
 <entry n="γινώσκω|G1097">
   <note type="occurrencesNT">220</note>
   <form><orth>γινώσκω</orth> (= <foreign xml:lang="grc">γιγν-</foreign>: v. previous word. So also vulgar Attic, in Inscr., v. Thumb, <emph>MGV</emph>, 207), [in LXX chiefly for <foreign xml:lang="heb">ידע</foreign>;] </form>
@@ -5630,16 +4413,9 @@
 <pb n="93" /> intuition or information); cf. also <foreign xml:lang="grc">ἐφίστημι, συνίημι</foreign>. (Cf. <foreign xml:lang="grc">ἀνα-, δια-, ἐπι-, κατα-, προ-γινώσκω</foreign>.)</sense>
 </entry>
 
-
- 
- 
 <pb n="94" />
- 
- 
- 
+
 <pb n="95" />
-
-
 
 <entry n="γράφω|G1125">
   <note type="occurrencesNT">191</note>
@@ -5656,20 +4432,6 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <entry n="γυνή|G1135">
   <note type="occurrencesNT">215</note>
   <form><orth>γυνή, -αικός, ἡ</orth>, [in LXX for <foreign xml:lang="heb">אִשָּׁה</foreign>;] </form>
@@ -5680,54 +4442,13 @@
   </sense>
 </entry>
 
-
- 
 <pb n="97" /> 
-
-
-
 
  </div>
  <div type="letter" n="Δ">
   <head type="heading2">Δ</head>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="98" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="δέ|G1161">
   <note type="occurrencesNT">2797</note>
@@ -5739,110 +4460,14 @@
     <sense n="2.">Adversative, <gloss>but, on the other hand</gloss>, prop., answering to a foregoing <foreign xml:lang="grc">μέν</foreign> (q.v.), and distinguishing a word or clause from one preceding (in NT most freq. without <foreign xml:lang="grc">μέν</foreign>; Bl., §77, 12): <foreign xml:lang="grc">ἐὰν δέ</foreign>, <ref osisRef="Matt.6.14">Mt 6:14</ref>, <ref osisRef="Matt.6.23">23</ref>, al.; <foreign xml:lang="grc">ἐγὼ</foreign> (<foreign xml:lang="grc">σὺ</foreign>, etc.) <foreign xml:lang="grc">δέ</foreign>, <ref osisRef="Matt.5.22">Mt 5:22</ref>, <ref osisRef="Matt.6.6">6:6</ref>, <ref osisRef="Mark.8.29">Mk 8:29</ref>, al.; <foreign xml:lang="grc">ὁ δέ, αὐτὸς δέ</foreign>, <ref osisRef="Mark.1.45">Mk 1:45</ref>, <ref osisRef="Luke.4.40">Lk 4:40</ref>, al.; after a negation, <ref osisRef="Matt.6.19">Mt 6:19</ref>, <ref osisRef="Matt.6.20">20</ref>, <ref osisRef="Rom.3.4">Ro 3:4</ref>, <ref osisRef="1Thess.5.21">I Th 5:21</ref>, al.</sense>
   </sense>
  </entry> 
- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="100" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="101" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="102" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="103" /> 
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="δέω|G1210">
   <note type="occurrencesNT">138</note>
@@ -5854,30 +4479,7 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="105" /> 
-
-
-
 
 <entry n="Δία">
   <form><orth>Δία</orth>, acc. of <foreign xml:lang="grc">Ζεύς</foreign>, q.v. </form>
@@ -5920,199 +4522,23 @@
   </sense>
 </entry>
 
-
-
-
-
-
- 
 <pb n="106" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="107" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="108" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="109" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="110" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="111" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="112" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="113" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="114" />
-
-
-
-
-
 
 <entry n="δίδωμι|G1325">
   <note type="occurrencesNT">415</note>
@@ -6122,135 +4548,19 @@
 </entry>
   
 
-
-
-
-
-
-
- 
 <pb n="115" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="116" /> 
 
-
-
-
-
-
-
- 
 <pb n="117" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="118" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="119" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="120" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="121" /> 
-
-
 
 <entry n="δόξα|G1391">
   <note type="occurrencesNT">166</note>
@@ -6264,20 +4574,7 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἔπαινος τιμή</foreign> (v. Hort on <ref osisRef="1Pet.1.7">I Pe 1:7</ref>). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="122" /> 
-
-
-
 
 <entry n="δοῦλος|G1401">
   <note type="occurrencesNT">124</note>
@@ -6290,23 +4587,7 @@
     <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">διάκονος</foreign> (q.V.), <foreign xml:lang="grc">θεράπων, ὐπηρέτης</foreign> (v. <emph>DB</emph>, iii, 377; iv, 461, 469; <emph>DCG</emph>, i, 221; ii, 613; Cremer, 215, 702). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="123" /> 
-
-
-
-
 
 <entry n="δύναμαι|G1410">
   <note type="occurrencesNT">210</note>
@@ -6326,18 +4607,7 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">βία, ἐνέργεια, ἐξουσία, ἰσχύς, κράτος</foreign> (v. Tr., l.c.; Cremer, 218, 236; <emph>DB</emph>, i, 616; iv, 29; <emph>DCG</emph>, i, 607; ii, 188). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
- 
 <pb n="124" /> 
-
-
 
 <entry n="δύο|G1417">
   <note type="occurrencesNT">135</note>
@@ -6345,41 +4615,7 @@
   <sense><gloss>two</gloss>: <ref osisRef="Matt.19.6">Mt 19:6</ref>, <ref osisRef="Mark.10.8">Mk 10:8</ref>, <ref osisRef="John.2.6">Jo 2:6</ref>, al.; with pl. noun, <ref osisRef="Matt.9.27">Mt 9:27</ref>  <ref osisRef="Matt.10.10">10:10</ref>, al.; <foreign xml:lang="grc">οἱ, τῶν, τοὺς δ.</foreign>, <ref osisRef="Matt.19.5">Mt 19:5</ref>  <ref osisRef="Matt.20.24">20:24</ref>, <ref osisRef="Mark.10.8">Mk 10:8</ref>, <ref osisRef="Eph.2.15">Eph 2:15</ref>, al.; <foreign xml:lang="grc">δ. ἐξ</foreign>, <ref osisRef="Luke.24.13">Lk 24:13</ref>; distrib., <foreign xml:lang="grc">ἀνὰ, κατὰ δ.</foreign>, <gloss>two and two, two apiece</gloss>: <ref osisRef="Luke.10.1">Lk 10:1</ref> (WH, <foreign xml:lang="grc">ἀνὰ δ. [δύο]</foreign>), <ref osisRef="John.2.6">Jo 2:6</ref>, <ref osisRef="1Cor.14.27">I Co 14:27</ref>; <foreign xml:lang="grc">δύο δύο</foreign> (= <foreign xml:lang="grc">ἀνὰ δ.</foreign>, as LXX, <ref osisRef="Gen.6.19">Ge 6:19</ref> for <foreign xml:lang="heb">שְׁנַיִם שְׁנַיִם</foreign>, but not merely "Hebraism," cf. <foreign xml:lang="grc">μυρία μυρία</foreign>, Æsch., <emph>Pers.</emph>, 981, and for usage in π. and MGr., v. M, <emph>Pr.</emph>, 21, 97), <ref osisRef="Mark.6.7">Mk 6:7</ref>; <foreign xml:lang="grc">εἰς δ.</foreign> (<gloss>two and two</gloss>, Xen., <emph>Cyr.</emph>, 7, 5, 17), <gloss>into two parts</gloss>, <ref osisRef="Matt.27.51">Mt 27:51</ref>, <ref osisRef="Mark.15.38">Mk 15:38</ref>. </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="125" />
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Ε">
@@ -6424,29 +4660,7 @@
     <sense n="3.">In pl., for reciprocal pron., <foreign xml:lang="grc">ἀλλήλων, -οις, -ους</foreign>, <gloss>of one another</gloss>, etc.: <ref osisRef="Matt.21.38">Mt 21:38</ref>, <ref osisRef="Mark.16.3">Mk 16:3</ref>, <ref osisRef="Eph.5.19">Eph 5:19</ref>, al. </sense></sense>
  </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="127" /> 
-
-
-
-
-
-
-
-
 
 <entry n="ἐγείρω|G1453">
   <note type="occurrencesNT">144</note>
@@ -6463,29 +4677,7 @@
   </sense>
 </entry>
 
-
-
-
-
- 
 <pb n="128" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἐγώ|G1473|G1691|G1698|G1700|G2248|G2249|G2254|G2257|G3165|G3427|G3450">
   <note type="occurrencesNT">2572</note>
@@ -6501,20 +4693,6 @@
     <sense n="(f)"><foreign xml:lang="grc">κἀγώ</foreign> (= <foreign xml:lang="grc">καὶ ἐγώ</foreign>, <gloss>and I, even I, I also</gloss>: <ref osisRef="Matt.2.8">Mt 2:8</ref>, <ref osisRef="Luke.2.48">Lk 2:48</ref>, <ref osisRef="John.6.56">Jo 6:56</ref>, <ref osisRef="Rom.3.7">Ro 3:7</ref>, <ref osisRef="1Cor.7.40">I Co 7:40</ref>, al.; <foreign xml:lang="grc">κἀγώ . . . καί</foreign>, <gloss>both . . . and</gloss>, <ref osisRef="John.7.28">Jo 7:28</ref>.</sense>
   </sense>
 </entry> 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἔθνος|G1484">
   <note type="occurrencesNT">162</note>
@@ -6526,10 +4704,6 @@
 <pb n="130" /> <gloss>Gentiles</gloss>: <ref osisRef="Matt.4.15">Mt 4:15</ref>  <ref osisRef="Matt.6.32">6:32</ref>, <ref osisRef="Acts.26.17">Ac 26:17</ref>, <ref osisRef="Rom.3.29">Ro 3:29</ref>  <ref osisRef="Rom.11.11">11:11</ref> 15:10, <ref osisRef="Gal.2.8">Ga 2:8</ref>, al.; of Gentile Christians, <ref osisRef="Rom.11.13">Ro 11:13</ref>  <ref osisRef="Rom.15.27">15:27</ref> <ref osisRef="Rom.16.4">16:4</ref>, <ref osisRef="Gal.2.12">Ga 2:12</ref>, <ref osisRef="Gal.2.14">14</ref>, <ref osisRef="Eph.3.1">Eph 3:1</ref>. </sense>
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">λαός</foreign> (v. <emph>DCG</emph>, ii, 229; Cremer, 226). </sense>
 </entry>
-
-
-
-
 
 <entry n="εἰ|G1487">
   <note type="occurrencesNT">507</note>
@@ -6564,38 +4738,9 @@
   </sense>
 </entry>
 
-
- 
 <pb n="131" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="132" />
-
-
 
 <entry n="εἰμί|G1488|G1498|G1510|G1511|G1526|G2070|G2071|G2075|G2076|G2077|G2252|G2258|G2457|G2468|G5600|G5607">
   <note type="occurrencesNT">2456</note>
@@ -6629,24 +4774,11 @@
 </entry> 
   
 
-
 <entry n="εἶπον">
   <form><orth>εἶπον</orth>, 2 aor. of obsol. pres. ἔπω (cf. Veitch), used as aor. of <foreign xml:lang="grc">λέγω, q.v.</foreign> </form>
  </entry>
 
-
-
-
-
- 
 <pb n="133" />
-
-
-
-
-
-
-
 
 <entry n="εἰς|G1519|G1520">
   <note type="occurrencesNT">2112</note>
@@ -6678,28 +4810,12 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
 <entry n="εἰσέρχομαι|G1525">
   <note type="occurrencesNT">194</note>
   <form><orth>εἰσ-έρχομαι</orth>, [in LXX chiefly for <foreign xml:lang="heb">בּוֹא</foreign>;] </form>
   <sense><gloss>to go in</gloss> or <gloss>into, enter</gloss>: <ref osisRef="Matt.9.25">Mt 9:25</ref>, <ref osisRef="Luke.7.45">Lk 7:45</ref>, al.; seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Matt.10.12">Mt 10:12</ref>, <ref osisRef="Mark.2.1">Mk 2:1</ref>, al.; seq. <foreign xml:lang="grc">διά</foreign> (<foreign xml:lang="grc">πύλης, θύρας</foreign>, etc.), <ref osisRef="Matt.7.13">Mt 7:13</ref>, <ref osisRef="John.10.1">Jo 10:1</ref>, al.; <foreign xml:lang="grc">ὑπὸ τ. στέγην</foreign>, <ref osisRef="Matt.8.8">Mt 8:8</ref>; c. adv.: <foreign xml:lang="grc">ὅπου</foreign>, <ref osisRef="Mark.14.14">Mk 14:14</ref>, <ref osisRef="Heb.6.20">He 6:20</ref>; <foreign xml:lang="grc">ὧδε</foreign>, <ref osisRef="Matt.22.12">Mt 22:12</ref>; <foreign xml:lang="grc">ἔσω</foreign>, <ref osisRef="Matt.26.58">Mt 26:58</ref>; seq. <foreign xml:lang="grc">πρός</foreign>, c acc. pers., <ref osisRef="Mark.15.43">Mk 15:43</ref>, <ref osisRef="Luke.1.28">Lk 1:28</ref>, <ref osisRef="Acts.10.3">Ac 10:3</ref> <ref osisRef="Acts.11.3">11:3</ref> <ref osisRef="Acts.16.40">16:40</ref> <ref osisRef="Acts.17.2">17:2</ref> <ref osisRef="Acts.28.8">28:8</ref>, <ref osisRef="Rev.3.20">Re 3:20</ref>; of demons taking possession, <ref osisRef="Mark.9.25">Mk 9:25</ref>, <ref osisRef="Luke.8.30">Lk 8:30</ref> 
 <pb n="135" /> <ref osisRef="Luke.22.3">22:3</ref>, <ref osisRef="John.13.27">Jo 13:27</ref>; of food, <ref osisRef="Matt.15.11">Mt 15:11</ref>, <ref osisRef="Acts.11.8">Ac 11:8</ref>. Metaph., of thoughts, <ref osisRef="Luke.9.46">Lk 9:46</ref>; <foreign xml:lang="grc">εἰς κόπον</foreign>, <ref osisRef="John.4.38">Jo 4:38</ref>; <foreign xml:lang="grc">εἰς πειρασμόν</foreign>, <ref osisRef="Matt.26.41">Mt 26:41</ref>, <ref osisRef="Luke.22.40">Lk 22:40</ref>, <ref osisRef="Luke.22.46">46</ref>; of hope as an anchor, <ref osisRef="Heb.6.19">He 6:19</ref>; <foreign xml:lang="grc">βοαί</foreign>, <ref osisRef="Jas.5.4">Ja 5:4</ref>; <foreign xml:lang="grc">πνεῦμα ζωῆς</foreign>, <ref osisRef="Rev.11.11">Re 11:11</ref>; <foreign xml:lang="grc">εἰς τ. κόσμον</foreign> (cf. <ref osisRef="Wis.2.24">Wi 2:24</ref>  <ref osisRef="Wis.14.14">14:14</ref>, <ref osisRef="John.18.37">Jo 18:37</ref>), <ref osisRef="Rom.5.12">Ro 5:12</ref>, <ref osisRef="Heb.10.5">He 10:5</ref>; in counterparts of Jewish Aram. phrases relating to the theocracy (cf. Dalman, <emph>Words</emph>, 116ff.): <foreign xml:lang="grc">εἰς τ. γάμους</foreign>, <ref osisRef="Matt.25.10">Mt 25:10</ref>; <foreign xml:lang="grc">εἰς τ. χάραν τ. κυρίου</foreign>, <ref osisRef="Matt.25.21">Mt 25:21</ref>, <ref osisRef="Matt.25.23">23</ref>; <foreign xml:lang="grc">εἰς τ. ζωήν</foreign>,  <ref osisRef="Matt.18.8">Mt 18:8</ref>, <ref osisRef="Matt.18.9">9</ref> <ref osisRef="Matt.19.17">19:17</ref>, <ref osisRef="Mark.9.43">Mk 9:43</ref>, <ref osisRef="Mark.9.45">45</ref>; <foreign xml:lang="grc">εἰς τ. βασιλ. τ. οὐρανῶν</foreign>, <ref osisRef="Matt.5.20">Mt 5:20</ref>  <ref osisRef="Matt.7.21">7:21</ref>, al. (v.s. <foreign xml:lang="grc">βασιλεία</foreign>); <foreign xml:lang="grc">εἰς τ. κατάπαυσιν</foreign>, <ref osisRef="Heb.3.11">He 3:11</ref>, <ref osisRef="Heb.3.18">18</ref> <ref osisRef="Heb.4.1">4:1</ref>ff.; <foreign xml:lang="grc">εἰς τ. δόξαν</foreign>, <ref osisRef="Luke.24.26">Lk 24:26</ref>; <foreign xml:lang="grc">εἰσ. καὶ ἐξερχ.</foreign>, <gloss>to go in and out</gloss> (like Heb. <foreign xml:lang="heb">בֹוא וְצֵאת</foreign>, <ref osisRef="Deut.28.6">De 28:6</ref>, etc.), of familiar intercourse, <ref osisRef="Acts.1.21">Ac 1:21</ref>; fig., of moral freedom, <ref osisRef="John.10.9">Jo 10:9</ref> (cf. <foreign xml:lang="grc">ἐπ-, παρ-, συν-εισέρχομαι</foreign>).</sense>
 </entry>
-
-
-
-
-
-
-
-
-
 
 <entry n="ἐκ|G1537">
   <note type="occurrencesNT">914</note>
@@ -6735,45 +4851,9 @@
   </sense>
  </entry>
 
-
-
-
-
-
- 
 <pb n="136" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="137" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἐκεῖνος|G1565">
   <note type="occurrencesNT">243</note>
@@ -6785,23 +4865,6 @@
     <sense n="2.">As <gramGrp><pos>adj.</pos></gramGrp>, joined, like <foreign xml:lang="grc">οὗτος</foreign>, to a noun with the article: <ref osisRef="Matt.7.25">Mt 7:25</ref>, <ref osisRef="Mark.3.24">Mk 3:24</ref>, <ref osisRef="John.18.15">Jo 18:15</ref>, al.; esp. of time, past or future: <foreign xml:lang="grc">ἐν τ. ἡμέραις ἐ.</foreign>, <ref osisRef="Matt.3.1">Mt 3:1</ref>, <ref osisRef="Mark.1.9">Mk 1:9</ref>, <ref osisRef="Acts.2.18">Ac 2:18</ref> <hi rend="superscript">(LXX)</hi>, al.; <foreign xml:lang="grc">ἐν ἐ. τ. ἡμέρᾳ</foreign>, esp of the Parousia, <ref osisRef="Matt.7.22">Mt 7:22</ref>, <ref osisRef="Luke.6.23">Lk 6:23</ref>, <ref osisRef="2Thess.1.10">II Th 1:10</ref>, <ref osisRef="2Tim.1.12">II Ti 1:12</ref>; adverbially, <foreign xml:lang="grc">ἐκεινής</foreign> (sc. <foreign xml:lang="grc">ὁδοῦ</foreign>) = cl. <foreign xml:lang="grc">ἐκεινῇ</foreign> (Bl., §36, 13), <gloss>that way</gloss>, <ref osisRef="Luke.19.4">Lk 19:4</ref>.</sense>
   </sense>
 </entry>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἐκκλησία|G1577">
   <note type="occurrencesNT">114</note>
@@ -6819,256 +4882,27 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="140" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="141" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="142" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="143" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="144" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="145" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="146" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="147" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="148" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="149" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="150" /> 
-
-
-
-
-
-
-
-
 
 <entry n="ἐν|G1722">
   <note type="occurrencesNT">2918</note>
@@ -7090,197 +4924,22 @@
   </sense> 
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="152" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="153" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="154" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="155" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="156" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="157" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="158" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="159" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="160" /> 
 
 <entry n="ἐξερευνάω"><form><orth>ἐξερευνάω</orth>, v.s, <foreign xml:lang="grc">ἐξεραυνάω</foreign>.</form> </entry>
@@ -7302,33 +4961,7 @@
 <ref osisRef="Acts.16.21">Ac 16:21</ref>  <ref osisRef="Acts.21.37">21:37</ref> <ref osisRef="Acts.22.25">22:25</ref> (inf. understood), <ref osisRef="1Cor.6.12">I Co 6:12</ref>; <foreign xml:lang="grc">ἐξόν</foreign> (sc. <foreign xml:lang="grc">ἐστί</foreign>), <ref osisRef="Acts.2.29">Ac 2:29</ref>, <ref osisRef="2Cor.12.4">II Co 12:4</ref>; <foreign xml:lang="grc">ἐξὸν ἦν</foreign>, <ref osisRef="Matt.12.4">Mt 12:4</ref>.† </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="161" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἐξουσία|G1849">
   <note type="occurrencesNT">102</note>
@@ -7346,100 +4979,13 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="163" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="164" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="165" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="166" />
-
-
-
-
-
-
-
 
 <entry n="ἐπί|G1909">
   <note type="occurrencesNT">1758</note>
@@ -7470,229 +5016,27 @@
   </sense>
  </entry>
 
-
-
-
-
-
-
- 
 <pb n="168" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="169" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="170" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="171" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="172" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="173" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="174" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="175" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="176" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="177" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="178" /> 
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἔργον|G2041">
   <note type="occurrencesNT">169</note>
@@ -7705,41 +5049,7 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="180" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἔρχομαι|G2064">
   <note type="occurrencesNT">629</note>
@@ -7754,9 +5064,6 @@
       <lb/><emph>SYN.</emph>: <foreign xml:lang="grc">πορεύομαι, χωρέω</foreign> (v, Thayer, s.v. <foreign xml:lang="grc">ἔρξομαι</foreign>).</sense>
  </entry>
 
-
-
-
 <entry n="ἐσθίω|G2068">
   <note type="occurrencesNT">163</note>
   <form><orth>ἐσθίω</orth>, and (poet, and late prose) <foreign xml:lang="grc">ἔσθω</foreign>, [in LXX chiefly for <foreign xml:lang="heb">אכל</foreign>;] </form>
@@ -7766,154 +5073,19 @@
   </sense>
 </entry>
 
-
-
-
-
-
- 
 <pb n="182" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="183" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="184" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="185" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="186" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="187" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="188" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="εὑρίσκω|G2147">
   <note type="occurrencesNT">176</note>
@@ -7922,92 +5094,11 @@
 <pb n="189" /> <ref osisRef="2Pet.3.10">II Pe 3:10</ref>, WH, R, mg. Metaph., <gloss>to find, find out</gloss> by inquiry, <gloss>learn, discover</gloss>: <ref osisRef="Luke.19.48">Lk 19:48</ref>, <ref osisRef="Acts.4.21">Ac 4:21</ref>; <foreign xml:lang="grc">αἰτίαν</foreign>, <ref osisRef="John.18.38">Jo 18:38</ref>, <ref osisRef="Acts.13.28">Ac 13:28</ref>, al.; pass., <ref osisRef="Matt.1.18">Mt 1:18</ref>, <ref osisRef="Luke.17.18">Lk 17:18</ref>, <ref osisRef="Rom.7.10">Ro 7:10</ref>, <ref osisRef="1Cor.4.2">I Co 4:2</ref>, <ref osisRef="Gal.2.17">Ga 2:17</ref>, <ref osisRef="1Pet.1.7">I Pe 1:7</ref>, <ref osisRef="Rev.5.4">Re 5:4</ref>, al.; of attaining to the knowledge of God, <foreign xml:lang="grc">εὑ. θεόν</foreign>, <ref osisRef="Acts.17.27">Ac 17:27</ref>; pass., <ref osisRef="Rom.10.20">Ro 10:20</ref> <hi rend="superscript">(LXX)</hi>. Mid., <gloss>to find for oneself, gain, procure, obtain</gloss>: c. acc. rei, <foreign xml:lang="grc">λύτρωσιν</foreign>, <ref osisRef="Heb.9.12">He 9:12</ref>; act. in same sense (so cl. poets, but not in Attic prose), <ref osisRef="Matt.10.39">Mt 10:39</ref>  <ref osisRef="Matt.11.29">11:29</ref>, <ref osisRef="Luke.1.30">Lk 1:30</ref>, <ref osisRef="Acts.7.46">Ac 7:46</ref>, <ref osisRef="2Tim.1.18">II Ti 1:18</ref>, al. (cf. <foreign xml:lang="grc">ἀν-ευρίσκω</foreign>). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="190" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="191" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="192" /> 
-
-
-
-
-
-
-
-
-
 
 <entry n="ἔχω|G2192">
   <note type="occurrencesNT">708</note>
@@ -8078,15 +5169,7 @@
  <div type="letter" n="Ζ">
   <head type="heading2">Ζ</head>
 
-
-
- 
 <pb n="194" /> 
-
-
-
-
-
 
 <entry n="ζάω|G2198">
   <note type="occurrencesNT">142</note>
@@ -8098,30 +5181,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
- 
 <pb n="195" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ζητέω|G2212">
   <note type="occurrencesNT">117</note>
@@ -8134,25 +5194,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <entry n="ζωή|G2222">
   <note type="occurrencesNT">135</note>
   <form><orth>ζωή, -ῆς, ἡ</orth> (<foreign xml:lang="grc">ζάω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">חַיִּים</foreign>;] </form>
@@ -8163,14 +5204,6 @@
   <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">βίος</foreign>. 
   </sense>
 </entry>
-
-
-
-
-
-
-
-
 
 </div>
 
@@ -8198,41 +5231,7 @@
 
 <entry n="ἦ"><form><orth>ἦ</orth> (<foreign xml:lang="grc">μήν</foreign>), v.s. <foreign xml:lang="grc">εἰ</foreign>, iii, 7. </form></entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="199" /> 
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἡμέρα|G2250">
   <note type="occurrencesNT">389</note>
@@ -8246,71 +5245,13 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="201" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Θ">
   <head type="heading2">Θ</head>
 
-
-
-
-
-
-
-
- 
 <pb n="202" /> 
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="θάνατος|G2288">
   <note type="occurrencesNT">120</note>
@@ -8321,45 +5262,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
- 
 <pb n="203" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="204" /> 
-
-
-
-
-
-
-
-
-
 
 <entry n="θέλω|G2309">
   <note type="occurrencesNT">208</note>
@@ -8367,17 +5272,7 @@
   <sense><gloss>to will, be willing, wish, desire</gloss> (more freq. than <foreign xml:lang="grc">βούλομαι</foreign>, q.v., in vernac. and late Gk., also in MGr.; for various views as to its relation to <foreign xml:lang="grc">β.</foreign>, v. Thayer, 286; but v. also BL, §24, s.v.): absol., <ref osisRef="Rom.9.16">Ro 9:16</ref>, <ref osisRef="1Cor.4.19">I Co 4:19</ref>  <ref osisRef="1Cor.12.18">12:18</ref>, <ref osisRef="Jas.4.15">Ja 4:15</ref>; <foreign xml:lang="grc">τ. θεοῦ θέλοντος</foreign>, <ref osisRef="Acts.18.21">Ac 18:21</ref>; c. acc. rei, <ref osisRef="Matt.20.21">Mt 20:21</ref>, <ref osisRef="Mark.14.36">Mk 14:36</ref>, <ref osisRef="John.15.7">Jo 15:7</ref>, <ref osisRef="Rom.7.15">Ro 7:15</ref>,  <ref osisRef="Rom.7.16">16</ref> <ref osisRef="1Cor.4.21">I Co 4:21</ref>  <ref osisRef="1Cor.7.36">7:36</ref>, <ref osisRef="Gal.5.17">Ga 5:17</ref>; c. inf., <ref osisRef="Matt.5.40">Mt 5:40</ref>, <ref osisRef="Mark.10.43">Mk 10:43</ref>, <ref osisRef="John.6.21">Jo 6:21</ref>,  <ref osisRef="John.6.67">67</ref> <ref osisRef="Rom.7.21">Ro 7:21</ref>, <ref osisRef="Gal.4.9">Ga 4:9</ref>; c. acc. et inf., <ref osisRef="Mark.7.24">Mk 7:24</ref>, <ref osisRef="Luke.1.62">Lk 1:62</ref>, <ref osisRef="John.21.22">Jo 21:22</ref>,  <ref osisRef="John.21.23">23</ref> <ref osisRef="Rom.16.19">Ro 16:19</ref>, <ref osisRef="1Cor.14.5">I Co 14:5</ref>, <ref osisRef="Gal.6.13">Ga 6:13</ref>; <foreign xml:lang="grc">οὐ θέλω</foreign>, <ref osisRef="Matt.18.30">Mt 18:30</ref>, al.; id. c. inf., <ref osisRef="Matt.2.18">Mt 2:18</ref>, <ref osisRef="Mark.6.26">Mk 6:26</ref>, <ref osisRef="John.5.40">Jo 5:40</ref>, <ref osisRef="1Cor.16.7">I Co 16:7</ref>; seq. <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="Matt.7.12">Mt 7:12</ref>, <ref osisRef="Mark.6.25">Mk 6:25</ref>, <ref osisRef="John.17.24">Jo 17:24</ref>; opp. to <foreign xml:lang="grc">ποιέω, πράσσω, ἐνεργέω</foreign>, <ref osisRef="Rom.7.15">Ro 7:15</ref>,  <ref osisRef="Rom.7.19">19</ref> <ref osisRef="2Cor.8.10">II Co 8:10</ref>,  <ref osisRef="2Cor.8.11">11</ref> <ref osisRef="Phil.2.13">Phl 2:13</ref>; seq. <foreign xml:lang="grc">ἤ</foreign> (ICG, in l.; Deiss., <emph>LAE</emph>, 179:24), <ref osisRef="1Cor.14.19">I Co 14:19</ref>; <foreign xml:lang="grc">θέλων ἐν ταπεινοφροσυνῄ</foreign> (<gloss>of his own mere will, by humility</gloss>, R, mg), <ref osisRef="Col.2.18">Col 2:18</ref>; in OT quotations, for Heb. <foreign xml:lang="heb">חפץ</foreign>, c. acc. pers., <ref osisRef="Matt.27.43">Mt 27:43</ref>; c. acc. rei, <ref osisRef="Matt.9.13">Mt 9:13</ref>  <ref osisRef="Matt.12.7">12:7</ref>, <ref osisRef="Heb.10.5">He 10:5</ref>, <ref osisRef="Heb.10.8">8</ref>; c. inf., <ref osisRef="1Pet.3.10">I Pe 3:10</ref>; for <foreign xml:lang="heb">אמר</foreign>, c. inf., <ref osisRef="Acts.7.28">Ac 7:28</ref> (v. Cremer, 726ff.). </sense>
 </entry>
 
-
-
- 
 <pb n="205" /> 
-
-
-
-
-
-
-
 
 <entry n="θεός|G2316">
   <note type="occurrencesNT">1307</note>
@@ -8391,172 +5286,23 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
- 
 <pb n="206" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="207" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="208" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="207" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="210" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="211" /> 
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Ι">
   <head type="heading2">Ι</head>
 
-
-
-
-
-
-
- 
 <pb n="212" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἴδιος|G2398">
   <note type="occurrencesNT">114</note>
@@ -8575,7 +5321,6 @@
   </sense>
 </entry> 
 
-
 <entry n="ἰδού|G2400">
   <note type="occurrencesNT">200</note>
   <form><orth>ἰδού</orth>, [in LXX chiefly for <foreign xml:lang="heb">הִנֵּה</foreign>,] </form>   
@@ -8583,46 +5328,9 @@
   <sense><gloss>lo, behold, see</gloss>: <ref osisRef="Matt.10.16">Mt 10:16</ref>  <ref osisRef="Matt.11.8">11:8</ref> 13:3, <ref osisRef="Mark.3.32">Mk 3:32</ref>, <ref osisRef="Luke.2.48">Lk 2:48</ref>, <ref osisRef="1Cor.15.51">I Co 15:51</ref>, <ref osisRef="Jas.5.9">Ja 5:9</ref>, <ref osisRef="Jude.1.14">Ju 14</ref>, <ref osisRef="Rev.1.7">Re 1:7</ref>, al.; after gen. absol., <ref osisRef="Matt.1.20">Mt 1:20</ref>  <ref osisRef="Matt.2.1">2:1</ref>, <ref osisRef="Matt.2.13">13</ref> <ref osisRef="Matt.12.46">12:46</ref>, al.; <foreign xml:lang="grc">καὶ ἰδού</foreign>, <ref osisRef="Matt.2.9">Mt 2:9</ref> (and freq.), <ref osisRef="Luke.1.20">Lk 1:20</ref>  <ref osisRef="Luke.10.25">10:25</ref>, <ref osisRef="Acts.12.7">Ac 12:7</ref>, al.; in elliptical sentences, taking the place of copula or predicate (like <foreign xml:lang="heb">הִנֵּה</foreign> in Heb.), <ref osisRef="Matt.3.17">Mt 3:17</ref>, <ref osisRef="Luke.5.12">Lk 5:12</ref>  <ref osisRef="Luke.22.31">22:31</ref>,  <ref osisRef="Luke.22.47">47</ref> <ref osisRef="Acts.8.27">Ac 8:27</ref>,  <ref osisRef="Acts.8.36">36</ref> al.</sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="214" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="215" /> 
-
-
 
 <entry n="Ἰησοῦς|G2424">
   <note type="occurrencesNT">917</note>
@@ -8635,38 +5343,7 @@
     <sense n="5.">v.s. <foreign xml:lang="grc">βαραββᾶς</foreign>.</sense></sense>
  </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="216" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἵνα|G2443">
   <note type="occurrencesNT">663</note>
@@ -8694,14 +5371,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
 <entry n="Ἰουδαῖος|G2453">
   <note type="occurrencesNT">193</note>
   <form><orth>Ἰουδαῖος, -αία, -αῖον</orth> (&lt; <foreign xml:lang="grc">Ἰούδας</foreign>), </form>
@@ -8712,42 +5381,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="219" />
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ἵστημι|G2476">
   <note type="occurrencesNT">155</note>
@@ -8761,36 +5395,9 @@
   </sense>
 </entry>
 
- 
 <pb n="220" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="221" />
-
-
-
-
 
 <entry n="Ἰωάννης|G2491">
   <note type="occurrencesNT">135</note>
@@ -8806,54 +5413,15 @@
   <sense><gloss>John</gloss>: <ref osisRef="Acts.4.6">Ac 4:6</ref>  <ref osisRef="Acts.13.5">13:5</ref>, Tr., WH, <ref osisRef="Rev.22.8">Re 22:8</ref> (cf. <foreign xml:lang="grc">Ἰωάνης</foreign>).† </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="222" />
-
-
-
 
  </div>
  <div type="letter" n="Κ">
   <head type="heading2">Κ</head> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="223" />
 
-
- 
 <pb n="224" />
-
 
 <entry n="καθώς|G2531">
   <note type="occurrencesNT">182</note>
@@ -8895,19 +5463,11 @@
   </sense>
 </entry> 
 
-
-
- 
 <pb n="226" />
 
-
- 
 <pb n="227" />
 
-
- 
 <pb n="228" />
-
 
 <entry n="καλέω|G2564">
   <note type="occurrencesNT">148</note>
@@ -8918,8 +5478,6 @@
     <sense n="3."><gloss>to call, name call by name</gloss>: pass., <ref osisRef="Matt.2.23">Mt 2:23</ref>, <ref osisRef="Luke.1.32">Lk 1:32</ref>, al.; <foreign xml:lang="grc">καλούμενος</foreign>, <ref osisRef="Luke.7.11">Lk 7:11</ref>, <ref osisRef="Acts.7.58">Ac 7:58</ref>, al.; <foreign xml:lang="grc">ὁ κ.</foreign> (Deiss., <emph>BS</emph>, 210), <ref osisRef="Luke.6.15">Lk 6:15</ref>  <ref osisRef="Luke.22.3">22:3</ref> <ref osisRef="Luke.23.33">23:33</ref>, <ref osisRef="Acts.10.1">Ac 10:1</ref>, <ref osisRef="Rev.12.9">Re 12:9</ref>, al.; c. pred nom., <ref osisRef="Matt.5.9">Mt 5:9</ref>, <ref osisRef="Luke.1.35">Lk 1:35</ref>, <ref osisRef="Rom.9.26">Ro 9:26</ref>, <ref osisRef="Jas.2.23">Ja 2:23</ref>, <ref osisRef="1John.3.1">I Jo 3:1</ref>. (Cf. <foreign xml:lang="grc">ἀντι-, ἐν-, εἰσ- (-μαι), ἐπι-, μετα-, παρα-, συν-παρα-, προ-, προσ-, συν-καλέω</foreign>.) </sense>
   </sense>
 </entry>
-
-
 
 <entry n="καλός|G2570">
   <note type="occurrencesNT">137</note>
@@ -8932,32 +5490,7 @@
   <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">ἀγαθός</foreign>. </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="230" />
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="καρδία|G2588">
   <note type="occurrencesNT">156</note>
@@ -8972,15 +5505,6 @@
     <sense n="3.">Of the central or innermost part of anything (of the pith of wood, Arist.): <foreign xml:lang="grc">τ. γῆς</foreign>, <ref osisRef="Matt.12.40">Mt 12:40</ref> (Cremer, 343ff.). </sense>
   </sense>
 </entry>
-
-
-
-
-
-
-
-
-
 
 <entry n="κατά|G2596"><note type="occurrencesNT">473</note>
   <form><orth>κατά</orth> (bef. a vowel <orth>κατ’, καθ’</orth>; on the freq. neglect of elision, v. Tdf., <emph>Pr.</emph>, 95; WH, <emph>App.</emph>, 146a), </form>
@@ -9020,554 +5544,51 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="233" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="234" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="235" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="236" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="237" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="238" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="239" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="240" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="241" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="242" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="243" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="244" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="245" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="246" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="247" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="248" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="249" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="250" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="251" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="252" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="253" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="254" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="255" /> 
-
-
-
-
-
-
 
 <entry n="κόσμος|G2889">
   <note type="occurrencesNT">186</note>
@@ -9585,54 +5606,9 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">αἰών</foreign>, q.v. (cf . also Dalman, <emph>Words</emph>, 162ff.; Tr., <emph>Syn.</emph>, §lix; Westc., additional note on <ref osisRef="John.1.10">Jo 1:10</ref>; <emph>DB</emph>, iv, 938ff.). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="256" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="257" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="κρίνω|G2919">
   <note type="occurrencesNT">114</note>
@@ -9650,84 +5626,11 @@
   <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">δικάστης</foreign>. </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="259" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="260" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="261" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="κύριος|G2962">
   <note type="occurrencesNT">717</note>
@@ -9742,32 +5645,10 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="263" />
  </div>
  <div type="letter" n="Λ">
   <head type="heading2">Λ</head>
-
-
-
-
-
-
-
 
 <entry n="λαλέω|G2980">
   <note type="occurrencesNT">296</note>
@@ -9779,8 +5660,6 @@
   </sense>
 </entry>
 
-
-
 <entry n="λαμβάνω|G2983">
   <note type="occurrencesNT">258</note>
   <form><orth>λαμβάνω</orth>, [in LXX chiefly for <foreign xml:lang="heb">לקח</foreign>, also for <foreign xml:lang="heb">אחז ,לכד ,נשׂא</foreign>, etc.;] </form>
@@ -9791,21 +5670,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <entry n="λαός|G2992">
   <note type="occurrencesNT">142</note>
   <form><orth>λαός, -οῦ, ὁ</orth>, [in LXX very freq. for <foreign xml:lang="heb">עַם</foreign>, <ref osisRef="Gen.14.16">Ge 14:16</ref>, al.; occasionally for <foreign xml:lang="heb">לְאֹם</foreign> ( <ref osisRef="Gen.25.23">Ge 25:23</ref>, al.), etc.;] </form>
@@ -9815,19 +5679,6 @@
 <pb n="265" /> al.; of Christians, as the people of God, <ref osisRef="Acts.15.14">Ac 15:14</ref>, <ref osisRef="Rom.9.25">Ro 9:25</ref>,  <ref osisRef="Rom.9.26">26</ref> <ref osisRef="Heb.4.9">He 4:9</ref>; <foreign xml:lang="grc">περιούσιος</foreign>, <ref osisRef="Titus.2.14">Tit 2:14</ref>; <foreign xml:lang="grc">εἰς περιποίησιν</foreign>, <ref osisRef="1Pet.2.9">I Pe 2:9</ref> <hi rend="superscript">(LXX)</hi>. </sense>
   <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">δῆμος</foreign>.</sense>
 </entry> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="λέγω|G2036|G2046|G3004|G4483|G2343">
   <note type="occurrencesNT">2335</note>
@@ -9840,106 +5691,13 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="267" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="268" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="269" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="270" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="λόγος|G3056">
   <note type="occurrencesNT">330</note>
@@ -9970,107 +5728,17 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="272" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="273" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="274" /> 
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Μ">
   <head type="heading2">Μ</head> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="275" /> 
-
-
-
-
 
 <entry n="μαθητής|G3101">
   <note type="occurrencesNT">261</note>
@@ -10078,150 +5746,17 @@
   <sense><gloss>a disciple</gloss>: opp. to <foreign xml:lang="grc">διδάσκαλος</foreign>, <ref osisRef="Matt.10.24">Mt 10:24</ref>, <ref osisRef="Luke.6.40">Lk 6:40</ref>; <foreign xml:lang="grc">Ἰωάννου</foreign>, <ref osisRef="Matt.9.14">Mt 9:14</ref>, <ref osisRef="Luke.7.18">Lk 7:18</ref>, <ref osisRef="John.3.25">Jo 3:25</ref>; <foreign xml:lang="grc">τ. Φαρισσίων</foreign>, <ref osisRef="Matt.22.16">Mt 22:16</ref>, <ref osisRef="Mark.2.18">Mk 2:18</ref>, <ref osisRef="Luke.5.33">Lk 5:33</ref>; <foreign xml:lang="grc">Μωυσέως</foreign>, <ref osisRef="John.9.28">Jo 9:28</ref>; <foreign xml:lang="grc">Ἰησοῦ</foreign>, <ref osisRef="Luke.6.17">Lk 6:17</ref>  <ref osisRef="Luke.7.11">7:11</ref> 19:37, <ref osisRef="John.6.66">Jo 6:66</ref>  <ref osisRef="John.7.3">7:3</ref> <ref osisRef="John.19.38">19:38</ref>; esp. the twelve, <ref osisRef="Matt.10.1">Mt 10:1</ref>  <ref osisRef="Matt.11.1">11:1</ref>, <ref osisRef="Mark.7.17">Mk 7:17</ref>, <ref osisRef="Luke.8.9">Lk 8:9</ref>, <ref osisRef="John.2.2">Jo 2:2</ref>, al.; later, of Christians generally, <ref osisRef="Acts.6.1">Ac 6:1</ref>,  <ref osisRef="Acts.6.2">2</ref> <ref osisRef="Acts.6.7">7</ref> <ref osisRef="Acts.9.19">9:19</ref>, al.; <foreign xml:lang="grc">τ. κυρίου</foreign>, <ref osisRef="Acts.9.1">Ac 9:1</ref>.</sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="276" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="277" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="278" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="279" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="280" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="281" /> 
-
-
-
-
-
-
-
-
-
-
 
 <entry n="μέγας|G3173">
   <note type="occurrencesNT">240</note>
@@ -10240,37 +5775,7 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="282" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="μέλλω|G3195">
   <note type="occurrencesNT">109</note>
@@ -10285,17 +5790,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
 <entry n="μέν|G3303">
   <note type="occurrencesNT">198</note>
   <form><orth>μέν</orth>, </form>
@@ -10306,13 +5800,7 @@
   </sense>
 </entry> 
 
-
-
-
-
- 
 <pb n="284" /> 
-
 
 <entry n="μένω|G3306">
   <note type="occurrencesNT">118</note>
@@ -10331,49 +5819,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="285" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="286" /> 
-
-
-
-
-
 
 <entry n="μετά|G3326">
   <note type="occurrencesNT">469</note>
@@ -10394,74 +5842,11 @@
   </sense>
 </entry>
 
-
-
-
-
-
- 
 <pb n="287" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="288" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="289" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="μή|G3361">
   <note type="occurrencesNT">1042</note>
@@ -10491,143 +5876,17 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
- 
 <pb n="291" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="292" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="293" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="294" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="295" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="296" />
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="μόνον">
   <form><orth>μόνον</orth>, v.s. <foreign xml:lang="grc">μόνος</foreign>.</form>
@@ -10645,114 +5904,17 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
- 
 <pb n="297" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="298" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="299" />
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="N">
   <head type="heading2">N</head> 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="300" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="νεκρός|G3498">
   <note type="occurrencesNT">128</note>
@@ -10770,102 +5932,11 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="302" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="303" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="304" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="νόμος|G3551">
   <note type="occurrencesNT">194</note>
@@ -10887,34 +5958,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="306" />
-
-
-
-
-
-
-
-
 
 <entry n="νῦν|G3568">
   <note type="occurrencesNT">147</note>
@@ -10925,56 +5969,17 @@
   </sense>
 </entry> 
 
-
-
-
-
-
- 
 <pb n="307" /> 
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Ξ">
   <head type="heading2">Ξ</head>
 
-
-
-
-
-
-
-
-
- 
 <pb n="308" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Ο">
   <head type="heading2">Ο</head> 
-
 
 <entry n="ὁ|G3588">
   <note type="occurrencesNT">20225</note>
@@ -11002,22 +6007,7 @@
   </sense>
 </entry>  
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="310" /> 
-
-
-
-
-
 
 <entry n="ὁδός|G3598">
   <note type="occurrencesNT">101</note>
@@ -11030,29 +6020,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="311" /> 
-
-
-
-
-
-
-
-
-
-
 
 <entry n="οἶδα|G1492">
   <note type="occurrencesNT">300</note>
@@ -11063,48 +6031,9 @@
 
 <entry n="οἰκειακός"><form><orth>οἰκειακός</orth>, v.s. <foreign xml:lang="grc">οἰκιακός</foreign></form></entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="312" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="313" /> 
-
-
-
-
-
 
 <entry n="οἶκος|G3624">
   <note type="occurrencesNT">114</note>
@@ -11116,72 +6045,10 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
- 
 <pb n="314" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="315" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="316" /> 
 
 <entry n="ὅλος|G3650">
@@ -11198,69 +6065,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="317" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="318" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ὄνομα|G3686">
   <note type="occurrencesNT">230</note>
@@ -11274,46 +6081,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
- 
 <pb n="320" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="321" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ὁράω|G3708">
   <note type="occurrencesNT">476</note>
@@ -11329,63 +6099,10 @@
     <lb /><emph>SYN.</emph>: v.s. <foreign xml:lang="grc">βλέπω</foreign>.
   </sense>
 </entry>
- 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="323" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="324" /> 
-
-
-
-
-
 
 <entry n="ὅς|G3739">
   <note type="occurrencesNT">1913</note>
@@ -11409,18 +6126,7 @@
   </sense>
  </entry> 
 
-
-
- 
 <pb n="325" />
-
-
-
-
-
-
-
-
 
 <entry n="ὅσον">
   <form><orth>ὅσον</orth>, v.s. <foreign xml:lang="grc">ὅσος</foreign>. </form>
@@ -11437,9 +6143,6 @@
   </sense>
 </entry>
 
-
-
-
 <entry n="ὅστις|G3748">
   <form><orth>ὅστις, ἥτις, ὅ τι</orth> (also written <foreign xml:lang="grc">ὅ, τι</foreign> and <foreign xml:lang="grc">ὅτι</foreign>; v. LS, s.v.; WH, §411; Tdf., <emph>Pr.</emph>, 111), in NT scarcely ever except in nom. (M, <emph>Pr.</emph>, 91), the only instance of the oblique cases being found in <foreign xml:lang="grc">ἕως ὅτου</foreign> (v.s. <foreign xml:lang="grc">ἕως</foreign>), relative of indef. reference (related to simple <foreign xml:lang="grc">ὅς</foreign> as Lat. <foreign xml:lang="lat">quisquis</foreign> to <foreign xml:lang="lat">qui</foreign>), </form>
   <sense><gloss>whoever, anyone who</gloss>; 
@@ -11450,10 +6153,6 @@
     <sense n="(d)">as in Ionic and late Greek (Bl., §50, 1; M, <emph>Pr.</emph>, l.c.), differing but little from <foreign xml:lang="grc">ὅς</foreign>: <ref osisRef="Luke.2.4">Lk 2:4</ref>  <ref osisRef="Luke.9.30">9:30</ref>, <ref osisRef="Acts.17.10">Ac 17:10</ref>, <ref osisRef="Rev.12.13">Re 12:13</ref>. </sense>
   </sense>
 </entry>
-
-
-
-
 
 <entry n="ὅταν|G3752">
   <note type="occurrencesNT">123</note>
@@ -11490,7 +6189,6 @@
   </sense>
 </entry> 
 
-
 <entry n="οὐ|G3756|G3757">
   <note type="occurrencesNT">1647</note>
   <form><orth>οὐ</orth>, before a vowel with smooth breathing <orth>οὐκ</orth>, before one with rough breathing <orth>οὐχ</orth> (but improperly <foreign xml:lang="grc">οὐχ ἰδού</foreign>, <ref osisRef="Acts.2.7">Ac 2:7</ref>, WH, mg.; cf. WH, <emph>Intr.</emph>, §409; M, <emph>Pr.</emph>, 44, 244), [in LXX for <foreign xml:lang="heb">אֵין ,אַיִן ,לֹא</foreign>;] </form>
@@ -11512,8 +6210,6 @@
   <gramGrp><pos>interj.</pos> </gramGrp> 
   <sense>of wonder or irony, <gloss>ah! ha!</gloss>: <ref osisRef="Mark.15.29">Mk 15:29</ref>.†</sense> 
  </entry>
- 
-
 
 <entry n="οὐδέ|G3761">
   <note type="occurrencesNT">143</note>
@@ -11531,20 +6227,12 @@
 <pb n="328" /> al.; <foreign xml:lang="grc">οὐδὲν εἰ μή</foreign>, <ref osisRef="Matt.5.13">Mt 5:13</ref>, <ref osisRef="Mark.9.29">Mk 9:29</ref>, al.; c. neg., strengthening the negation, <ref osisRef="Mark.15.4">Mk 15:4</ref>,  <ref osisRef="Mark.15.5">5</ref> <ref osisRef="Luke.4.2">Lk 4:2</ref>, <ref osisRef="John.3.27">Jo 3:27</ref>, al.; adverbially, <ref osisRef="Acts.25.10">Ac 25:10</ref>, <ref osisRef="Gal.4.12">Ga 4:12</ref>, al. </sense>
 </entry>
 
-
-
-
-
-
 <entry n="οὖν|G3767">
   <note type="occurrencesNT">499</note>
   <form><orth>οὖν</orth>, </form>
   <gramGrp><pos>particle</pos> </gramGrp>
   <sense>expressing consequence or simple sequence (never standing first in a sentence), <gloss>wherefore, therefore, then</gloss>: <ref osisRef="Matt.3.10">Mt 3:10</ref>, <ref osisRef="Luke.3.9">Lk 3:9</ref>, <ref osisRef="John.8.38">Jo 8:38</ref>, <ref osisRef="Acts.1.21">Ac 1:21</ref>, <ref osisRef="Rom.5.9">Ro 5:9</ref>, al.; in exhortations, <ref osisRef="Matt.3.8">Mt 3:8</ref>, <ref osisRef="Luke.11.35">Lk 11:35</ref>, <ref osisRef="Acts.3.19">Ac 3:19</ref>, <ref osisRef="Rom.6.12">Ro 6:12</ref>, al.; in questions, <ref osisRef="Matt.13.28">Mt 13:28</ref>, <ref osisRef="Mark.15.12">Mk 15:12</ref>, <ref osisRef="John.8.5">Jo 8:[5]</ref>, <ref osisRef="Rom.6.1">Ro 6:1</ref>, al.; continuing a narrative or resuming it after a digression, <ref osisRef="Matt.1.17">Mt 1:17</ref>, <ref osisRef="Luke.3.18">Lk 3:18</ref>, <ref osisRef="John.1.22">Jo 1:22</ref>  <ref osisRef="John.2.18">2:18</ref> (and very freq. in this Gospel), <ref osisRef="Acts.26.22">Ac 26:22</ref>, al.; <foreign xml:lang="grc">ἄρα οὖν</foreign> (v.s. <foreign xml:lang="grc">ἄρα</foreign>); <foreign xml:lang="grc">ἐπεὶ οὖν</foreign>, <ref osisRef="Heb.2.14">He 2:14</ref>; <foreign xml:lang="grc">οὖν</foreign> c. ptcp. (= <foreign xml:lang="grc">ἐπεὶ οὖν</foreign>), <ref osisRef="Acts.2.30">Ac 2:30</ref>, <ref osisRef="Rom.5.1">Ro 5:1</ref>, al.; <foreign xml:lang="grc">ἐὰν οὖν</foreign> (where <foreign xml:lang="grc">οὖν</foreign> rather in sense belongs to the apodosis), <ref osisRef="Matt.5.23">Mt 5:23</ref>, <ref osisRef="Luke.4.7">Lk 4:7</ref>, <ref osisRef="John.6.62">Jo 6:62</ref>, <ref osisRef="Rom.2.26">Ro 2:26</ref>, al.; <foreign xml:lang="grc">ὡς οὖν</foreign>, <ref osisRef="John.4.1">Jo 4:1</ref>, al. </sense>
 </entry>
-
-
-
 
 <entry n="οὐρανός|G3772">
   <note type="occurrencesNT">273</note>
@@ -11559,11 +6247,6 @@
     </sense>
   </sense>
 </entry>
-
-
-
-
-
 
 <entry n="οὗτος|G3778|G5124|G5023|G5125|G5127|G5128|G5129|G5130">
   <note type="occurrencesNT">1387</note>
@@ -11601,18 +6284,6 @@
   <form><orth>οὐχ</orth>, v.s. <ref target="self:οὐ">οὐ</ref>.</form>
  </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <entry n="ὀφθαλμός|G3788">
   <note type="occurrencesNT">100</note>
   <form><orth>ὀφθαλμός, -οῦ, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">עַיִן</foreign>;] </form>
@@ -11623,13 +6294,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
 <entry n="ὄχλος|G3793">
   <note type="occurrencesNT">175</note>
   <form><orth>ὄχλος, -ου, ὁ</orth>, [in LXX for <foreign xml:lang="heb">הָמוֹן</foreign> (chiefly in Da TH), <foreign xml:lang="heb">קָהָל ,חַיִל</foreign>, etc.;] </form>
@@ -11639,86 +6303,17 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
- 
 <pb n="332" /> 
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Π">
   <head type="heading2">Π</head>
 
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="333" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="334" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="335" /> 
-
-
 
 <entry n="πάλιν|G3825">
   <note type="occurrencesNT">141</note>
@@ -11733,42 +6328,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="336" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="παρά|G3844">
   <note type="occurrencesNT">194</note>
@@ -11789,42 +6349,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="338" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="339" /> 
-
-
-
 
 <entry n="παραδίδωμι|G3860">
   <note type="occurrencesNT">119</note>
@@ -11838,23 +6365,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="340" /> 
-
-
-
-
 
 <entry n="παρακαλέω|G3870">
   <note type="occurrencesNT">109</note>
@@ -11867,152 +6378,19 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
- 
 <pb n="341" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="342" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="343" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="344" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="345" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="346" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="347" /> 
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="πᾶς|G3956">
   <note type="occurrencesNT">1361</note>
@@ -12032,17 +6410,7 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
- 
 <pb n="349" /> 
-
-
 
 <entry n="πατήρ|G3962">
   <note type="occurrencesNT">413</note>
@@ -12068,25 +6436,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="350" /> 
-
-
-
-
-
 
 <entry n="Παῦλος|G3972">
   <note type="occurrencesNT">158</note>
@@ -12097,91 +6447,12 @@
   </sense>
 </entry> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="351" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="352" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="353" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="354" /> 
 
 <entry n="περί|G4012">
@@ -12200,110 +6471,15 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="355" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="356" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="357" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="358" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="359" /> 
-
-
-
-
-
-
-
-
-
 
 <entry n="Πέτρος|G4074">
   <note type="occurrencesNT">156</note>
@@ -12311,55 +6487,9 @@
   <sense><gloss>Simon Peter</gloss>, the Apostle: <ref osisRef="Matt.4.18">Mt 4:18</ref> <ref osisRef="Matt.10.2">10:2</ref>, <ref osisRef="Mark.3.16">Mk 3:16</ref>, <ref osisRef="Luke.5.8">Lk 5:8</ref>, <ref osisRef="John.1.41">Jo 1:41</ref>, <ref osisRef="John.1.43">43</ref>, al. </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="360" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="361" /> 
-
-
-
-
-
-
-
 
 <entry n="πιστεύω|G4100">
   <note type="occurrencesNT">241</note>
@@ -12395,113 +6525,15 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
- 
 <pb n="363" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="364" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="365" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="366" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="367" /> 
-
-
-
-
-
-
-
-
-
 
 <entry n="πνεῦμα|G4151">
   <note type="occurrencesNT">379</note>
@@ -12518,20 +6550,6 @@
     <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">νοῦς</foreign>, which in NT is contrasted with π. as "the action of the understanding in man with that of the spiritual or ecstatic impulse" (<emph>DB</emph>, iv, 612); <foreign xml:lang="grc">ψυχή</foreign>— the usual term in cl. psychology—in NT, "expresses man as apart from God, a separate individual, π. expresses man as drawing his life from God" (<emph>DB</emph>, 1-vol., 872).</sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="369" /> 
 
 <entry n="ποιέω|G4160">
@@ -12543,29 +6561,7 @@
     <lb/><emph>SYN.:</emph> <foreign xml:lang="grc">πράσσω</foreign>, q.v. The general distinction between the two words is that between particular action and its habitual performance (cf. Tr., <emph>Syn.</emph>, §xcvi; Westc. on <ref osisRef="John.3.21">Jo 3:21</ref>; <emph>ICC</emph> on <ref osisRef="Rom.1.32">Ro 1:32</ref>). </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="370" /> 
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="πόλις|G4172">
   <note type="occurrencesNT">162</note>
@@ -12573,21 +6569,7 @@
   <sense><gloss>a city</gloss>: <ref osisRef="Matt.2.23">Mt 2:23</ref>, <ref osisRef="Mark.1.45">Mk 1:45</ref>, <ref osisRef="Luke.4.29">Lk 4:29</ref>, <ref osisRef="John.4.8">Jo 4:8</ref>, al. mult.; opp. to <foreign xml:lang="grc">κῶμαι (κ. καὶ ἀγροί)</foreign>, <ref osisRef="Matt.9.35">Mt 9:35</ref>  <ref osisRef="Matt.10.11">10:11</ref>, <ref osisRef="Mark.6.56">Mk 6:56</ref>, <ref osisRef="Luke.8.1">Lk 8:1</ref>  <ref osisRef="Luke.13.22">13:22</ref>; c. nom. propr. in appos. (cl.), <ref osisRef="Acts.11.5">Ac 11:5</ref>  <ref osisRef="Acts.16.14">16:14</ref>; c. id. in gen. appos. (BL, §35, 5), <ref osisRef="Acts.8.5">Ac 8:5</ref>, <ref osisRef="2Pet.2.6">II Pe 2:6</ref>; gen., of the region, <ref osisRef="Luke.1.26">Lk 1:26</ref>  <ref osisRef="Luke.4.31">4:31</ref>, <ref osisRef="John.4.5">Jo 4:5</ref>; of the inhabitants, <ref osisRef="Matt.10.5">Mt 10:5</ref>,  <ref osisRef="Matt.10.23">23</ref> <ref osisRef="Luke.23.51">Lk 23:51</ref>, <ref osisRef="Acts.19.35">Ac 19:35</ref>, <ref osisRef="2Cor.11.32">II Co 11:32</ref>; c. gen. pers., of one's residence or native place, <ref osisRef="Matt.22.7">Mt 22:7</ref>, <ref osisRef="Luke.2.4">Lk 2:4</ref>, <ref osisRef="Luke.2.11">11</ref> <ref osisRef="Luke.4.29">4:29</ref> <ref osisRef="Luke.10.11">10:11</ref>, <ref osisRef="John.1.45">Jo 1:45</ref>, <ref osisRef="Acts.16.20">Ac 16:20</ref>, <ref osisRef="Rev.16.9">Re 16:9</ref>; of Jerusalem: <foreign xml:lang="grc">ἡ ἁγία π.</foreign>, <ref osisRef="Matt.4.5">Mt 4:5</ref>  <ref osisRef="Matt.27.53">27:53</ref>, <ref osisRef="Rev.11.2">Re 11:2</ref>; <foreign xml:lang="grc">ἡ ἠγαπημένη</foreign>, <ref osisRef="Rev.20.19">Re 20:19</ref>; <foreign xml:lang="grc">π. τοῦ μεγάλου</foreign>, Mt 5¨35 (cf. <ref osisRef="LXX:Ps.47.2">Ps 47 (48):2</ref>); of the heavenly city in the Apocalyptic visions, <ref osisRef="Rev.3.12">Re 3:12</ref>  <ref osisRef="Rev.21.2">21:2</ref>,  <ref osisRef="Rev.21.10">10</ref> <ref osisRef="Rev.21.14">14</ref>ff. <ref osisRef="Rev.22.14">22:14</ref>, <ref osisRef="Rev.22.19">19</ref>. By meton., of the inhabitants of a city: <ref osisRef="Matt.8.34">Mt 8:34</ref>  <ref osisRef="Matt.12.25">12:25</ref> <ref osisRef="Matt.21.10">21:10</ref>, <ref osisRef="Mark.1.33">Mk 1:33</ref>, <ref osisRef="Acts.14.21">Ac 14:21</ref>  <ref osisRef="Acts.21.30">21:30</ref>.</sense>
 </entry>
 
-
-
-
- 
 <pb n="371" /> 
-
-
-
-
-
-
-
-
-
-
 
 <entry n="πολύς|G4183">
   <note type="occurrencesNT">416</note>
@@ -12605,26 +6587,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="373" />
-
-
-
 
 <entry n="πορεύομαι|G4198">
   <note type="occurrencesNT">153</note>
@@ -12636,202 +6599,23 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="374" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="375" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="376" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="377" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="378" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="379" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="380" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="381" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="382" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="πρός|G4314">
   <form><orth>πρός</orth>, </form>
@@ -12860,130 +6644,17 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="384" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="385" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="386" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="387" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="388" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="389" /> 
-
-
-
-
-
-
-
-
-
-
 
 <superEntry n="πρότερος|G4387|πρῶτος|G4413">
   <form><orth>πρότερος</orth>, and <orth>πρῶτος</orth>, compar. and superl. from <foreign xml:lang="grc">πρό</foreign>, opp. to <foreign xml:lang="grc">ὕστερος, ὕστατος</foreign>. <lb /></form>
@@ -13010,19 +6681,6 @@
   </entry>
 </superEntry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <entry n="προφήτης|G4396">
   <note type="occurrencesnT">144</note>
   <form><orth>προφήτης, -ου, ὁ</orth> [&lt; <foreign xml:lang="grc">πρόφημι</foreign>, <gloss>to speak forth</gloss>), [in LXX chiefly for <foreign xml:lang="heb">נָבִיא</foreign>;] </form>
@@ -13041,114 +6699,17 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="392" /> 
 
 <entry n="πρῶτον">
   <form><orth>πρῶτον, πρῶτος</orth>, v.s. <foreign xml:lang="grc">πρότερος</foreign></form>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="393" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="394" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="395" /> 
-
-
-
-
-
-
-
-
-
 
 <entry n="πως">
   <form><orth>πως</orth>, </form>
@@ -13172,188 +6733,23 @@
  <div type="letter" n="Ρ">
   <head type="heading2">Ρ</head>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="396" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="397" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="398" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="399" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Σ">
   <head type="heading2">Σ</head>
 
-
-
-
-
-
-
- 
 <pb n="400" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="401" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="402" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="σάρξ|G4561">
   <note type="occurrencesNT">147</note>
@@ -13379,415 +6775,40 @@
   <form><orth>Σαρούχ</orth>, v.s. <foreign xml:lang="grc">Σερούχ</foreign>. </form>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="404" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="405" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="406" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="407" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="408" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="409" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="410" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="411" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="412" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="413" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="414" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="415" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="416" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="417" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="418" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="419" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="420" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="421" /> 
 
 <entry n="σύ|G4771">
@@ -13797,75 +6818,11 @@
   <sense><gloss>thou, you</gloss>, gen., <foreign xml:lang="grc">σοῦ</foreign>, dat., <foreign xml:lang="grc">σοί</foreign>, acc., <foreign xml:lang="grc">σέ</foreign>, pl., <foreign xml:lang="grc">ὑμεῖς, -ῶν, -ῖν, -ᾶς</foreign> (enclitic in oblique cases sing., except after prep. (BL, §48, 3), though <foreign xml:lang="grc">πρὸς σέ</foreign> occurs in <ref osisRef="Matt.25.39">Mt 25:39</ref>). Nom. for emphasis or contrast: <ref osisRef="John.1.30">Jo 1:30</ref>, <ref osisRef="John.4.10">4:10</ref>, <ref osisRef="John.5.33">5:33</ref>, <ref osisRef="John.5.39">39</ref>, <ref osisRef="John.5.44">44</ref>, <ref osisRef="Acts.4.7">Ac 4:7</ref>, <ref osisRef="Eph.5.32">Eph 5:32</ref>; so also perhaps <foreign xml:lang="grc">σὺ εἶπας</foreign>, <ref osisRef="Matt.26.64">Mt 26:64</ref>, al. (M, <emph>Pr.</emph>, 86); before voc., <ref osisRef="Matt.2.6">Mt 2:6</ref>, <ref osisRef="Luke.1.76">Lk 1:76</ref>, <ref osisRef="John.17.5">Jo 17:5</ref>, al.; sometimes without emphasis (M, <emph>Pr.</emph>, 85f.), as also in cl., but esp. as rendering of Heb. phrase, e.g. <foreign xml:lang="grc">υἱός μου εἶ σύ</foreign> (<foreign xml:lang="heb">בְּנִי־אַתָּה</foreign>, <ref osisRef="Ps.2.7">Ps 2:7</ref>), <ref osisRef="Acts.13.33">Ac 13:33</ref>. The gen. (<foreign xml:lang="grc">σοῦ, ὑμῶν</foreign>) is sometimes placed bef. the noun: <ref osisRef="Luke.7.48">Lk 7:48</ref>, <ref osisRef="Luke.12.30">12:30</ref>, al.; so also the enclitic <foreign xml:lang="grc">σοῦ</foreign>, <ref osisRef="Matt.9.6">Mt 9:6</ref>; on <foreign xml:lang="grc">τί ἐμοὶ κ. σοί</foreign>, v.s. <foreign xml:lang="grc">ἐγώ</foreign>.</sense>
  </entry>
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="422" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="423" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="424" />
-
-
-
-
-
 
 <entry n="σύν|G4862">
   <note type="occurrencesNT">128</note>
@@ -13875,308 +6832,29 @@
   <lb />In composition: <gloss>with</gloss> (<foreign xml:lang="grc">συνχαίρω</foreign>), <gloss>together</gloss> (<foreign xml:lang="grc">συνωδίνω</foreign>), <gloss>altogether</gloss> (<foreign xml:lang="grc">συντελέω</foreign>) </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="425" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="426" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="427" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="428" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="429" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="430" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="431" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="432" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="433" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="434" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="435" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="436" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="σῴζω|G4982">
   <note type="occurrencesNT">106</note>
@@ -14184,7 +6862,6 @@
   <sense><gloss>to save</gloss> from peril, injury or suffering: <ref osisRef="Matt.8.25">Mt 8:25</ref>, <ref osisRef="Mark.13.20">Mk 13:20</ref>, <ref osisRef="Luke.23.35">Lk 23:35</ref>, al.; <foreign xml:lang="grc">τ. ψυχήν</foreign>, <ref osisRef="Matt.16.25">Mt 16:25</ref>, al.; seq. <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="John.12.27">Jo 12:27</ref>, <ref osisRef="Heb.5.7">He 5:7</ref>, <ref osisRef="Jude.1.5">Ju 5</ref>; of healing, restoring to health: <ref osisRef="Matt.9.22">Mt 9:22</ref>, <ref osisRef="Mark.5.34">Mk 5:34</ref>, al. In NT, esp. of salvation from spiritual disease and death, in which sense it is "spoken of in Scripture as either (1) past, (2) present, or (3) future, according as redemption, grace, or glory is the point in view. Thus (1) <ref osisRef="Rom.8.24">Ro 8:24</ref>, <ref osisRef="Eph.2.5">Eph 2:5</ref>,  <ref osisRef="Eph.2.8">8</ref> <ref osisRef="2Tim.1.9">II Ti 1:9</ref>, <ref osisRef="Titus.3.5">Tit 3:5</ref>; (2) <ref osisRef="Acts.2.47">Ac 2:47</ref>, <ref osisRef="1Cor.1.18">I Co 1:18</ref>, <ref osisRef="1Cor.15.2">15:2</ref>, <ref osisRef="2Cor.2.15">II Co 2:15</ref>; (3) <ref osisRef="Matt.10.22">Mt 10:22</ref>, <ref osisRef="Rom.13.11">Ro 13:11</ref>, <ref osisRef="Phil.2.12">Phl 2:12</ref>, <ref osisRef="Heb.9.28">He 9:28</ref>" (Vau. on <ref osisRef="Rom.5.9">Ro 5:9</ref>). Seq. <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Matt.1.21">Mt 1:21</ref>, <ref osisRef="Acts.2.40">Ac 2:40</ref>, <ref osisRef="Rom.5.9">Ro 5:9</ref>; <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Jas.5.20">Ja 5:20</ref>, <ref osisRef="Jude.1.23">Ju 23</ref> (cf. Cremer, 532ff.). </sense>
 </entry>
 
- 
 <pb n="437" /> 
 
 <entry n="σῶμα|G4983">
@@ -14202,99 +6879,17 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="438" /> 
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Τ">
   <head type="heading2">Τ</head>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="439" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="440" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="441" />
-
-
-
-
-
-
-
 
 <entry n="τέ|G5037">
   <note type="occurrencesNT">215</note>
@@ -14305,96 +6900,13 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="442" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="443" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="444" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="445" /> 
-
-
-
-
 
 <entry n="Τιβεριάς|G5085">
   <note type="occurrencesNT">3</note>
@@ -14421,33 +6933,7 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="446" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="τίς|G5101">
   <note type="occurrencesNT">566</note>
@@ -14474,25 +6960,7 @@
       <sense n="2."><gloss>some</gloss>: <ref osisRef="Mark.16.18">Mk 16:[8]</ref>, <ref osisRef="John.5.14">Jo 5:14</ref>, <ref osisRef="Acts.17.21">Ac 17:21</ref>  <ref osisRef="Acts.24.24">24:24</ref>, <ref osisRef="Heb.11.40">He 11:40</ref>, al. </sense></sense></sense>
  </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="448" />
-
-
-
-
-
 
 <entry n="τόπος|G5117">
   <note type="occurrencesNT">109</note>
@@ -14501,7 +6969,6 @@
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">χώρα</foreign> (extensive), <emph>region</emph>; <foreign xml:lang="grc">χωρίον</foreign> (enclosed), <emph>a piece of ground</emph>. <foreign xml:lang="grc">τ.</foreign> is "a portion of space viewed in reference to its occupancy, or as appropriated to a thing " (Grimm-Thayer, s.v.). 
   </sense>
 </entry>
-
 
 <entry n="τότε|G5119">
   <note type="occurrencesNT">160</note>
@@ -14513,145 +6980,20 @@
   </sense>
 </entry>
 
- 
 <pb n="449" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="450" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="451" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="452" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="453" /> 
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="Υ">
   <head type="heading2">Υ</head>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="454" />
 
 <entry n="ὑγιαίνω|G5071">
@@ -14681,13 +7023,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
 <entry n="υἱός|G5207">
   <note type="occurrencesNT">377</note>
   <form><orth>υἱός, -οῦ, ὁ</orth>, [in LXX very freq. and nearly always for <foreign xml:lang="heb">בֵּן</foreign>, <ref osisRef="Gen.4.17">Ge 4:17</ref>, al.; for <foreign xml:lang="heb">בַּר</foreign>, <ref osisRef="Dan.7.13">Da LXX TH 7:13</ref>, al.; etc.;], </form>
@@ -14702,43 +7037,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="456" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="457" /> 
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ὑπέρ|G5228">
   <note type="occurrencesNT">150</note>
@@ -14757,74 +7058,11 @@
   </sense>
 </entry>
 
-
-
-
- 
 <pb n="458" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="459" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="460" /> 
-
-
-
-
 
 <entry n="ὑπό|G5259">
   <note type="occurrencesNT">211</note>
@@ -14841,384 +7079,41 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
- 
 <pb n="461" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="462" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="463" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="464" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="465" />
-
-
-
-
-
 
  </div>
  <div type="letter" n="Φ">
   <head type="heading2">Φ</head>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <pb n="466" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="467" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="468" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="469" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="470" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="471" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="472" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="473" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="474" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="475" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="476" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="φωνή|G5456">
   <note type="occurrencesNT">139</note>
@@ -15232,73 +7127,15 @@
   </sense>
 </entry>
 
-
-
-
-
- 
 <pb n="477" /> 
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  <div type="letter" n="X">
   <head type="heading2">X</head> 
 
-
-
-
- 
 <pb n="478" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="479" /> 
-
-
-
-
-
-
-
-
-
-
 
 <entry n="χάρις|G5485">
   <note type="occurrencesNT">155</note>
@@ -15316,23 +7153,7 @@
   </sense>
 </entry>
 
-
-
-
- 
 <pb n="480" /> 
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="χείρ|G5495">
   <note type="occurrencesNT">177</note>
@@ -15340,103 +7161,13 @@
   <sense><gloss>the hand</gloss>: <ref osisRef="Matt.3.12">Mt 3:12</ref>, <ref osisRef="Mark.3.1">Mk 3:1</ref>, <ref osisRef="Luke.6.6">Lk 6:6</ref>, al. mult.; <foreign xml:lang="grc">ἡ χ.</foreign>, acting subject, <ref osisRef="Luke.22.21">Lk 22:21</ref>; pl., <ref osisRef="Acts.17.25">Ac 17:25</ref>  <ref osisRef="Acts.20.34">20:34</ref>, <ref osisRef="1John.1.1">I Jo 1:1</ref>; <foreign xml:lang="grc">τ. ἔργα τῶν χ.</foreign>, <ref osisRef="Acts.7.41">Ac 7:41</ref>, <ref osisRef="Rev.9.20">Re 9:20</ref>; <foreign xml:lang="grc">ὁ ἀσπασμὸς τ. ἐμῇ χ.</foreign>, <ref osisRef="1Cor.16.21">I Co 16:21</ref>, <ref osisRef="Col.4.18">Col 4:18</ref>, <ref osisRef="2Thess.3.17">II Th 3:17</ref>; prepositional phrases, esp. those without art., similar to Heb. constructions (Bl., §32, 4; 40, 9; 46, 9), <foreign xml:lang="grc">ἐν χ.</foreign>; c gen. (Lft., in l.), <ref osisRef="Gal.3.19">Ga 3:19</ref>; <foreign xml:lang="grc">σὺν χ. ἀγγέλου</foreign>, <ref osisRef="Acts.7.35">Ac 7:35</ref>; <foreign xml:lang="grc">διὰ (τῶν) χειρῶν (διὰ χειρός)</foreign>, <ref osisRef="Mark.6.2">Mk 6:2</ref>, <ref osisRef="Acts.5.12">Ac 5:12</ref>  <ref osisRef="Acts.7.25">7:25</ref>, al.; <foreign xml:lang="grc">ἐπὶ χειρῶν</foreign>, <ref osisRef="Matt.4.6">Mt 4:6</ref>, <ref osisRef="Luke.4.11">Lk 4:11</ref>; ellipse of <foreign xml:lang="grc">χ.</foreign> (<foreign xml:lang="grc">ἡ δεξία, ἀριστερα</foreign>; Bl., §44, 1), <ref osisRef="Matt.6.3">Mt 6:3</ref>, al. By meton., for the power or activity of an individual, <ref osisRef="Matt.17.22">Mt 17:22</ref>, <ref osisRef="Mark.9.31">Mk 9:31</ref>, <ref osisRef="Luke.9.31">Lk 9:31</ref>, <ref osisRef="John.10.39">Jo 10:39</ref>, <ref osisRef="Acts.12.11">Ac 12:11</ref>, al.; metaph., of the activity or power of God: <ref osisRef="Luke.1.66">Lk 1:66</ref>  <ref osisRef="Luke.23.46">23:46</ref>, <ref osisRef="John.10.29">Jo 10:29</ref>, <ref osisRef="Acts.11.21">Ac 11:21</ref>  <ref osisRef="Acts.13.11">13:11</ref>, al. </sense>
 </entry>
 
- 
 <pb n="481" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="482" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="483" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="484" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="Χριστός|G5547">
   <note type="occurrencesNT">529</note>
@@ -15450,83 +7181,15 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="486" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="487" /> 
 
  </div>
  <div type="letter" n="Ψ">
   <head type="heading2">Ψ</head>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="488" /> 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <entry n="ψυχή|G5590">
   <note type="occurrencesNT">103</note>
@@ -15542,26 +7205,9 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  </div>
  <div type="letter" n="Ω">
   <head type="heading2">Ω</head>
-
-
-
 
 <entry n="ὧδε|G5602">
   <note type="occurrencstNT">101</note>
@@ -15576,15 +7222,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
 <entry n="ὥρα|G5610">
   <note type="occurrencesNT">100</note>
   <form><orth>ὥρα, -ας, ἡ</orth>, [in LXX chiefly for <foreign xml:lang="heb">עֵת</foreign> and in Da for <foreign xml:lang="heb">שָׁעָה</foreign>;] </form>
@@ -15594,9 +7231,6 @@
     <sense n="3.">A definite point of time, <gloss>time, hour</gloss>: <ref osisRef="Matt.26.45">Mt 26:45</ref>; c. gen. rei, <ref osisRef="Luke.1.10">Lk 1:10</ref>  <ref osisRef="Luke.14.17">14:17</ref>, <ref osisRef="Rev.3.10">Re 3:10</ref>, al.; c. gen. pers., <ref osisRef="Luke.22.53">Lk 22:53</ref>, <ref osisRef="John.2.4">Jo 2:4</ref>  <ref osisRef="John.7.30">7:30</ref>, al.; <foreign xml:lang="grc">ἡ ἄρτι ὥρα</foreign>, <ref osisRef="1Cor.4.11">I Co 4:11</ref>; <foreign xml:lang="grc">ἐσχάτη ὥ.</foreign>, <ref osisRef="1John.2.18">I Jo 2:18</ref>; seq. <foreign xml:lang="grc">ὅτε</foreign>, <ref osisRef="John.4.21">Jo 4:21</ref>, <ref osisRef="John.4.23">23</ref> <ref osisRef="John.5.25">5:25</ref> <ref osisRef="John.16.25">16:25</ref>; <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="John.12.23">Jo 12:23</ref>, al.; c. acc. et inf., <ref osisRef="Rom.13.11">Ro 13:11</ref> (cf. <emph>DB</emph>, ext., 475b 476b). </sense>
   </sense>
 </entry>
-
-
-
 
 <entry n="ὡς|G5613">
   <note type="occurrencesNT">435</note>
@@ -15618,19 +7252,6 @@
   </sense>
 </entry>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <pb n="492" />
  </div>
  <div type="section">
@@ -15639,756 +7260,59 @@
 
 </div>
 
- 
 <pb n="493" />
 
 <div type="section">
    <head type="heading1">APPENDIX A</head>
    <head type="heading2">THE IRREGULAR VERBS OF THE GREEK NEW TESTAMENT</head> 
- 
+
  <p>The student is referred to the grammars for the tenses of the regular verbs. The following list comprises those verbs which do not conform to the regular types, with their principal parts and other tenses which occur in the NT, including some which are of regular formation. The list is confined, as a rule (but cf. dvolyco, olyco), to simple verbs, from which the form of the compound may usually be determined without difficulty. When a tense occurs only in a compound, the simple form is preceded by a hyphen. Compare a similar list, with helpful notes, which has appeared since this was sent to press, in Moulton's Grammar, Vol. 11, pt. ii, pp. 225 ff.</p> 
 
  <p>(a. = active; m. = middle; p. = passive. Alternative forms are enclosed in brackets.)</p> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="494" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="495" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="496" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="497" /> 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="498" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="499" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
 
- 
 <pb n="500" />
  <div type="section">
  <head type="heading2">APPENDIX B<lb />ALPHABETICAL LIST OF VERBAL FORMS</head> 
 
  <p>(The list includes only such forms as might reasonably cause the beginner some difficulty. Where several such forms belonging to the same verb occur, a selection only is given. The others will be recognized by their similarity to those in the list and can be found in Appendix A. Those which can be traced by the cross references in the previous list and in the body of the Lexicon are, as a rule, omitted here. The present tense, enclosed in brackets, is that to which, in the Lexicon, a given form belongs.)</p> 
 
-
-
-
-
-
-
-
- 
 <pb n="501" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="502" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="503" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="504" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="505" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="506" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="507" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="508" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="509" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="510" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="511" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 <pb n="512" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  </div>
  </body>
