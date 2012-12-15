@@ -713,15 +713,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1041</td><td>γέεννα</td><td>G1067</td><td>12</td></tr>
-<tr><td>1042</td><td>Γεθσημανί</td><td>G1068</td><td>2</td></tr>
-<tr><td>1043</td><td>γείτων</td><td>G1069</td><td>4</td></tr>
-<tr><td>1044</td><td>γελάω</td><td>G1070</td><td>2</td></tr>
-<tr><td>1045</td><td>γέλως</td><td>G1071</td><td>1</td></tr>
-<tr><td>1046</td><td>γεμίζω</td><td>G1072</td><td>8</td></tr>
-<tr><td>1047</td><td>γέμω</td><td>G1073</td><td>11</td></tr>
-<tr><td>1048</td><td>γενεά</td><td>G1074</td><td>43</td></tr>
-<tr><td>1049</td><td>γενεαλογέομαι</td><td>G1075</td><td>1</td></tr>
 <tr><td>1050</td><td>γενεαλογία</td><td>G1076</td><td>2</td></tr>
 <tr><td>1051</td><td>γενέσια</td><td>G1077</td><td>2</td></tr>
 <tr><td>1052</td><td>γένεσις</td><td>G1078</td><td>5</td></tr>
