@@ -713,15 +713,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1050</td><td>γενεαλογία</td><td>G1076</td><td>2</td></tr>
-<tr><td>1051</td><td>γενέσια</td><td>G1077</td><td>2</td></tr>
-<tr><td>1052</td><td>γένεσις</td><td>G1078</td><td>5</td></tr>
-<tr><td>1053</td><td>γενετή</td><td>G1079</td><td>1</td></tr>
-<tr><td>1054</td><td>γεννάω</td><td>G1080</td><td>97</td></tr>
-<tr><td>1055</td><td>γέννημα</td><td>G1081</td><td>4</td></tr>
-<tr><td>1056</td><td>Γεννησαρέτ</td><td>G1082</td><td>3</td></tr>
-<tr><td>1057</td><td>γέννησις</td><td>G1083</td><td>2</td><td>KJV</td></tr>
-<tr><td>1058</td><td>γεννητός</td><td>G1084</td><td>2</td></tr>
 <tr><td>1059</td><td>γένος</td><td>G1085</td><td>20</td></tr>
 <tr><td>1060</td><td>Γεργεσηνός</td><td>G1086</td><td>1</td><td>KJV</td></tr>
 <tr><td>1061</td><td>γερουσία</td><td>G1087</td><td>1</td></tr>

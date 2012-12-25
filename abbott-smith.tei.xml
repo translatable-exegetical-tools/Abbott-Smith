@@ -7853,7 +7853,8 @@ ref>; <foreign xml:lang="grc">καὶ γάρ</foreign>, <gloss>for also</gloss>,
     <sense n="1."><gloss>race, stock, family</gloss> (in NT, <foreign xml:lang="grc">γέννημα</foreign>, q.v.). </sense>
     <sense n="2."><gloss>generation</gloss>; 
       <sense n="(a)">of the contemporary members of a family: pl., <ref osisRef="Matt.1.17">Mt 1:17</ref> (cf. <ref osisRef="Gen.31.3">Ge 31:3</ref>, <foreign xml:lang="heb">מוֹלֶדֶת</foreign>); metaph., of those alike in character, in bad sense, <ref osisRef="Matt.17.17">Mt 17:17</ref>, <ref osisRef="Mark.9.19">Mk 9:19</ref>, <ref osisRef="Luke.9.41">Lk 9:41</ref>  <ref osisRef="Luke.16.8">16:8</ref>, <ref osisRef="Acts.2.40">Ac 2:40</ref>; </sense>
-      <sense n="(b)">of all the people of a given period: <ref osisRef="Matt.24.34">Mt 24:34</ref>, <ref osisRef="Mark.13.30">Mk 13:30</ref>, <ref osisRef="Luke.21.32">Lk 21:32</ref>, <ref osisRef="Phil.2.15">Phl 2:15</ref>; pl., <ref osisRef="Luke.1.48">Lk 1:48</ref>; esp. of the Jewish people, <ref osisRef="Matt.11.16">Mt 11:16</ref>  <ref osisRef="Matt.12.39">12:39</ref>,  <ref osisRef="Matt.12.41">41</ref> <ref osisRef="Matt.12.42">42</ref>, <ref osisRef="Matt.12.45">45</ref> <ref osisRef="Matt.16.4">16:4</ref> <ref osisRef="Matt.23.36">23:36</ref>, <ref osisRef="Mark.8.12">Mk 8:12</ref>,  <ref osisRef="Mark.8.38">38</ref> <ref osisRef="Luke.7.31">Lk 7:31</ref>  <ref osisRef="Luke.11.29">11:29</ref>, <ref osisRef="Luke.11.30-Luke.11.32">30-32</ref>, <ref osisRef="Luke.11.50">50</ref>, <ref osisRef="Luke.11.51">51</ref> <ref osisRef="Luke.17.25">17:25</ref>, <ref osisRef="Acts.13.36">Ac 13:36</ref>, <ref osisRef="Heb.3.10">He 3:10</ref> (LXX); <foreign xml:lang="grc">τὴν γ. αὐτοῦ τίς διηγήσεται</foreign>, <ref osisRef="Acts.8.33">Ac 8:33</ref> (LXX); </sense>
+      <sense n="(b)">of all the people of a given period: <ref osisRef="Matt.24.34">Mt 24:34</ref>, <ref osisRef="Mark.13.30">Mk 13:30</ref>, <ref osisRef="Luke.21.32">Lk 21:32</ref>, <ref osisRef="Phil.2.15">Phl 2:15</ref>; pl., <ref osisRef="Luke.1.48">Lk 1:48</ref>; esp. of the Jewish people, <ref osisRef="Matt.11.16">Mt 11:16</ref>  <ref osisRef="Matt.12.39">12:39</ref>,  <ref osisRef="Matt.12.41">41</ref> <ref osisRef="Matt.12.42">42</ref>, <ref osisRef="Matt.12.45">45</ref> <ref osisRef="Matt.16.4">16:4</ref> <ref osisRef="Matt.23.36">23:36</ref>, <ref osisRef="Mark.8.12">Mk 8:12</ref>,  <ref osisRef="Mark.8.38">38</ref> <ref osisRef="Luke.7.31">Lk 7:31</ref>  <ref osisRef="Luke.11.29">11:29</ref>, <ref osisRef="Luke.11.30-Luke.11.32">30-32</ref>, <ref osisRef="Luke.11.50">50</ref>, <ref osisRef="Luke.11.51">51</ref> <ref osisRef="Luke.17.25">17:25</ref>, <ref osisRef="Acts.13.36">Ac 13:36</ref>, <ref osisRef="Heb.3.10">He 3:10</ref> (LXX); <foreign xml:lang="grc">τὴν γ. αὐτοῦ τίς διηγήσεται</foreign>, 
+<ref osisRef="Acts.8.33">Ac 8:33</ref> (LXX); </sense>
       <sense n="(c)">the period covered by the life-time of a generation, used loosely in pl. of successive ages: <ref osisRef="Acts.14.16">Ac 14:16</ref>  <ref osisRef="Acts.15.21">15:21</ref>, <ref osisRef="Eph.3.5">Eph 3:5</ref>, <ref osisRef="Col.1.26">Col 1:26</ref>; <foreign xml:lang="grc">εἰς γενεὰς καὶ γ.</foreign> (= <foreign xml:lang="heb">לִדוֹר וָדוֹר</foreign>, al.), <ref osisRef="Luke.34.17">Lk 34:17</ref>, al), <ref osisRef="Luke.1.50">Lk 1:50</ref>; <foreign xml:lang="grc">εἰς πάσας τὰς γ. τοῦ αἰῶνος τῶν αἰώνων</foreign>, <ref osisRef="Eph.3.21">Eph 3:21</ref> (Ellic, in l.; <emph>DCG</emph>, i, 639f.).</sense>
     </sense>†
   </sense>
@@ -7865,66 +7866,83 @@ ref>; <foreign xml:lang="grc">καὶ γάρ</foreign>, <gloss>for also</gloss>,
   <sense><gloss>to trace ancestry, reckon genealogy</gloss>; pass., seq. <foreign xml:lang="grc">ἐκ</foreign>: <ref osisRef="Heb.7.6">He 7:6</ref>.†</sense>
 </entry>
 
- <pb n="90" /> <!-- typed="" checked="" --> 
+ <pb n="90" /> <!-- typed="DCO" checked="" --> 
 
-* yeveaXoyia, -as, r] (v. previous word); 1. the making of a pedigree. 
-2. a genealogy: pi., i Ti 1*, Tit S"^ (v. CGT, in 1., and ib. hitr., xlix ff.; 
-DB, ii, p. 141).t 
+<entry n="γενεαλογία|G1076">
+  <note type="occurrencesNT">2</note>
+  <form>* <orth>γενεαλογία, -ας, ἡ</orth> (v. previous word); </form>
+  <sense>
+    <sense n="1."><gloss>the making of a pedigree</gloss>. </sense>
+    <sense n="2."><gloss>a genealogy</gloss>: pl., <ref osisRef="1Tim.1.4">I Ti 1:4</ref>, <ref osisRef="Titus.3.9">Tit 3:9</ref> (v. <emph>CGT</emph>, in l., and ib. <emph>Intr.</emph>, xlix ff.; <emph>DB</emph>, ii, p. 141).</sense>†</sense>
+</entry>
 
-*yevdcna, -oiy, to., neut. pi. of adj. -los, -ov, relating to birth 
-{&lt;C yeVto-is); 1. in Attic Gk., a commemoration of the dead. 2. In late 
-Gk., a birthday feast (= cl. yevedXia; so in tt., v. MM, <emph>Exp.</emph>, x; cf. 
-also Eutherford, NPhr., 184): Mt 14«, Mk B^i.t 
+<entry n="γενέσια|G1077">
+  <note type="occurrencesNT">2</note>
+  <form>* <orth>γενέσια, -ων, τά</orth>, neut. pl. of adj. <foreign xml:lang="grc">-ιος, -ον</foreign>, relating to birth (&lt; <foreign xml:lang="grc">γένεσις</foreign>); </form>
+  <sense>
+    <sense n="1.">in Attic Gk., <gloss>a commemoration of the dead</gloss>. </sense>
+    <sense n="2.">In late Gk., <gloss>a birthday feast</gloss> (= cl. <foreign xml:lang="grc">γενέθλια</foreign>; so in <foreign xml:lang="grc">π.</foreign>, v. MM, <emph>Exp.</emph>, x; cf. also Ῥutherford, <emph>NPhr.</emph>, 184): <ref osisRef="Matt.14.6">Mt 14:6</ref>, <ref osisRef="Mark.6.21">Mk 6:21</ref>.</sense>†</sense>
+</entry>
 
-yiveai.^, -ctos, r} « yCyvo/xai), [in LXX chiefly for nibw;] 1. origin, lineage: ySt'ySXos yeveVews (as in Ge 2^^ 5i), Mt l^. 2. 6jri/i; Mt l^^, Lk 1^* (Rec. yiuvrjo-L's); irpoawTTov t^s y., face of his birth ("what God made him to be," Hort., in 1.), Ja 1^3; 6 rpo^os t^s y., the wheel (course) of birth or creation ("the wheel of man's nature according to 'ts original Divine purpose," Hort), Ja 3^.t 
+<entry n="γένεσις|G1078">
+  <note type="occurrencesNT">5</note>
+  <form><orth>γένεσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">γίγνομαι</foreign>), [in LXX chiefly for <foreign xml:lang="heb">תֹּולֵדֹת</foreign>;] </form>
+  <sense>
+    <sense n="1."><gloss>origin, lineage</gloss>: <foreign xml:lang="grc">βίβλος γενέσεως</foreign> (as in <ref osisRef="Gen.2.4">Ge 2:4</ref>a <ref osisRef="Gen.5.1">5:1</ref>), <ref osisRef="Matt.1.1">Mt 1:1</ref>. </sense>
+    <sense n="2."><gloss>birth</gloss>: <ref osisRef="Matt.1.18">Mt 1:18</ref>, <ref osisRef="Luke.1.14">Lk 1:14</ref> (Rec. <foreign xml:lang="grc">γέννησις</foreign>); <foreign xml:lang="grc">πρόσωπον τῆς γ.</foreign>, <gloss>face of his birth</gloss> ("what God made him to be," Hort., in l.), <ref osisRef="Jas.1.23">Ja 1:23</ref>; <foreign xml:lang="grc">ὁ τροχὸς τῆς γ.</foreign>, <gloss>the wheel (course) of birth</gloss> or <gloss>creation</gloss> ("the wheel of man's nature according to its original Divine purpose," Hort), <ref osisRef="Jas.3.6">Ja 3:6</ref>.</sense>†</sense>
+</entry>
 
-YeceTTJ, -^s, ^ = ycverj, lon. for yei/ea, [in LXX: Le 25*^ (lj:5.37 
+<entry n="γενετή|G1079">
+  <note type="occurrencesNT">1</note>
+  <form><orth>γενετή, -ῆς, ἡ = γενεή</orth>, Ion. for <foreign xml:lang="grc">γενεά</foreign>, [in LXX: <ref osisRef="Lev.25.47">Le 25:47</ref> (<foreign xml:lang="heb">עֵקֶר מִשְׁפָּחָו</foreign>), <ref osisRef="Esth.4.17">Es 4:17</ref>*;] </form>
+  <sense><gloss>birth</gloss>: <foreign xml:lang="grc">ἐκ γ.</foreign>, <ref osisRef="John.9.1">Jo 9:1</ref>.†</sense>
+</entry>
 
-instzra), Es 4}''*;] birth: « y., Jo 9\t 
+<entry n="γένημα">
+  <note type="occurrencesNT"></note>
+  <form><orth>γένημα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">γίγνομαι</foreign>), [in LXX chiefly for <foreign xml:lang="heb">תְּבוּאָה</foreign>;] a form not found in cl., but used in LXX, NT and <foreign xml:lang="grc">π.</foreign> (Bl., §3, 10; M, <emph>Pr.</emph>, 45; Deiss., <emph>BS</emph>, 184), as distinct from <foreign xml:lang="grc">γέννημα</foreign>, q.v., </form>
+  <sense>of <gloss>fruit, produce</gloss> of the earth : <ref osisRef="Matt.26.29">Mt 26:29</ref>, <ref osisRef="Mark.14.25">Mk 14:25</ref>, <ref osisRef="Luke.12.18">Lk 12:18</ref>  <ref osisRef="Luke.22.18">22:18</ref>, <ref osisRef="2Cor.9.10">II Co 9:10</ref> (Rec. <foreign xml:lang="grc">γέννημα</foreign>).†</sense>
+</entry>
 
-t Ye&gt;'r]fAa, -tos, to (&lt;; yiyvofiaL), [in LXX chiefly for nSlip;] a form 
+<entry n="γεννάω|G1080">
+  <note type="occurrencesNT">97</note>
+  <form><orth>γεννάω, -ῶ</orth> (&lt; <foreign xml:lang="grc">γέννα</foreign>, poët. for <foreign xml:lang="grc">γένος</foreign>), [in LXX chiefly for <foreign xml:lang="heb">ילד</foreign>;] </form>
+  <sense>
+    <sense n="1.">of the father, <gloss>to beget</gloss>: c. acc., <ref osisRef="Matt.1.1-Matt.1.16">Mt 1:1-16</ref>, <ref osisRef="Acts.7.8">Ac 7:8</ref>, <ref osisRef="Acts.7.29">29</ref>; seq. <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Matt.1.3">Mt 1:3</ref>, <ref osisRef="Matt.1.5">5</ref>, <ref osisRef="Matt.1.6">6</ref>. </sense>
+    <sense n="2.">Of the mother, <gloss>to bring forth, bear</gloss>: <ref osisRef="Luke.1.13">Lk 1:13</ref>, <ref osisRef="Luke.1.57">57</ref> <ref osisRef="Luke.23.29">23:29</ref>, <ref osisRef="John.16.21">Jo 16:21</ref>; <foreign xml:lang="grc">εἰς δουλείαν</foreign>, <ref osisRef="Gal.4.24">Ga 4:24</ref>. Pass. 
+      <sense n="(1)"><gloss>to be begotten</gloss>: <ref osisRef="Matt.1.20">Mt 1:20</ref>; </sense>
+      <sense n="(2)"><gloss>to be born</gloss>: <ref osisRef="Matt.2.1">Mt 2:1</ref>, <ref osisRef="Matt.2.4">4</ref> <ref osisRef="Matt.19.12">19:12</ref> <ref osisRef="Matt.26.24">26:24</ref>, <ref osisRef="Mark.14.21">Mk 14:21</ref>, <ref osisRef="Luke.1.35">Lk 1:35</ref>, <ref osisRef="John.3.4">Jo 3:4</ref>, <ref osisRef="Acts.7.20">Ac 7:20</ref>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="Heb.11.23">He 11:23</ref>; seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="John.16.21">Jo 16:21</ref>  <ref osisRef="John.18.37">18:37</ref>, <ref osisRef="2Pet.2.12">II Pe 2:12</ref>; <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="Acts.2.8">Ac 2:8</ref>  <ref osisRef="Acts.22.3">22:3</ref>, (<foreign xml:lang="grc">ἁμαρτίαις</foreign>), <ref osisRef="John.9.34">Jo 9:34</ref>; <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Heb.11.12">He 11:12</ref> (WH, mg., <foreign xml:lang="grc">ἐγεν-</foreign>); <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="John.1.13">Jo 1:13</ref>  <ref osisRef="John.3.6">3:6</ref> <ref osisRef="John.8.41">8:41</ref>; c. adj., <foreign xml:lang="grc">τυφλὸς γ.</foreign>, <ref osisRef="John.9.2">Jo 9:2</ref>; [<foreign xml:lang="grc">Ῥωμαῖος</foreign>], <ref osisRef="Acts.22.28">Ac 22:28</ref>; <foreign xml:lang="grc">κατὰ σάρκα: κ. πνεῦμα</foreign>: <ref osisRef="Gal.4.29">Ga 4:29</ref>. Metaph.; <foreign xml:lang="grc">μάχας</foreign>, <ref osisRef="2Tim.2.23">II Ti 2:23</ref>; <foreign xml:lang="grc">ὑμᾶς ἐγέννησα</foreign>, <ref osisRef="1Cor.4.15">I Co 4:15</ref>, (<foreign xml:lang="grc">ὅν</foreign>), Phm 10; in quotation, <ref osisRef="Ps.2.7">Ps 2:7</ref> (LXX), <ref osisRef="Acts.13.33">Ac 13:33</ref>, <ref osisRef="Heb.1.5">He 1:5</ref>  <ref osisRef="Heb.5.5">5:5</ref>; of Christians as begotten of God, born again: <ref osisRef="John.1.13">Jo 1:13</ref>  <ref osisRef="John.3.3">3:3</ref>, <ref osisRef="John.3.5-John.3.8">5-8</ref>, <ref osisRef="1John.2.29">I Jo 2:29</ref>  <ref osisRef="1John.3.9">3:9</ref> <ref osisRef="1John.4.7">4:7</ref> <ref osisRef="1John.5.1">5:1</ref>, <ref osisRef="1John.5.4">4</ref>, <ref osisRef="1John.5.18">18</ref> (cf. <foreign xml:lang="grc">ἀνα-γεννάω</foreign>); (Cremer, 146).</sense>
+    </sense>
+  </sense>
+</entry>
 
-not found in cl., but used in LXX, NT and tt. (Bl., §3, 10; M, 
-Pr., 45; Deiss., <emph>BS</emph>, 184), as distinct from yewrj/jia, q.v., of fruit, 
-woduce of the earth: Mt 2629, Mk 142*, Lk 12^^ 22i8, ii Co Q^o (Rec. 
+<entry n="γέννημα|G1081">
+  <note type="occurrencesNT">4</note>
+  <form><orth>γέννημα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">γεννάω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">תְּבוּאָה</foreign>;] </form>
+  <sense><gloss>offspring</gloss> of men or animals: <foreign xml:lang="grc">ἐχιδνῶν</foreign>, <ref osisRef="Matt.3.7">Mt 3:7</ref>  <ref osisRef="Matt.12.34">12:34</ref> <ref osisRef="Matt.23.33">23:33</ref>, <ref osisRef="Luke.3.7">Lk 3:7</ref> (and elsewhere in Rec. for <foreign xml:lang="grc">γένημα</foreign>, q.v.).†</sense>
+</entry>
 
-y£vrij/ta).t 
+<entry n="Γεννησαρέτ|G1082">
+  <note type="occurrencesNT">3</note>
+  <form><orth>Γεννησαρέτ</orth> (Rec. <foreign xml:lang="grc">Γενησ-</foreign>, Mk, l.c.; Targ. <foreign xml:lang="heb">גְּנֵיסַר</foreign>), [in LXX: <foreign xml:lang="grc">Γεννησάρ</foreign> (as in some MSS. Mt, Mk), <ref osisRef="1Macc.11.67">I Mac 11:67</ref>*;] </form>
+  <sense><gloss>Gennesaret</gloss>, a fertile plain on W. shore of the Sea of Galilee; <foreign xml:lang="grc">ἡ γῆ</foreign>, <ref osisRef="Matt.14.34">Mt 14:34</ref>, <ref osisRef="Mark.6.53">Mk 6:53</ref>; <foreign xml:lang="grc">ἡ λίμνη</foreign> (<foreign xml:lang="heb">יָם כִּנֶּרֶת</foreign>, <ref osisRef="Num.34.11">Nu 34:11</ref>, elsewhere <foreign xml:lang="grc">ἡ θάλασσα τ. Γαλιλαίας</foreign>, <ref osisRef="Mark.1.16">Mk 1:16</ref>; <foreign xml:lang="grc">ἡ θ. τ. Τιβεριάδος</foreign>, <ref osisRef="John.6.1">Jo 6:1</ref>), <ref osisRef="Luke.5.1">Lk 5:1</ref>.†</sense>
+</entry>
 
-y^vv&amp;m, -co (&lt;^ yeWa, poet. for yevoii), [in LXX chiefly for ib^;] 1. 
-of the father, to beget: c. ace, Mt l^-^^, Ac T^'^^; seq. «, Mt l^.s.s. 
-2. Of the mother, to bring forth, bear: Lk l^^. 57 2329, Jo I621; cts 
-SovXetav, Ga 424. Pass. (1) to be begotten: Mt l^O; (2) to be born: Mt 
-21, 4 1912 2624, Mk 1421, Lij i35_ Jo 34^ Ac 720, inability 
-to write ": MM, <emph>Exp.</emph>, x; but v. also Cremer, 166; DCG, i, 202; ii, 
-584.) t 
+<entry n="γέννησις|G1083">
+  <note type="occurrencesNT">2</note>
+  <form><orth>γέννησις, -εως, ἡ</orth>, [in LXX: <ref osisRef="1Chr.4.8">I Ch 4:8</ref> (<foreign xml:lang="heb">מִשְׁפָּחָה</foreign>), <ref osisRef="Eccl.7.2">Ec 7:2</ref> (<foreign xml:lang="heb">ילד</foreign> ni.; <foreign xml:lang="grc">γένεσις</foreign>, A<foreign xml:lang="heb">א</foreign>), <ref osisRef="Wis.3.13">Wi 3:13</ref> <foreign xml:lang="heb">א</foreign><hi rend="superscript">1</hi> (<foreign xml:lang="grc">γένεσις</foreign>, AB<foreign xml:lang="heb">א</foreign><hi rend="superscript">2</hi>), <ref osisRef="Sir.22.3">Si 22:3</ref>*;] </form>
+  <sense>
+    <sense n="1."><gloss>begetting</gloss>. </sense>
+    <sense n="2."><gloss>birth</gloss>: <ref osisRef="Matt.1.18">Mt 1:18</ref>, <ref osisRef="Luke.1.14">Lk 1:14</ref>, Rec.</sense>†
+  </sense>
+</entry>
 
-Ypcififiareus, -ews (acc. pi., -cis, V. Bl., §8, 2), 6 (&lt;^ ypd.fji.fia), [in 
-LXX always for liaiZT in Hex., elsewhere chiefly for IDD;] 1. a 
-secretary; y. t. TroAeois, a state-clerk: Ac 19^^. 2. In tt., of a military 
-officer (Deiss., <emph>BS</emph>, 110 f.). So Jg 5^*, iv Ki 25i9 (-DD), al. 3. a 
-scribe, a biblical scholar, teacher of the law (so first in i Es 8^, 11 Es 
-7&lt;'; in Lk 5^', vo/zoSiSao-zcaAos; in Lk 102^, vofx-LKos): Mt 72^, Mk I22, and 
-freq. in Gosp. y. koI dpx^LepeU, Mt 2*, et al.; y. k. ^apia-aloi, Mt 52", et 
-al.; y. fxa6r]T€v6et&lt;: rrj /SacriXcta t. ovp., Mt 13*2 • t^ov (ro&lt;f&gt;6&lt;i', ttoS y., 1 Co 
-120 (Cremer, 167; DB, iv, 420, 800). 
+<entry n="γεννητός|G1084">
+  <note type="occurrencesNT">2</note>
+  <form><orth>γεννητός, -ή -όν</orth> (&lt; <foreign xml:lang="grc">γεννάω</foreign>), [in LXX: <ref osisRef="Job.11.2">Jb 11:2</ref>, <ref osisRef="Job.11.12">12</ref> <ref osisRef="Job.14.1">14:1</ref> <ref osisRef="Job.15.14">15:14</ref> <ref osisRef="Job.25.4">25:4</ref> <pb n="91" /> <!-- typed="" checked="" --> (<foreign xml:lang="heb">ילד</foreign>)*;] </form>
+  <sense><gloss>begotten, born</gloss>: pl., <foreign xml:lang="grc">γ. γυναικῶν</foreign> (cf. <foreign xml:lang="heb">יְלוּד אִשָּׁה</foreign>, <ref osisRef="Job.14.1">Jb 14:1</ref>), periphrasis for mankind, <ref osisRef="Matt.11.11">Mt 11:11</ref>, <ref osisRef="Luke.7.28">Lk 7:28</ref> (Cremer, 147).</sense>
+</entry>
 
-Ypa-rrros, -q, -6v « ypd&lt;fiw), [in LXX for STI^p;] 1. painted. 2. 
-written: Ro 2i*.t 
-
-Ypa&lt;}&gt;ii, -^s, rj (&lt;[ ypdffxj)), [in LXX chiefly for:iri3;] 1. a drawing, 
-
-painting. 2. (a) writing; (6) that which is written, a writing: iraa-a y., 
-II Ti 31^; y. ayiai, Ro 12; 7rpo&lt;f&gt;r]TLKaL, Ro 162"; al y. t. Trpo(f&gt;r]T(i}v, Mt 
-26^"; 17 y., ai y., the sacred writings, the Scriptures (i.e. the OT; v. 
-Milligan, NTD, 205); in pi., when the sacred writings as a whole are 
-meant, e.g. Mt 21*2 26**, Jo 5^^, Ro 15*; in sing., when a particular 
-passage is referred to, as in Lk 421, Jo 192*, Ro 4^ Q^^ lO^^ II2, Ja 223 
-(Cremer, 165; DCG, ii, 584). 
-
- <pb n="91" /> <!-- typed="" checked="" -->
- (^V')*;] begotten, born: pi., y. yvvaLKwv (cf. H^X Th"], Jb 14^), periphrasis
-for mankind, Mt ll^^ Lk 728 (Cremer, 147).
-t
 yeVos, -ovs, to ( yiyvofMCLi), [in LXX for UV , ]^p , nj , etc.;] 1.
 family: Ac 4^ 7^3 IS^s. 2. offspring: Ac 1728.29^ Re 22^6^ 3. race,
 wa^iow; Mk 728, Ac 436 719 182. 24^ n Co 1126, py 35^ q^ lu^ 1 Pe 2^
