@@ -713,16 +713,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1059</td><td>γένος</td><td>G1085</td><td>20</td></tr>
-<tr><td>1060</td><td>Γεργεσηνός</td><td>G1086</td><td>1</td><td>KJV</td></tr>
-<tr><td>1061</td><td>γερουσία</td><td>G1087</td><td>1</td></tr>
-<tr><td>1062</td><td>γέρων</td><td>G1088</td><td>1</td></tr>
-<tr><td>1063</td><td>γεύομαι</td><td>G1089</td><td>15</td></tr>
-<tr><td>1064</td><td>γεωργέω</td><td>G1090</td><td>1</td></tr>
-<tr><td>1065</td><td>γεώργιον</td><td>G1091</td><td>1</td></tr>
-<tr><td>1066</td><td>γεωργός</td><td>G1092</td><td>19</td></tr>
-<tr><td>1068</td><td>γῆρας</td><td>G1094</td><td>1</td></tr>
-<tr><td>1069</td><td>γηράσκω</td><td>G1095</td><td>2</td></tr>
 <tr><td>1072</td><td>γλεῦκος</td><td>G1098</td><td>1</td></tr>
 <tr><td>1073</td><td>γλυκύς</td><td>G1099</td><td>4</td></tr>
 <tr><td>1074</td><td>γλῶσσα</td><td>G1100</td><td>50</td></tr>
