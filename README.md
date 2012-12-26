@@ -46,7 +46,7 @@ Note that until markup is complete, the file will not validate because the &lt;b
 Changelog
 =
 
-2012/10/01 - Release of v. 0.15: Includes pages iii-16 and entries for words occurring 100 times or more in the Greek NT. Total entries: 555.
+2012/12/12 - Release of v. 0.15: Includes pages iii-16 and entries for words occurring 100 times or more in the Greek NT. Total entries: 555.
 
 2012/10/01 - Release of v. 0.14: Includes pages iii-9 and entries for words occurring 100 times or more in the Greek NT. Also moved markup instructions to markdown file instead of PDF. Total entries: 299.
 
