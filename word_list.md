@@ -713,16 +713,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1072</td><td>γλεῦκος</td><td>G1098</td><td>1</td></tr>
-<tr><td>1073</td><td>γλυκύς</td><td>G1099</td><td>4</td></tr>
-<tr><td>1074</td><td>γλῶσσα</td><td>G1100</td><td>50</td></tr>
-<tr><td>1075</td><td>γλωσσόκομον</td><td>G1101</td><td>2</td></tr>
-<tr><td>1076</td><td>γναφεύς</td><td>G1102</td><td>1</td></tr>
-<tr><td>1077</td><td>γνήσιος</td><td>G1103</td><td>4</td></tr>
-<tr><td>1078</td><td>γνησίως</td><td>G1104</td><td>1</td></tr>
-<tr><td>1079</td><td>γνόφος</td><td>G1105</td><td>1</td></tr>
-<tr><td>1080</td><td>γνώμη</td><td>G1106</td><td>9</td></tr>
-<tr><td>1081</td><td>γνωρίζω</td><td>G1107</td><td>25</td></tr>
 <tr><td>1082</td><td>γνῶσις</td><td>G1108</td><td>29</td></tr>
 <tr><td>1083</td><td>γνώστης</td><td>G1109</td><td>1</td></tr>
 <tr><td>1084</td><td>γνωστός</td><td>G1110</td><td>15</td></tr>
