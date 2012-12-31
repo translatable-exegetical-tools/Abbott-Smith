@@ -713,17 +713,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1100</td><td>γραώδης</td><td>G1126</td><td>1</td></tr>
-<tr><td>1101</td><td>γρηγορέω</td><td>G1127</td><td>22</td></tr>
-<tr><td>1102</td><td>γυμνάζω</td><td>G1128</td><td>4</td></tr>
-<tr><td>1103</td><td>γυμνασία</td><td>G1129</td><td>1</td></tr>
-<tr><td>1104</td><td>γυμνιτεύω</td><td>G1130</td><td>1</td></tr>
-<tr><td>1105</td><td>γυμνός</td><td>G1131</td><td>15</td></tr>
-<tr><td>1106</td><td>γυμνότης</td><td>G1132</td><td>3</td></tr>
-<tr><td>1107</td><td>γυναικάριον</td><td>G1133</td><td>1</td></tr>
-<tr><td>1108</td><td>γυναικεῖος</td><td>G1134</td><td>1</td></tr>
-<tr><td>1110</td><td>Γώγ</td><td>G1136</td><td>1</td></tr>
-<tr><td>1111</td><td>γωνία</td><td>G1137</td><td>9</td></tr>
 <tr><td>1112</td><td>Δαβίδ</td><td>G1138</td><td>54</td><td>KJV</td></tr>
 <tr><td>1113</td><td>δαιμονίζομαι</td><td>G1139</td><td>13</td></tr>
 <tr><td>1114</td><td>δαιμόνιον</td><td>G1140</td><td>63</td></tr>
@@ -4377,7 +4366,6 @@ Each row includes the following information:
 <tr><td>4913</td><td>τεκνίον</td><td>G5040</td><td>8</td></tr>
 <tr><td>4914</td><td>τεκνογονέω</td><td>G5041</td><td>1</td></tr>
 <tr><td>4915</td><td>τεκνογονία</td><td>G5042</td><td>1</td></tr>
-<tr><td>4916</td><td>τέκνον</td><td>G5043</td><td>99</td></tr>
 <tr><td>4917</td><td>τεκνοτροφέω</td><td>G5044</td><td>1</td></tr>
 <tr><td>4918</td><td>τέκτων</td><td>G5045</td><td>2</td></tr>
 <tr><td>4919</td><td>τέλειος</td><td>G5046</td><td>19</td></tr>
