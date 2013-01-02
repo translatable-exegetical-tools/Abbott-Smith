@@ -4627,7 +4627,6 @@ Each row includes the following information:
 <tr><td>5200</td><td>φάραγξ</td><td>G5327</td><td>1</td></tr>
 <tr><td>5201</td><td>Φαραώ</td><td>G5328</td><td>5</td></tr>
 <tr><td>5202</td><td>Φάρες</td><td>G5329</td><td>3</td></tr>
-<tr><td>5203</td><td>Φαρισαῖος</td><td>G5330</td><td>98</td></tr>
 <tr><td>5204</td><td>φαρμακεία</td><td>G5331</td><td>2</td></tr>
 <tr><td>5205</td><td>φαρμακεύς</td><td>G5332</td><td>1</td><td>KJV</td></tr>
 <tr><td>5206</td><td>φάρμακος</td><td>G5333</td><td>1</td></tr>
