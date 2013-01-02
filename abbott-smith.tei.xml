@@ -13728,21 +13728,17 @@ unequally yoked: metaph., c. dat. pers., 11 Co 6i*.t
 
  <pb n="183" /> <!-- typed="" checked="" -->
 
-Zrcpos, -a, -ov, [in LXX chiefly for lOJ*?;] distributive pron., 
-
-prop, dual (BL, §13, 5; 51, 6), denoting the second of a pair, but in 
-late Gk. encroaching on aAAos (M, <emph>Pr.</emph>, 79 f.); 1. of number, other; 
-c. art., the other; (a) of two, Lk 5^ Q^", al.; opp. to 6 tt/owto?, Mt 2130; 
-6 cts, Mt 6", Lk 7*1, Ac 23«, al.; I. /x€v . . . I. Se', the one . . . the 
-other: i Co 15*"; the next: Lk 6^ 9^6 (sc. •^/^epa, Xen.), Ac 20^5 27^; 
-= 6 irXrjaLov, one's neighbour: Ro 2^ 13^, i Co 6^, al.; (b) of more 
-than two, another: Mt 8^^ 11^, Lk 6« 22«5, Jo 19^7, Ro 8^^ al.; pi., Ac 
-2^3; oifih... 5AAot 8k ... I 84, Mt le^*; nvh ... I. 8i, Lk lli«. 
-2. Of kind or quality, other, another, different (Plat., Dem., al.): Mk 
-16C12], Lk 929, Ac 2*, I Co 142i, „ Qq ^4^ q^ 16^ al. (cf. €Tepo-yXa,o-o-os, 
--8t8acr*ca\€&lt;o, -^vycw). 
-
-Syn.: aAAos, q.v. (v. reff. ut supr., also Eobertson, Gr., 748 ff.). 
+<entry n="ἕτερος|G2087">
+  <note type="occurrencesNT">98</note>
+  <form><orth>ἕτερος, -α, -ον</orth>, [in LXX chiefly for <foreign xml:lang="heb">אַחֵר</foreign>;] <gramGrp><pos>distributive pron.</pos>, prop. dual (BL, §13, 5; 51, 6), </gramGrp> denoting the second of a pair, but in late Gk. encroaching on <foreign xml:lang="grc">ἄλλος</foreign> (M, <emph>Pr.</emph>, 79f.); </form>
+  <sense>
+    <sense n="1.">of number, <gloss>other</gloss>; c. art., <gloss>the other</gloss>; 
+      <sense n="(a)">of two, <ref osisRef="Luke.5.7">Lk 5:7</ref>  <ref osisRef="Luke.9.56">9:56</ref>, al.; opp. to <foreign xml:lang="grc">ὁ πρῶτος</foreign>, <ref osisRef="Matt.21.30">Mt 21:30</ref>; <foreign xml:lang="grc">ὁ εἷς</foreign>, <ref osisRef="Matt.6.24">Mt 6:24</ref>, <ref osisRef="Luke.7.41">Lk 7:41</ref>, <ref osisRef="Acts.23.6">Ac 23:6</ref>, al.; <foreign xml:lang="grc">ἕ. μὲν . . . ἕ. δέ</foreign>, <gloss>the one . . . the other</gloss>: <ref osisRef="1Cor.15.40">I Co 15:40</ref>; <gloss>the next</gloss>: <ref osisRef="Luke.6.6">Lk 6:6</ref>  <ref osisRef="Luke.9.56">9:56</ref> (sc. <foreign xml:lang="grc">ἡμέρα</foreign>, Xen.), <ref osisRef="Acts.20.15">Ac 20:15</ref>  <ref osisRef="Acts.27.3">27:3</ref>; = <foreign xml:lang="grc">ὁ πλησίον</foreign>, <gloss>one's neighbour</gloss>: <ref osisRef="Rom.2.1">Ro 2:1</ref>  <ref osisRef="Rom.13.8">13:8</ref>, <ref osisRef="1Cor.6.1">I Co 6:1</ref>, al.; </sense>
+      <sense n="(b)">of more than two, <gloss>another</gloss>: <ref osisRef="Matt.8.21">Mt 8:21</ref>  <ref osisRef="Matt.11.3">11:3</ref>, <ref osisRef="Luke.6.6">Lk 6:6</ref>  <ref osisRef="Luke.22.65">22:65</ref>, <ref osisRef="John.19.37">Jo 19:37</ref>, <ref osisRef="Rom.8.39">Ro 8:39</ref>, al.; pl., <ref osisRef="Acts.2.13">Ac 2:13</ref>; <foreign xml:lang="grc">οἱ μὲν . . . ἄλλοι δὲ . . . ἕ. δέ</foreign>, <ref osisRef="Matt.16.14">Mt 16:14</ref>; <foreign xml:lang="grc">τινὲς . . . ἕ. δέ</foreign>, <ref osisRef="Luke.11.16">Lk 11:16</ref>. </sense>
+    </sense>
+    <sense n="2.">Of kind or quality, <gloss>other, another, different</gloss> (Plat., Dem., al.): <ref osisRef="Mark.16.12">Mk 16:[12]</ref>, <ref osisRef="Luke.9.29">Lk 9:29</ref>, <ref osisRef="Acts.2.4">Ac 2:4</ref>, <ref osisRef="1Cor.14.21">I Co 14:21</ref>, <ref osisRef="2Cor.11.4">II Co 11:4</ref>, <ref osisRef="Gal.1.6">Ga 1:6</ref>, al. (cf. <foreign xml:lang="grc">ἑτερό-γλωσσος, -διδασκαλέω, -ζυγέω</foreign>). </sense>
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἄλλος</foreign>, q.v. (v. reff. ut supr., also Robertson, <emph>Gr.</emph>, 748ff.). </sense>
+</entry>
 
 ^Tcpws, adv., differently, otherwise: Phi S^^.t 
 
@@ -29957,7 +29953,8 @@ endearment, in voc. pi, Jo 13^3, Ga 4i9, i Jo 2i. 12.28 3'. is 4* 52i.t
 <entry n="τέκνον|G5043">
   <note type="occurrencesNT">99</note>
   <form><orth>τέκνον, -ου, τό</orth> (&lt; <foreign xml:lang="grc">τίκτω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">בֵּן</foreign>, also for <foreign xml:lang="heb">יֶלֶד</foreign>, etc.;] </form>
-  <sense>that which is begotten, born (cf. Scottish <emph>bairn</emph>), <gloss>a child</gloss> of either sex: <ref osisRef="Mark.13.12">Mk 13:12</ref>, <ref osisRef="Luke.1.7">Lk 1:7</ref>, <ref osisRef="Acts.7.5">Ac 7:5</ref>; pl., <ref osisRef="Matt.7.11">Mt 7:11</ref>, <ref osisRef="Mark.7.27">Mk 7:27</ref>, <ref osisRef="Luke.1.17">Lk 1:17</ref>, <ref osisRef="Eph.6.1">Eph 6:1</ref>, al.; <foreign xml:lang="grc">τέκνα ἐπαγγελίας</foreign>, <ref osisRef="Rom.9.8">Ro 9:8</ref>; <foreign xml:lang="grc">τ. τῆς σαρκός</foreign>, ib.; in a wider sense (as Heb. <foreign xml:lang="heb">בָּנִים</foreign>), of posterity, <ref osisRef="Matt.2.18">Mt 2:18</ref>, <ref osisRef="Luke.3.8">Lk 3:8</ref>, al.; specif., of a male child, <ref osisRef="Matt.21.28">Mt 21:28</ref>, <ref osisRef="Acts.21.21">Ac 21:21</ref>, a,l.; in voc. as a form of kindly address from an elder to a junior or from a teacher to a disciple, <ref osisRef="Matt.9.2">Mt 9:2</ref>  <ref osisRef="Matt.21.28">21:28</ref>, <ref osisRef="Mark.2.5">Mk 2:5</ref>, <ref osisRef="Luke.2.48">Lk 2:48</ref>; <foreign xml:lang="grc">τ. μου</foreign> (= cl. <foreign xml:lang="grc">τ. μοι</foreign>; v. Bl., §37, 5), <ref osisRef="Gal.4.19">Ga 4:19</ref> (<foreign xml:lang="grc">τεκνία</foreign>, WH, txt.), <ref osisRef="2Tim.2.1">II Ti 2:1</ref>. Metaph., 
+  <sense>that which is begotten, born (cf. Scottish <emph>bairn</emph>), <gloss>a child</gloss> of either sex: <ref osisRef="Mark.13.12">Mk 13:12</ref>, <ref osisRef="Luke.1.7">Lk 1:7</ref>, <ref osisRef="Acts.7.5">Ac 7:5</ref>; pl., <ref osisRef="Matt.7.11">Mt 7:11</ref>, <ref osisRef="Mark.7.27">Mk 7:27</ref>, <ref osisRef="Luke.1.17">Lk 1:17</ref>, <ref osisRef="Eph.6.1">Eph 6:1</ref>, al.; <foreign xml:lang="grc">τέκνα ἐπαγγελίας</foreign>, <ref osisRef="Rom.9.8">Ro 9:8</ref>; <foreign xml:lang="grc">τ. τῆς σαρκός</foreign>, ib.; in a wider sense (as Heb. <foreign xml:lang="heb">בָּנִים</foreign>), of posterity, <ref osisRef="Matt.2.18">Mt 2:18</ref>, <ref osisRef="Luke.3.8">Lk 3:8</ref>, al.; specif., of a male child, <ref osisRef="Matt.21.28">Mt 21:28</ref>, <ref osisRef="Acts.21.21">Ac 21:21</ref>, a,l.; in voc. as a form of kindly address from an elder to a junior or from a teacher to a disciple, <ref osisRef="Matt.9.2">Mt 9:2</ref>  <ref osisRef="Matt.21.28">21:28</ref>, <ref osisRef="Mark.2.5">Mk 2:
+5</ref>, <ref osisRef="Luke.2.48">Lk 2:48</ref>; <foreign xml:lang="grc">τ. μου</foreign> (= cl. <foreign xml:lang="grc">τ. μοι</foreign>; v. Bl., §37, 5), <ref osisRef="Gal.4.19">Ga 4:19</ref> (<foreign xml:lang="grc">τεκνία</foreign>, WH, txt.), <ref osisRef="2Tim.2.1">II Ti 2:1</ref>. Metaph., 
     <sense n="(a)">of disciples (apart from direct address, v. supr.): Phm 10, <ref osisRef="1Tim.1.2">I Ti 1:2</ref>, <ref osisRef="Titus.1.4">Tit 1:4</ref>, <ref osisRef="3John.1.4">III Jo 4</ref>; </sense>
     <sense n="(b)">with reference to the Fatherhood of God (v.s. <foreign xml:lang="grc">πατήρ, γεννάω</foreign>), <foreign xml:lang="grc">τέκνα τ. θεοῦ</foreign> (cf. <ref osisRef="Isa.30.1">Is 30:1</ref>, <ref osisRef="Wis.16.21">Wi 16:21</ref>): <ref osisRef="Rom.8.16">Ro 8:16</ref>, <ref osisRef="Eph.5.1">Eph 5:1</ref>, <ref osisRef="Phil.2.15">Phl 2:15</ref>; and esp. in Johannine bks. (cf. Westc, <emph>Epp. Jo.</emph>, 94, 120), <pb n="442" /> <!-- typed="" checked="" --> <ref osisRef="John.1.12">Jo 1:12</ref>, <ref osisRef="1John.3.1">I Jo 3:1</ref> al.; </sense>
     <sense n="(c)">of those who imitate others and are therefore regarded as the spiritual offspring of their exemplars: <ref osisRef="Matt.3.9">Mt 3:9</ref>, <ref osisRef="Luke.3.8">Lk 3:8</ref>, <ref osisRef="John.8.39">Jo 8:39</ref>, <ref osisRef="Rom.9.7">Ro 9:7</ref>, <ref osisRef="1Pet.3.6">I Pe 3:6</ref>; <foreign xml:lang="grc">τ. διαβόλου</foreign>, <ref osisRef="1John.3.10">I Jo 3:10</ref>; </sense>

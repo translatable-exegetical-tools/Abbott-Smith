@@ -1618,7 +1618,6 @@ Each row includes the following information:
 <tr><td>2058</td><td>ἑτερόγλωσσος</td><td>G2084</td><td>1</td></tr>
 <tr><td>2059</td><td>ἑτεροδιδασκαλέω</td><td>G2085</td><td>2</td></tr>
 <tr><td>2060</td><td>ἑτεροζυγέω</td><td>G2086</td><td>1</td></tr>
-<tr><td>2061</td><td>ἕτερος</td><td>G2087</td><td>98</td></tr>
 <tr><td>2062</td><td>ἑτέρως</td><td>G2088</td><td>1</td></tr>
 <tr><td>2063</td><td>ἔτι</td><td>G2089</td><td>82</td></tr>
 <tr><td>2064</td><td>ἑτοιμάζω</td><td>G2090</td><td>40</td></tr>
