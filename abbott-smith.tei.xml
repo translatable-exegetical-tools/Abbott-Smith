@@ -5673,7 +5673,7 @@ other time or to some expectation ". (Thayer, 75.)
 <entry n="ἄρτος|G740">
   <note type="occurrencesNT">97</note>
   <form><orth>ἄρτος, -ον, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">לֶחֶם</foreign>;] </form>
-  <sense><gloss>bread, a loaf</gloss>: Mt 4:3, 4, Mk 3:20, al.; <foreign xml:lang="grc">ἄρτοι τ. προθέσεως</foreign>, <gloss>bread of the setting forth</gloss>, i.e. the shewbread. Metaph., <foreign xml:lang="grc">ὁ ἄ. τ. θεοῦ, τ. ζωῆς</foreign>, ref. to Christ, Jo 6:33, 35; in general, <gloss>food</gloss>: Mt 6:11, al.; <foreign xml:lang="grc">ἄ. φαγεῖν</foreign> (Heb. <foreign xml:lang="heb">אֲכֹל לֶחֶם</foreign>), <gloss>to eat</gloss> (MM, s.v.), Lu 14:1, al.</sense> 
+  <sense><gloss>bread, a loaf</gloss>: <ref osisRef="Matt.4.3">Mt 4:3</ref>,  <ref osisRef="Matt.4.4">4</ref> <ref osisRef="Mark.3.20">Mk 3:20</ref>, al.; <foreign xml:lang="grc">ἄρτοι τ. προθέσεως</foreign>, <gloss>bread of the setting forth</gloss>, i.e. the shewbread. Metaph., <foreign xml:lang="grc">ὁ ἄ. τ. θεοῦ, τ. ζωῆς</foreign>, ref. to Christ, <ref osisRef="John.6.33">Jo 6:33</ref>, <ref osisRef="John.6.35">35</ref>; in general, <gloss>food</gloss>: <ref osisRef="Matt.6.11">Mt 6:11</ref>, al.; <foreign xml:lang="grc">ἄ. φαγεῖν</foreign> (Heb. <foreign xml:lang="heb">אֲכֹל לֶחֶם</foreign>), <gloss>to eat</gloss> (MM, s.v.), <ref osisRef="Luke.14.1">Lu 14:1</ref>, al.</sense> 
 </entry>
 
 ** dpTow, [in Sm,: Ca 82 *;] 1. to arrange, make ready (Hom.). 2. Of 
@@ -9465,23 +9465,14 @@ Christians, i Co 1228.29, Eph 4", Ac 13i, Ja 31; of false teachers, 11 Ti
 
 Syn.: 7rat8«vn^s, q.v. 
 
-8i8(iaKw;in LXX chiefly for mb pi., also for W hi., HT hi., 
-etc.;] to teach (i.e. instruct) a person, teach a thing; 1. trans.: c. ace. 
-
-8 
-
-
-
- <pb n="114" /> <!-- typed="" checked="" -->
-
-pers., Mt 52, Mk l^^ al.; seq. Sn, Mk 8^'; ir^pC, 1 Jo 2^7; c. inf., Lk 
-11^; c. acc. rei, Mk G^o 121"; ^ c^gn ace, Mt IS^d-xx). q^ ^^^\_ ace, 
-Mk 42, Jo 142«; pass., Ga 1^2^ 11 Th 2i*; c. dat. pers. (like Heb., of. 
-Jb 212", Qut prob. a vernac. usage, v. Swete, in 1.), Re 2^*. 2. Absol., 
-tfO teach, give mstruction: Mt 4'"^, Mk I'^i, and often in Gosp., Ro 12^, 
-I Co 417, I Ti 2^2^ al. 
-
-Syn.: TratSeL-w (cf. Westc, Heh., 402;' Cremer, 180). 
+<entry n="διδάσκω|G1321">
+  <note type="occurrencesNT">97</note>
+  <form><orth>διδάσκω</orth> [in LXX chiefly for <foreign xml:lang="heb">למד</foreign> pl., also for <foreign xml:lang="heb">ידע</foreign> hi., <foreign xml:lang="heb">ירה</foreign> hi., etc.;] </form>
+  <sense><gloss>to teach</gloss> (i.e. <gloss>instruct</gloss>) a person, <gloss>teach</gloss> a thing; 
+    <sense n="1.">trans.: c. acc. <pb n="114" /> <!-- typed="" checked="" --> pers., <ref osisRef="Matt.5.2">Mt 5:2</ref>, <ref osisRef="Mark.1.22">Mk 1:22</ref>, al.; seq. <foreign xml:lang="grc">ὅτι</foreign>, <ref osisRef="Mark.8.31">Mk 8:31</ref>; <foreign xml:lang="grc">περί</foreign>, <ref osisRef="1John.2.27">I Jo 2:27</ref>; c. inf., <ref osisRef="Luke.11.1">Lk 11:1</ref>; c. acc. rei, <ref osisRef="Mark.6.30">Mk 6:30</ref>  <ref osisRef="Mark.12.14">12:14</ref>; c. cogn. acc., <ref osisRef="Matt.15.9">Mt 15:9</ref> (LXX); c. dupl. acc, <ref osisRef="Mark.4.2">Mk 4:2</ref>, <ref osisRef="John.14.26">Jo 14:26</ref>; pass., <ref osisRef="Gal.1.12">Ga 1:12</ref>, <ref osisRef="2Thess.2.15">II Th 2:15</ref>; c. dat. pers. (like Heb., cf. <ref osisRef="Job.21.23">Jb 21:23</ref>, but prob. a vernac. usage, v. Swete, in l.), <ref osisRef="Rev.2.14">Re 2:14</ref>. </sense>
+    <sense n="2.">Absol., <gloss>to teach, give instruction</gloss>: <ref osisRef="Matt.4.23">Mt 4:23</ref>, <ref osisRef="Mark.1.21">Mk 1:21</ref>, and often in Gosp., <ref osisRef="Rom.12.7">Ro 12:7</ref>, <ref osisRef="1Cor.4.17">I Co 4:17</ref>, <ref osisRef="1Tim.2.12">I Ti 2:12</ref>, al. </sense>
+  <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">παιδεύω</foreign> (cf. Westc., <emph>Heb.</emph>, 402; Cremer, 180). </sense>
+</entry>
 
 SiSaxV), -^s, rj (&lt; StSao-Kco), [in LXX: Ps 59 (60) tit. {yb pi.); Sm.: 
 De 33^*;] 1. objectively, teaching, doctrine, that which is taught: Mk 

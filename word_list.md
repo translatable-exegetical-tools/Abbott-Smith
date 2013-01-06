@@ -892,7 +892,6 @@ Each row includes the following information:
 <tr><td>1292</td><td>διδακτός</td><td>G1318</td><td>3</td></tr>
 <tr><td>1293</td><td>διδασκαλία</td><td>G1319</td><td>21</td></tr>
 <tr><td>1294</td><td>διδάσκαλος</td><td>G1320</td><td>59</td></tr>
-<tr><td>1295</td><td>διδάσκω</td><td>G1321</td><td>97</td></tr>
 <tr><td>1296</td><td>διδαχή</td><td>G1322</td><td>30</td></tr>
 <tr><td>1297</td><td>δίδραχμον</td><td>G1323</td><td>2</td></tr>
 <tr><td>1298</td><td>Δίδυμος</td><td>G1324</td><td>3</td></tr>
