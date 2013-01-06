@@ -560,7 +560,6 @@ Each row includes the following information:
 <tr><td>0711</td><td>ἄρτι</td><td>G737</td><td>36</td></tr>
 <tr><td>0712</td><td>ἀρτιγέννητος</td><td>G738</td><td>1</td></tr>
 <tr><td>0713</td><td>ἄρτιος</td><td>G739</td><td>1</td></tr>
-<tr><td>0714</td><td>ἄρτος</td><td>G740</td><td>97</td></tr>
 <tr><td>0715</td><td>ἀρτύω</td><td>G741</td><td>3</td></tr>
 <tr><td>0716</td><td>Ἀρφαξάδ</td><td>G742</td><td>1</td></tr>
 <tr><td>0717</td><td>ἀρχάγγελος</td><td>G743</td><td>2</td></tr>
