@@ -10203,7 +10203,7 @@ Ro 15:31.†
       <sense n="(a)">pres.: <ref osisRef="Matt.6.22">Mt 6:22</ref>, <ref osisRef="Luke.10.6">Lk 10:6</ref>, <ref osisRef="John.7.17">Jo 7:17</ref>, <ref osisRef="Rom.2.25">Ro 2:25</ref>,  <ref osisRef="Rom.2.26">26</ref> al.; </sense>{
       <sense n="(b)">aor. (= Lat. fut. pf.): <ref osisRef="Matt.4.9">Mt 4:9</ref>  <ref osisRef="Matt.16.26">16:26</ref> (cf. ptcp. in <ref osisRef="Luke.9.25">Lk 9:25</ref>; M, <emph>Pr.</emph>, 230), <ref osisRef="Mark.3.24">Mk 3:24</ref>, <ref osisRef="Luke.14.34">Lk 14:34</ref>, <ref osisRef="John.5.43">Jo 5:43</ref>, <ref osisRef="Rom.7.2">Ro 7:2</ref>, al.; = cl. <foreign xml:lang="grc">εἰ</foreign>, c. opt., <ref osisRef="John.9.22">Jo 9:22</ref>  <ref osisRef="John.11.57">11:57</ref>, <ref osisRef="Acts.9.2">Ac 9:2</ref>; as Heb. <foreign xml:lang="heb">אִם</foreign> = <foreign xml:lang="grc">ὅταν</foreign>, <ref osisRef="John.12.32">Jo 12:32</ref>  <ref osisRef="John.14.3">14:3</ref>, I <ref osisRef="John.2.28">Jo 2:28</ref>  <ref osisRef="John.3.2">3:2</ref>, <ref osisRef="Heb.3.7">He 3:7</ref> <hi rend="superscript">(LXX)</hi>. </sense></sense>
     <sense n="2.">C. indic, (as in late writers, fr. Arist. on; v. WH, <emph>App.</emph>, 171; VD, <emph>MGr.</emph> 2, <emph>App.</emph>, §77; Deiss., <emph>BS</emph>, 201f., <emph>LAE</emph>, 155, 254; M, <emph>Pr.</emph>, 168, 187; Bl., §65, 4); 
-      <sense n="(a)">fut.: <ref osisRef="Matt.18.19">Mt 18:19</ref> T, <ref osisRef="Luke.19.40">Lk 19:40</ref>, <pb n="126" /> <!-- typed="" checked="" --> <ref osisRef="Acts.7.7">Ac 7:7</ref>; </sense>
+      <sense n="(a)">fut.: <ref osisRef="Matt.18.19">Mt 18:19</ref> T, <ref osisRef="Luke.19.40">Lk 19:40</ref>, <pb n="126" /> <!-- typed="DCO" checked="" --> <ref osisRef="Acts.7.7">Ac 7:7</ref>; </sense>
       <sense n="(b)">pres.: <ref osisRef="1Thess.3.8">I Th 3:8</ref> (v. Milligan, in l.). </sense>
     </sense>
     <sense n="3.">With other particles: <foreign xml:lang="grc">ἐ. καί</foreign> (Bl., §65, 6), <ref osisRef="Gal.6.1">Ga 6:1</ref>; <foreign xml:lang="grc">ἐ. μή</foreign> (M, <emph>Pr.</emph>, 185, 187; Bl., l.c.), c. subjc. pres., <ref osisRef="Matt.10.13">Mt 10:13</ref>, <ref osisRef="1Cor.8.8">I Co 8:8</ref>, <ref osisRef="Jas.2.17">Ja 2:17</ref>, I <ref osisRef="John.3.21">Jo 3:21</ref>; aor., <ref osisRef="Matt.6.15">Mt 6:15</ref>, <ref osisRef="Mark.3.27">Mk 3:27</ref>, <ref osisRef="John.3.3">Jo 3:3</ref>, <ref osisRef="Rom.10.15">Ro 10:15</ref>, <ref osisRef="Gal.1.8">Ga 1:8</ref>  <ref osisRef="Gal.2.16">2:16</ref> (v. Lft., Ellic., in ll.); <foreign xml:lang="grc">ἐ. τε . . . ἐ. τε</foreign>, [in LXX for <foreign xml:lang="heb">אִם . . . אִם</foreign>, <ref osisRef="Esth.19.13">Es 19:13</ref>, al.,] <ref osisRef="Rom.14.8">Ro 14:8</ref>. </sense>
@@ -10222,33 +10222,63 @@ Ro 15:31.†
     <sense n="3.">In pl., for reciprocal pron., <foreign xml:lang="grc">ἀλλήλων, -οις, -ους</foreign>, <gloss>of one another</gloss>, etc.: <ref osisRef="Matt.21.38">Mt 21:38</ref>, <ref osisRef="Mark.16.3">Mk 16:3</ref>, <ref osisRef="Eph.5.19">Eph 5:19</ref>, al. </sense></sense>
  </entry>
  
-***
-
 <entry n="ἐάω|G1439">
 <note type="occurrencesNT">13</note>
   <form><orth>ἐάω, -ῶ</orth>, [in LXX for <foreign xml:lang="heb">רפה</foreign> hi., etc.;] </form>
   <sense>
-    <sense n="1."><gloss>to let, permit</gloss>: c. acc., c. inf., c. acc. et inf. (M, <emph>Pr.</emph>, 205): Mt 24:43, Lk 4:41 22:51, Ac 14:16 16:7 19:3o 23:32 27:32 28:4, I Co 10:13. </sense>
-    <sense n="2."><gloss>to let alone, leave</gloss>: <foreign xml:lang="grc">ἀγκύρας</foreign>, Ac 27:40 (cf. <foreign xml:lang="grc">προσ-εάω</foreign>).</sense>†</sense>
+    <sense n="1."><gloss>to let, permit</gloss>: c. acc., c. inf., c. acc. et inf. (M, <emph>Pr.</emph>, 205): <ref osisRef="Matt.24.43">Mt 24:43</ref>, <ref osisRef="Luke.4.41">Lk 4:41</ref>  <ref osisRef="Luke.22.51">22:51</ref>, <ref osisRef="Acts.14.16">Ac 14:16</ref>  <ref osisRef="Acts.16.7">16:7</ref> <ref osisRef="Acts.19.3o">19:3o</ref> <ref osisRef="Acts.23.32">23:32</ref> <ref osisRef="Acts.27.32">27:32</ref> <ref osisRef="Acts.28.4">28:4</ref>, <ref osisRef="1Cor.10.13">I Co 10:13</ref>. </sense>
+    <sense n="2."><gloss>to let alone, leave</gloss>: <foreign xml:lang="grc">ἀγκύρας</foreign>, <ref osisRef="Acts.27.40">Ac 27:40</ref> (cf. <foreign xml:lang="grc">προσ-εάω</foreign>).</sense>†</sense>
 </entry>
 
-<entry n="">i^hofx-qKOvTa, ol, al, to., indecl. (&lt;^ eTrrd), seventy: Lk 101' I'', 
-Ac 71* 2323 2737.†</entry>
+<entry n="ἑβδομήκοντα|G1440">
+  <note type="occurrencesNT">5</note>
+  <form><orth>ἑβδομήκοντα, οἱ, αἱ, τά</orth>, indecl. (&lt; <foreign xml:lang="grc">ἑπτά</foreign>), </form>
+  <sense><gloss>seventy</gloss>: <ref osisRef="Luke.10.1">Lk 10:1</ref>,  <ref osisRef="Luke.10.17">17</ref> <ref osisRef="Acts.7.14">Ac 7:14</ref>  <ref osisRef="Acts.23.23">23:23</ref> <ref osisRef="Acts.27.37">27:37</ref>.†</sense>
+</entry>
 
-<entry n="">† lpSofiTjKocTciKis, adv., [in LXX for Wif^tV , Ge 4^**;] seventy times: i. k-ma., seventy times seven, Mt 18^^ (E, txt., ICG, in 1.), or seventy-seven times (E, mg.; cf. M, <emph>Pr.</emph>, 98; WM, 314; Meyer, in  .).† </entry>
+<entry n="ἑβδομηκοντάκις|G1441">
+    <note type="occurrencesNT">1</note>
+    <form>† <orth>ἑβδομηκοντάκις</orth>, <gramGrp><pos>adv.</pos></gramGrp>, [in LXX for <foreign xml:lang="heb">שִׁבְעִים</foreign>, <ref osisRef="Gen.4.24">Ge 4:24</ref> *;] </form>
+    <sense><gloss>seventy times</gloss>: <foreign xml:lang="grc">ἑ. ἑπτά</foreign>, <gloss>seventy times seven</gloss>, <ref osisRef="Matt.18.22">Mt 18:22</ref> (R, txt., <emph>ICC</emph>, in l.), or <gloss>seventy-seven times</gloss> (R, mg.; cf. M, <emph>Pr.</emph>, 98; WM, 314; Meyer, in l.).†</sense>
+</entry>
 
-<entry n="">ipSojjios, -rj, -ov {&lt;C tTTTtt), [in LXX chiefly for ^jr^Hjr;] seventh: Jo 452, He 4MLXX)^ ju 14^ Re 81 10^ lli^ 161^ 212o.†</entry>
+<entry n="ἕβδομος|G1442">
+    <note type="occurrencesNT">9</note>
+    <form><orth>ἕβδομος, -η, -ον</orth> (&lt; <foreign xml:lang="grc">ἑπτὰ</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שְׁבִיעִי</foreign>;] </form>
+    <sense><gloss>seventh</gloss>: <ref osisRef="John.4.52">Jo 4:52</ref>, <ref osisRef="Heb.4.4">He 4:4</ref> (LXX), <ref osisRef="Jude.1.14">Ju 14</ref>, <ref osisRef="Rev.8.1">Re 8:1</ref>  <ref osisRef="Rev.10.7">10:7</ref> <ref osisRef="Rev.11.15">11:15</ref> <ref osisRef="Rev.16.17">16:17</ref> <ref osisRef="Rev.21.20">21:20</ref>.†</sense>
+</entry>
 
-<entry n="">"Epep (Eec. 'EySep), o, indecl. (Heb. -l^JT, Ge IO2*), Eber (OT, Heher): Lk 335.†</entry>
+<entry n="Ἔβερ|G1443">
+    <note type="occurrencesNT">1</note>
+    <form><orth>Ἔβερ</orth> (Rec. <foreign xml:lang="grc">Ἐβέρ</foreign>), <orth>ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">עֵבֶר</foreign>, <ref osisRef="Gen.10.24">Ge 10:24</ref>), </form>
+    <sense><gloss>Eber</gloss> (OT, <emph>Heber</emph>): <ref osisRef="Luke.3.35">Lk 3:35</ref>.†</sense>
+</entry>
 
-<entry n="">*† 'EppaiKcJs, -V, -6v, Hebrew: Lk 2338, Rec.†</entry>
+<entry n="Ἑβραϊκός|G1444">
+    <note type="occurrencesNT">1</note>
+    <form>*† <orth>Ἑβραϊκός, -ή, -όν</orth>, </form>
+    <sense><gloss>Hebrew</gloss>: <ref osisRef="Luke.23.38">Lk 23:38</ref>, Rec.†</sense>
+</entry>
 
-<entry n="">† 'EPpalos (WH, 'E/?-), -a, -ov (Aram, n^^), as subst., o 'E., [in LXX for 133;, ^l^JT;] a Hebrew. 1. In OT, of Israelites in contrast with those of another race (Ge 14", Ex V\ De I512, al.). 2. In NT as the correlative of 'EWt^vio-t^s, a Jew who had adopted, in greater or less degree, Greek culture and Greek language. The distinction was not merely linguistic (DB, ii, 325); as far as it was so, Suptori/s would be a more correct Greek term for the Jew of Semitic speech (v.s. 'Ey3pais, and cf. Dalman, <emph>Words</emph>, 7): Ac 61, 11 Co II22, Phi 3^.†</entry>
+<entry n="Ἑβραῖος|G1445">
+    <note type="occurrencesNT">4</note>
+    <form>† <orth>Ἑβραῖος</orth> (WH, <foreign xml:lang="grc">Ἐβ-</foreign>), <orth>-α, -ον</orth> (Aram, <foreign xml:lang="arc">עִבְרַי</foreign>), as subst., <foreign xml:lang="grc">ὁ Ἑ.</foreign>, [in LXX for <foreign xml:lang="heb">עֵבֶר</foreign>, <foreign xml:lang="heb">עִבְרִי</foreign>;] </form>
+    <sense><gloss>a Hebrew</gloss>. 
+        <sense n="1.">In OT, of Israelites in contrast with those of another race (<ref osisRef="Gen.14.13">Ge 14:13</ref>, <ref osisRef="Exod.1.15">Ex 1:15</ref>, <ref osisRef="Deut.15.12">De 15:12</ref>, al.). </sense>
+        <sense n="2.">In NT as the correlative of <foreign xml:lang="grc">Ἑλληνιστής</foreign>, a Jew who had adopted, in greater or less degree, Greek culture and Greek language. The distinction was not merely linguistic (<emph>DB</emph>, ii, 325); as far as it was so, <foreign xml:lang="grc">Συριστής</foreign> would be a more correct Greek term for the Jew of Semitic speech (v.s. <xr><ref>Ἑβραΐς</ref></xr>, and cf. Dalman, <emph>Words</emph>, 7): <ref osisRef="Acts.6.1">Ac 6:1</ref>, <ref osisRef="2Cor.11.22">II Co 11:22</ref>, <ref osisRef="Phil.3.5">Phl 3:5</ref>.</sense>†</sense>
+</entry>
 
-<entry n="">**† 'EPpats (WH, 'E^-), -tSos (Aram. ^HpJ), peculiar form of *E)8pai/cos, <pb n="127" /> <!-- typed="" checked="" --> [in LXX, ^ *E. &lt;i&gt;oiv^, IV Mac 12^ IG^^*;] in NT, ^ "E. SL,iXeKTo&lt;:, Hebrew, i.e. the Aramaic vernacular of Palestine: Ac 21*° 22^ 26^*.†</entry>
+<entry n="Ἑβραΐς|G1446">
+    <note type="occurrencesNT">3</note>
+    <form>**† <orth>Ἑβραΐς</orth> (WH,<foreign xml:lang="grc"> Ἐβ-</foreign>), <orth>-ίδος</orth> (Aram. <foreign xml:lang="arc">עִבְרַי</foreign>), peculiar form of <foreign xml:lang="grc">Ἑβραϊκός</foreign>, <pb n="127" /> <!-- typed="" checked="" --> [in LXX, <foreign xml:lang="grc">ἡ Ἑ. φωνή</foreign>, <ref osisRef="4Macc.12.7">IV Mac 12:7</ref>  <ref osisRef="4Macc.16.15">16:15</ref>*;] </form>
+    <sense>in NT, <foreign xml:lang="grc">ἡ Ἑ. διάλεκτος</foreign>, <gloss>Hebrew</gloss>, i.e. the Aramaic vernacular of Palestine: <ref osisRef="Acts.21.40">Ac 21:40</ref>  <ref osisRef="Acts.22.2">22:2</ref> <ref osisRef="Acts.26.14">26:14</ref>.†</sense>
+</entry>
 
-♦*fEPpoi&lt;n-i (WH, *Ey3-), adv., [in LXX: Si jaroZ. i3 *;] in Hebrew: 
-Be 9^; elsewhere, in Aramaic (v. supr.): Jo 5^ 19". i^, 20 20i«, Ee 16i«.† 
+<entry n="Ἑβραϊστί|G1447">
+    <note type="occurrencesNT">7</note>
+    <form>**† <orth>Ἑβραϊστί</orth> (WH, Ἐβ-), <gramGrp><pos>adv.</pos></gramGrp>, [in LXX: <ref osisRef="Sir.0.13">Si <emph>prol.</emph> 13</ref> *;] </form>
+    <sense><gloss>in Hebrew</gloss>: <ref osisRef="Rev.9.11">Re 9:11</ref>; elsewhere, <gloss>in Aramaic</gloss> (v. supr.): <ref osisRef="John.5.2">Jo 5:2</ref> <ref osisRef="John.19.13">19:13</ref>, <ref osisRef="John.19.17">17</ref>, <ref osisRef="John.19.20">20</ref> <ref osisRef="John.20.16">20:16</ref>, <ref osisRef="Rev.16.16">Re 16:16</ref>.† </sense>
+</entry>
 
 iyyilu (&lt;C«77i^s). [ii^ LXX for W23 , ^ip , etc.;] 1. trans., to bring 
 near: Ge 48^°, Is 5^. 2. Intrans., to come near: absol., Mt 26*^, 
