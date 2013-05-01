@@ -10270,7 +10270,7 @@ Ro 15:31.†
 
 <entry n="Ἑβραΐς|G1446">
     <note type="occurrencesNT">3</note>
-    <form>**† <orth>Ἑβραΐς</orth> (WH,<foreign xml:lang="grc"> Ἐβ-</foreign>), <orth>-ίδος</orth> (Aram. <foreign xml:lang="arc">עִבְרַי</foreign>), peculiar form of <foreign xml:lang="grc">Ἑβραϊκός</foreign>, <pb n="127" /> <!-- typed="" checked="" --> [in LXX, <foreign xml:lang="grc">ἡ Ἑ. φωνή</foreign>, <ref osisRef="4Macc.12.7">IV Mac 12:7</ref>  <ref osisRef="4Macc.16.15">16:15</ref>*;] </form>
+    <form>**† <orth>Ἑβραΐς</orth> (WH,<foreign xml:lang="grc"> Ἐβ-</foreign>), <orth>-ίδος</orth> (Aram. <foreign xml:lang="arc">עִבְרַי</foreign>), peculiar form of <foreign xml:lang="grc">Ἑβραϊκός</foreign>, <pb n="127" /> <!-- typed="DCO" checked="" --> [in LXX, <foreign xml:lang="grc">ἡ Ἑ. φωνή</foreign>, <ref osisRef="4Macc.12.7">IV Mac 12:7</ref>  <ref osisRef="4Macc.16.15">16:15</ref>*;] </form>
     <sense>in NT, <foreign xml:lang="grc">ἡ Ἑ. διάλεκτος</foreign>, <gloss>Hebrew</gloss>, i.e. the Aramaic vernacular of Palestine: <ref osisRef="Acts.21.40">Ac 21:40</ref>  <ref osisRef="Acts.22.2">22:2</ref> <ref osisRef="Acts.26.14">26:14</ref>.†</sense>
 </entry>
 
@@ -10280,35 +10280,40 @@ Ro 15:31.†
     <sense><gloss>in Hebrew</gloss>: <ref osisRef="Rev.9.11">Re 9:11</ref>; elsewhere, <gloss>in Aramaic</gloss> (v. supr.): <ref osisRef="John.5.2">Jo 5:2</ref> <ref osisRef="John.19.13">19:13</ref>, <ref osisRef="John.19.17">17</ref>, <ref osisRef="John.19.20">20</ref> <ref osisRef="John.20.16">20:16</ref>, <ref osisRef="Rev.16.16">Re 16:16</ref>.† </sense>
 </entry>
 
-iyyilu (&lt;C«77i^s). [ii^ LXX for W23 , ^ip , etc.;] 1. trans., to bring 
-near: Ge 48^°, Is 5^. 2. Intrans., to come near: absol., Mt 26*^, 
-Mk 14*2, Lk 18*0 1941 2120, 28 2415, Ac 2133 2315; c. adv., Sttov, Lk 1233; 
-c. dat., Lk 712 151. 25 22*7, Ac 93 10^ 22«; t. Otw, He 7^9, Ja 48; seq. 
-cJs, Mt 21\ Mk 111, Lk 1835 1929 2428; Trpo's, c' dat., Lk 193^; ^e'^pi 
-OavoiTov, Phi 230; ^f time, wpa, Mt 26*5; ^^^pa^ Ro 1312^ He 10^^; 
-jcatpo's, Mt 213*, Llj 218 . ^po'vo?, Ac 717; ioprrj, Lk 22^; irapova-ia, Ja 5^; 
-TeA.09, I Pe 47; iprj/xw(n&lt;i, Lk 2120 . airoXvTpwcns, Lk 2128 • ^yyi,(£y -fj 
-^aa-ikua (for similar expressions in Targ., v. Dalman, 106), Mt 32 4^^ 
-10^ Mk 115, Lk 109 (^^' ^^S5) iQii (cf.Trpoo-cyyiCo), and v. Cremer, 224). t 
+<entry n="ἐγγίζω|G1448">
+    <form><orth>ἐγγίζω</orth> (&lt; <foreign xml:lang="grc">ἐγγύς</foreign>). [in LXX for <foreign xml:lang="heb">נגשׁ</foreign>, <foreign xml:lang="heb">קרב</foreign>, etc.;] </form>
+    <sense>
+        <sense n="1.">trans., <gloss>to bring near</gloss>: <ref osisRef="Gen.48.10">Ge 48:10</ref>, <ref osisRef="Isa.5.8">Is 5:8</ref>. </sense>
+        <sense n="2.">Intrans., <gloss>to come near</gloss>: absol., <ref osisRef="Matt.26.46">Mt 26:46</ref>, <ref osisRef="Mark.14.42">Mk 14:42</ref>, <ref osisRef="Luke.18.40">Lk 18:40</ref>  <ref osisRef="Luke.19.41">19:41</ref> <ref osisRef="Luke.21.20">21:20</ref>, <ref osisRef="Luke.21.28">28</ref> <ref osisRef="Luke.24.15">24:15</ref>, <ref osisRef="Acts.21.33">Ac 21:33</ref>  <ref osisRef="Acts.23.15">23:15</ref>; c. adv., <foreign xml:lang="grc">ὅπου</foreign>, <ref osisRef="Luke.12.33">Lk 12:33</ref>; c. dat., <ref osisRef="Luke.7.12">Lk 7:12</ref>  <ref osisRef="Luke.15.1">15:1</ref>, <ref osisRef="25">Luke.15.25</ref> <ref osisRef="Luke.22.47">22:47</ref>, <ref osisRef="Acts.9.3">Ac 9:3</ref>  <ref osisRef="Acts.10.9">10:9</ref> <ref osisRef="Acts.22.6">22:6</ref>; <foreign xml:lang="grc">τ. θεῷ</foreign>, <ref osisRef="Heb.7.19">He 7:19</ref>, <ref osisRef="Jas.4.8">Ja 4:8</ref>; seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Matt.21.1">Mt 21:1</ref>, <ref osisRef="Mark.11.1">Mk 11:1</ref>, <ref osisRef="Luke.18.35">Lk 18:35</ref>  <ref osisRef="Luke.19.29">19:29</ref> <ref osisRef="Luke.24:.8">24:28</ref>; <foreign xml:lang="grc">πρός</foreign>, c. dat., <ref osisRef="Luke.19.37">Lk 19:37</ref>; <foreign xml:lang="grc">μέχρι θανάτου</foreign>, <ref osisRef="Phil.2.30">Phl 2:30</ref>; of time, <foreign xml:lang="grc">ὥρα</foreign>, <ref osisRef="Matt.26.45">Mt 26:45</ref>; <foreign xml:lang="grc">ἡμέρα</foreign>, <ref osisRef="Rom.13.12">Ro 13:12</ref>, <ref osisRef="Heb.10.25">He 10:25</ref>; <foreign xml:lang="grc">καιρός</foreign>, <ref osisRef="Matt.21.34">Mt 21:34</ref>, <ref osisRef="Luke.21.8">Lk 21:8</ref>; <foreign xml:lang="grc">χρόνος</foreign>, <ref osisRef="Acts.7.17">Ac 7:17</ref>; <foreign xml:lang="grc">ἑορτή</foreign>, <ref osisRef="Luke.22.1">Lk 22:1</ref>; <foreign xml:lang="grc">παρουσία</foreign>, <ref osisRef="Jas.5.8">Ja 5:8</ref>; <foreign xml:lang="grc">τέλος</foreign>, <ref osisRef="1Pet.4.7">I Pe 4:7</ref>; <foreign xml:lang="grc">ἐρήμωσις</foreign>, <ref osisRef="Luke.21.20">Lk 21:20</ref>; <foreign xml:lang="grc">ἀπολύτρωσις</foreign>, <ref osisRef="Luke.21.28">Lk 21:28</ref>; <foreign xml:lang="grc">ἤγγικεν ἡ βασιλεία</foreign> (for similar expressions in Targ., v. Dalman, 106), <ref osisRef="Matt.3.2">Mt 3:2</ref>  <ref osisRef="Matt.4.17">4:17</ref> <ref osisRef="Matt.10.7">10:7</ref> <ref osisRef="Mark.1.15">Mk 1:15</ref>, <ref osisRef="Luke.10.9">Lk 10:9</ref> (<foreign xml:lang="grc">ἐφ᾽ ὑμᾶς</foreign>) <ref osisRef="Luke.10.11">10:11</ref> (cf. <foreign xml:lang="grc">προσ-εγγίζω</foreign>), and v. Cremer, 224).</sense>† </sense>
+</entry>
 
-cYyioTos, V.S. iyyv&lt;s. 
+<entry n="ἔγγιστος">
+<form><orth>ἔγγιστος</orth>, v.s. <foreign xml:lang="grc"><xr><ref>ἐγγύς</ref></xr></foreign>. </form>
+</entry>
 
-iy-ypd^Q), V.S. ivypdcfid}. 
+<entry n="ἐγγράφω|G1449">
+    <note type="occurrencesNT">3</note>
+    <form><orth>ἐγ-γράφω</orth>, v.s. <foreign xml:lang="grc"><xr><ref>ἐνγράφω</ref></xr></foreign>. </form>
+</entry>
 
-**eYYuos, -ov, 6, rj, [in LXX: Si 29^^' ^\ 11 Mac IO28*;] a surety: 
-He 722 (exx. from tt., v. MM, <emph>Exp.</emph>, xi; cf. Cremer, 222).t 
+<entry n="ἔγγυος|G1450">
+    <note type="occurrencesNT">1</note>
+    <form>** <orth>ἔγγυος, -ου, ὁ, ἡ</orth>, [in LXX: <ref osisRef="Sir.29.15">Si 29:15</ref>,  <ref osisRef="Sir.29.16">16</ref> <ref osisRef="2Macc.10.28">II Mac 10:28</ref>*;] </form>
+    <sense><gloss>a surety</gloss>: <ref osisRef="Heb.7.22">He 7:22</ref> (exx. from <foreign xml:lang="grc">π.</foreign>, v. MM, <emph>Exp.</emph>, xi; cf. Cremer, 222).†</sense>
+</entry>
 
-^yyus, adv., [in LXX chiefly for Si*1j^;] near; 1. of place: Jo 
-1920. *2; as prep. c. gen. (M, <emph>Pr.</emph>, 99), Lk I911, Jo 323 619,23 nis, 54^ 
-Ac 1^2; c. dat., Ac 938 278; superl., lyyto-ra, Mk 63e, WH, mg.; 
-metaph., ol «., opp. to ol p.aKpdv, Eph 2^'' \ i. yUea-Oai, Bph 2^3; t, crov 
-TO pTitxa, Ro 108 (LXX). 2. Of time: Mt 2432 26I8, Mk 1328. 29^ Lk 2130. ^\ 
-Jo 213 6* 72 1155, Re 13 2210; J Kvpio^ i., Phi 4*; seq. tVi Ovpais, Mt 
-2433; compar., iyyvrepov (neut. of adj. -09, used adverbially), Ro IS" 
-(cf. E, txt.); as prep. c. gen., i. Karapa?, He 68; a&lt;f&gt;avL(r/jLov, He 8i3 (cf. 
-Cremer, 223). t 
+<entry n="ἐγγύς|G1451">
+    <note type="occurrencesNT">31</note>
+    <form><orth>ἐγγύς</orth>, <gramGrp><pos>adv.</pos></gramGrp>, [in LXX chiefly for <foreign xml:lang="heb">קָרֹוב</foreign>;] </form>
+    <sense><gloss>near</gloss>; 
+        <sense n="1.">of place: <ref osisRef="John.19.20">Jo 19:20</ref>, <ref osisRef="John.19.42">42</ref>; as prep. c. gen. (M, <emph>Pr.</emph>, 99), <ref osisRef="Luke.19.11">Lk 19:11</ref>, <ref osisRef="John.3.23">Jo 3:23</ref>  <ref osisRef="John.6.19">6:19</ref>, <ref osisRef="John.6.23">23</ref> <ref osisRef="John.11.18">11:18</ref>, <ref osisRef="John.11.54">54</ref>, <ref osisRef="Acts.1.12">Ac 1:12</ref>; c. dat., <ref osisRef="Acts.9.38">Ac 9:38</ref>  <ref osisRef="Acts.27.8">27:8</ref>; superl., <foreign xml:lang="grc">ἔγγιστα</foreign>, <ref osisRef="Mark.6.36">Mk 6:36</ref>, WH, mg.; metaph., <foreign xml:lang="grc">ֹοἱ ἐ.</foreign>, opp. to <foreign xml:lang="grc">οἱ μακράν</foreign>, <ref osisRef="Eph.2.17">Eph 2:17</ref>; <foreign xml:lang="grc">ἐ. γίνεσθαι</foreign>, <ref osisRef="Eph.2.13">Eph 2:13</ref>; <foreign xml:lang="grc">ἐ. σου τὸ ῥῆμα</foreign>, <ref osisRef="Rom.10.8">Ro 10:8</ref> (LXX). </sense>
+        <sense n="2.">Of time: <ref osisRef="Matt.24.32">Mt 24:32</ref>  <ref osisRef="Matt.26.18">26:18</ref>, <ref osisRef="Mark.13.28">Mk 13:28</ref>,  <ref osisRef="Mark.13.29">29</ref> <ref osisRef="Luke.21.30">Lk 21:30</ref>,  <ref osisRef="Luke.21.31">31</ref> <ref osisRef="John.2.13">Jo 2:13</ref>  <ref osisRef="John.6.4">6:4</ref> <ref osisRef="John.7.2">7:2</ref> <ref osisRef="John.11.55">11:55</ref>, <ref osisRef="Rev.1.3">Re 1:3</ref>  <ref osisRef="Rev.22.10">22:10</ref>; <foreign xml:lang="grc">ὁ κύριος ἐ.</foreign>, <ref osisRef="Phil.4.5">Phl 4:5</ref>; seq. <foreign xml:lang="grc">ἐπὶ θύραις</foreign>, <ref osisRef="Matt.24.33">Mt 24:33</ref>; compar., <foreign xml:lang="grc">ἐγγύτερον</foreign> (neut. of adj. <foreign xml:lang="grc">-ος</foreign>, used adverbially), <ref osisRef="Rom.13.11">Ro 13:11</ref> (cf. R, txt.); as prep. c. gen., <foreign xml:lang="grc">ἐ. κατάρας</foreign>, <ref osisRef="Heb.6.8">He 6:8</ref>; <foreign xml:lang="grc">ἀφανισμοῦ</foreign>, <ref osisRef="Heb.8.13">He 8:13</ref> (cf. Cremer, 223).</sense>†</sense>
+</entry>
 
-iyyoTcpos, V.S. eyyvs. 
+<entry n="ἐγγύτερον|G1452">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐγγύτερος</orth>, v.s. <xr><ref>ἐγγύς</ref></xr>. </form>
+</entry>
 
 <entry n="ἐγείρω|G1453">
   <note type="occurrencesNT">144</note>
@@ -10325,14 +10330,24 @@ iyyoTcpos, V.S. eyyvs.
   </sense>
 </entry>
 
-lycpffiS, -«a)?, V «ey€t'pa), -OfJ^ai), [in LXX: Jg 719, Ps 138 (139)8 
-(Dip), I Es 5^2 *-j I d rousing (Plat.). 2. a rising (Ps, I.e.): from 
-death, Mt 2753.† 
+<entry n="ἔγερσις|G1454">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἔγερσις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">ἐγείρω, -ομαι</foreign>)), [in LXX: <ref osisRef="Judg.7.19">Jg 7:19</ref>, <ref osisRef="LXX:Ps.138.2">Ps 138 (139)2</ref> (<foreign xml:lang="heb">קוּם</foreign>), <ref osisRef="1Esdras.5.62">I Es 5:62</ref> *;] </form>
+    <sense>
+    <sense n="1."><gloss>a rousing</gloss> (Plat.). </sense>
+    <sense n="2."><gloss>a rising</gloss> (Ps, l.c.): from death, <ref osisRef="Matt.27.53">Mt 27:53</ref>.</sense>† 
+    </sense>
+</entry>
 
-iyKdQsro^, V.S. ivK-. 
-^yKaicia, V.S. ivK-. 
+<entry n="ἐγκάθετος|G1455">
+        <note type="occurrencesNT">1</note>
+    <form><orth>ἐγκάθετος</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-
+<entry n="ἐγκαίνια|G1456">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐγκαίνια</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
  <pb n="128" /> <!-- typed="" checked="" --> 
 

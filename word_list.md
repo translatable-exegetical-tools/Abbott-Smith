@@ -1000,14 +1000,6 @@ Each row includes the following information:
 <tr><td>1407</td><td>δωρέομαι</td><td>G1433</td><td>3</td></tr>
 <tr><td>1408</td><td>δώρημα</td><td>G1434</td><td>2</td></tr>
 <tr><td>1409</td><td>δῶρον</td><td>G1435</td><td>19</td></tr>
-<tr><td>1422</td><td>ἐγγίζω</td><td>G1448</td><td>42</td></tr>
-<tr><td>1423</td><td>ἐγγράφω</td><td>G1449</td><td>3</td></tr>
-<tr><td>1424</td><td>ἔγγυος</td><td>G1450</td><td>1</td></tr>
-<tr><td>1425</td><td>ἐγγύς</td><td>G1451</td><td>31</td></tr>
-<tr><td>1426</td><td>ἐγγύτερον</td><td>G1452</td><td>1</td></tr>
-<tr><td>1428</td><td>ἔγερσις</td><td>G1454</td><td>1</td></tr>
-<tr><td>1429</td><td>ἐγκάθετος</td><td>G1455</td><td>1</td></tr>
-<tr><td>1430</td><td>ἐγκαίνια</td><td>G1456</td><td>1</td></tr>
 <tr><td>1431</td><td>ἐγκαινίζω</td><td>G1457</td><td>2</td></tr>
 <tr><td>1432</td><td>ἐγκαλέω</td><td>G1458</td><td>7</td></tr>
 <tr><td>1433</td><td>ἐγκαταλείπω</td><td>G1459</td><td>10</td></tr>
