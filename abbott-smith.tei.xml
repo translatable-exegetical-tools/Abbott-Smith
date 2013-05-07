@@ -10349,65 +10349,119 @@ Ro 15:31.†
     <form><orth>ἐγκαίνια</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
 </entry>
 
- <pb n="128" /> <!-- typed="" checked="" --> 
+ <pb n="128" /> <!-- typed="DCO" checked="" --> 
 
-iyKaivil^fa, V.8. ivK-. 
-^yKaK^w, V.8. ivK-. 
+<entry n="ἐγκαινίζω|G1457">
+    <note type="occurrencesNT">2</note>
+    <form><orth>ἐγκαινίζω</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-iyKa\4&lt;a, -w, [in LXX for TOX , etc.; o. dat., Za 1* {bi^ N^f?), Wi 
+<entry n="ἐγκακέω">
+    <form><orth>ἐγκακέω</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-12^2, Si 46^^;] 1. to call in, demand. 2. to bring a charge against, 
-accuse: o. dat. pers. (as in cl.), Ac 19^^ 23^^^; seq. Kara, c. gen. pers., 
-Eo 8^^. Pass., to be accused: c. gen. rei; a-Tda-ews, Ac IQ*''; wv (perh. 
-by attraction = a), Ac 26^; seq. -n-epi, c. gen. rei, Ac 23^^ 26^ (Cremer, 
-743).t 
+<entry n="ἐγκαλέω|G1458">
+    <note type="occurrencesNT">7</note>
+    <form><orth>ἐγκαλέω, -ῶ</orth>, [in LXX for <foreign xml:lang="heb">אמר</foreign>, etc.; c. dat., <ref osisRef="Zech.1.4">Za 1:4</ref> (<foreign xml:lang="heb">קָרָא אֶל</foreign>), <ref osisRef="Wis.12.12">Wi 12:12</ref>, <ref osisRef="Sir.46.19">Si 46:19</ref>;] </form>
+    <sense>
+        <sense n="1."><gloss>to call in, demand</gloss>. </sense>
+        <sense n="2."><gloss>to bring a charge against, accuse</gloss>: c. dat. pers. (as in cl.), <ref osisRef="Acts.19.38">Ac 19:38</ref>  <ref osisRef="Acts.23.28">23:28</ref>; seq. <foreign xml:lang="grc">κατά</foreign>, c. gen. pers., <ref osisRef="Rom.8.33">Ro 8:33</ref>. Pass., <gloss>to be accused</gloss>: c. gen. rei; <foreign xml:lang="grc">στάσεως</foreign>, <ref osisRef="Acts.19.40">Ac 19:40</ref>; <foreign xml:lang="grc">ὦν</foreign> (perh. by attraction = <foreign xml:lang="grc">ἅ</foreign>), <ref osisRef="Acts.26.2">Ac 26:2</ref>; seq. <foreign xml:lang="grc">περί</foreign>, c. gen. rei, <ref osisRef="Acts.23.29">Ac 23:29</ref>  <ref osisRef="Acts.26.7">26:7</ref> (Cremer, 743).</sense>†
+        <lb />SYN.: <foreign xml:lang="grc">αἰτιάομαι</foreign> (q.v.), <foreign xml:lang="grc">διαβάλλω</foreign>, <foreign xml:lang="grc">ἐπικαλέω</foreign>, <foreign xml:lang="grc">κατηγορέω</foreign>. 
+    </sense>
+</entry>
 
-SYN. '. alridofiaL (q.V.), 8ia;8aXAa&gt;, ciriKaXco), Kai-qyopita. 
+<entry n="ἐγκαταλείπω|G1459">
+    <note type="occurrencesNT">10</note>
+    <form><orth>ἐγκαταλείπω</orth>, [in LXX chiefly for <foreign xml:lang="heb">עזב</foreign>;] </form>
+    <sense>
+        <sense n="1."><gloss>to leave behind</gloss>: <foreign xml:lang="grc">ἡμῖν σπέρμα</foreign>, <ref osisRef="Rom.9.29">Ro 9:29</ref> (LXX). </sense>
+        <sense n="2."><gloss>to abandon, desert, forsake</gloss>: c. acc. pers., <ref osisRef="Matt.27.46">Mt 27:46</ref> (LXX), <ref osisRef="Mark.15.34">Mk 15:34</ref> (ib.), <ref osisRef="Acts.2.27">Ac 2:27</ref> (LXX) (WH, <foreign xml:lang="grc">ἐνκ-</foreign>), <ref osisRef="2Tim.4.10">II Ti 4:10</ref>,  <ref osisRef="2Tim.4.16">16</ref> <ref osisRef="Heb.13.5">He 13:5</ref> (LXX); <foreign xml:lang="grc">τ. ἐπισυναγωγήν</foreign> (cf. MM, <emph>Exp.</emph>, xi), <ref osisRef="Heb.10.25">He 10:25</ref>. Pass., <ref osisRef="Acts.2.31">Ac 2:31</ref> (WH, <foreign xml:lang="grc">ἐνκ-</foreign>), <ref osisRef="2Cor.4.9">II Co 4:9</ref>.</sense>†
+    </sense>
+</entry>
 
-^y-KaTa-XciTTO), [in LXX chiefly for 173?;] 1. to leave behind: 
-■^filv aTrepfia, Ro 9^^ (LXX)^ 2. to abandon, desert, forsake: c. ace. 
-pers., Mt 27*MLXX)^ Mk 153* (ib.), Ac 227 (lxx) (wH, ivK-), ii Ti 410. le, 
-He 135 (LXX); T. i7n&lt;Tvvaywyrjv (cf. MM, <emph>Exp.</emph>, xl), He lO^^. Pass., Ac 
-231 (^H, cV/c-), II Co 49.t 
+<entry n="ἐγκατοικέω|G1460">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐγκατοικέω</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-ly-KaT-oiKeu, V.S. evK-. 
+<entry n="ἐγκαυχάομαι">
+    <form><orth>ἐγκαυχάομαι</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-^Y'Kaux(io)xai, V.S. cvk-. 
+<entry n="ἐγκεντρίζω|G1461">
+    <note type="occurrencesNT">6</note>
+    <form><orth>ἐγκεντρίζω</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+ </entry>
 
-^y-Kcrrpt^w, V.S. cvk-. 
-*cyKXTj(ia, -Tos, TO (-&lt; eyKaXeo)), an accusation, charge: Ac 23^^ 
-25i» (Cremer, 743).t 
+<entry n="ἔγκλημα|G1462">
+    <note type="occurrencesNT">2</note>
+    <form>* <orth>ἔγκλημα -τος, τό</orth> (&lt; <foreign xml:lang="grc">ἐγκαλέω</foreign>), </form>
+    <sense><gloss>an accusation, charge</gloss>: <ref osisRef="Acts.23.29">Ac 23:29</ref>  <ref osisRef="Acts.25.16">25:16</ref> (Cremer, 743).†</sense>
+</entry>
 
-*t ^y-KOxP6oj,ai, -ovfiai (&lt;^ KOfxfto^, a knot, whence eyKO/xfSoifia, a 
-garment tied on over others, used especially of a frock or apron worn 
-by slaves), to put on oneself, as a garment, gird on: dXXr;Xois t. 
-TaTr€Lvo&lt;f&gt;po(rvvrjv (as for service, KV, cf. Thayer, s.v., but cf . also JCC, 
-in 1.), I Pe 5*.t 
+<entry n="ἐγκομβόομαι|G1463">
+    <note type="occurrencesNT">1</note>
+    <form>*† <orth>ἐγκομβόομαι, -οῦμαι</orth> (&lt; <foreign xml:lang="grc">κόμβος</foreign>, a knot, whence <foreign xml:lang="grc">ἐγκόμβωμα</foreign>, a garment tied on over others, used especially of a frock or apron worn by slaves), </form>
+    <sense><gloss>to put on oneself</gloss>, as a garment, <gloss>gird on</gloss>: <foreign xml:lang="grc">ἀλλήλοις τ. ταπεινοφροσύνην</foreign> (as for service, RV, cf. Thayer, s.v., but cf. also <emph>ICC</emph>, in l.), <ref osisRef="1Pet.5.5">I Pe 5:5</ref>.†</sense>
+</entry>
 
-^y-Koin^, V.S. evK-. 
+<entry n="ἐγκοπή|G1464">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐγκοπή</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-^y-K(5irrw, V.S. ivK-, 
-**^yKpdTcm, -as, ^ (-&lt; cy/cpaTiys), [in LXX: Si IS^"^''", IV Mac 
-52* *;] 1. prop., mastery, control. 2. (sc. iavrov) self-control: Ac 24^^, 
-Ga 52», n Pe 1« (v. DB, iv, 558b 695^; Page on Ac, l.c.).t 
+<entry n="ἐγκόπτω|G1465">
+    <note type="occurrencesNT">5</note>
+    <form><orth>ἐγκόπτω</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign></form>
+</entry>
 
-^yKpareu'ofiai, depon., [in LXX for pBN , Ge 4331, j Ki I312, Es 
-51° N^*;] ^0 exercise self-control: i Co 7^; c. ace, Travra (v. Bl., 91), 
-I Co 925.t 
+<entry n="ἐγκράτεια|G1466">
+    <note type="occurrencesNT">4</note>
+    <form>** <orth>ἐγκράτεια, -ας, ἡ</orth> (-&lt; <foreign xml:lang="grc">ἐγκρατής</foreign>), [in LXX: <ref osisRef="Sir.18.15">Si 18:15</ref>,  <ref osisRef="Sir.18.30">30</ref> <ref osisRef="4Macc.5.34">IV Mac 5:34</ref> *;] </form>
+    <sense>
+        <sense n="1.">prop., <gloss>mastery, control</gloss>. </sense>
+        <sense n="2.">(sc. <foreign xml:lang="grc">ἑαθτοῦ</foreign>) <gloss>self-control</gloss>: <ref osisRef="Acts.24.25">Ac 24:25</ref>, <ref osisRef="Gal.5.23">Ga 5:23</ref>, <ref osisRef="2Pet.1.6">II Pe 1:6</ref> (v. <emph>DB</emph>, iv, 558<hi rend="superscript">b</hi> 695<hi rend="superscript">a</hi>; Page on Ac, l.c.).</sense>† 
+    </sense>
+</entry>
 
-**4yKpaTVjs, -c's «/cpdTos), [in LXX: Wi 820, Si 627 IS^ 26i5 273o, 
-al.;] 1. strong, powerful. 2. C. gen. rei, master of, hence, 3. (sc. 
-cauTov), self -controlled, exercising self-control: Tit l^.t <lb /><emph>SYN.</emph>: (Tuxfipwv (v. raff. S. iyKpaxfia). 
+<entry n="ἐγκρατεύομαι|G1467">
+    <note type="occurrencesNT">2</note>
+    <form><orth>ἐγκρατεύομαι</orth>, depon., [in LXX for <foreign xml:lang="heb">אפק</foreign>, <ref osisRef="Gen.43.31">Ge 43:31</ref>, <ref osisRef="1Sam.13.12">I Ki 13:12</ref>, <ref osisRef="Esth.5.10">Es 5:10</ref> <foreign xml:lang="heb">א</foreign><hi rend="superscript">3</hi>*;] </form>
+    <sense<gloss>>to exercise self-control:</gloss> <ref osisRef="1Cor.7.9">I Co 7:9</ref>; c. acc., <foreign xml:lang="grc">πάντα</foreign> (v. Bl., 91), <ref osisRef="1Cor.9.25">I Co 9:25</ref>.†</sense>
+</entry>
 
-iy-Kpivu, V.S. CVK-. 
+<entry n="ἐγκρατής|G1468">
+    <note type="occurrencesNT">1</note>
+    <form>** <orth>ἐγκρατής, -ές</orth> (&lt; <foreign xml:lang="grc">κράτος</foreign>), [in LXX: <ref osisRef="Wis.8.20">Wi 8:20</ref>, <ref osisRef="Sir.6.27">Si 6:27</ref>  <ref osisRef="Sir.15.1">15:1</ref> <ref osisRef="Sir.26.15">26:15</ref> <ref osisRef="Sir.27.30">27:30</ref>, al.;] </form>
+    <sense>
+        <sense n="1."><gloss>strong, powerful</gloss>. </sense>
+        <sense n="2.">C. gen. rei, <gloss>master of</gloss>, hence, </sense>
+        <sense n="3.">(sc. <foreign xml:lang="grc">ἑαυτοῦ</foreign>), <gloss>self -controlled, exercising self-control</gloss>: <ref osisRef="Titus.1.8">Tit 1:8</ref>.</sense>†
+        <lb /><emph>SYN.</emph>: <foreign xml:lang="grc"><xr><ref>σώφρων</ref></xr></foreign> (v. reff. s. <foreign xml:lang="grc"><xr><ref>ἐγκράτεια</ref></xr></foreign>). 
+    </sense>
+</entry>
 
-cy-KpoTTTw, [in LXX for TDM , etc.;] to conceal in: o. ace, seq. 
-€h, Mt I333.† 
+<entry n="ἐγκρίνω|G1469">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐγ-κρίνω</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign>.</form>
+</entry>
 
-cyKuos, V.S. CVK-. 
+<entry n="ἐγκρύπτω|G1470">
+    <note type="occurrencesNT">2</note>
+    <form><orth>ἐγ-κρύπτω</orth>, [in LXX for <foreign xml:lang="heb">טמן</foreign>, etc.;] </form>
+    <sense><gloss>to conceal in</gloss>: c. acc, seq. <foreign xml:lang="grc">εἰς</foreign>, <ref osisRef="Matt.13.33">Mt 13:33</ref>.† </sense>
+</entry>
 
-^y-xpi«, [in LXX: Je 43o (np). To 2io 6' 11^*;] to rub in, 
-anoint: mid., c. dupl. ace, Ee S^^.t 
+<entry n="ἔγκυος|G1471">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἔγκυος</orth>, v.s. <foreign xml:lang="grc">ἐνκ-</foreign>.</form>
+</entry>
+
+<entry n="ἐγχρίω|G1472">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐγχρίω</orth>, [in LXX: <ref osisRef="Jer.4.30">Je 4:30</ref> (<foreign xml:lang="heb">קרע</foreign>). <ref osisRef="Tob.2.10">To 2:10</ref>  <ref osisRef="Tob.6.8">6:8</ref> <ref osisRef="Tob.11.7">11:7</ref> *;] </form>
+    <sense><gloss>to rub in, anoint</gloss>: mid., c. dupl. acc., <ref osisRef="Rev.3.18">Re 3:18</ref>.†</sense>
+</entry>
 
 <entry n="ἐγώ|G1473|G1691|G1698|G1700|G2248|G2249|G2254|G2257|G3165|G3427|G3450">
   <note type="occurrencesNT">2572</note>
