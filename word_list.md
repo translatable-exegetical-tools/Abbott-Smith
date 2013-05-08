@@ -1000,10 +1000,6 @@ Each row includes the following information:
 <tr><td>1407</td><td>δωρέομαι</td><td>G1433</td><td>3</td></tr>
 <tr><td>1408</td><td>δώρημα</td><td>G1434</td><td>2</td></tr>
 <tr><td>1409</td><td>δῶρον</td><td>G1435</td><td>19</td></tr>
-<tr><td>1459</td><td>ἔθος</td><td>G1485</td><td>13</td></tr>
-<tr><td>1460</td><td>ἔθω</td><td>G1486</td><td>4</td><td>KJV</td></tr>
-<tr><td>1463</td><td>εἴγε</td><td>G1489</td><td>5</td><td>KJV</td></tr>
-<tr><td>1464</td><td>εἰ δὲ μή(γε)</td><td>G1490</td><td>0</td><td>KJV</td></tr>
 <tr><td>1465</td><td>εἶδος</td><td>G1491</td><td>5</td></tr>
 <tr><td>1467</td><td>εἰδωλεῖον</td><td>G1493</td><td>1</td></tr>
 <tr><td>1468</td><td>εἰδωλόθυτον</td><td>G1494</td><td>9</td></tr>

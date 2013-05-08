@@ -10556,15 +10556,23 @@ Ro 15:31.†
   <sense>
     <sense n="1."><gloss>a multitude, a company</gloss>, whether of beasts or men (Hom.). </sense>
     <sense n="2."><gloss>a nation, people</gloss>: <ref osisRef="Matt.21.43">Mt 21:43</ref>  <ref osisRef="Matt.24.7">24:7</ref>, <ref osisRef="Mark.13.8">Mk 13:8</ref>, <ref osisRef="Luke.22.25">Lk 22:25</ref>, <ref osisRef="Acts.10.35">Ac 10:35</ref>, al.; in sing., of the Jewish people, <ref osisRef="Luke.7.5">Lk 7:5</ref>  <ref osisRef="Luke.23.2">23:2</ref>, <ref osisRef="John.11.48">Jo 11:48</ref>, <ref osisRef="John.11.50-John.11.53">50-53</ref> <ref osisRef="John.18.35">18:35</ref>, <ref osisRef="Acts.10.22">Ac 10:22</ref>  <ref osisRef="Acts.24.3">24:3</ref>, <ref osisRef="Acts.24.10">10</ref> <ref osisRef="Acts.26.4">26:4</ref> <ref osisRef="Acts.28.19">28:19</ref>. </sense>
-    <sense n="3.">In pl., as in OT, <foreign xml:lang="grc">τὰ ἔ.</foreign> (like Heb. <foreign xml:lang="heb">הַגּוֹיִם</foreign>), <gloss>the nations</gloss>, as distinct from Israel, <pb n="130" /> <!-- typed="" checked="" --> <gloss>Gentiles</gloss>: <ref osisRef="Matt.4.15">Mt 4:15</ref>  <ref osisRef="Matt.6.32">6:32</ref>, <ref osisRef="Acts.26.17">Ac 26:17</ref>, <ref osisRef="Rom.3.29">Ro 3:29</ref>  <ref osisRef="Rom.11.11">11:11</ref> 15:10, <ref osisRef="Gal.2.8">Ga 2:8</ref>, al.; of Gentile Christians, <ref osisRef="Rom.11.13">Ro 11:13</ref>  <ref osisRef="Rom.15.27">15:27</ref> <ref osisRef="Rom.16.4">16:4</ref>, <ref osisRef="Gal.2.12">Ga 2:12</ref>, <ref osisRef="Gal.2.14">14</ref>, <ref osisRef="Eph.3.1">Eph 3:1</ref>. </sense>
+    <sense n="3.">In pl., as in OT, <foreign xml:lang="grc">τὰ ἔ.</foreign> (like Heb. <foreign xml:lang="heb">הַגּוֹיִם</foreign>), <gloss>the nations</gloss>, as distinct from Israel, <pb n="130" /> <!-- typed="DCO" checked="" --> <gloss>Gentiles</gloss>: <ref osisRef="Matt.4.15">Mt 4:15</ref>  <ref osisRef="Matt.6.32">6:32</ref>, <ref osisRef="Acts.26.17">Ac 26:17</ref>, <ref osisRef="Rom.3.29">Ro 3:29</ref>  <ref osisRef="Rom.11.11">11:11</ref> 15:10, <ref osisRef="Gal.2.8">Ga 2:8</ref>, al.; of Gentile Christians, <ref osisRef="Rom.11.13">Ro 11:13</ref>  <ref osisRef="Rom.15.27">15:27</ref> <ref osisRef="Rom.16.4">16:4</ref>, <ref osisRef="Gal.2.12">Ga 2:12</ref>, <ref osisRef="Gal.2.14">14</ref>, <ref osisRef="Eph.3.1">Eph 3:1</ref>. </sense>
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">λαός</foreign> (v. <emph>DCG</emph>, ii, 229; Cremer, 226). </sense>
 </entry>
 
-**e9os, -«os i-ovs), t6 «€H. [ill LXX: Wi 14i«, Da th BeU^, I Mac 10«^ II Mac 11'" 13^ iv Mac 18^ xE*;] /laftii, cws^om; Lk 2239, Jo 19^», Ac 1621 2516, He 10^5; in Lk P 2*^ Ac 6^^ 15^ 21^1 26^ 281^, almost in the narrower sense of law (Deiss., <emph>BS</emph>, 251 f.).†
+<entry n="ἔθος|G1485">
+    <note type="occurrencesNT">13</note>
+    <form>** <orth>ἔθος, -εος (-ους), τό</orth> (&lt; <foreign xml:lang="grc">ἔθω</foreign>), [in LXX: <ref osisRef="Wis.14.16">Wi 14:16</ref>, <ref osisRef="Bel.1.15">Da TH Bel 15</ref>, <ref osisRef="1Macc.10.89">I Mac 10:89</ref>, <ref osisRef="2Macc.11.25">II Mac 11:25</ref>  <ref osisRef="2Macc.13.4">13:4</ref>, <ref osisRef="4Macc.18.5">IV Mac 18:5</ref> <foreign xml:lang="heb">א</foreign>R*;] </form>
+    <sense><gloss>habit, custom</gloss>; <ref osisRef="Luke.22.39">Lk 22:39</ref>, <ref osisRef="John.19.40">Jo 19:40</ref>, <ref osisRef="Acts.16.21">Ac 16:21</ref>  <ref osisRef="Acts.25.16">25:16</ref>, <ref osisRef="Heb.10.25">He 10:25</ref>; in <ref osisRef="Luke.1.9">Lk 1:9</ref> <ref osisRef="Acts.6.14">Ac 6:14</ref>  <ref osisRef="Acts.15.1">15:1</ref> <ref osisRef="Acts.21.21">21:21</ref> <ref osisRef="Acts.26.3">26:3</ref> <ref osisRef="Acts.28.17">28:17</ref>, almost in the narrower sense of law (Deiss., <emph>BS</emph>, 251 f.).†</sense>
+</entry>
 
-leu, pf. with pres. sense eiw^a, [in LXX: Nu 24^ (Dy53"D:?53), Da LXX Su 13, Si 37i*, iv Mac I12 *;] to be accustomed, wont: Mt 27i5, Mk IQi; ptcp., TO €1(0009, custom: Kara to ct. (Nu, I.e.), Lk 4l^ Ac IV.†
+<entry n="ἔθω|G1486">
+    <note type="occurrencesNT">4</note>
+    <form><orth>ἔθω</orth>, pf. with pres. sense <foreign xml:lang="grc">εἴωθα</foreign>, [in LXX: <ref osisRef="Num.24.1">Nu 24:1</ref> (<foreign xml:lang="heb">כְּפַעַם־בְּפַעַם</foreign>), <ref osisRef="AddDan.1.13">Da LXX Su 13</ref>, <ref osisRef="Sir.37.14">Si 37:14</ref>, <ref osisRef="4Macc.1.12">IV Mac 1:12</ref> *;] </form>
+    <sense><gloss>to be accustomed, wont</gloss>: <ref osisRef="Matt.27.15">Mt 27:15</ref>, <ref osisRef="Mark.10.1">Mk 10:1</ref>; ptcp., <foreign xml:lang="grc">τὸ εἰθός</foreign>, custom: <foreign xml:lang="grc">κατὰ τὸ εἰ.</foreign> (Nu, l.c.), <ref osisRef="Luke.4.16">Lk 4:16</ref>, <ref osisRef="Acts.17.2">Ac 17:2</ref>.†</sense>
+</entry>
 
-<entry n="εἰ|G1487">
+<entry n="εἰ|G1487|G1489|G1490">
   <note type="occurrencesNT">507</note>
   <form><orth>εἰ</orth>, </form>
   <gramGrp><pos>conjunctive particle</pos>, used in conditions and in indirect   questions. </gramGrp>
@@ -10597,14 +10605,23 @@ leu, pf. with pres. sense eiw^a, [in LXX: Nu 24^ (Dy53"D:?53), Da LXX Su 13, Si 
   </sense>
 </entry>
 
-€i8^a (Eec. iS-, as in cl.; v. Tdf ., Pr., 81), -as, ^ « cTSov), [in <pb n="131" /> <!-- typed="" checked="" -->LXX (v.l. IS-): Ge 53 {nin% Da th l^^. ^^ (n^t-lO), Ep. Je ^\ ii Mac 318 * .J jQfni, appearance, look: Mt 283.†
+<entry n="εἰδέα">
+    <note type="occurrencesNT">1</note>
+    <form><orth>εἰδέα</orth> (Rec. <foreign xml:lang="grc">ἰδ-</foreign>, as in cl.; v. Tdf., <emph>Pr.</emph>, 81), <orth>-ας, ἡ</orth> (&lt; <foreign xml:lang="grc">εἶδον</foreign>), [in <pb n="131" /> <!-- typed="" checked="" -->LXX (v.l. <foreign xml:lang="grc">ἰδ-</foreign>): <ref osisRef="Gen.5.3">Ge 5:3</ref> (<foreign xml:lang="heb">דְּמוּת</foreign>), <ref osisRef="DanGr.1.13">Da TH 1:13</ref>, <ref osisRef="DanGr.1.15">15</ref> (<foreign xml:lang="heb">מַרְאֶה</foreign>), <ref osisRef="EpJer.1.63">Ep. Je 63</ref>, <ref osisRef="2Macc.3.16">II Mac 3:16</ref> *;] </form>
+    <sense><gloss>appearance, look</gloss>: <ref osisRef="Matt.28.3">Mt 28:3</ref>.†</sense>
+</entry>
 
-€i8oi', V.8. opdw. 
+<entry n="εἶδον">
+    <form><orth>εἶδον</orth>, v.s. <foreign xml:lang="grc"><xr><ref>ὁράω</ref></xr></foreign>.</form>
+</entry>
 
-C180S, -ous, TO, [in LXX for nSHO , HNH , etc.;] 1. that ivhich is 
-
-seen, appearance, external form: Lk 3^^ 9^^, Jo 5^'', 11 Co 5'^ {ICG in 1.). 
-2. form, sort, kind: i Th 5^'\f 
+<entry n="εἶδος|G1491">
+    <note type="occurrencesNT">5</note>
+    <form><orth>εἶδος, -ους, τό</orth>, [in LXX for <foreign xml:lang="heb">מַרְאֶה</foreign>, <foreign xml:lang="heb"></foreign>, etc.;] </form>
+    <sense>
+        <sense n="1."><gloss>that which is seen, appearance, external form</gloss>: <ref osisRef="Luke.3.22">Lk 3:22</ref> <ref osisRef="Luke.9.29">9:29</ref>, <ref osisRef="John.5.37">Jo 5:37</ref>, <ref osisRef="2Cor.5.7">II Co 5:7</ref> (<emph>ICC</emph> in l.). </sense>
+        <sense n="2."><gloss>form, sort, kind</gloss>: <ref osisRef="1Thess.5.22">I Th 5:22</ref>.</sense>†</sense>
+</entry>
 
 t elSeiXioi' (Eec. -cro»'), -ov, to « eiSwXov), [in LXX: Da LXX 1^ 
 
