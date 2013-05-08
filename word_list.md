@@ -1000,16 +1000,6 @@ Each row includes the following information:
 <tr><td>1407</td><td>δωρέομαι</td><td>G1433</td><td>3</td></tr>
 <tr><td>1408</td><td>δώρημα</td><td>G1434</td><td>2</td></tr>
 <tr><td>1409</td><td>δῶρον</td><td>G1435</td><td>19</td></tr>
-<tr><td>1448</td><td>ἐδαφίζω</td><td>G1474</td><td>1</td></tr>
-<tr><td>1449</td><td>ἔδαφος</td><td>G1475</td><td>1</td></tr>
-<tr><td>1450</td><td>ἑδραῖος</td><td>G1476</td><td>3</td></tr>
-<tr><td>1451</td><td>ἑδραίωμα</td><td>G1477</td><td>1</td></tr>
-<tr><td>1452</td><td>Ἑζεκίας</td><td>G1478</td><td>2</td></tr>
-<tr><td>1453</td><td>ἐθελοθρησκία</td><td>G1479</td><td>1</td></tr>
-<tr><td>1454</td><td>ἐθίζω</td><td>G1480</td><td>1</td></tr>
-<tr><td>1455</td><td>ἐθνάρχης</td><td>G1481</td><td>1</td></tr>
-<tr><td>1456</td><td>ἐθνικός</td><td>G1482</td><td>5</td></tr>
-<tr><td>1457</td><td>ἐθνικῶς</td><td>G1483</td><td>1</td></tr>
 <tr><td>1459</td><td>ἔθος</td><td>G1485</td><td>13</td></tr>
 <tr><td>1460</td><td>ἔθω</td><td>G1486</td><td>4</td><td>KJV</td></tr>
 <tr><td>1463</td><td>εἴγε</td><td>G1489</td><td>5</td><td>KJV</td></tr>

@@ -10468,7 +10468,7 @@ Ro 15:31.†
   <form><orth>ἐγώ</orth>, gen, etc., <orth>ἐμοῦ, ἐμοί, ἐμέ</orth> (enclitic <orth>μου, μοι, με</orth>), pl. <orth>ἡμεῖς, -ῶν, -ῖν, -ᾶς</orth>, </form>
   <gramGrp><pos>pers. pron.</pos> </gramGrp>
   <sense><gloss>I</gloss>. 
-    <sense n="(a)">The nom. is usually emphatic, when expressed as subjc, as in <ref osisRef="Matt.3.11">Mt 3:11</ref>, <ref osisRef="Mark.1.8">Mk 1:8</ref>, <ref osisRef="Luke.3.16">Lk 3:16</ref>, al. But often there is no apparent emphasis, as <ref osisRef="Matt.10.16">Mt 10:16</ref>, <ref osisRef="John.10.17">Jo 10:17</ref>; <foreign xml:lang="grc">ἰδοὺ ἐ.</foreign> (= Heb. <foreign xml:lang="heb">הִנֵּנִי</foreign>, cf. <ref osisRef="1Kgs.3.8">I Ki 3:8</ref>), <ref osisRef="Acts.9.10">Ac 9:10</ref>; <foreign xml:lang="grc">ἐ.</foreign> (like Heb. <foreign xml:lang="heb">אֲנִי</foreign>), <gloss>I am</gloss>, <ref osisRef="John.1.23">Jo 1:23 (LXX)</ref>, <ref osisRef="Acts.7.32">Ac 7:32 (LXX)</ref>. <pb n="129" /> <!-- typed="" checked="" --> </sense> 
+    <sense n="(a)">The nom. is usually emphatic, when expressed as subjc, as in <ref osisRef="Matt.3.11">Mt 3:11</ref>, <ref osisRef="Mark.1.8">Mk 1:8</ref>, <ref osisRef="Luke.3.16">Lk 3:16</ref>, al. But often there is no apparent emphasis, as <ref osisRef="Matt.10.16">Mt 10:16</ref>, <ref osisRef="John.10.17">Jo 10:17</ref>; <foreign xml:lang="grc">ἰδοὺ ἐ.</foreign> (= Heb. <foreign xml:lang="heb">הִנֵּנִי</foreign>, cf. <ref osisRef="1Kgs.3.8">I Ki 3:8</ref>), <ref osisRef="Acts.9.10">Ac 9:10</ref>; <foreign xml:lang="grc">ἐ.</foreign> (like Heb. <foreign xml:lang="heb">אֲנִי</foreign>), <gloss>I am</gloss>, <ref osisRef="John.1.23">Jo 1:23 (LXX)</ref>, <ref osisRef="Acts.7.32">Ac 7:32 (LXX)</ref>. <pb n="129" /> <!-- typed="DCO" checked="" --> </sense> 
     <sense n="(b)">The enclitic forms (v. supr.) are used with nouns, adjectives, verbs, adverbs, where there is no emphasis: <foreign xml:lang="grc">ἐν τ. πατρί μου</foreign>, <ref osisRef="John.14.20">Jo 14:20</ref>; <foreign xml:lang="grc">μου τ. λόγους</foreign>, <ref osisRef="Matt.7.24">Mt 7:24</ref>; <foreign xml:lang="grc">ὀπίσω μου</foreign>, <ref osisRef="Matt.3.11">Mt 3:11</ref>; <foreign xml:lang="grc"> ἰσχυρότερός μου</foreign>, <ref osisRef="Matt.3.11">ib.</ref>; <foreign xml:lang="grc">λέγει μοι</foreign>, <ref osisRef="Rev.5.5">Re 5:5</ref>; also with the prep. <foreign xml:lang="grc">πρός</foreign>, as <ref osisRef="Mark.9.19">Mk 9:19</ref>, al. The full forms (<foreign xml:lang="grc">ἐμοῦ</foreign>, etc.) are used with the other prepositions, as <foreign xml:lang="grc">δι' ἐμοῦ, ἐν ἐμοί, εἰς ἐμέ</foreign>, etc., also for emphasis, as <ref osisRef="Luke.10.16">Lk 10:16</ref>, <ref osisRef="John.7.23">Jo 7:23</ref>, <ref osisRef="Mark.14.7">Mk 14:7</ref>, al. </sense> 
     <sense n="(c)">The gen. <foreign xml:lang="grc">μου</foreign> and <foreign xml:lang="grc">ἡμῶν</foreign> are often used for the poss. pronouns <foreign xml:lang="grc"> ἐμός, ἡμέτερος: τ. λαόν μου</foreign>, <ref osisRef="Matt.2.6">Mt 2:6</ref>; <foreign xml:lang="grc">μου τῂ ἀπιστιᾳ</foreign>, <ref osisRef="Mark.9.24">Mk 9:24</ref>. </sense> 
     <sense n="(d)"><foreign xml:lang="grc">τί ἐμοὶ καὶ σοί</foreign> ( = Heb. <foreign xml:lang="heb">מַה־לִי וָלָךְ</foreign>, <ref osisRef="Judg.11.12">Jg 11:12</ref>, al.), i.e. <gloss>what have we in common</gloss>: <ref osisRef="Matt.8.29">Mt 8:29</ref>, <ref osisRef="Mark.1.24">Mk 1:24</ref>, <ref osisRef="Mark.5.7">5:7</ref>, <ref osisRef="Luke.8.28">Lk 8:28</ref>, <ref osisRef="John.2.4">Jo 2:4</ref>; <foreign xml:lang="grc">τί γάρ μοι</foreign>, <ref osisRef="1Cor.5.2">I Co 5:2</ref>. </sense> 
@@ -10476,45 +10476,79 @@ Ro 15:31.†
     <sense n="(f)"><foreign xml:lang="grc">κἀγώ</foreign> (= <foreign xml:lang="grc">καὶ ἐγώ</foreign>, <gloss>and I, even I, I also</gloss>: <ref osisRef="Matt.2.8">Mt 2:8</ref>, <ref osisRef="Luke.2.48">Lk 2:48</ref>, <ref osisRef="John.6.56">Jo 6:56</ref>, <ref osisRef="Rom.3.7">Ro 3:7</ref>, <ref osisRef="1Cor.7.40">I Co 7:40</ref>, al.; <foreign xml:lang="grc">κἀγώ . . . καί</foreign>, <gloss>both . . . and</gloss>, <ref osisRef="John.7.28">Jo 7:28</ref>.</sense>
   </sense>
 </entry> 
- 
 
-e8a&lt;&gt;i;u «€8a(^o5) [in LXX chiefly for OTMI pu.;] 1. to beat 
-level like a threshing floor (Theophr.). 2. to dash to the ground 
-(Field, <emph>Notes</emph>, 74): Lk 19** (cf. Ps 136 (137)», Ho 14i).t 
+<entry n="ἐδαφίζω|G1474">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἐδαφίζω</orth> (&lt; <foreign xml:lang="grc">ἔδαφος</foreign>) [in LXX chiefly for <foreign xml:lang="heb">רטשׁ</foreign> pu.;] </form>
+    <sense>
+        <sense n="1."><gloss>to beat level like a threshing floor</gloss> (Theophr.). </sense>
+        <sense n="2."><gloss>to dash to the ground</gloss> (Field, <emph>Notes</emph>, 74): <ref osisRef="Luke.19.44">Lk 19:44</ref> (cf. <ref osisRef="LXX:Ps.136.9">Ps 136 (137):9</ref>, <ref osisRef="Hos.14.1">Ho 14:1</ref>).</sense>†
+    </sense>
+</entry>
 
-cSacJios, -cos (-ovs), TO, [in LXX for nsjr , yplp , etc.;] bottom, 
+<entry n="ἔδαφος|G1475">
+    <note type="occurrencesNT">1</note>
+    <form><orth>ἔδαφος, -εος (-ους), τό</orth>, [in LXX for <foreign xml:lang="heb">עָפָר</foreign>, <foreign xml:lang="heb">קַרְקע</foreign>, etc.;] </form>
+    <sense><gloss>bottom, pavement, ground</gloss>: <ref osisRef="Acts.22.7">Ac 22:7</ref>.†</sense>
+</entry>
 
-pavement, ground: Ac 22". t 
+<entry n="ἑδραῖος|G1476">
+    <note type="occurrencesNT">3</note>
+    <form>**<orth>ἑδραῖος, -ον</orth> (&lt; <foreign xml:lang="grc">ἕδρα</foreign>, <emph>a seat</emph>), [in Sm.: <ref osisRef="LXX:Ps.32.14">Ps 32 (33):14</ref>, al.;] </form>
+    <sense>
+        <sense n="1."><gloss>sitting, seated</gloss>. </sense>
+        <sense n="2."><gloss>steadfast, firm</gloss>; metaph., of moral fixity: <ref osisRef="1Cor.7.37">I Co 7:37</ref>  <ref osisRef="1Cor.15.58">15:58</ref>, <ref osisRef="Col.1.23">Col 1:23</ref>.</sense>†
+    </sense>
+</entry> 
 
-**^8palos, -ov {&lt;l8pa, a seat), [in Sm.: Ps 32 (33)i*, al.;] 1. 
-sitting, seated. 2. steadfast, firm; metaph., of moral fixity: i Co 7^^ 
-15*8^ Col 123.† 
+<entry n="ἑδραίωμα|G1477">
+    <note type="occurrencesNT">1</note>
+    <form>*† <orth>ἑδραίωμα, -τος, τό</orth> (&lt; <foreign xml:lang="grc">ἑδραῖος</foreign>), </form>
+    <sense><gloss>a support, bulwark, stay</gloss> (Vg. <foreign xml:lang="lat">fermamentum</foreign>): <ref osisRef="1Tim.3.15">I Ti 3:15</ref> (eccl.).†</sense>
+</entry>
 
-*t8paiwfia, -Tos, TO {&lt;::^k8palo&lt;i), a support, bulwark, stay (Vg. 
-fermamentum): i Ti 3^* (eccl.).t 
+<entry n="Ἑζεκίας|>G1478">
+    <note type="occurrencesNT">2</note>
+    <form><orth>Ἑζεκίας</orth> (Rec. <foreign xml:lang="grc">Ἐζ-</foreign>), <orth>-ου, ὁ</orth> (Heb. <foreign xml:lang="heb">חִזְקִיָּה</foreign>, <emph>strength of Jehovah</emph>), </form>
+    <sense><gloss>Hezekiah</gloss>, King of Judah: <ref osisRef="Matt.1.9">Mt 1:9</ref>, <ref osisRef="Matt.1.10">10</ref>.†</sense>
+</entry>
 
-'E^cKi'as (Rec. *£{-), -ov, 6 (Heb. iTpTn, strength of Jehovah), 
+<entry n="ἐθελοθρησκία|G1479">
+    <note type="occurrencesNT">1</note>
+    <form>*† <orth>ἐθελο-θρησκία</orth> (Rec. <foreign xml:lang="grc">-εία</foreign>), <orth>-ας, ἡ</orth>, </form>
+    <sense>self-imposed worship: <ref osisRef="Col.2.23">Col 2:23</ref> (eccl.; cf. <emph>DB</emph>, iv, 923<hi rend="superscript">a</hi>; Cremer, 733).†</sense>
+</entry>
 
-Hezekiah, King of Judah: Mt l^- ^^.t 
+<entry n="ἐθέλω">
+    <orth>ἐθέλω</orth>, v.s. <foreign xml:lang="grc"><xr><ref>θέλω</ref></xr></foreign>. 
+</entry>
 
-*t eOcXo-OpTjCTKia (Rec. -€ia), -as, 17, self-iiiiposed worship: Col 223 
-(eccl.; cf. DB, iv, 923=»; Cremer, 733).t 
+<entry n="ἐθίζω|G1480">
+    <note type="occurrencesNT">1</note>
+    <form>** <orth>ἐθίζω</orth>, [in LXX: <ref osisRef="Sir.23.9">Si 23:9</ref>,  <ref osisRef="Sir.23.13">13</ref> <ref osisRef="2Macc.14.30">II Mac 14:30</ref>;] </form>
+    <sense><gloss>to accustom</gloss>: pass. pf. ptcp., <foreign xml:lang="grc">τὸ εἰθισμένον</foreign>, <gloss>the established custom</gloss>, <ref osisRef="Luke.2.27">Lk 2:27</ref>.†</sense>
+</entry>
 
-cOeXw, V.S. ^cXw. 
+<entry n="ἐθνάρχης|G1481">
+    <note type="occurrencesNT">1</note>
+    <form>**† <orth>ἐθνάρχης, -ον, ὁ</orth> (&lt; <foreign xml:lang="grc">ἔθνος, ἄρχω</foreign>), [in LXX: <ref osisRef="1Macc.14.47">I Mac 14:47</ref>  <ref osisRef="1Macc.15.1">15:1</ref>, <ref osisRef="1Macc.15.2">2</ref> *;] </form>
+    <sense><gloss>an ethnarch, a provincial governor</gloss> (cf. I Mac, ll. c.; FlJ, <emph>Ant.</emph>, xiii, 6, 6; Dalman, 332): <ref osisRef="2Cor.11.32">II Co 11:32</ref>.†</sense>
+</entry>
 
-** ^e^^w « l^os), [in LXX: Si 23^' ^^, 11 Mac 143o;] to accustom: 
-pass. pf. ptcp., TO (WuTfievov, the established custom, Lk 22'^. t 
+<entry n="ἐθνικός|G1482">
+    <note type="occurrencesNT">5</note>
+    <form>**† <orth>ἐθνικός, -ή, -όν</orth>, [in Al.: <ref osisRef="Lev.21.7">Le 21:7</ref> *;] </form>
+    <sense>
+        <sense n="1."><gloss>national</gloss> (Polyb.). </sense>
+        <sense n="2."><gloss>foreign</gloss> (gramm.); in NT, as subst., <foreign xml:lang="grc">ὁ ἐ.</foreign>, <foreign xml:lang="grc">the Gentile</foreign> (the adj. "describes character rather than mere position"; cf. <foreign xml:lang="grc">ἔθνος</foreign>, and v. Cremer, 228): <ref osisRef="Matt.5.47">Mt 5:47</ref>  <ref osisRef="Matt.6.7">6:7</ref> <ref osisRef="Matt.18.17">18:17</ref>, <ref osisRef="3John.1.7">III Jo 7</ref>.</sense>†</sense>
+</entry>
 
-**f ievdpxt]^, -ov, 6 (&lt;£^vos, apxw), [in LXX: i Mac 14*^ 151.2*;] 
-an ethnarch, a provincial governor (cf. i Mac, 11. c.; FlJ, Ant., xiii, 
-6, 6; Dalman,. 332): 11 Co 1132.t 
-
-**te'0^iK6s, -i -ov «l^»'os), [in Al.: Le 21^*;] 1. national (Polyb.). 
-2. foreign (gramm.); in NT, as subst., 6 e., the Gentile (the adj. 
-"describes character rather than mere position"; cf. I^vos, and v. 
-Cremer, 228): Mt 5*^ 6^ 1Q^\ in Jo^.t 
-
-*\iQviKm, 9udiv., in Geyitile fashion: Ga 2^*.t 
+<entry n="ἐθνικῶς|G1483">
+    <note type="occurrencesNT">1</note>
+    <form>*† <orth>ἐθνικῶς</orth>, </form>
+    <gramGrp><pos>adv.</pos>, </gramGrp>
+    <sense><gloss>in Gentile fashion</gloss>: <ref osisRef="Gal.2.14">Ga 2:14</ref>.†</sense>
+</entry>
 
 <entry n="ἔθνος|G1484">
   <note type="occurrencesNT">162</note>
@@ -10526,16 +10560,9 @@ Cremer, 228): Mt 5*^ 6^ 1Q^\ in Jo^.t
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">λαός</foreign> (v. <emph>DCG</emph>, ii, 229; Cremer, 226). </sense>
 </entry>
 
-**e9os, -«os i-ovs), t6 «€H. [ill LXX: Wi 14i«, Da th BeU^, 
+**e9os, -«os i-ovs), t6 «€H. [ill LXX: Wi 14i«, Da th BeU^, I Mac 10«^ II Mac 11'" 13^ iv Mac 18^ xE*;] /laftii, cws^om; Lk 2239, Jo 19^», Ac 1621 2516, He 10^5; in Lk P 2*^ Ac 6^^ 15^ 21^1 26^ 281^, almost in the narrower sense of law (Deiss., <emph>BS</emph>, 251 f.).†
 
-I Mac 10«^ II Mac 11'" 13^ iv Mac 18^ xE*;] /laftii, cws^om; Lk 2239, 
-Jo 19^», Ac 1621 2516, He 10^5; in Lk P 2*^ Ac 6^^ 15^ 21^1 26^ 281^, 
-almost in the narrower sense of law (Deiss., <emph>BS</emph>, 251 f.).t 
-
-leu, pf. with pres. sense eiw^a, [in LXX: Nu 24^ (Dy53"D:?53), 
-
-Da LXX Su 13, Si 37i*, iv Mac I12 *;] to be accustomed, wont: Mt 27i5, 
-Mk IQi; ptcp., TO €1(0009, custom: Kara to ct. (Nu, I.e.), Lk 4l^ Ac IV.f 
+leu, pf. with pres. sense eiw^a, [in LXX: Nu 24^ (Dy53"D:?53), Da LXX Su 13, Si 37i*, iv Mac I12 *;] to be accustomed, wont: Mt 27i5, Mk IQi; ptcp., TO €1(0009, custom: Kara to ct. (Nu, I.e.), Lk 4l^ Ac IV.†
 
 <entry n="εἰ|G1487">
   <note type="occurrencesNT">507</note>
@@ -10570,13 +10597,7 @@ Mk IQi; ptcp., TO €1(0009, custom: Kara to ct. (Nu, I.e.), Lk 4l^ Ac IV.f
   </sense>
 </entry>
 
-€i8^a (Eec. iS-, as in cl.; v. Tdf ., Pr., 81), -as, ^ « cTSov), [in 
-
- <pb n="131" /> <!-- typed="" checked="" -->
-
-LXX (v.l. IS-): Ge 53 {nin% Da th l^^. ^^ (n^t-lO), Ep. Je ^\ ii Mac 
-
-318 * .J jQfni, appearance, look: Mt 283,t 
+€i8^a (Eec. iS-, as in cl.; v. Tdf ., Pr., 81), -as, ^ « cTSov), [in <pb n="131" /> <!-- typed="" checked="" -->LXX (v.l. IS-): Ge 53 {nin% Da th l^^. ^^ (n^t-lO), Ep. Je ^\ ii Mac 318 * .J jQfni, appearance, look: Mt 283.†
 
 €i8oi', V.8. opdw. 
 
