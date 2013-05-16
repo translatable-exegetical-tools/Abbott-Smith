@@ -10572,7 +10572,7 @@ Ro 15:31.†
     <sense><gloss>to be accustomed, wont</gloss>: <ref osisRef="Matt.27.15">Mt 27:15</ref>, <ref osisRef="Mark.10.1">Mk 10:1</ref>; ptcp., <foreign xml:lang="grc">τὸ εἰθός</foreign>, custom: <foreign xml:lang="grc">κατὰ τὸ εἰ.</foreign> (Nu, l.c.), <ref osisRef="Luke.4.16">Lk 4:16</ref>, <ref osisRef="Acts.17.2">Ac 17:2</ref>.†</sense>
 </entry>
 
-<entry n="εἰ|G1487|G1489|G1490">
+<entry n="εἰ|G1487|G1489|G1490|G1499|G1508|G1509|G1512|G1513">
   <note type="occurrencesNT">507</note>
   <form><orth>εἰ</orth>, </form>
   <gramGrp><pos>conjunctive particle</pos>, used in conditions and in indirect   questions. </gramGrp>
@@ -10607,7 +10607,7 @@ Ro 15:31.†
 
 <entry n="εἰδέα">
     <note type="occurrencesNT">1</note>
-    <form><orth>εἰδέα</orth> (Rec. <foreign xml:lang="grc">ἰδ-</foreign>, as in cl.; v. Tdf., <emph>Pr.</emph>, 81), <orth>-ας, ἡ</orth> (&lt; <foreign xml:lang="grc">εἶδον</foreign>), [in <pb n="131" /> <!-- typed="" checked="" -->LXX (v.l. <foreign xml:lang="grc">ἰδ-</foreign>): <ref osisRef="Gen.5.3">Ge 5:3</ref> (<foreign xml:lang="heb">דְּמוּת</foreign>), <ref osisRef="DanGr.1.13">Da TH 1:13</ref>, <ref osisRef="DanGr.1.15">15</ref> (<foreign xml:lang="heb">מַרְאֶה</foreign>), <ref osisRef="EpJer.1.63">Ep. Je 63</ref>, <ref osisRef="2Macc.3.16">II Mac 3:16</ref> *;] </form>
+    <form><orth>εἰδέα</orth> (Rec. <foreign xml:lang="grc">ἰδ-</foreign>, as in cl.; v. Tdf., <emph>Pr.</emph>, 81), <orth>-ας, ἡ</orth> (&lt; <foreign xml:lang="grc">εἶδον</foreign>), [in <pb n="131" /> <!-- typed="DCO" checked="" -->LXX (v.l. <foreign xml:lang="grc">ἰδ-</foreign>): <ref osisRef="Gen.5.3">Ge 5:3</ref> (<foreign xml:lang="heb">דְּמוּת</foreign>), <ref osisRef="DanGr.1.13">Da TH 1:13</ref>, <ref osisRef="DanGr.1.15">15</ref> (<foreign xml:lang="heb">מַרְאֶה</foreign>), <ref osisRef="EpJer.1.63">Ep. Je 63</ref>, <ref osisRef="2Macc.3.16">II Mac 3:16</ref> *;] </form>
     <sense><gloss>appearance, look</gloss>: <ref osisRef="Matt.28.3">Mt 28:3</ref>.†</sense>
 </entry>
 
@@ -10623,70 +10623,102 @@ Ro 15:31.†
         <sense n="2."><gloss>form, sort, kind</gloss>: <ref osisRef="1Thess.5.22">I Th 5:22</ref>.</sense>†</sense>
 </entry>
 
-t elSeiXioi' (Eec. -cro»'), -ov, to « eiSwXov), [in LXX: Da LXX 1^ 
+<entry n="εἰδωλεῖον|G1493">
+    <note type="occurrencesNT">1</note>
+    <form>† <orth>εἰδώλον</orth> (Rec. <foreign xml:lang="grc">-εῖον</foreign>), <orth>-ου, τό</orth> (&lt; <foreign xml:lang="grc">εἴδωλον</foreign>), [in LXX: <ref osisRef="LXX:Dan.1.2">Da LXX 1:2</ref> (<foreign xml:lang="heb">בֵּית אוֹצַר אֱלֹהִים</foreign>), Bel 9, I <ref osisRef="Esth.2.10">Es 2:10</ref>, <ref osisRef="1Macc.1.47">I Mac 1:47</ref>  <ref osisRef="1Macc.10.83">10:83</ref> *;] </form>
+    <sense><gloss>an idol's temple</gloss>: <ref osisRef="1Cor.8.10">I Co 8:10</ref> (cf. <foreign xml:lang="grc">Ἀσταρτεῖον</foreign>, <ref osisRef="1Sam.31.10">I Ki 31:10</ref>; v. <emph>ICC</emph>, in I Co, l.c.).† </sense>
+</entry>
 
-(D''ni'fc^ -lyiN rrt), BeP, i Es 2^", i Mac 1*^ 10^2*;] an idol's temple: 
+<entry n="εἰδωλόθυτον|G1494">
+    <note type="occurrencesNT">9</note>
+    <form>**† <orth>εἰδωλόθυτος, -ον</orth>, (&lt; <foreign xml:lang="grc">εἴδωλον, θύω</foreign>), [in LXX: <ref osisRef="4Macc.5.2">IV Mac 5:2</ref> *;] </form>
+    <sense><gloss>sacrificed to idols</gloss>: <foreign xml:lang="grc">τὸ, τὰ εἰ</foreign>, <ref osisRef="Acts.15.29">Ac 15:29</ref>  <ref osisRef="Acts.21.25">21:25</ref>, <ref osisRef="1Cor.8.1">I Co 8:1</ref>,  <ref osisRef="1Cor.8.4">4</ref> <ref osisRef="1Cor.8.7">7</ref>, <ref osisRef="1Cor.8.10">10</ref> <ref osisRef="1Cor.10.19">10:19</ref>, <ref osisRef="Rev.2.14">Re 2:14</ref>, <ref osisRef="Rev.2.2o">2o</ref>.†</sense>
+</entry>
 
-I Co 810 (cf. Ἀo-TaprcZov, I Ki 3110; v. ICC, in i Co, l.c.).t 
+<entry n="εἰδωλολατρία|G1495">
+    <note type="occurrencesNT">4</note>
+    <form>*† <orth>εἰδωλο-λατρία</orth> (<foreign xml:lang="grc">-εία</foreign>, Rec.), <orth>-ας, ἡ</orth> (&lt; <foreign xml:lang="grc">εἴδωλον, λατρεία</foreign>), </form>
+    <sense><gloss>idolatry</gloss>: <ref osisRef="1Cor.10.14">I Co 10:14</ref>, <ref osisRef="Gal.5.20">Ga 5:20</ref>, <ref osisRef="Col.3.5">Col 3:5</ref>; pl. (Bl, §32, 6), <ref osisRef="1Pet.4.3">I Pe 4:3</ref> (Cremer, 390).†</sense>
+</entry>
 
-**t€i8a&gt;X60uTos, -ov (&lt;€i8a)Xov, 6vw), [in LXX: iv Mac 52*;] sacri- 
-ficed to idols: t6, t^ d., Ac IS^^ 212^, i Co BL^'^.io iqi9^ Rq 2i4,2o.t 
+<entry n="εἰδωλολάτρης׀G1496">
+    <note type="occurrencesNT">7</note>
+    <form>*† <orth>εἰδωλολάτρης, -ον, ὁ</orth> (&lt; <foreign xml:lang="grc">εἴδωλου + λάτρις</foreign>, <emph>a hireling</emph>), </form>
+    <sense><gloss>an idolator</gloss>: <ref osisRef="1Cor.5.10">I Co 5:10</ref>, <ref osisRef="1Cor.5.11">11</ref> <ref osisRef="1Cor.6.9">6:9</ref> <ref osisRef="1Cor.10.7">10:7</ref> <ref osisRef="Eph.5.5">Eph 5:5</ref> <ref osisRef="Rev.21.8">Re 21:8</ref>  <ref osisRef="Rev.22.15">22:15</ref> (Cremer, 709).†</sense>
+</entry>
 
-*t eiSuXo-Xarpia (-ei'a, Eec), -as, r] (&lt;C etSwAov, AaTpeta), idolatry: 
-I Co IQi*, Ga 5^^ Col 3^ pi. (Bl, §32, 6), i Pe 4^ (Cremer, 390).t 
+<entry n="εἴδωλον|G1497">
+    <note type="occurrencesNT">11</note>
+    <form><orth>εἴδωλον, -ου, τό</orth> (&lt; <foreign xml:lang="grc">εἶδος</foreign>), [in LXX for <foreign xml:lang="heb">אֱלֹוהָּ</foreign>, <foreign xml:lang="heb">גְּלוּלִים</foreign>, etc.;] </form>
+    <sense>
+        <sense n="1.">in cl. 
+            <sense n="(a)"><gloss>a phantom, image, likeness</gloss>; </sense>
+            <sense n="(b)"><gloss>an image in the mind, an idea, fancy</gloss>. </sense>
+        </sense> 
+        <sense n="2.">In LXX and NT, 
+            <sense n="(a)"><gloss>an image of a god, an idol</gloss> (cf. Polyb., xxxi, 3, 13): <ref osisRef="Acts.7.41">Ac 7:41</ref>, <ref osisRef="1Cor.12.2">I Co 12:2</ref>, <ref osisRef="Rev.9.20">Re 9:20</ref>; </sense>
+            <sense n="(b)"><gloss>the false god</gloss> or <gloss>idol worshipped in an image</gloss> (<emph>ICC</emph>, on I Th, l.c.): <ref osisRef="Acts.15.20">Ac 15:20</ref>, <ref osisRef="Rom.2.22">Ro 2:22</ref>, <ref osisRef="1Cor.8.4">I Co 8:4</ref>, <ref osisRef="1Cor.8.7">7</ref> <ref osisRef="1Cor.10.19">10:19</ref> <ref osisRef="2Cor.6.18">II Co 6:18</ref>, <ref osisRef="1Thess.1.9">I Th 1:9</ref>, <ref osisRef="1John.5.21">I Jo 5:21</ref>.†</sense>
+        </sense>
+    </sense>
+</entry>
 
-*t eiSuXoXdrpTjs, -ov, 6 (&lt;^ eiSjjXov + Aarpis, a hireling), an idolator: 
-I Co 5io&gt; 11 69 10^ Eph 5^ Ee 21« 221^ (Cremer, 709).t 
+<entry n="εἰκῇ|G1500">
+    <note type="occurrencesNT">6</note>
+    <form><orth>εἰκῇ</orth> (-ῆ, Rec., as in cl.), <gramGrp><pos>adv.</pos></gramGrp>, [in LXX: <ref osisRef="Prov.28.25">Pr 28:25</ref> (<foreign xml:lang="grc">εἰκῇ</foreign>)*;] </form>
+    <sense>
+        <sense n="1."><gloss>without cause</gloss> or <gloss>reason</gloss>: <ref osisRef="Matt.5.22">Mt 5:22</ref> (E, mg.), <ref osisRef="Col.2.18">Col 2:18</ref> (<emph>ICC</emph>). </sense>
+        <sense n="2."><gloss>vainly, fruitlessly, to no purpose</gloss>: <ref osisRef="Rom.13.4">Ro 13:4</ref>, <ref osisRef="1Cor.15.2">I Co 15:2</ref>, <ref osisRef="Gal.3.4">Ga 3:4</ref>  <ref osisRef="Gal.4.11">4:11</ref>, <ref osisRef="Col.2.18">Col 2:18</ref>.</sense>†
+    </sense>
+</entry>
 
-ciSuXoi', -ov, TO «eiSos), [in LXX for nibx, CT^^b^, etc.;] 
+<entry n="εἴκοσι(ν)|G1501">
+    <note type="occurrencesNT">11</note>
+    <form><orth>εἴκοσι</orth> (never <foreign xml:lang="grc">-ιν</foreign> in WH, cf. Bl., §5, 3, and note), indecl., <foreign xml:lang="grc">οἱ, αἱ, τά</foreign>, </form>
+    <sense><gloss>twenty</gloss>: <ref osisRef="Luke.14.31">Lk 14:31</ref>, <ref osisRef="John.6.19">Jo 6:19</ref>, <ref osisRef="Acts.1.15">Ac 1:15</ref>  <ref osisRef="Acts.27.28">27:28</ref>, <ref osisRef="1Cor.10.8">I Co 10:8</ref>, <ref osisRef="Rev.4.4">Re 4:4</ref>, <ref osisRef="Rev.4.10">10</ref> <ref osisRef="Rev.5.8">5:8</ref> <ref osisRef="Rev.11.16">11:16</ref> <ref osisRef="Rev.19.4">19:4</ref>.†</sense>
+</entry>
 
-1, in cl. (a) a phantom, image, likeness; (b) an image in the mind, 
-an idea, fancy. 2. In LXX and NT, (a) an image of a god, an idol 
-(cf. Polyb., xxxi, 3, 13): Ac 7", i Co 12^, Ee 9^0; (h) the false god or 
-idol worshipped in an image {ICC, on i Th, I.e.): Ac IS^o, Ro 2^2, 
-I Co 84' 7 IQi^ II Co 618, I Th P, I Jo 52i.t 
+<entry n="εἴκω|G1502">
+    <note type="occurrencesNT">1</note>
+    <form><orth>εἴκω</orth>, [in LXX: <ref osisRef="2Sam.12.7">II Ki 12:7</ref> (<foreign xml:lang="heb">ענה</foreign>), <ref osisRef="Wis.18.25">Wi 18:25</ref>, <ref osisRef="4Macc.1.6">IV Mac 1:6</ref> *;] </form>
+    <sense><gloss>to yield</gloss>: <ref osisRef="Gal.2.5">Ga 2:5</ref> (cf. <foreign xml:lang="grc">ὑπ-είκω</foreign>).†</sense>
+</entry>
 
-eiKTj (-^, Eec, as in cl.), adv., [in LXX: Pr 28^* {tUfj*;] 1. without 
-cause or reason: Mt 5^2 (E, mg.). Col 2^^ {ICC). 2. vainly, fruitlessly, 
-to no purjjose: Ro 13*, i Co I52, Ga 3* 411, Col 2i8.t 
+<entry n="εἴκω|G1503">
+    <form><orth>εἴκω</orth> (obsolete pres.), v.s. <foreign xml:lang="grc"><xr><ref>ἔοικα</ref></xr></foreign><note>Transcriber note: This form does not occur in Abbott-Smith. It should be on p. 158.</note>.</form>
+</entry>
 
-ciKoo-i (never -iv in WH, cf. Bl., §5, 3, and note), indecl., 01, at, 
-Ta, twenty: Lk U^\ Jo 6^^ Ac 1^^ 2728, i Co 10^, Ee 4*. 10 5^ lli« 19*.t 
+<entry n="εἰκών|G1504">
+    <note type="occurrencesNT">23</note>
+    <form><orth>εἰκών, -όνος</orth> (cf. <foreign xml:lang="grc">ἔοικα</foreign>), [in LXX chiefly for <foreign xml:lang="heb">צֶלֶם</foreign>;] </form>
+    <sense><gloss>an image, likeness</gloss>: <ref osisRef="Matt.22.20">Mt 22:20</ref>, <ref osisRef="Mark.12.16">Mk 12:16</ref>, <ref osisRef="Luke.20.24">Lk 20:24</ref>, <ref osisRef="Rom.1.23">Ro 1:23</ref>, <ref osisRef="1Cor.15.49">I Co 15:49</ref>, <ref osisRef="Rev.13.14">Re 13:14</ref>, <ref osisRef="Rev.13.15">15</ref> <ref osisRef="Rev.14.9">14:9</ref>, <ref osisRef="Rev.14.11">11</ref> <ref osisRef="Rev.15.2">15:2</ref> <ref osisRef="Rev.16.2">16:2</ref> <ref osisRef="Rev.19.20">19:20</ref> <ref osisRef="Rev.20.4">20:4</ref>; opp. to <foreign xml:lang="grc">σκιά</foreign>, <ref osisRef="Heb.10.1">He 10:1</ref>; of man, <foreign xml:lang="grc">εἰ. θεοῦ</foreign>, 1 Co 11:7; of the regenerate, <foreign xml:lang="grc">εἰ. τ. θεοῦ</foreign> <ref osisRef="Col.3.10">Col 3:10</ref> (v. Lft., in l.); <foreign xml:lang="grc">εἰ. τ. υἱοῦ τ. θεοῦ</foreign>, <ref osisRef="Rom.8.29">Ro 8:29</ref>, <ref osisRef="2Cor.3.18">II Co 3:18</ref>; of Christ, <foreign xml:lang="grc">εἰ. τ. θεοῦ</foreign>, <ref osisRef="2Cor.4.4">II Co 4:4</ref>, <ref osisRef="Col.1.15">Col 1:15</ref>.†
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc"><xr><ref>ὁμοίωμα</ref></xr></foreign>, denoting resemblance, which may however be merely accidental. <foreign xml:lang="grc">εἰ.</foreign> is a <emph>derived</emph> likeness and like the head on a coin or the parental likeness in a child, implies an archetype. 
+    <lb />Cf. also <foreign xml:lang="grc"><xr><ref>εἶδος</ref></xr></foreign>, <emph>appearance</emph>, not necessarily based on reality; <foreign xml:lang="grc"><xr><ref>σκιά</ref></xr></foreign>, 
+a shadowed resemblance; <foreign xml:lang="grc"><xr><ref>χαρακτήρ</ref></xr></foreign>, the <emph>impress</emph> of a stamp; <foreign xml:lang="grc"><xr><ref>μόρφη</ref></xr></foreign> 
+(q.v.), the <emph>form</emph> as indicative of the inner being.</sense>
+</entry>
 
-€tKw, [in LXX: 11 Ki 12^ (.13^), Wi 1825, iv Mac l" *;] to yield: 
+<entry n="εἰλικρινής|G1506">
+    <note type="occurrencesNT">2</note>
+    <form>** <orth>εἰλικρινής, -ές</orth>, [in LXX: Wi 72^ kB *;] </form>
+    <sense><gloss>unalloyed, pure</gloss> (Lat. <foreign xml:lang="lat">sincerus</foreign>; v. <emph>DCG</emph>, ii, 635a<hi rend="superscript"></hi>); 
+        <sense n="(a)">of unmixed substances; </sense>
+        <sense n="(b)">of abstract ideas; </sense>
+        <sense n="(c)">of ethical purity: <ref osisRef="Phil.1.10">Phl 1:10</ref>, <ref osisRef="2Pet.3.1">II Pe 3:1</ref>.†
+    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἁγνός</foreign> (q.v.), <foreign xml:lang="grc">καθαρός</foreign>, cf. Tr., <emph>Syn.</emph>: §lxxxv; <emph>DB</emph>, iv, 176<hi rend="superscript">a</hi>; Cremer, 378; Westc. on <ref osisRef="1John.3.3">I Jo 3:3</ref>.</sense>
+</entry>
 
-Ga 25 (cf. V7r-€LKw).t 
 
-€iKca (obsolete pres.), v.s. loiKa. 
+ <pb n="132" /> <!-- typed="DCO" checked="" -->
 
-iiKuv, -ovos (cf. eoiKo), [in LXX chiefly for D^S;] an image, 
+<entry n="εἰλικρίνεια|G1505">
+    <note type="occurrencesNT">3</note>
+    <form>** <orth>εἰλικρινία</orth> (Rec., cl., <foreign xml:lang="grc">-κρινεία</foreign>),<orth> -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">εἰλικρινής</foreign>), [in LXX: <ref osisRef="Wis.7.25">Wi 7:25</ref> A *;] </form>
+    <sense><gloss>sincerity, purity</gloss>: <ref osisRef="1Cor.5.8">I Co 5:8</ref>, <ref osisRef="2Cor.1.12">II Co 1:12</ref>  <ref osisRef="2Cor.2.17">2:17</ref>.† </sense>
+</entry>
 
-likeness: Mt 222o, Mk 12i«, Lk 202S Ro 123, i Co 15^^, Ee 13i*'i5 
-149, 11 152 162 1920 20*; opp. to (TKid, He 10^; of man, ci. dioi, 1 Co 
-IV; of the regenerate, cl. t. dcov. Col 310 (v. Lft., in 1.); d. t. vlov r. 
-Btov, Ro 829, n Co 318; of Christ, d. r. Oco'v, 11 Co 4*, Col l^^.t 
-
-Syn.: 6/xoL(D/j.a, denoting resemblance, which may however be 
-merely accidental, ci. is a derived likeness and like the head on a coin 
-or the parental likeness in a child, implies an archetype. 
-
-Cf . also cTSos, appearance, not necessarily based on reality; aKid, 
-a shadowed resemblance; x^-paKT-qp, the impress of a stamp; p.6p&lt;f&gt;T] 
-(q.v.), the form as indicative of the inner being. 
-
-** elXiKpn'iis, -es, [in LXX: Wi 72^ kB *;] unalloyed, pure (Lat. 
-sincerus; v. DCG, ii, 635*); {a) of unmixed substances; {b) of abstract 
-ideas; (c) of ethical purity: Phi l^o, 11 Pe 3i.t 
-
-Syn.: dyvos (q.v.), KaOapo^, cf. Tr., <emph>Syn.</emph>, §lxxxv; DB, iv, 176*; 
-Cremer, 378; Westc. on i Jo 3*. 
-
- <pb n="132" /> <!-- typed="" checked="" -->
-
-** eiXiKpiKia (Rec, cl., -Kptveia), -as, 17 (&lt;^ eiAi/cptvjys), [in LXX: Wi 
-725 A.*;] sincerity, purity: i Co 5^, 11 Co 1^^ 2^".† 
-
-elXiacrw, V.8. eAccrcrw. 
+<entry n="εἱλίσσω|G1507">
+    <form><orth>εἱλίσσω</orth>, v.s. <foreign xml:lang="grc"><xr><ref>ἑλέσσω</ref></xr></foreign><note>Transcriber: Is this word in Abbott-Smith?.</form>
+</entry>
 
 <entry n="εἰμί|G1488|G1498|G1510|G1511|G1526|G2070|G2071|G2075|G2076|G2077|G2252|G2258|G2457|G2468|G5600|G5607">
   <note type="occurrencesNT">2456</note>
@@ -10719,42 +10751,39 @@ elXiacrw, V.8. eAccrcrw.
   </sense>
 </entry> 
   
-A 
+<entry n="εἵνεκεν">
+    <form><orth>εἵνεκεν</orth>, v.s. <foreign xml:lang="grc"><xr><ref>ἕνεκα</ref></xr></foreign>.</form>
+</entry>
 
-ilviKCV, V.S. £V€*ca. 
-ci-irep, V.S. £1. 
+<entry n="εἴπερ">
+    <form><orth>εἴ-περ</orth>, v.s. <foreign xml:lang="grc"><xr><ref>εἰ</ref></xr></foreign>.</form>
+</entry>
 
 <entry n="εἶπον">
   <form><orth>εἶπον</orth>, 2 aor. of obsol. pres. ἔπω (cf. Veitch), used as aor. of <foreign xml:lang="grc">λέγω, q.v.</foreign> </form>
  </entry>
 
-Cl-TTOJS, V.S. Cl. 
+<entry n="εἴ-πως">
+    <form><orth>εἴ-πως</orth>, v.s. <foreign xml:lang="grc"><xr><ref>εἰ</ref></xr></foreign>.</form>
+</entry>
 
-cipTjkeoo) (•&lt; eip7?v77), [in LXX chiefly for cblB', lUpW;] 1. to bring 
-to peace, reconcile (so i Mac 6""). 2. to keep peace, be at peace: Mk 
-950, Ro 1218, II Co 1311, I Th 513 (cf. Si 289; Cremer, 246).t 
+<entry n="εἰρηνεύω|G1514">
+    <note type="occurrencesNT">4</note>
+    <form><orth>εἰρηνεύω</orth> (&lt; <foreign xml:lang="grc">εἰρήνη</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שׁלם</foreign>, <foreign xml:lang="heb">שׁקט</foreign> ;] </form>
+    <sense>
+        <sense n="1."><gloss>to bring to peace, reconcile</gloss> (so <ref osisRef="1Macc.6.60">I Mac 6:60</ref>). </sense>
+        <sense n="2."><gloss>to keep peace, be at peace</gloss>: <ref osisRef="Mark.9.50">Mk 9:50</ref>, <ref osisRef="Rom.12.18">Ro 12:18</ref>, <ref osisRef="2Cor.13.11">II Co 13:11</ref>, <ref osisRef="1Thess.5.13">I Th 5:13</ref> (cf. <ref osisRef="Sir.28.9">Si 28:9</ref>; Cremer, 246).</sense>†
+    </sense>
+</entry>
 
-eipTjnf], -7JS, 17, [in LXX chiefly for ubp;] peace; 1. of public 
-peace, freedom from war: Lk 1432, Ac 122*' 242; of the church, Ac 
-
-
- <pb n="133" /> <!-- typed="" checked="" -->
-
-9^^. 2. Of peace between persons, concord, agreement: Mt 10^*, Lk 
-12", Ro W, I Co 715, Ga 5^^ Ja S^S; Cvr^lv d., i Pe 3^^; Sicokciv, ii Ti 
-2^2; ib. seq. fiera irdvT&lt;Dv, He 12^*; by meton., of him who brings 
-peace, Eph 2^*. 3. As in LXX (= Heb. Dibor , Aram. Dbl7), of a 
-
-state of security and safety: Jo IG^^, Ro 2^°, i Th 6^; whence the 
-formulae, wayc (Tropevov) th el, Mk 53*, Lk 750 (cf. I Ki 1", al.; 
-
-nbmb ^d^); d. ipiv (osb nibcr), Jo 20i9' 21. 26; ^.irokviiv iv d., Lk 229, 
-
-cf. I Co 1611; ^ el ipLwv, Mt 1013 Lk 10"; vi6^ elp^vr]^, ib. 4. Of 
-spiritual peace, the peace of Christ's kingdom {DCG, ii, 330 f .): Lk 
-V^ 2l^ Jo 1633, Ro 210 51 8«, al.; o Kvpio^ t^s eu, 11 Th 3i«; o Oeh^ t^s 
-€t., Ro 1533 1620, jj QiQ 1311^ al.; in epistolary salutations, Ro 1^, i Co 
-13, Ga 13, I Th 11, I Pe I2, 11 Jo 3, Ee 1*, al. (v. Cremer, 244). 
+<entry n="εἰρήνη|G1515">
+    <note type="occurrencesNT">92</note>
+    <form><orth>εἰρήνη, -ης, ἡ</orth>, [in LXX chiefly for <foreign xml:lang="heb">שָׁלוֹם</foreign>;] </form>
+    <sense><gloss>peace</gloss>; 
+        <sense n="1.">of public peace, freedom from war: <ref osisRef="Luke.14.32">Lk 14:32</ref>, <ref osisRef="Acts.12.20">Ac 12:20</ref> <ref osisRef="Acts.24.2">24:2</ref>; of the church, <ref osisRef="Acts.9:31">Ac <pb n="133" /> <!-- typed="" checked="" -->9:31</ref>. </sense>
+        2. Of peace between persons, concord, agreement: Mt 10^*, Lk 12", Ro W, I Co 715, Ga 5^^ Ja S^S; Cvr^lv d., i Pe 3^^; Sicokciv, ii Ti 2^2; ib. seq. fiera irdvT&lt;Dv, He 12^*; by meton., of him who brings peace, Eph 2^*. 3. As in LXX (= Heb. Dibor , Aram. Dbl7), of a state of security and safety: Jo IG^^, Ro 2^°, i Th 6^; whence the formulae, wayc (Tropevov) th el, Mk 53*, Lk 750 (cf. I Ki 1", al.; nbmb ^d^); d. ipiv (osb nibcr), Jo 20i9' 21. 26; ^.irokviiv iv d., Lk 229, cf. I Co 1611; ^ el ipLwv, Mt 1013 Lk 10"; vi6^ elp^vr]^, ib. 4. Of spiritual peace, the peace of Christ's kingdom {DCG, ii, 330 f .): Lk V^ 2l^ Jo 1633, Ro 210 51 8«, al.; o Kvpio^ t^s eu, 11 Th 3i«; o Oeh^ t^s €t., Ro 1533 1620, jj QiQ 1311^ al.; in epistolary salutations, Ro 1^, i Co 13, Ga 13, I Th 11, I Pe I2, 11 Jo 3, Ee 1*, al. (v. Cremer, 244). 
+    </sense>
+</entry>
 
 ciprji'iicos, -rj, -6v {&lt;Celp-jvrj), [in LXX for uhw and cognates;] 
 

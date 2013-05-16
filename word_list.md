@@ -1000,28 +1000,6 @@ Each row includes the following information:
 <tr><td>1407</td><td>δωρέομαι</td><td>G1433</td><td>3</td></tr>
 <tr><td>1408</td><td>δώρημα</td><td>G1434</td><td>2</td></tr>
 <tr><td>1409</td><td>δῶρον</td><td>G1435</td><td>19</td></tr>
-<tr><td>1465</td><td>εἶδος</td><td>G1491</td><td>5</td></tr>
-<tr><td>1467</td><td>εἰδωλεῖον</td><td>G1493</td><td>1</td></tr>
-<tr><td>1468</td><td>εἰδωλόθυτον</td><td>G1494</td><td>9</td></tr>
-<tr><td>1469</td><td>εἰδωλολατρία</td><td>G1495</td><td>4</td></tr>
-<tr><td>1470</td><td>εἰδωλολάτρης</td><td>G1496</td><td>7</td></tr>
-<tr><td>1471</td><td>εἴδωλον</td><td>G1497</td><td>11</td></tr>
-<tr><td>1472</td><td>εἴην</td><td>G1498</td><td>12</td><td>KJV</td></tr>
-<tr><td>1473</td><td>εἰ καί</td><td>G1499</td><td>0</td><td>KJV</td></tr>
-<tr><td>1474</td><td>εἰκῇ</td><td>G1500</td><td>6</td></tr>
-<tr><td>1475</td><td>εἴκοσι(ν)</td><td>G1501</td><td>11</td></tr>
-<tr><td>1476</td><td>εἴκω</td><td>G1502</td><td>1</td></tr>
-<tr><td>1477</td><td>εἴκω</td><td>G1503</td><td>1</td></tr>
-<tr><td>1478</td><td>εἰκών</td><td>G1504</td><td>23</td></tr>
-<tr><td>1479</td><td>εἰλικρίνεια</td><td>G1505</td><td>3</td></tr>
-<tr><td>1480</td><td>εἰλικρινής</td><td>G1506</td><td>2</td></tr>
-<tr><td>1481</td><td>εἱλίσσω</td><td>G1507</td><td>1</td><td>KJV</td></tr>
-<tr><td>1482</td><td>εἰ μή</td><td>G1508</td><td>0</td><td>KJV</td></tr>
-<tr><td>1483</td><td>εἰ μή τι</td><td>G1509</td><td>0</td><td>KJV</td></tr>
-<tr><td>1486</td><td>εἴπερ</td><td>G1512</td><td>6</td></tr>
-<tr><td>1487</td><td>εἴ πως</td><td>G1513</td><td>2</td><td>KJV</td></tr>
-<tr><td>1488</td><td>εἰρηνεύω</td><td>G1514</td><td>4</td></tr>
-<tr><td>1489</td><td>εἰρήνη</td><td>G1515</td><td>92</td></tr>
 <tr><td>1490</td><td>εἰρηνικός</td><td>G1516</td><td>2</td></tr>
 <tr><td>1491</td><td>εἰρηνοποιέω</td><td>G1517</td><td>1</td></tr>
 <tr><td>1492</td><td>εἰρηνοποιός</td><td>G1518</td><td>1</td></tr>
