@@ -19,16 +19,6 @@ Each row includes the following information:
 <table>
 <tr><th>Order</th><th>Lexeme</th><th>StrongsNumber</th><th>OccurrencesNT</th><th>Source</th></tr>
 <tr><td>0064</td><td>ἀδιαφθορία</td><td>G90</td><td>1</td></tr>
-<tr><td>0155</td><td>ἀκαταστασία</td><td>G181</td><td>5</td></tr>
-<tr><td>0156</td><td>ἀκατάστατος</td><td>G182</td><td>2</td></tr>
-<tr><td>0157</td><td>ἀκατάσχετος</td><td>G183</td><td>1</td><td>KJV</td></tr>
-<tr><td>0158</td><td>Ἀκελδαμάχ</td><td>G184</td><td>1</td></tr>
-<tr><td>0159</td><td>ἀκέραιος</td><td>G185</td><td>3</td></tr>
-<tr><td>0160</td><td>ἀκλινής</td><td>G186</td><td>1</td></tr>
-<tr><td>0161</td><td>ἀκμάζω</td><td>G187</td><td>1</td></tr>
-<tr><td>0162</td><td>ἀκμήν</td><td>G188</td><td>1</td></tr>
-<tr><td>0163</td><td>ἀκοή</td><td>G189</td><td>24</td></tr>
-<tr><td>0164</td><td>ἀκολουθέω</td><td>G190</td><td>90</td></tr>
 <tr><td>0166</td><td>ἀκρασία</td><td>G192</td><td>2</td></tr>
 <tr><td>0167</td><td>ἀκρατής</td><td>G193</td><td>1</td></tr>
 <tr><td>0168</td><td>ἄκρατος</td><td>G194</td><td>1</td></tr>

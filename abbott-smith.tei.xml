@@ -2746,49 +2746,74 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
 
  <pb n="17" /> <!-- typed="" checked="" --> 
 
-t dKaraoracTia, -as, 17 (&lt;^ d/caTacrTaTos) , [in LXX: Pr 26^^ (nniQ), 
+<entry n="ἀκαταστασία|G181">
+ <note type="occurrencesNT">5</note>
+ <form>† <orth>ἀκαταστασία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀκατάστατος</foreign>) , [in LXX: <ref osisRef="Prov.26.28">Pr 26:28</ref> (<foreign xml:lang="heb">מִדְחֶה</foreign>), <ref osisRef="Tob.4.13">To 4:13</ref> *;] </form>
+ <sense><gloss>instability</gloss> (MM, <emph>VGT</emph>, s.v.); hence, <gloss>confusion</gloss>, <gloss>tumult</gloss>: <ref osisRef="1Cor.14.33">I Co 14:33</ref>, <ref osisRef="Jas.3.16">Ja 3:16</ref>; pl. (Bl., §32, 6), <ref osisRef="Luke.21.9">Lk 21:9</ref>, <ref osisRef="2Cor.6.5">II Co 6:5</ref>, <ref osisRef="2Cor.12.20">12:20</ref> (Polyb., al.; v. Cremer, 739). †</sense>
+ </entry>
 
-To 4^^ *;] instability (MM, <emph>VGT</emph>, s.v.); hence, confusion, tumult: 
-I Co 1433, Ja 316; pi. (Bl., §32, 6), Lk 21^, 11 Co 6^ I220 (Polyb, al.; 
-V. Cremer, 739). t 
+<entry n="ἀκατάστατος|G182">
+ <note type="occurrencesNT">2</note>
+ <form><orth>ἀ-κατά-στατος, -ον</orth> (<foreign xml:lang="grc">καθίστημι</foreign>), [in LXX: <ref osisRef="Isa.54.11">Is 54:11</ref> (<foreign xml:lang="heb">סֹעֲרָה</foreign>);] </form>
+ <sense><gloss>unsettled</gloss>, <gloss>unstable</gloss>: <ref osisRef="Jas.1.8">Ja 1:8</ref>, <ref osisRef="Jas.3.8">3:8</ref>. †</sense>
+ </entry>
 
-d-KaT&lt;i-(rraTos, -ov « Ka^t'cTTT/zAi), [in LXX: Is 54^^ (rnvb);] un- 
-settled, unstable: Ja 1^ 3^.t 
+<entry n="ἀκατάσχετος|G183">
+ <note type="occurrencesNT">1</note>
+ <form>† <orth>ἀκατάσχετος, -ον</orth> (&lt; <foreign xml:lang="grc">κατέχω</foreign>), [in LXX: <ref osisRef="Job.31.11">Jb 31:11</ref>, <ref osisRef="3Macc.6.17">III Mac 6:17</ref> *;] </form>
+ <sense><gloss>that cannot be restrained</gloss>: <ref osisRef="Jas.3.8">Ja 3:8</ref> Rec. (for <foreign xml:lang="grc">-στατος</foreign>, q.v.). †</sense>
+ </entry>
 
-t dKaT(i(7X€Tos, -OV «/caT€x&lt;^), [in LXX: Jb 31ii, iiiMacGi^*;] 
-that cannot be restrained: Ja 3^ Eec. (for -o-Taros, q.v.).t 
+<entry n="Ἀκελδαμάχ|G184">
+ <note type="occurrencesNT">1</note>
+ <form><orth>Ακελδαμά, -δαμάχ</orth>, v.s. <foreign xml:lang="grc">Αχελδαμάχ</foreign>.</form>
+ </entry>
 
-ἈKeXSafxd, -ha^d-x, V.S. Ἀ;)(€A8a/Aax. 
-** dKcpaios, -ov (&lt;[ KepdvvvfjLi), [in LXX: Es 8^^ *;] unmixed, jnire, 
-hence, metaph. (cf. MM, <emph>VGT</emph>, s.v.), guileless, simple: Mt 10^", Ro 1&amp;^^, 
-Phi, 2i5.t <lb /><emph>SYN.</emph>: aSoXos, a/&lt;a/cos, (iTrXovs (cf. Ellic. on Phi., I.e.; Tr., <emph>Syn.</emph>, 
-§lvi). 
+<entry n="ἀκέραιος|G185">
+ <note type="occurrencesNT">3</note>
+ <form>** <orth>ἀκέραιος, -ον</orth> (&lt; <foreign xml:lang="grc">κεράννυμι</foreign>), [in LXX: <ref osisRef="Esth.8.13">Es 8:13</ref> *;] </form>
+ <sense><gloss>unmixed</gloss>, <gloss>pure</gloss>, hence, metaph. (cf. MM, <emph>VGT</emph>, s.v.), <gloss>guileless</gloss>, <gloss>simple</gloss>: <ref osisRef="Matt.10.16">Mt 10:16</ref>, <ref osisRef="Rom.16.19">Ro 16:19</ref>, <ref osisRef="Phil.2.15">Phl 2:15</ref>. †</sense>
+<lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἄδολος</foreign>, <foreign xml:lang="grc">ἄκακος</foreign>, <foreign xml:lang="grc">ἁπλοῦς</foreign> (cf. Ellic. on Phl., l.c.; Tr., <emph>Syn.</emph>, §lvi). 
+ </entry>
 
-**dKXi.'iis, -es «Kktvoy), [in LXX: iv Mac 6^ 173*;] wibending, 
-firm: metaph. (MM, <emph>VGT</emph>, s.v.). He l(fi^A 
+<entry n="ἀκλινής|G186">
+ <note type="occurrencesNT">1</note>
+ <form>** <orth>ἀκλινής, -ές</orth> (<foreign xml:lang="grc">κλίνω</foreign>), [in LXX: <ref osisRef="4Macc.6.7">IV Mac 6:7</ref> <ref osisRef="4Macc.17.3">17:3</ref> *;] </form>
+ <sense><gloss>unbending</gloss>, <gloss>firm</gloss>: metaph. (MM, <emph>VGT</emph>, s.v.). <ref osisRef="Heb.10.23">He 10:23</ref>. †</sense>
+ </entry>
 
-** dKfjid^u (•&lt; axixri), [in LXX: IV Mac 2^ *;] to be at the prime; of 
-produce of the ground, to be ripe (Thuc.): Ee 14^8 (MM, <emph>VGT</emph>, s.v.).t 
-* dKfiriK, acc. of aKfxrj, a point, used as adv., at the present point of 
-time, even now, even yet: Mt 15^*. t 
+<entry n="ἀκμάζω|G187">
+ <note type="occurrencesNT">1</note>
+ <form>** <orth>ἀκμάζω</orth> (&lt; <foreign xml:lang="grc">ἀκμήν</foreign>), [in LXX: <ref osisRef="4Macc.2.3">IV Mac 2:3</ref> *;] </form>
+ <sense><gloss>to be at the prime</gloss>; of produce of the ground, <gloss>to be ripe</gloss> (Thuc.): <ref osisRef="Rev.14.18">Re 14:18</ref> (MM, <emph>VGT</emph>, s.v.). †</sense>
+ </entry>
 
-dKori, -^s, 17 «dK:ovco), [in LXX: Ex 152*, al. for ratZT, its parts 
-and derivatives, exc. De ll^^ (^j^^T);] 1. hearing, the sense of hearing: 
-I Co 12^^ II Pe 28; "Hebraic dative," dxofi h.Kovuv (freq. in LXX; 
-V. M, <emph>Pr.</emph>, 14, 75), Mt 13i*, Ac 2826. 2. organ of hearing, the ear 
-(Arist., al.; MM, <emph>VGT</emph>, s.v.): 11 Ti 4"- '^; pi., Mk V\ Lk 1\ Ac VI'^^ 
-He 5^^ 3. a thing heard, i.e., (a) a message, teaching: Jo 12^^ and 
-Eo lOie.iULXx)^ Ga 32.5 E, mg.; Aoyos dKoij^, i Th 2i3, He 4^; (b) a 
-report, rumour: c. gen, pers., Mt 4"'* 14^ 24", Mk 1-^ 13'^ (Cremer, 82, 
-623; MM, FGT, s.v.).t 
 
-dKoXouGe'w, -w {&lt;^dK6Kov6o&lt;;, following; &lt;Cd.- cop., KeX€v6o&lt;;, poet., 
-away), [in LXX chiefly for "ijbn;] to accomjiany, follow: Mt 4^^, al. 
-Metaph., of discipleship: Mt 9^, Mk 9^8, Jo 12^6, al. Absol.: Mt 8^^; 
-more freq., c. dat. (cl.), Mt 8^, al.; seq. fierd, c. gen, (cl.; Eutherford, 
-KPhr., 458 f.), Lk 9*^; ^ttiVw, c. gen. (Heb. i-iqK Tibn), Mt 10^8 
+<entry n="ἀκμήν|G188">
+ <note type="occurrencesNT">1</note>
+ <form>* <orth>ἀκμήν</orth>, acc. of <foreign xml:lang="grc">ἀκμή</foreign>, </form>
+ <sense><gloss>a point</gloss>, used as adv., <gloss>at the present point of time</gloss>, <gloss>even now</gloss>, <gloss>even yet</gloss>: <ref osisRef="Matt.15.16">Mt 15:16</ref>. †</sense>
+ </entry>
 
-(cf. i$-, €7r-, KttT-, Trap-, crw-d/coXov^ew). <lb /><emph>SYN.</emph>: (cl.) €7ro;Ltai, not in NT (v. Cremer, 80; MM, <emph>VGT</emph>, s.v.). 
+<entry n="ἀκοή|G189">
+ <note type="occurrencesNT">24</note>
+ <form><orth>ἀκοή, -ῆς, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀκούω</foreign>), [in LXX: <ref osisRef="Exod.15.26">Ex 15:26</ref>, al. for <foreign xml:lang="heb">שׁמע</foreign>, its parts and derivatives, exc. <ref osisRef="Deut.11.22">De 11:22</ref> (<foreign xml:lang="heb">שׁמר</foreign>) ;] </form>
+ <sense>
+   <sense n="1."><gloss>hearing</gloss>, <gloss>the sense of hearing</gloss>: <ref osisRef="1Cor.12.17">I Co 12:17</ref>, <ref osisRef="2Pet.2.8">II Pe 2:8</ref>; "Hebraic dative," <foreign xml:lang="grc">ἀκοῇ ακούειν</foreign> (freq. in LXX; V. M, <emph>Pr.</emph>, 14, 75), <ref osisRef="Matt.13.14">Mt 13:14</ref>, <ref osisRef="Acts.28.26">Ac 28:26</ref>.</sense>
+   <sense n="2."><gloss>organ of hearing</gloss>, <gloss>the ear</gloss> (Arist., al.; MM, <emph>VGT</emph>, s.v.): <ref osisRef="2Tim.4.3">II Ti 4:3</ref>-<ref osisRef="2Tim.4.4">4</ref>; pl., <ref osisRef="Mark.7.35">Mk 7:35</ref>, <ref osisRef="Luke.7.1">Lk 7:1</ref>, <ref osisRef="Acts.17.20">Ac 17:20</ref>, <ref osisRef="Heb.5.11">He 5:11</ref>.</sense>
+   <sense n="3."><gloss>a thing heard</gloss>, i.e., 
+    <sense n="(a)"><gloss>a message</gloss>, <gloss>teaching</gloss>: <ref osisRef="John.12.38">Jo 12:38</ref> and <ref osisRef="Rom.16.16">Ro 16:16</ref>,<ref osisRef="Rom.16.17">17</ref> (LXX), <ref osisRef="Gal.3.2">Ga 3:2</ref>,<ref osisRef="Gal.3.5">5</ref> R, mg.; <foreign xml:lang="grc">λόγος ἀκοῆς</foreign>, <ref osisRef="1Thess.2.13">I Th 2:13</ref>, <ref osisRef="Heb.4.2">He 4:2</ref>;</sense>
+    <sense n="(b)"><gloss>a report</gloss>, <gloss>rumour</gloss>: c. gen, pers., <ref osisRef="Matt.4.24">Mt 4:24</ref>, 14:1, 24:6; <ref osisRef="Mark.1.28">Mk 1:28</ref> <ref osisRef="Mark.13.7">13:7</ref> (Cremer, 82, 623; MM, <emph>VGT</emph>, s.v.). †</sense>
+   </sense>
+ </sense>
+ </entry>
+
+<entry n="ἀκολουθέω|G190">
+ <note type="occurrencesNT">90</note>
+ <form><orth>ἀκολουθέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">ἀκόλουθος</foreign>, <gloss>following</gloss>; &lt; <foreign xml:lang="grc">ἀ-</foreign> cop., <foreign xml:lang="grc">κέλευθος</foreign>, poët., <gloss>away</gloss>), [in LXX chiefly for <foreign xml:lang="heb">הָלַךְ</foreign> ;] </form>
+ <sense><gloss>to accompany</gloss>, <gloss>follow</gloss>: <ref osisRef="Matt.4.25">Mt 4:25</ref>, al. Metaph., of discipleship: <ref osisRef="Matt.9.9">Mt 9:9</ref>, <ref osisRef="Mark.9.38">Mk 9:38</ref>, <ref osisRef="John.12.26">Jo 12:26</ref>, al. Absol.: <ref osisRef="Matt.18.10">Mt 18:10</ref>; more freq., c. dat. (cl.), <ref osisRef="Matt.8.1">Mt 8:1</ref>, al.; seq. <foreign xml:lang="grc">μετά</foreign>, c. gen, (cl.; Eutherford, <emph>N.Phr.</emph>, 458 f.), <ref osisRef="Luke.9.49">Lk 9:49</ref>; <foreign xml:lang="grc">ὀπίσω</foreign>, c. gen. (Heb. <foreign xml:lang="heb">הָלַךְ אָהֲרֵי</foreign>), <ref osisRef="Matt.10.38">Mt 10:38</ref> (cf. <foreign xml:lang="grc">ἐξ-</foreign>, <foreign xml:lang="grc">ἐπ-</foreign>, <foreign xml:lang="grc">κατ-</foreign>, <foreign xml:lang="grc">παρ-</foreign>, <foreign xml:lang="grc">συν-ἀκολουθέω</foreign>).
+ <lb /><emph>SYN.</emph>: (cl.) <foreign xml:lang="grc">ἕπομαι</foreign>, not in NT (v. Cremer, 80; MM, <emph>VGT</emph>, s.v.).  </sense>
+ </entry>
 
 <entry n="ἀκούω|G191">
   <note type="occurrencesNT">428</note>
