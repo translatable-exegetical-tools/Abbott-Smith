@@ -6,7 +6,7 @@ Files:
 
 abbott-smith.odt.content.xml   The original content of the RTF file, converted to ODF
 abbott-smith.xquery            An XQuery that converts the ODF to a format like our TEI format
-abbott-smith.out.xml
+abbott-smith.out.xml           Output Abbott-Smith data
 
 The XQuery is not perfect - some things should be improved in the
 query, others will need to be done manually.
@@ -21,12 +21,9 @@ The automatic conversion must meet at least these criteria:
 
 Try to fix these in the XQuery:
 
-1. Don't lose ** and daggers before and after - represent somehow
-2. Better handling of (a), (b), etc.
-3. <sense n="a"> instead of  <sense>1.
-4. Correct the OSIS references
-5. More correct tagging (lots of things are falsely labeled
-senses). Some of this may need to be manual.
+* Correct the OSIS references
+* More correct tagging (lots of things are falsely labeled
+  senses). Some of this may need to be manual.
 
 These things will need to be done manually:
 

@@ -29,7 +29,11 @@ declare function local:p($p)
   let $s := string($p)
   let $s1 := substring($s, 1, 1)
   return
-    if ($s1 eq "(") then
+    if (matches($s, "^\(.\)")) then
+      <sense n="{substring($s, 2, 1)}">{ local:spans($p) }</sense>
+    else if (matches($s, "^\d")) then
+      <sense n="{substring($s, 1, 1)}">{ local:spans($p) }</sense>
+    else if ($s1 eq "(") then
       <derivation>{ local:spans($p) }</derivation>
     else if ($s1 eq "[") then
       <septuagint>{ local:spans($p) }</septuagint>
@@ -57,14 +61,12 @@ declare function local:p($p)
    return 
     <entry lemma="{ $lexeme }" osisID="{$strongs}">
         <form><orth>{ $orth }</orth></form>
-        <window start="{$spos}" end="{$epos}">
         {
            for $p in $w
            where $p >> $pnext
              and exists($p//text())
            return local:p($p)
         }
-        </window>
     </entry>
  }
 </abbott-smith>
