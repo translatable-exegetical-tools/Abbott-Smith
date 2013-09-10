@@ -45,17 +45,18 @@ declare function local:p($p)
    end $e at $epos next $enext 
    when $epos > $spos and $enext[@text:style-name='P3']
    let $pnext := $s/following-sibling::text:p[string(.) != ""][1]
-   let $form := normalize-space(replace($pnext,  '(\*)|(†)', ''))
+   let $orth := normalize-space($pnext)
+   let $lemma := normalize-space(replace($pnext,  '(\*)|(†)', ''))
    let $lexeme := replace(
-                if (contains($form, ',')) 
-                then substring-before($form, ',')
-                else $form,
+                if (contains($lemma, ',')) 
+                then substring-before($lemma, ',')
+                else $lemma,
                 "(-)",
                 "")
    let $strongs := normalize-space($s/text:span[@text:style-name='T16'])
    return 
     <entry lemma="{ $lexeme }" osisID="{$strongs}">
-        <form><orth>{ $form }</orth></form>
+        <form><orth>{ $orth }</orth></form>
         <window start="{$spos}" end="{$epos}">
         {
            for $p in $w
