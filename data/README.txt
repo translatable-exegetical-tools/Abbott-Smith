@@ -9,7 +9,10 @@ abbott-smith.xquery            An XQuery that converts the ODF to a format like 
 abbott-smith.out.xml           Output Abbott-Smith data
 
 The XQuery is not perfect - some things should be improved in the
-query, others will need to be done manually.
+query, others will need to be done manually.  The first N are partial
+entries - this is an artifact of the original data. Instead of
+deleting this partial data, I am keeping it so it can be
+cherry-picked.
 
 αἷμα is a reasonably good benchmark entry.
 
