@@ -33,6 +33,8 @@ Current contributors include:
 * Daniel Owens
 * Dardo Sordi
 * Chuck Bearden
+* Patrick Durusau
+* Jonathan Robie
 
 Markup Information
 =
@@ -45,6 +47,7 @@ Note that until markup is complete, the file will not validate because the &lt;b
 
 Changelog
 =
+2013/12/04 - Replaced all missing entries with entries generated from DSAW's version using an XQuery, added Hebrew text to DSAW's entries. Initially complete. We still plan to restructure the entries and verify a number of things.
 
 2012/12/12 - Release of v. 0.15: Includes pages iii-16 and entries for words occurring 100 times or more in the Greek NT. Total entries: 555.
 
