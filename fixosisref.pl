@@ -1,8 +1,8 @@
 # This Perl script cleans up SBL abbreviations in @osisRef to be in line with OSIS requirements.
-open (INF, "abbott-smith.out.xml");
+open (INF, "abbott-smith.tei.xml");
 my @data = <INF>;
 close (INF);
-open (OUTF, ">../abbott-smith.source-data.xml");
+open (OUTF, ">abbott-smith.tei.2.xml");
 
 my $line;
 foreach $line (@data) {	
@@ -83,7 +83,7 @@ foreach $line (@data) {
 	$line =~ s/osisRef="2Pe\.([^"]+)">2Pe\.([^\.]+)\.([^<]+)</osisRef="2Pet\.$1">II Pe $2:$3</g;
 	$line =~ s/osisRef="Jud\.([^"]+)">Jud\.([^\.]+)\.([^<]+)</osisRef="Jude\.$1">Ju $3</g;
 		
-## Below unconfirmed
+	$line =~ s/osisRef="([^\.]+)\.(\d+)\.(\d+)-(\d+)"/osisRef="$1\.$2\.$3-$1\.$2\.$4"/g; # Fixes verse ranges
 
 	print OUTF "$line";
 }
