@@ -23,18 +23,20 @@
    <p>Daniel C. Owens</p>
    <p>Dardo Sordi</p>
    <p>Chuck Bearden</p>
+   <p>Jonathan Robie</p>
+   <p>Patrick Durusau</p>
  </encodingDesc>
 </teiHeader>
 
  <text>
- <front> 
+ <front>
  <pb n="iii" /> <!-- typed="DCO" checked="" -->
 
  <titlePage>
 <docTitle><titlePart type="main">A<lb/>  MANUAL <lb/> GREEK LEXICON<lb/> OF THE <lb/>NEW TESTAMENT</titlePart></docTitle>
  <byline>BY <lb/><docAuthor>G. ABBOTT-SMITH, D.D., D.C.L.</docAuthor><lb/>PROFESSOR OF NEW TESTAMENT LITERATURE IN THE MONTREAL DIOCESAN<lb/> THEOLOGICAL COLLEGE AND ASSISTANT PROFESSOR IN THE<lb/> ORIENTAL DEPARTMENT IN MCGILL UNIVERSITY</byline>
  <docImprint>
-  <name type="place">NEW YORK</name><lb/><name>CHARLES SCRIBNER'S SONS</name><lb/> 
+  <name type="place">NEW YORK</name><lb/><name>CHARLES SCRIBNER'S SONS</name><lb/>
   <date>1922</date>
 <pb n="iv" /><lb />Printed in the United States of America
  </docImprint>
@@ -62,9 +64,9 @@
  <p>The considerations therefore—so well set forth by Dr. Moulton in his <emph>Prolegomena</emph>—which call for an entirely new grammar of the New Testament, apply also to the work of the Lexicographer. And the materials for his work—still <pb n="viii" /> <!-- typed="DCO" checked="" -->steadily accumulating—have been liberally furnished by the special studies of Deissmann and Thumb in Germany and Moulton and Milligan in Great Britain and have also found their way into the more recent commentaries.</p>
 
  <p>The new impulse given to the study of the Septuagint by the publication of the <emph>Oxford Concordance</emph> by Hatch and Redpath, the Cambridge Manual Edition of the Septuagint and its accompanying Introduction by Dr. Swete, together with  the <emph>Grammar</emph> of Mr. Thackeray, has also had its influence on New Testament studies. While Dr. Abbott's caution<note n="1" anchored="true"><emph>Essays</emph>, 67ff.</note> as to the possibility of exaggerating the influence of the Septuagint still holds good, the evidence of the papyri has brought about a growing sense of its value to the student of the New Testament. More reference therefore has been made, it is believed, in this Lexicon to the usage of the Septuagint than in any previous work of the same kind, so that even where there may not appear to be any special significance in the Old Testament usage with respect to a particular word, the student will always have an idea of the extent and character of the use which was made of it in that version 
-which was the most familiar form of the Old Testament to the writers of the New.</p> 
+which was the most familiar form of the Old Testament to the writers of the New.</p>
 
- <p>The books mentioned in the list which follows are, out of a larger number to which I would register here a general acknowledgement of indebtedness, those which appeared to be, on the whole, the more accessible and useful to the average reader. Among the Lexicons, an almost equal debt is owed to Liddell and Scott and to Thayer. The classification of meanings in the latter, a characteristic excellence, often defies improvement, while Preuschen, though on the whole adding little to the work of his predecessors, is often helpful in this same particular. Not a few suggestions of fresh treatment have come from Fr. Zorell, S.J., whose scholarly work is quite modern and remarkably free from the ecclesiastical bias which one might have expected to find in it.</p> 
+ <p>The books mentioned in the list which follows are, out of a larger number to which I would register here a general acknowledgement of indebtedness, those which appeared to be, on the whole, the more accessible and useful to the average reader. Among the Lexicons, an almost equal debt is owed to Liddell and Scott and to Thayer. The classification of meanings in the latter, a characteristic excellence, often defies improvement, while Preuschen, though on the whole adding little to the work of his predecessors, is often helpful in this same particular. Not a few suggestions of fresh treatment have come from Fr. Zorell, S.J., whose scholarly work is quite modern and remarkably free from the ecclesiastical bias which one might have expected to find in it.</p>
 
  <p>Of the commentaries, besides those available to Thayer, the most helpful for lexical purposes have been those of Hort, Swete and Mayor in Macmillan's Series, also the International Critical Commentaries, especially the more recent issues. Some of Bishop Lightfoot's best lexical work is to be found in his posthumous <emph>Notes on Epistles of St. Paul</emph>, while Dr. Field's <emph>Notes on the Translation of the New Testament</emph>, contain a wealth of learning and sound judgment <pb n="ix" /> <!-- typed="DCO" checked="" -->such as would be hard to parallel within the limits of a single  volume.</p>
 
@@ -80,15 +82,15 @@ which was the most familiar form of the Old Testament to the writers of the New.
 
  <p>All these will pardon me if I single out for special mention the one name of Dr. J. H. Moulton, the genial master-crafts-<pb n="x" /> <!-- typed="DCO" checked="" -->man of that science to which I have sought in a humble way to contribute what I could. At the beginning of my undertaking he took me in, a stranger, and gave me ungrudgingly of his counsel and direction, and also my first introduction to the publishers through whom the appearance of the work under the best possible auspices was assured.</p>
 
- <p>To the manifold assistance I have had from fellow-workers, both by word of mouth and through the printed page I would fain attribute most of the value which this modest effort may possess. For its deficiencies I am alone responsible, and I can only hope that in spite of them this book may sustain the note sounded in the last word in the alphabetical order of the New Testament Vocabulary—ὠφέλιμος—and may serve in a small way to the more faithful and intelligent study of the Book of the New Covenant of our Lord and Saviour in the language in which it was written.</p> 
+ <p>To the manifold assistance I have had from fellow-workers, both by word of mouth and through the printed page I would fain attribute most of the value which this modest effort may possess. For its deficiencies I am alone responsible, and I can only hope that in spite of them this book may sustain the note sounded in the last word in the alphabetical order of the New Testament Vocabulary—ὠφέλιμος—and may serve in a small way to the more faithful and intelligent study of the Book of the New Covenant of our Lord and Saviour in the language in which it was written.</p>
 
  <p>The foregoing paragraphs were written early in 1917, when, with the last sheets of the Lexicon, they were sent overseas for publication. The manuscript has thus been inaccessible for revision, whence the absence of any reference to much valuable material that has appeared, both in books and in periodicals, during the last four years, including the second volume of the <emph>Grammar</emph> of Dr. Moulton, whose tragic death as a victim of the ruthless warfare of the submarines was reported a few days after the earlier part of this Preface was written. The student is recommended to supplement the grammatical references in the body of the Lexicon by consulting the Index to Vol. II. of Dr. Moulton's <emph>Grammar</emph>.</p>
 
- <p>I take this opportunity of adding to the acknowledgements already made my thanks to Professors A. R. Gordon and S. B. Slack of McGill University and to the Rev. R. K. Naylor, sometime classical tutor at McGill, for their kindness in proof-reading, to the publishers for their generous enterprise at a time of unprecedented difficulty in the production of books, and to the compositors and readers of the Aberdeen University Press for their painstaking and accurate performance of a difficult task.</p> 
+ <p>I take this opportunity of adding to the acknowledgements already made my thanks to Professors A. R. Gordon and S. B. Slack of McGill University and to the Rev. R. K. Naylor, sometime classical tutor at McGill, for their kindness in proof-reading, to the publishers for their generous enterprise at a time of unprecedented difficulty in the production of books, and to the compositors and readers of the Aberdeen University Press for their painstaking and accurate performance of a difficult task.</p>
 
- <p>G. ABBOTT-SMITH.</p> 
+ <p>G. ABBOTT-SMITH.</p>
  <p>MONTREAL</p>
- <p>September, 1921.</p> 
+ <p>September, 1921.</p>
   <pb n="xi" /> <!-- typed="DCO" checked="" -->
  </div>
  <div type="section">
@@ -416,8 +418,8 @@ which was the most familiar form of the Old Testament to the writers of the New.
  </table>
  </p>
 
- <p>= Equivalent to, equals.</p> 
- <p>&lt; Derived from or related to.</p> 
+ <p>= Equivalent to, equals.</p>
+ <p>&lt; Derived from or related to.</p>
 
   <pb n="xii" /> <!-- typed="DCO" checked="" -->
  
@@ -1034,7 +1036,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <row>
  <cell>Dalman, <emph>Gt.</emph></cell>
   <cell>= Grammatik des jüdish-palästinischen Aramäish, by G. Dalman. Leipzig, 1894. <pb n="xiv" /> <!-- typed="DCO" checked="" --></cell>
- </row> 
+ </row>
  <row>
   <cell>Dalman, <emph>Words</emph></cell>
   <cell>= The Words of Jesus, by G. Dalman. English Edition. T. &amp; T. Clark, 1902.</cell>
@@ -1305,10 +1307,10 @@ which was the most familiar form of the Old Testament to the writers of the New.
  </div>
  </front>
 
- <pb n="1" /> <!-- typed="DCO" checked="" --> 
+ <pb n="1" /> <!-- typed="DCO" checked="" -->
 
  <body>
- <head type="heading1">MANUAL GREEK LEXICON OF THE NEW TESTAMENT</head> 
+ <head type="heading1">MANUAL GREEK LEXICON OF THE NEW TESTAMENT</head>
 
  <div type="letter" n="Α">
   <head type="heading2">Α</head>
@@ -1316,79 +1318,79 @@ which was the most familiar form of the Old Testament to the writers of the New.
 <entry n="α|G1">
   <form><orth>Α, α, ἄλφα</orth> (q.v.), <orth>τό</orth>, indecl., </form>
   <sense><gloss>alpha</gloss>, the first letter of the Greek alphabet. As a numeral, <foreign xml:lang="grc">ά</foreign> = 1, <foreign xml:lang="grc">α</foreign> = 1000. As a prefix, it appears to have at least two and perhaps three distinct senses: 
-    <sense n="1."><foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>. </sense> 
-    <sense n="2."><foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>. </sense> 
+    <sense n="1."><foreign xml:lang="grc">ἀ-</foreign> (before a vowel, <foreign xml:lang="grc">ἀν-</foreign>) <gloss>negative</gloss>, as in <foreign xml:lang="grc">ἄ-γνωστος, ἄ-δικος</foreign>. </sense>
+    <sense n="2."><foreign xml:lang="grc">ἀ-, ἁ-</foreign> <gloss>copulative</gloss>, indicating community and fellowship, as in <foreign xml:lang="grc">ἁ-πλοῦς, ἀ-κολουθέω, ἀ-δελφός</foreign>. </sense>
     <sense n="3.">An <gloss>intensive</gloss> force (LS, s. <foreign xml:lang="grc">α</foreign>), as in <foreign xml:lang="grc">ἀ-τενίζω</foreign> is sometimes assumed (but v. Boisacq, s.v.).</sense>
-  </sense> 
+  </sense>
 </entry>
  
 <entry n="Ἀαρών|G2">
   <note type="occurrencesNT">5</note>
-  <form><orth>Ἀαρών</orth> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <orth>-ῶνος</orth>), </form> 
+  <form><orth>Ἀαρών</orth> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <orth>-ῶνος</orth>), </form>
   <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
- </entry> 
+ </entry>
  
 <entry n="Ἀβαδδών|G3">
   <note type="occurrencesNT">1</note>
   <form><orth>Ἀβαδδών</orth> (Heb. <foreign xml:lang="heb">אֲבַדֹּון</foreign>,</form>
   <sense><gloss>destruction</gloss>; LXX, <foreign xml:lang="grc">ἀπώλεια</foreign>, only in Wisdom Lit., of the place of the ruined dead: <ref osisRef="Job.26.6">Jb 26:6</ref>, <ref osisRef="Job.28.22">28:22</ref>, <ref osisRef="Job.31.12">31:12</ref>, <ref osisRef="Ps.88:12">Ps 88:12</ref>, <ref osisRef="Prov.15.11">Pr 15:11</ref>*), indecl.; in NT, <gloss>Abaddon</gloss>, the angel of the Abyss: <ref osisRef="Rev.9.11">Re 9:11</ref>.†</sense>
- </entry> 
+ </entry>
  
 <entry n="αβαρής|G4">
   <note type="occurrencesNT">1</note>
-  <form>* <orth>αβαρής, -ές</orth> (&lt; <foreign xml:lang="grc">βαρός</foreign>), </form> 
+  <form>* <orth>αβαρής, -ές</orth> (&lt; <foreign xml:lang="grc">βαρός</foreign>), </form>
   <sense><gloss>without weight</gloss>; metaph. (MM, <emph>VGT</emph>, s.v.) <gloss>not burdensome</gloss>: <ref osisRef="2Cor.11.9">II Co 11:9</ref>.†</sense>
- </entry> 
+ </entry>
  
 <entry n="Ἀββά|G5">
   <note type="occurrencesNT">3</note>
-  <form><orth>Ἀββά</orth> (T, <orth>-ᾶ</orth>), indecl. (Aram, <foreign xml:lang="arc">אַבָּא</foreign>, emphatic form of <foreign xml:lang="arc">אַב</foreign> = Heb. <foreign xml:lang="heb">אָב</foreign>, <gloss>father</gloss>), </form> 
+  <form><orth>Ἀββά</orth> (T, <orth>-ᾶ</orth>), indecl. (Aram, <foreign xml:lang="arc">אַבָּא</foreign>, emphatic form of <foreign xml:lang="arc">אַב</foreign> = Heb. <foreign xml:lang="heb">אָב</foreign>, <gloss>father</gloss>), </form>
   <sense>used in the phrase <foreign xml:lang="grc">Ἀ. ὁ παήρ</foreign>, <gloss>Abba, Father</gloss> (v. Swete on Mk, I.c.): <ref osisRef="Mark.14.36">Mk 14:36</ref>, <ref osisRef="Rom.8.15">Ro 8:15</ref>, <ref osisRef="Gal.4.6">Ga 4:6</ref>. †  </sense>
- </entry> 
+ </entry>
 
 <entry n="Ἀβειληνή">
   <note type="occurrencesNT">1</note>
-  <form><orth>Ἀβειληνή</orth> (T, Rec. <orth>Ἀβι-</orth>), <orth>-ῆς, ἡ</orth>, (sc. <foreign xml:lang="grc">χώρα</foreign>), </form> 
+  <form><orth>Ἀβειληνή</orth> (T, Rec. <orth>Ἀβι-</orth>), <orth>-ῆς, ἡ</orth>, (sc. <foreign xml:lang="grc">χώρα</foreign>), </form>
   <sense><gloss>Abilene</gloss>, a district in the Anti-Lebanon: <ref osisRef="Luke.3.1">Lk 3:1</ref>. †</sense>
- </entry> 
+ </entry>
 
 <entry n="Ἅβελ|G6">
   <note type="occurrencesNT">4</note>
-  <form><orth>Ἄβελ</orth>, (WH, <orth> Ἅ-</orth>), <orth>ὁ</orth>, indecl. (<foreign xml:lang="heb">הֶבֶל</foreign>), </form> 
+  <form><orth>Ἄβελ</orth>, (WH, <orth> Ἅ-</orth>), <orth>ὁ</orth>, indecl. (<foreign xml:lang="heb">הֶבֶל</foreign>), </form>
   <sense><gloss>Abel</gloss> (<ref osisRef="Gen.4.4-Gen.4.10">Ge 4:2-10</ref>): <ref osisRef="Heb.11.4">He 11:4</ref>, <ref osisRef="Heb.12.24">12:24</ref>; <foreign xml:lang="grc">αἵμα Ἄ</foreign>., <ref osisRef="Matt.23.35">Mt 23:35</ref>, <ref osisRef="Luke.11.51">Lk 11:51</ref>. †  </sense>
- </entry> 
+ </entry>
 
 <entry n="Ἀβιά|G7">
   <note type="occurrencesNT">3</note>
-  <form><orth>Ἀβιά</orth> (Heb. <foreign xml:lang="heb">אֲבִיָּה</foreign>, <foreign xml:lang="heb">אֲבִיָּהוּ</foreign>), <foreign xml:lang="grc">ὁ</foreign>, indecl. (in FlJ, <foreign xml:lang="grc">Ἀβίας, -α</foreign>), </form> 
+  <form><orth>Ἀβιά</orth> (Heb. <foreign xml:lang="heb">אֲבִיָּה</foreign>, <foreign xml:lang="heb">אֲבִיָּהוּ</foreign>), <foreign xml:lang="grc">ὁ</foreign>, indecl. (in FlJ, <foreign xml:lang="grc">Ἀβίας, -α</foreign>), </form>
   <sense><gloss>Abia, Abijah</gloss>. 
-    <sense n="1.">Son of Eehoboam (<ref osisRef="2Kgs.14.1">III Ki 14:1</ref>): <ref osisRef="Matt.1.7">Mt 1:7</ref>. </sense> 
+    <sense n="1.">Son of Eehoboam (<ref osisRef="2Kgs.14.1">III Ki 14:1</ref>): <ref osisRef="Matt.1.7">Mt 1:7</ref>. </sense>
     <sense n="2.">A priest of the line of Eleazar (<ref osisRef="1Chr.24.3">I Ch 24:3</ref>, <ref osisRef="1Chr.24.10">10</ref>): <ref osisRef="Luke.1.5">Lk 1:5</ref>. </sense> †
   </sense>
-</entry> 
+</entry>
 
 <entry n="Ἀβιάθαρ|G8">
   <note type="occurrencesNT">1</note>
-  <form><orth>Ἀβιάθαρ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">אֶבְיָתָר</foreign>), </form> 
+  <form><orth>Ἀβιάθαρ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">אֶבְיָתָר</foreign>), </form>
   <sense><gloss>Abiathar</gloss> (<ref osisRef="1Kgs.21.1">I Ki 21:1</ref>): <ref osisRef="Mark.2.26">Mk 2:26</ref>. †</sense>
- </entry> 
+ </entry>
 
 <entry n="Ἀβιληνή|G9">
   <note type="occurrencesNT">1</note>
   <form><orth>Ἀβιληνή</orth> v.s. <foreign xml:lang="grc">Ἀβειληνή</foreign>.</form>
- </entry> 
+ </entry>
 
 <entry n="Ἀβιούδ|G10">
   <note type="occurrencesNT">2</note>
-  <form><orth>Ἀβιούδ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">אֲבִיָּהוּד</foreign>), </form> 
+  <form><orth>Ἀβιούδ, ὁ</orth>, indecl. (Heb. <foreign xml:lang="heb">אֲבִיָּהוּד</foreign>), </form>
   <sense><gloss>Abiud, Abihud</gloss>: <ref osisRef="Matt.1.13">Mt 1:13</ref>. †</sense>
- </entry> 
+ </entry>
  
 <entry n="Ἀβραάμ|G11">
   <note type="occurrencesNT">73</note>
   <form><orth>Ἀβραάμ</orth> (Heb. <foreign xml:lang="heb">אַבְרָהָם</foreign>), <orth>ὁ</orth>, indecl. (in FlJ, <orth>Ἄβραμος, -ου</orth>; MM, <emph>VGT</emph>, s.v.), </form>
   <sense><gloss>Abraham</gloss> (<ref osisRef="Gen.17.5">Ge 17:5</ref> al.): <ref osisRef="Matt.1.1-Matt.1.2">Mt 1:1, 2</ref> al.</sense>
- </entry> 
+ </entry>
  
  <pb n="2" /> <!-- typed="DCO" checked="" -->
 
@@ -1396,24 +1398,24 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">9</note>
   <form><orth>ἄ-βυσσος, -ον</orth> (Ion. <foreign xml:lang="grc">βυσσός</foreign> = <foreign xml:lang="grc">βυθός</foreign>), </form>
   <sense>
-    <sense n="1.">in cl., <gloss>boundless, bottomless</gloss> (e.g. <foreign xml:lang="grc">ἄ. πέλαγος, ἄ. πλοῦτος</foreign> Æsch.).</sense> 
+    <sense n="1.">in cl., <gloss>boundless, bottomless</gloss> (e.g. <foreign xml:lang="grc">ἄ. πέλαγος, ἄ. πλοῦτος</foreign> Æsch.).</sense>
     <sense n="2.">[In LXX (for <foreign xml:lang="heb">תְּהוֹם</foreign>, <ref osisRef="Gen.1.2">Ge 1:2</ref>, al.; exc. <ref osisRef="Isa.44.27">Is 44:27</ref>, <ref osisRef="Job.41.22">Jb 41:22</ref> for <foreign xml:lang="heb">צוּלָה</foreign>, <foreign xml:lang="heb">מְצוּלָה</foreign>, <ref osisRef="Job.36.16">Jb 36:16</ref> for <foreign xml:lang="heb">רַחַב</foreign>) and] NT, as subst. (MM, <emph>VGT</emph>, s.v.), <foreign xml:lang="grc">ἡ ἄ.</foreign> (sc. <foreign xml:lang="grc">χώρα</foreign>), <gloss>the abyss</gloss>; 
       <sense n="(a)">of the sea (<ref osisRef="Gen.1.2">Ge 1:2</ref>); </sense>
       <sense n="(b)">of the underworld, as the abode of the dead: <ref osisRef="Rom.10.7">Ro 10:7</ref> (a paraphrase of <ref osisRef="Deut.30.13">De 30:13</ref> LXX); as the abode of demons, <ref osisRef="Luke.8.31">Lk 8:31</ref>, <ref osisRef="Rev.9.1">Re 9:1</ref>, <ref osisRef="Rev.9.2">2</ref>, <ref osisRef="Rev.9.11">11</ref>, <ref osisRef="Rev.11.7">11:7</ref>, <ref osisRef="Rev.17.8">17:8</ref>, <ref osisRef="Rev.20.1">20:1</ref>, <ref osisRef="Rev.20.3">3</ref> (Cremer, 2). </sense>
     </sense> †
   </sense>
- </entry> 
+ </entry>
 
 <entry n="Ἄγαβος|G13">
   <note type="occurrencesNT">2</note>
   <form><orth>Ἄγαβος, -ου, ὁ</orth></form>
   <sense><gloss>Agabus</gloss>: <ref osisRef="Acts.11.28">Ac 11:28</ref>, <ref osisRef="Acts.21.10">21:10</ref>. †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἀγαθοεργέω|G14">
   <note type="occurrencesNT">2</note>
   <form>*† <orth>ἀγαθοεργέω, -ῶ</orth>, </form>
-  <gramGrp/> 
+  <gramGrp/>
   <sense><gloss>to do good, show kindness</gloss>: <ref osisRef="1Tim.6.18">1 Ti 6:18</ref> (Cremer, 8). †</sense>
  </entry>
 
@@ -1431,13 +1433,13 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">1</note>
   <form>*† <orth>ἀγαθοποιία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγαθοποιός</foreign>), </form>
   <sense><gloss>well-doing</gloss>: <ref osisRef="1Pet.4.19">I Pe 4:19</ref>. †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἀγαθοποιός|G17">
   <note type="occurrencesNT">1</note>
   <form>**† <orth>ἀγαθοποιός, -όν</orth> = cl. <foreign xml:lang="grc">ἀγαθουργός</foreign>, [in LXX, of a woman who deals pleasantly in order to corrupt, <ref osisRef="Sir.42.14">Si 42:14</ref>*;] </form>
   <sense><gloss>doing well, acting rightly</gloss> (Plut.): <ref osisRef="1Pet.2.14">I Pe 2:14</ref> (Cremer, 8; MM, <emph>VGT</emph>, s.v.). †</sense>
- </entry> 
+ </entry>
 
  <entry n="ἀγαθός|G18">
   <note type="occurrencesNT">102</note>
@@ -1445,7 +1447,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <sense>in general, <gloss>good</gloss>, in physical and in moral sense, used of persons, things, acts, conditions, etc., applied to that which is regarded as "perfect in its kind, so as to produce pleasure and satisfaction, . . . that which, in itself good, is also at once for the good and the advantage of him who comes in contact with it" (Cremer, 3): <foreign xml:lang="grc">γῆ</foreign>, <ref osisRef="Luke.8.8">Lk 8:8</ref>; <foreign xml:lang="grc">δένδρον</foreign>, <ref osisRef="Matt.7.18">Mt 7:18</ref>; <foreign xml:lang="grc">καρδία</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>; <foreign xml:lang="grc">δόσις</foreign>, <ref osisRef="Jas.1.17">Ja 1:17</ref>; <foreign xml:lang="grc">μέρις</foreign>, <ref osisRef="Luke.10.42">Lk 10:42</ref>; <foreign xml:lang="grc">ἔργον</foreign> (freq. in Pl.), <ref osisRef="Phil.1.6">Phl 1:6</ref>; <foreign xml:lang="grc">ἐλπίς</foreign>, <ref osisRef="2Thess.2.16">II Th 2:16</ref>; <foreign xml:lang="grc">θησαυρός</foreign>, <ref osisRef="Mat.12.35">Mt 12:35</ref>; <foreign xml:lang="grc">μνεία</foreign>, <ref osisRef="1Thess.3.6">I Th 3:6</ref> (cf. <ref osisRef="2Macc.7.20">II Mac 7·20</ref>); as subst., <foreign xml:lang="grc">τὸ ἀ</foreign>, that which is morally good, beneficial, acceptable to God, <ref osisRef="Rom.12.2">Ro 12:2</ref>; <foreign xml:lang="grc">ἐργάζεσθαι τὸ ἀ</foreign>, <ref osisRef="Rom.2.10">Ro 2:10</ref>, <ref osisRef="Eph.4.28">Eph 4:28</ref>; <foreign xml:lang="grc">πράσσειν</foreign>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="2Cor.5.10">II Co 5:10</ref>; <foreign xml:lang="grc">διώκειν</foreign>, <ref osisRef="1Thess.5.15">I Th 5:15</ref>; <foreign xml:lang="grc">μιμεῖσθαι</foreign>, <ref osisRef="3John.1.11">III Jo 11</ref>; <foreign xml:lang="grc">κολλᾶσθαι τῷ ἀ</foreign>, <ref osisRef="Rom.12.9">Ro 12:9</ref>; <foreign xml:lang="grc">ερωτᾶν περὶ τοῦ ἀ.</foreign>, <ref osisRef="Matt.19.17">Mt 19:17</ref>; <foreign xml:lang="grc">διάκονος εἰς τὸ ἀ.</foreign>, <ref osisRef="Rom.13.4">Ro 13:4</ref>; <foreign xml:lang="grc">τὸ 
 ἀ. σου</foreign>, <gloss>thy favour, benefit</gloss>, <ref osisRef="Phlm.1.14">Phm 14</ref>; pl., <foreign xml:lang="grc">τὸ ἀ.</foreign>, of goods, possessions, <ref osisRef="Luke.12.18">Lk 12:18</ref>; of spiritual benefits, <ref osisRef="Rom.10.15">Ro 10:15</ref>, <ref osisRef="Heb.9.11">He 9:11</ref>, <ref osisRef="Heb.10.1">10:1</ref>. <foreign xml:lang="grc">ἀ</foreign> is opp. to <foreign xml:lang="grc">πονήρος</foreign>, <ref osisRef="Matt.5.45">Mt 5:45</ref>, <ref osisRef="Matt.20.15">20:5</ref>; <foreign xml:lang="grc">κακός</foreign>, <ref osisRef="Rom.7.19">Ro 7:19</ref>; <foreign xml:lang="grc">φαῦλος</foreign>, <ref osisRef="Rom.9.11">Ro 9:11</ref>, <ref osisRef="2Cor.5.10">II Co 5:10</ref> (cf. MM, <emph>VGT</emph>, s.v.).
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">καλός, δίκαιος. κ.</foreign> properly refers to goodliness as manifested in form: <foreign xml:lang="grc">ἀ.</foreign> to inner excellence (cf. the cl. <foreign xml:lang="grc">καλὸς κἀγαθός</foreign> and <foreign xml:lang="grc">ἐν καρδία κ. καὶ ἀ.</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>). In <ref osisRef="Rom.5.7">Ro 5:7</ref>, where it is contrasted with <foreign xml:lang="grc">δ.</foreign>, <foreign xml:lang="grc">ἀ.</foreign> implies a kindliness and attractiveness not necessarily possessed by the <foreign xml:lang="grc">δίκαιος</foreign>, who merely measures up to a high standard of rectitude (cf. <foreign xml:lang="grc">ἀγαθωσύνη</foreign>).</sense>
- </entry>  
+ </entry>
 
 <entry n="ἀγαθουργέω">
   <note type="occurrencesNT">1</note>
@@ -1463,71 +1465,71 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">5</note>
   <form>† <orth>ἀγαλλίασις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγαλλιάω</foreign>), [in LXX (most freq. in Pss. and <pb n="3" /> <!-- typed="DCO" checked="" -->often coupled with <foreign xml:lang="grc">εὐφροσύνη</foreign>, as <ref osisRef="Ps.45.15">Ps 44(45):15</ref>) chiefly for <foreign xml:lang="heb">גִּיל</foreign>;] </form>
   <sense><gloss>exultation, exuberant joy</gloss>: <ref osisRef="Luke.1.44">Lk 1:44</ref>, <ref osisRef="Acts.2.46">Ac 2:46</ref>, <ref osisRef="Heb.1.9">He 1:9</ref>, <ref osisRef="Jude.1.24">Ju 24</ref>; <foreign xml:lang="grc">χαρὰ καὶ ἀ.</foreign>, <ref osisRef="Luke.1.14">Lk 1:14</ref> (Cremer, 592). †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἀγαλλιάω|G21">
   <note type="occurrencesNT">11</note>
   <form>† <orth>ἀγαλλιάω, -ῶ</orth>, Hellenistic form of cl. <foreign xml:lang="grc">ἀγάλλω</foreign>, <gloss>to glorify</gloss>, mid. <foreign xml:lang="grc">-ομαι</foreign>, <gloss>to exult in</gloss>; [in LXX (most freq. in Pss.) chiefly for <foreign xml:lang="heb">גיל</foreign>, <foreign xml:lang="heb">רנן</foreign> pi.;] </form>
   <sense><gloss>to exult, rejoice greatly</gloss>: seq. <foreign xml:lang="grc">ἐπί</foreign>, c. dat., <ref osisRef="Luke.1.47">Lk 1:47</ref>; c. dat. mod., <ref osisRef="1Pet.1.8">I Pe 1:8</ref>, <ref osisRef="Rev.19.7">Re 19:7</ref>. Mid., with same sense: <ref osisRef="Matt.5.12">Mt 5:12</ref>, <ref osisRef="Luke.10.21">Lk 10:21</ref>, <ref osisRef="Acts.2.26">Ac 2:26</ref>, <ref osisRef="Acts.16.34">16:34</ref>, <ref osisRef="1Pet.4.13">I Pe 4:13</ref>; seq. <foreign xml:lang="grc">ἵνα</foreign>, <ref osisRef="John.8.56">Jo 8:56</ref>; <foreign xml:lang="grc">ἐν</foreign>, <ref osisRef="John.5.35">Jo 5:35</ref> (1 aor. pass. perh. as mid.; but v. Mozley, <emph>Psalter</emph>, 5), <ref osisRef="1Pet.1.6">I Pe 1:6</ref> (Cremer, 590). †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἄγαμος|G22">
   <note type="occurrencesNT">4</note>
   <form>** <orth>ἄ-γαμος, -ον</orth> [in LXX: <ref osisRef="4Macc.16.9">IV Mac 16:9</ref>*;] </form>
   <sense><gloss>unmarried</gloss>: <ref osisRef="1Cor.7.8">I Co 7:8</ref>, <ref osisRef="1Cor.7.32">32</ref>; fem. (= cl. <foreign xml:lang="grc">ἄνανδρος</foreign>), <ref osisRef="1Cor.7.11">ib. 11</ref>, <ref osisRef="1Cor.7.34">34</ref>. †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἀγανακτέω|G23">
   <note type="occurrencesNT">7</note>
   <form>** <orth>ἀγανακτέω, -ῶ</orth> (&lt;<foreign xml:lang="grc">ἄγαν</foreign>, <gloss>much</gloss>, <foreign xml:lang="grc">ἄχομαι</foreign>, <gloss>to grieve</gloss>), [in LXX: <ref osisRef="Wis.5.22">Wi 5:22</ref>, <ref osisRef="Wis.12.27">12:27</ref>, <ref osisRef="Bel.1.28">Da TH Bel 28</ref>, <ref osisRef="4Macc.4.21">IV Mac 4:21</ref>*;] </form>
   <sense><gloss>to be indignant</gloss>: <ref osisRef="Matt.21.15">Mt 21:15</ref>, <ref osisRef="Matt.26.8">26:8</ref>, <ref osisRef="Mark.10.14">Mk 10:14</ref>, <ref osisRef="Mark.14.4">14:4</ref>; seq. <foreign xml:lang="grc">περί</foreign>, <ref osisRef="Matt.20.24">Mt 20:24</ref>, <ref osisRef="Mark.10.41">Mk 10:41</ref>; seq. <foreign xml:lang="grc">ὅτι</foreign>, <ref osisRef="Luke.13.14">Lk 13:14</ref> (v. MM, <emph>VGT</emph>, s.v.). †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἀγανάκτησις|G24">
   <note type="occurrencesNT">1</note>
   <form>** <orth>ἀγανάκτησις, -εως, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγανακτέω</foreign>), [in LXX: <ref osisRef="Esth.18.3">Es 18:3</ref> <foreign xml:lang="heb">א</foreign><hi rend="superscript">1</hi>*;] </form>
   <sense><gloss>indignation</gloss>: <ref osisRef="2Cor.7.11">II Co 7:11</ref> (v. MM, <emph>VGT</emph>, s.v.). †</sense>
- </entry> 
+ </entry>
 
 <entry n="ἀγαπάω|G25">
   <note type="occurrencesNT">143</note>
   <form><orth>ἀγαπάω, -ῶ</orth>, [in LXX chiefly for <foreign xml:lang="heb">אהב</foreign>;] </form>
   <sense><gloss>to love</gloss>, to feel and exhibit esteem and goodwill to a person, to prize and delight in a thing.
-    <sense n="1.">Of human affection, to men: <foreign xml:lang="grc">τ. πλησίον</foreign>, <ref osisRef="Matt.5.43">Mt 5:43</ref>; <foreign xml:lang="grc">τ. ἐχθρούς</foreign>, <ref osisRef="Matt.5.44">ib. 44</ref>; to Christ, <ref osisRef="John.8.42">Jo 8:42</ref>; to God, <ref osisRef="Matt.22.37">Mt 22:37</ref>; c. acc. rei, <ref osisRef="Luke.11.43">Lk 11:43</ref>, <ref osisRef="John.12.43">Jo 12:43</ref>, <ref osisRef="Eph.5.25">Eph 5:25</ref>, <ref osisRef="2Tim.4.8">II Tim 4:8</ref>, <ref osisRef="2Tim.4.10">10</ref>, <ref osisRef="Heb.1.9">He 1:9</ref>, <ref osisRef="1Pet.2.17">I Pe 2:17</ref>, <ref osisRef="1Pet.3.10">3:10</ref>, <ref osisRef="2Pet.2.15">II Pe 2:15</ref>, <ref osisRef="1John.2.15">I Jo 2:15</ref>, <ref osisRef="Rev.12.11">Re 12:11</ref>.</sense> 
+    <sense n="1.">Of human affection, to men: <foreign xml:lang="grc">τ. πλησίον</foreign>, <ref osisRef="Matt.5.43">Mt 5:43</ref>; <foreign xml:lang="grc">τ. ἐχθρούς</foreign>, <ref osisRef="Matt.5.44">ib. 44</ref>; to Christ, <ref osisRef="John.8.42">Jo 8:42</ref>; to God, <ref osisRef="Matt.22.37">Mt 22:37</ref>; c. acc. rei, <ref osisRef="Luke.11.43">Lk 11:43</ref>, <ref osisRef="John.12.43">Jo 12:43</ref>, <ref osisRef="Eph.5.25">Eph 5:25</ref>, <ref osisRef="2Tim.4.8">II Tim 4:8</ref>, <ref osisRef="2Tim.4.10">10</ref>, <ref osisRef="Heb.1.9">He 1:9</ref>, <ref osisRef="1Pet.2.17">I Pe 2:17</ref>, <ref osisRef="1Pet.3.10">3:10</ref>, <ref osisRef="2Pet.2.15">II Pe 2:15</ref>, <ref osisRef="1John.2.15">I Jo 2:15</ref>, <ref osisRef="Rev.12.11">Re 12:11</ref>.</sense>
     <sense n="2.">Of divine love; 
       <sense n="(a)">God's love: to men, <ref osisRef="Rom.8.37">Ro 8:37</ref>; to Christ, <ref osisRef="John.3.35">Jo 3:35</ref>; </sense>
       <sense n="(b)">Christ's love: to men, <ref osisRef="Mark.10.21">Mk 10:21</ref>; to God, <ref osisRef="John.14.31">Jo 14:31</ref>; c. cogn. acc., <ref osisRef="John.17.26">Jo 17:26</ref>, <ref osisRef="Eph.2.4">Eph 2:4</ref>.</sense>
     </sense>
     <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλέω</foreign>. From its supposed etymology (Thayer, LS; but v. also Boisacq) <foreign xml:lang="grc">ἀ.</foreign> is commonly understood properly to denote love based on esteem (<foreign xml:lang="lat">diligo</foreign>), as distinct from that expressed by <foreign xml:lang="grc">φιλέω</foreign> (<foreign xml:lang="lat">amo</foreign>), spontaneous natural affection, emotional and unreasoning. If this distinction holds, <foreign xml:lang="grc">ἀ.</foreign> is fitly used in NT of Christian love to God and man, the spiritual affection which follows the direction of the will, and which, therefore, unlike that feeling which is instinctive and unreasoned, can be commanded as a duty. (Cf. <foreign xml:lang="grc">ἀγάπη</foreign>, and <emph>v</emph>. Tr., <emph>Syn</emph>. §xii; Cremer, 9, 592; and esp. MM, <emph>VGT</emph>, s.v.)
   </sense>
- </entry> 
+ </entry>
  
 <entry n="ἀγάπη|G26">
   <note type="occurrencesNT">116</note>
   <form>† <orth>ἀγάπη, -ης, ἡ</orth> [in LXX for <foreign xml:lang="heb">אַהֲבָה</foreign>, which is also rendered by <foreign xml:lang="grc"> ἀγάπησις</foreign> and <foreign xml:lang="grc">φιλία</foreign>;] </form>
-  <gramGrp/> 
+  <gramGrp/>
   <sense><gloss>love, goodwill, esteem</gloss>. Outside of bibl. and eccl. books, there is no clear instance (with Deiss., <emph>LAE</emph>, 18:4, 70:2, cf. the same writer in <emph>Constr. Quar.</emph>, ii, 4; and with MM, <emph>VGT</emph>, s.v., cf. Dr. Moulton in <emph>Exp. Times</emph>, xxvi, 3, 139). In NT, like <foreign xml:lang="grc">ἀγαπάω, -ῶ</foreign>, 
     <sense n="1.">Of men's love: 
 	<sense n="(a)">to one another, <ref osisRef="John.13.35">Jo 13:35</ref>; </sense>
 	<sense n="(b)">to God, <ref osisRef="1John.2.5">I Jo 2:5</ref>.</sense>
-    </sense> 
+    </sense>
     <sense n="2.">Of divine love; 
       <sense n="(a)">God's love: to men, <ref osisRef="Rom.5.8">Ro 5:8</ref>; to Christ, <ref osisRef="John.17.26">Jo 17:26</ref>; </sense>
       <sense n="(b)">Christ's love to men: <ref osisRef="Rom.8.35">Ro 8:35</ref>. </sense>
-    </sense> 
-    <sense n="3.">In pl., <gloss>love feasts</gloss>: <ref osisRef="Jude.1.12">Ju 12</ref> (<emph>DB</emph>, iii, 157).</sense> 
+    </sense>
+    <sense n="3.">In pl., <gloss>love feasts</gloss>: <ref osisRef="Jude.1.12">Ju 12</ref> (<emph>DB</emph>, iii, 157).</sense>
     <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">φιλία</foreign>. <foreign xml:lang="grc">ἀ.</foreign>, signifying properly (v.s. <foreign xml:lang="grc">ἀγαπάω</foreign>) love which chooses its object, is taken over from LXX, where its connotation is more general, into NT, and there used exclusively to express that spiritual bond of love between God and man and between man and man, in Christ, which is characteristic of Christianity. It is thus<pb n="4" /> <!-- typed="DS" checked="" -->distinct from <foreign xml:lang="grc">φιλία</foreign>, <emph>friendship</emph> (<ref osisRef="Jas.4.4">Ja 4:4</ref> only), <foreign xml:lang="grc">στοργή</foreign>, <emph>natural affection</emph> (in NT only in compounds, v.s. <foreign xml:lang="grc">ἄστοργος</foreign>) and <foreign xml:lang="grc">ἔρως</foreign>, <emph>sexual love</emph>, which is not used in NT, its place being taken by <foreign xml:lang="grc">ἐπιθυμία</foreign>. (Cf. <foreign xml:lang="grc">ἀγαπάω</foreign>; and v. Abbott, <emph>Essays</emph>, 70f.; 
 <emph>DB</emph>, vol. i., 555; Cremer, 13, 593; MM, <emph>VGT</emph>, s.v.).
   </sense>
- </entry> 
+ </entry>
  
 <entry n="ἀγαπητός|G27">
   <note type="occurrencesNT">61</note>
-  <form><orth>ἀγαπητός, -ή, -όν</orth> (&lt; <foreign xml:lang="grc">ἀγαπάω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">יָתִיד</foreign>, <foreign xml:lang="heb">יָדִיד</foreign> ;] </form> 
+  <form><orth>ἀγαπητός, -ή, -όν</orth> (&lt; <foreign xml:lang="grc">ἀγαπάω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">יָתִיד</foreign>, <foreign xml:lang="heb">יָדִיד</foreign> ;] </form>
   <sense><gloss>beloved</gloss> (v. M, <emph>Pr.</emph>, 221); 
-    <sense n="(a)">by God: of Christ, <ref osisRef="Matt.3.17">Mt 3:17</ref>; of men, <ref osisRef="Rom.1.7">Ro 1:7</ref>; </sense> 
+    <sense n="(a)">by God: of Christ, <ref osisRef="Matt.3.17">Mt 3:17</ref>; of men, <ref osisRef="Rom.1.7">Ro 1:7</ref>; </sense>
     <sense n="(b)">by Christians, of one another: <ref osisRef="1Cor.4.14">I Co 4:14</ref>; freq. as form of address, <ref osisRef="1Cor.10.14">ib. 10:14</ref>; opp. to <foreign xml:lang="grc">ἐχθρός</foreign>, <ref osisRef="Rom.11.28">Ro 11:28</ref> (v. AR, <emph>Eph.</emph>, 229; Cremer, 17; MM, <emph>VGT</emph>, s.v.).</sense>
-  </sense> 
+  </sense>
  </entry>
 
 <entry n="Ἅγαρ|G28">
@@ -1564,7 +1566,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">176</note>
   <form><orth>ἄγγελος, -ου, ὁ</orth>, [in LXX chiefly for <foreign xml:lang="heb">מַלְאָךְ</foreign>;] </form>
   <sense>
-    <sense n="1."><gloss>a messenger</gloss>, one sent: <ref osisRef="Matt.11.10">Mt 11:10</ref>, <ref osisRef="Jas.22.25">Ja 22:25</ref>.</sense> 
+    <sense n="1."><gloss>a messenger</gloss>, one sent: <ref osisRef="Matt.11.10">Mt 11:10</ref>, <ref osisRef="Jas.22.25">Ja 22:25</ref>.</sense>
     <sense n="2.">As in LXX, in the special sense of <gloss>angel</gloss>, a spiritual, heavenly being, attendant upon God and employed as his messenger to men, to make known his purposes, as <ref osisRef="Luke.1.11">Lk 1:11</ref>, or to execute them, as <ref osisRef="Matt.4.6">Mt 4:6</ref>. The <foreign xml:lang="grc">ἄ.</foreign> in <ref osisRef="Rev.1.20-Rev.2.1">Re 1:20-2:1</ref>, al., is variously understood as 
       <sense n="(1)">a messenger or delegate, </sense>
       <sense n="(2)">a bishop or ruler, </sense>
@@ -1602,7 +1604,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">1</note>
   <form><orth>ἀγενής, -ές</orth> (&lt; <foreign xml:lang="grc">γένος</foreign>), </form>
   <sense>
-    <sense n="1."><gloss>unborn</gloss> (Plat.); </sense> 
+    <sense n="1."><gloss>unborn</gloss> (Plat.); </sense>
     <sense n="2."><gloss>of no family, ignoble, base</gloss> (opp. to <foreign xml:lang="grc">ἀγαθός</foreign>, Soph., Fr., 105): opp. to <foreign xml:lang="grc">εὐγενής</foreign>, <ref osisRef="1Cor.1.28">I Co 1:28</ref> (for exx. from π., v. MM, <emph>VGT</emph>, s.v.). </sense> †
   </sense>
  </entry>
@@ -1611,12 +1613,12 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">28</note>
   <form><orth>ἁγιάζω</orth>, Hellenistic form of <orth>ἁγίζω</orth> (&lt; <foreign xml:lang="grc">ἅγιος</foreign>), </form>
   <sense><gloss>to make holy, consecrate, sanctify</gloss>; [in LXX chiefly for <foreign xml:lang="heb">קדשׁ</foreign> pi., hi.;] 
-    <sense n="1."><gloss>to dedicate, separate, <pb n="5" /> <!-- typed="DS" checked="" --> set apart for God</gloss>; of things: <ref osisRef="Matt.23.17">Mt 23:17</ref>,<ref osisRef="Matt.23.19">19</ref>, <ref osisRef="2Tim.2.21">II Ti 2:21</ref>; of persons: Christ, <ref osisRef="John.10.36">Jo 10:36</ref>, <ref osisRef="John.17.19">17:19</ref>.</sense> 
-    <sense n="2."><gloss>to purify</gloss>, make conformable in character to such dedication: forensically, to free from guilt, <ref osisRef="1Cor.6.11">I Co 6:11</ref>, <ref osisRef="Eph.5.26">Eph 5:26</ref>, <ref osisRef="Heb.2.11">He 2:11</ref>, <ref osisRef="Heb.10.10">10:10</ref>, <ref osisRef="Heb.10.14">14</ref>, <ref osisRef="Heb.10.29">29</ref>, <ref osisRef="Heb.13.12">13:12</ref>; internally, by actual sanctification of life, <ref osisRef="John.17.17">Jo 17:17</ref>, <ref osisRef="John.17.19">19</ref>, <ref osisRef="Acts.20.32">Ac 20:32</ref>, <ref osisRef="Acts.26.18">26:18</ref>, <ref osisRef="Rom.15.16">Ro 15:16</ref>, <ref osisRef="1Cor.1.2">I Co 1:2</ref>, <ref osisRef="1Cor.7.14">7:14</ref>, <ref osisRef="1Thess.5.23">I Th 5:23</ref>, <ref osisRef="Rev.22.11">Re 22:11</ref>; of a nonbeliever influenced by marriage with a Christian, <ref osisRef="1Cor.7.14">I Co 7:14</ref>.</sense> 
+    <sense n="1."><gloss>to dedicate, separate, <pb n="5" /> <!-- typed="DS" checked="" --> set apart for God</gloss>; of things: <ref osisRef="Matt.23.17">Mt 23:17</ref>,<ref osisRef="Matt.23.19">19</ref>, <ref osisRef="2Tim.2.21">II Ti 2:21</ref>; of persons: Christ, <ref osisRef="John.10.36">Jo 10:36</ref>, <ref osisRef="John.17.19">17:19</ref>.</sense>
+    <sense n="2."><gloss>to purify</gloss>, make conformable in character to such dedication: forensically, to free from guilt, <ref osisRef="1Cor.6.11">I Co 6:11</ref>, <ref osisRef="Eph.5.26">Eph 5:26</ref>, <ref osisRef="Heb.2.11">He 2:11</ref>, <ref osisRef="Heb.10.10">10:10</ref>, <ref osisRef="Heb.10.14">14</ref>, <ref osisRef="Heb.10.29">29</ref>, <ref osisRef="Heb.13.12">13:12</ref>; internally, by actual sanctification of life, <ref osisRef="John.17.17">Jo 17:17</ref>, <ref osisRef="John.17.19">19</ref>, <ref osisRef="Acts.20.32">Ac 20:32</ref>, <ref osisRef="Acts.26.18">26:18</ref>, <ref osisRef="Rom.15.16">Ro 15:16</ref>, <ref osisRef="1Cor.1.2">I Co 1:2</ref>, <ref osisRef="1Cor.7.14">7:14</ref>, <ref osisRef="1Thess.5.23">I Th 5:23</ref>, <ref osisRef="Rev.22.11">Re 22:11</ref>; of a nonbeliever influenced by marriage with a Christian, <ref osisRef="1Cor.7.14">I Co 7:14</ref>.</sense>
     <sense n="3.">In the intermediate sense of ceremonial or levitical purification: 
       <sense n="(a)">of things, <ref osisRef="2Tim.2.21">II Ti 2:21</ref>; </sense>
       <sense n="(b)">of persons, <ref osisRef="Heb.9.13">He 9:13</ref>. </sense>
-    </sense> 
+    </sense>
     <sense n="4."><gloss>to treat as holy</gloss>: <ref osisRef="Matt.6.9">Mt 6:9</ref>, <ref osisRef="Luke.11.2">Lk 11:2</ref>, <ref osisRef="1Pet.3.16">I Pe 3:16</ref> (Cremer, 53, 602; MM, <emph>VGT</emph>, s.v.).</sense> †
   </sense>
  </entry>
@@ -1670,7 +1672,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <sense><gloss>a fish-hook</gloss>: <ref osisRef="Matt.17.27">Mt 17:27</ref>. †</sense>
  </entry>
 
- <pb n="6" /> <!-- typed="DS" checked="" --> 
+ <pb n="6" /> <!-- typed="DS" checked="" -->
 
 <entry n="ἄγκυρα|G45">
   <note type="occurrencesNT">4</note>
@@ -1767,13 +1769,13 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <sense><gloss>unknown</gloss>: <ref osisRef="Acts.17.23">Ac 17:23</ref> (cf. MM, <emph>VGT</emph>, s.v.). †</sense>
  </entry>
 
- <pb n="7" /> <!-- typed="DS" checked="" --> 
+ <pb n="7" /> <!-- typed="DS" checked="" -->
 
 <entry n="ἀγορά|G58">
   <note type="occurrencesNT">11</note>
   <form><orth>ἀγορά, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀγείρω</foreign>, <gloss>to bring together</gloss>) [in LXX for <foreign xml:lang="heb">עִזָּבוֹן</foreign>, <foreign xml:lang="heb">שׁוּק</foreign> ;] </form>
   <sense>
-    <sense n="1."><gloss>an assembly</gloss> (Hom., Xen., al.).</sense> 
+    <sense n="1."><gloss>an assembly</gloss> (Hom., Xen., al.).</sense>
     <sense n="2."><gloss>a place of assembly</gloss>, <gloss>a public place</gloss> or <gloss>forum</gloss>, <gloss>a market-place</gloss> (Hom., Thuc, al.; LXX): <ref osisRef="Matt.11.16">Mt 11:16</ref>  <ref osisRef="Matt.20.2">20:2</ref> <ref osisRef="Matt.23.7">23:7</ref>, <ref osisRef="Mark.6.56">Mk 6:56</ref> (cf . MM, <emph>VGT</emph>, s.v., <foreign xml:lang="grc">ἀγυιά</foreign>) <ref osisRef="Mark.7.4">7:4</ref> (Bl., §46, 7) <ref osisRef="Mark.12.38">12:38</ref>, <ref osisRef="Luke.7.32">Lk 7:32</ref> (Bl., l.c.) <ref osisRef="Luke.11.43">11:43</ref> <ref osisRef="Luke.20.46">20:46</ref>, <ref osisRef="Acts.16.19">Ac 16:19</ref>  <ref osisRef="Acts.17.7">17:7</ref> (Cremer, 59; MM, <emph>VGT</emph>, s.v.).</sense> †
   </sense>
  </entry>
@@ -1782,7 +1784,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">30</note>
   <form><orth>ἀγοράζω</orth> (&lt; <foreign xml:lang="grc">ἀγορά</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שׁבר</foreign>, <foreign xml:lang="heb">קנה</foreign> ;]</form>
   <sense>
-    <sense n="1."><gloss>to frequent the <foreign xml:lang="grc">ἀγορά</foreign></gloss> (Hdt., al.). </sense> 
+    <sense n="1."><gloss>to frequent the <foreign xml:lang="grc">ἀγορά</foreign></gloss> (Hdt., al.). </sense>
     <sense n="2."><gloss>to buy in the market</gloss>, <gloss>purchase</gloss> (Xen., al.; LXX; in π. very common in deeds of sale, v. MM, <emph>VGT</emph>, s.v.): absol., <ref osisRef="Matt.21.12">Mt 21:12</ref>, <ref osisRef="Mark.11.15">Mk 11:15</ref>; c. acc. rei, <ref osisRef="Matt.13.44">Mt 13:44</ref>, <ref osisRef="Matt.13.46">46</ref>, al.; seq. <foreign xml:lang="grc">παρά</foreign>, c. gen. pers., <ref osisRef="Rev.3.18">Re 3:18</ref> (LXX, Polyb.); <foreign xml:lang="grc">ἐκ</foreign>, <ref osisRef="Matt.27.7">Mt 27:7</ref>; c. gen. pret., <ref osisRef="Mark.6.37">Mk 6:37</ref>, al.; metaph., <ref osisRef="1Cor.6.20">I Co 6:20</ref>  <ref osisRef="1Cor.7.23">7:23</ref>, <ref osisRef="2Pet.2.1">II Pe 2:1</ref>, <ref osisRef="Rev.5.9">Re 5:9</ref>  <ref osisRef="Rev.14.3">14:3</ref>, <ref osisRef="Rev.14.4">4</ref>. </sense>
   </sense>
  </entry>
@@ -1792,7 +1794,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">2</note>
   <form>* <orth>ἀγοραῖος, -ον</orth> (&lt; <foreign xml:lang="grc">ἀγορά</foreign>), </form>
   <sense>
-    <sense n="1."><gloss>frequenting the <foreign xml:lang="grc">ἀγορά</foreign></gloss>, <gloss>a lounger in the <foreign xml:lang="grc">ἀγορά</foreign></gloss> (Xen., al.): <ref osisRef="Acts.17.5">Ac 17:5</ref>. </sense> 
+    <sense n="1."><gloss>frequenting the <foreign xml:lang="grc">ἀγορά</foreign></gloss>, <gloss>a lounger in the <foreign xml:lang="grc">ἀγορά</foreign></gloss> (Xen., al.): <ref osisRef="Acts.17.5">Ac 17:5</ref>. </sense>
     <sense n="2.">In late writers (Strab., al.), <gloss>proper to the <foreign xml:lang="grc">ἀγορά</foreign></gloss>: <foreign xml:lang="grc">ἀγοραῖοι</foreign> (sc. <foreign xml:lang="grc">ἥμεραι</foreign>) <foreign xml:lang="grc">ἀγονται</foreign> (cf. Lat. <foreign xml:lang="lat">conventus agere</foreign>), <gloss>court-days are kept</gloss>, <ref osisRef="Acts.19.38">Ac 19:38</ref> (for exx. of both usages, v. MM, <emph>VGT</emph>, s.v.).</sense> †
   </sense>
  </entry>
@@ -1801,7 +1803,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">2</note>
   <form>* <orth>ἄγρα, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἄγω</foreign>), </form>
   <sense>
-    <sense n="1."><gloss>the chase, a hunting</gloss> or <gloss>catching</gloss>: <ref osisRef="Luke.5.4">Lk 5:4</ref>. </sense> 
+    <sense n="1."><gloss>the chase, a hunting</gloss> or <gloss>catching</gloss>: <ref osisRef="Luke.5.4">Lk 5:4</ref>. </sense>
     <sense n="2."><gloss>that which is taken, a catch</gloss>: of fish, <ref osisRef="Luke.5.9">Lk 5:9</ref>. </sense> †
   </sense>
  </entry>
@@ -1837,7 +1839,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">3</note>
   <form><orth>ἄγριος, -α, -ον</orth> (&lt; <foreign xml:lang="grc">ἀγρός</foreign>), [in LXX for <foreign xml:lang="heb">שָׂדֶה</foreign>, etc.;]</form>
   <sense>
-    <sense n="1."><gloss>living in fields, wild</gloss>: <foreign xml:lang="grc">μέλι</foreign>. <ref osisRef="Matt.3.4">Mt 3:4</ref>, <ref osisRef="Mark.1.6">Mk 1:6</ref>. </sense> 
+    <sense n="1."><gloss>living in fields, wild</gloss>: <foreign xml:lang="grc">μέλι</foreign>. <ref osisRef="Matt.3.4">Mt 3:4</ref>, <ref osisRef="Mark.1.6">Mk 1:6</ref>. </sense>
     <sense n="2."><gloss>savage, fierce</gloss>: <ref osisRef="Jude.1.13">Ju 13</ref>. (Cf. usage in π. of a malignant wound; MM, <emph>VGT</emph>, s.v.)</sense> †
   </sense>
  </entry>
@@ -1873,7 +1875,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <sense><gloss>sleeplessness, watching</gloss>: <ref osisRef="2Cor.6.5">II Co 6:5</ref>  <ref osisRef="2Cor.11.27">11:27</ref>. (Plat., Hdt.; for exx. in π., v. MM, VGT, s.v.) †</sense>
  </entry>
 
- <pb n="8" /> <!-- typed="DS" checked="" --> 
+ <pb n="8" /> <!-- typed="DS" checked="" -->
 
 <entry n="ἀγυιά">
   <form><orth>ἀγυιά</orth>, v.s. <foreign xml:lang="grc">ἀγορά</foreign>, [in LXX: <ref osisRef="3Macc.1.20">III Mac 1:20</ref>  <ref osisRef="3Macc.4.3">4:3</ref> *]. </form>
@@ -1883,9 +1885,9 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <note type="occurrencesNT">67</note>
   <form><orth>ἄγω</orth>, [in LXX for <foreign xml:lang="heb">בּוא</foreign> hi., <foreign xml:lang="heb">לקח</foreign>, <foreign xml:lang="heb">נהג</foreign>, etc. ;] </form>
   <sense>
-    <sense n="1."><gloss>to lead, bring, carry</gloss>: c. ace, seq. <foreign xml:lang="grc">ἐπί</foreign>, <foreign xml:lang="grc">εἰς</foreign>, <foreign xml:lang="grc">ἕως</foreign>, <foreign xml:lang="grc">πρός</foreign> and simple dat.; metaph., <gloss>to lead, guide, impel</gloss>: <ref osisRef="John.10.16">Jo 10:16</ref> <ref osisRef="Rom.2.4">Ro 2:4</ref>, <ref osisRef="Heb.2.10">He 2:10</ref>, <ref osisRef="2Tim.3.6">II Ti 3:6</ref>, al. </sense> 
+    <sense n="1."><gloss>to lead, bring, carry</gloss>: c. ace, seq. <foreign xml:lang="grc">ἐπί</foreign>, <foreign xml:lang="grc">εἰς</foreign>, <foreign xml:lang="grc">ἕως</foreign>, <foreign xml:lang="grc">πρός</foreign> and simple dat.; metaph., <gloss>to lead, guide, impel</gloss>: <ref osisRef="John.10.16">Jo 10:16</ref> <ref osisRef="Rom.2.4">Ro 2:4</ref>, <ref osisRef="Heb.2.10">He 2:10</ref>, <ref osisRef="2Tim.3.6">II Ti 3:6</ref>, al. </sense>
     <sense n="2."><gloss>to spend</gloss> or <gloss>keep</gloss> a day: <ref osisRef="Luke.24.21">Lk 24:21</ref>, <ref osisRef="Acts.19.38">Ac 19:38</ref> </sense>
-    <sense n="3.">Intrans., <gloss>to go</gloss>: subjunc., <foreign xml:lang="grc">ἄγωμεν</foreign>, <ref osisRef="Matt.2.46">Mt 2:46</ref>, al. (Cramer, 61; MM, <emph>VGT</emph>, s.v.).</sense> 
+    <sense n="3.">Intrans., <gloss>to go</gloss>: subjunc., <foreign xml:lang="grc">ἄγωμεν</foreign>, <ref osisRef="Matt.2.46">Mt 2:46</ref>, al. (Cramer, 61; MM, <emph>VGT</emph>, s.v.).</sense>
   </sense>
  </entry>
 
@@ -2082,7 +2084,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
   <sense><gloss>Admin.</gloss>: <ref osisRef="Luke.3.33">Lk 3:33</ref>. †</sense>
  </entry>
 
- <pb n="10" /> <!-- typed="DS" checked="" --> 
+ <pb n="10" /> <!-- typed="DS" checked="" -->
 
 <entry n="ἀδόκιμος|G96">
  <note type="occurrencesNT">8</note>
@@ -2097,7 +2099,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">1</note>
  <form>* <orth>ἄδολος, -ον,</orth> </form>
  <sense>
-   <sense n="1."><gloss>guileless</gloss> (Pind., Thuc). </sense> 
+   <sense n="1."><gloss>guileless</gloss> (Pind., Thuc). </sense>
    <sense n="2.">Of liquids (Æsch., Eur., and late prose writers), <gloss>genuine, pure</gloss> (in π. and in MGr. of wine, also of corn: MM, <emph>VGT</emph>, s.v.; Milligan, NTD, 77): of milk, metaph., <ref osisRef="1Pet.2.2">I Pe 2:2</ref>. </sense> † 
    <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἀκέραιος</foreign> (q.v.), <foreign xml:lang="grc">ἄκακος</foreign>, <foreign xml:lang="grc">ἁπλοῦς</foreign>. 
  </sense>
@@ -2119,7 +2121,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">1</note>
  <form>* <orth>ἁδρότης, -τος, ἡ</orth> (&lt; <foreign xml:lang="grc">ἁδρός</foreign>, <gloss>thick, well-grown</gloss>), </form>
  <sense>
-   <sense n="1."><gloss>thickness, vigour</gloss>. </sense> 
+   <sense n="1."><gloss>thickness, vigour</gloss>. </sense>
    <sense n="2."><gloss>abundance, bounty</gloss>: <ref osisRef="2Cor.8.20">II Co 8:20</ref>. </sense> † 
  </sense>
  </entry>
@@ -2128,7 +2130,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">2</note>
  <form><orth>ἀδυνατέω, -ῶ</orth> (&lt; <foreign xml:lang="grc">ἀδύνατος</foreign>), [in LXX: <ref osisRef="Deut.17.8">De 17:8</ref>, <ref osisRef="Zech.8.6">Za 8:6</ref> (<foreign xml:lang="heb">פּלא</foreign> ni.), <ref osisRef="Job.42.2">Jb 42:2</ref> (<foreign xml:lang="heb">בּצר</foreign> ni.), al. ;] </form>
  <sense>
-   <sense n="1."><note>Abbott-Smith omits this number</note> <gloss>to be unable</gloss> (cl., Philo; π., v. MM, <emph>VGT</emph>, s.v.). </sense> 
+   <sense n="1."><note>Abbott-Smith omits this number</note> <gloss>to be unable</gloss> (cl., Philo; π., v. MM, <emph>VGT</emph>, s.v.). </sense>
    <sense n="2.">In LXX and NT (Kennedy, <emph>Sources</emph>, 124; Hatch, <emph>Essays</emph>, 4; Field, <emph>Notes</emph>, 46 f.), <gloss>to be impossible</gloss>: <ref osisRef="Matt.17.20">Mt 17:20</ref>, <ref osisRef="Luke.1.37">Lk 1:37</ref>. </sense> † 
  </sense>
  </entry>
@@ -2137,7 +2139,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">10</note>
  <form><orth>ἀ-δύνατος, -ον,</orth> [in LXX for <foreign xml:lang="heb">אֶבְיוֹן</foreign>, <foreign xml:lang="heb">דַּל</foreign>, etc. ;] </form>
  <sense>
-   <sense n="1.">of persons, <gloss>unable, powerless</gloss>: <ref osisRef="Acts.14.8">Ac 14:8</ref>; fig. <ref osisRef="Rom.15.1">Ro 15:1</ref> (MM, <emph>VGT</emph>, s.v.). </sense> 
+   <sense n="1.">of persons, <gloss>unable, powerless</gloss>: <ref osisRef="Acts.14.8">Ac 14:8</ref>; fig. <ref osisRef="Rom.15.1">Ro 15:1</ref> (MM, <emph>VGT</emph>, s.v.). </sense>
    <sense n="2.">Of things, <gloss>impossible</gloss>: <ref osisRef="Matt.19.26">Mt 19:26</ref>, <ref osisRef="Mark.10.27">Mk 10:27</ref>, <ref osisRef="Luke.18.27">Lk 18:27</ref>, <ref osisRef="Rom.8.3">Ro 8:3</ref>, <ref osisRef="Heb.6.4">He 6:4</ref>,<ref osisRef="Heb.6.18">18</ref> <ref osisRef="Heb.10.4">10:4</ref> <ref osisRef="Heb.11.6">11:6</ref>. </sense> † 
  </sense>
  </entry>
@@ -2146,7 +2148,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">5</note>
  <form><orth>ᾄδω</orth> (Attic form of Ion. and poët. <foreign xml:lang="grc">ἀείδω</foreign>), [in LXX chiefly for <foreign xml:lang="heb">שִׁיר</foreign> ;] </form>
  <sense><gloss>to sing</gloss>, 
-   <sense n="(a)">intrans., c. dat. (MM, <emph>VGT</emph>, s.v.), of praise to God: <ref osisRef="Eph.5.19">Eph 5:19</ref>, <ref osisRef="Col.3.16">Col 3:16</ref> ; </sense> 
+   <sense n="(a)">intrans., c. dat. (MM, <emph>VGT</emph>, s.v.), of praise to God: <ref osisRef="Eph.5.19">Eph 5:19</ref>, <ref osisRef="Col.3.16">Col 3:16</ref> ; </sense>
    <sense n="(b)">trans., c. cogn. acc.: <foreign xml:lang="grc">ᾠδὴν</foreign>, <ref osisRef="Rev.5.9">Re 5:9</ref> <ref osisRef="Rev.14.3">14:3</ref> <ref osisRef="Rev.15.3">15:3</ref>. </sense> † 
  </sense>
  </entry>
@@ -2155,7 +2157,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">7</note>
  <form><orth>ἀεί</orth>, <gramGrp><pos>adv.</pos></gramGrp>, [in LXX: <ref osisRef="Isa.42.14">Is 42:14</ref> (<foreign xml:lang="heb">מֵעוֹלָם</foreign>) 51:13 (<foreign xml:lang="heb">תָּמִיד</foreign>), <ref osisRef="Ps.95.10">Ps 94(95):10</ref>, al. ;] </form>
  <sense><gloss>ever</gloss>; 
-   <sense n="1.">of continuous time, <gloss>unceasingly, perpetually</gloss>: <ref osisRef="Acts.7.51">Ac 7:51</ref>, 2 Co 4:11 6:10, <ref osisRef="Titus.1.12">Tit 1:12</ref>, <ref osisRef="Heb.3.10">He 3:10</ref>.</sense> 
+   <sense n="1.">of continuous time, <gloss>unceasingly, perpetually</gloss>: <ref osisRef="Acts.7.51">Ac 7:51</ref>, 2 Co 4:11 6:10, <ref osisRef="Titus.1.12">Tit 1:12</ref>, <ref osisRef="Heb.3.10">He 3:10</ref>.</sense>
    <sense n="2.">Of successive occurrences, <gloss>on every occasion</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="1Pet.3.15">I Pe 3:15</ref>, <ref osisRef="2Pet.1.12">II Pe 1:12</ref>. </sense> † 
  </sense>
  </entry>
@@ -2189,12 +2191,12 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <note type="occurrencesNT">1</note>
  <form><orth>ἀηδία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀ-</foreign> neg., <foreign xml:lang="grc">ἦδος</foreign>, pleasure), [in LXX: Pr 2329 (<foreign xml:lang="heb">שִׂיחַ</foreign>)* ;] </form>
  <sense>
-   <sense n="1.">of things or persons, <gloss>unpleasantness, odiousness</gloss> (Hipp., Dem., al.); </sense> 
+   <sense n="1.">of things or persons, <gloss>unpleasantness, odiousness</gloss> (Hipp., Dem., al.); </sense>
    <sense n="2."><gloss>dislike</gloss> (Plat.), <gloss>disagreement</gloss> (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Luke.23.12">Lk 23:12</ref> D. </sense> † 
  </sense>
  </entry>
 
- <pb n="11" /> <!-- typed="DS" checked="" --> 
+ <pb n="11" /> <!-- typed="DS" checked="" -->
 
 <entry n="ἀήρ|G109">
  <note type="occurrencesNT">7</note>
@@ -2290,7 +2292,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
  <sense><gloss>to be disheartened</gloss>: <ref osisRef="Col.3.21">Col 3:21</ref>. †</sense>
  </entry>
 
- <pb n="12" /> <!-- typed="DS" checked="" --> 
+ <pb n="12" /> <!-- typed="DS" checked="" -->
 
 <entry n="ἀθῷος|G121">
  <note type="occurrencesNT">2</note>
@@ -2351,7 +2353,7 @@ which was the most familiar form of the Old Testament to the writers of the New.
 <entry n="αἷμα|G129">
  <note type="occurrencesNT">97</note>
  <form><orth>αἷμα, ατος, τό</orth>, [in LXX for <foreign xml:lang="heb">דָּם</foreign> ;] </form>
- <sense><gloss>blood.</gloss> 
+ <sense><gloss>blood.</gloss>
    <sense n="1.">In the ordinary sense: <ref osisRef="Mark.5.25">Mk 5:25</ref>, <ref osisRef="Luke.8.43">Lk 8:43</ref>,<ref osisRef="Luke.8.44">44</ref> <ref osisRef="Luke.22.44">22:44</ref>, <ref osisRef="John.19.34">Jo 19:34</ref>, <ref osisRef="Acts.15.20">Ac 15:20</ref>,<ref osisRef="Acts.15.29">29</ref> <ref osisRef="Acts.21.25">21:25</ref>, <ref osisRef="Rev.8.7">Re 8:7</ref>,<ref osisRef="Rev.8.8">8</ref> <ref osisRef="Rev.11.6">11:6</ref> <ref osisRef="Rev.16.3">16:3</ref>,<ref osisRef="Rev.16.4">4</ref>,<ref osisRef="Rev.16.6">6</ref> <ref osisRef="Rev.19.13">19:13</ref>. </sense>
    <sense n="2.">In special senses: 
      <sense n="(a)">of generation, origin, kinship (cl.): <ref osisRef="John.1.13">Jo 1:13</ref> (v. MM, <emph>VGT</emph>, s.v.); </sense>
@@ -2382,7 +2384,7 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
  <sense><gloss>Æneas</gloss>: <ref osisRef="Acts.9.33">Ac 9:33</ref>,<ref osisRef="Acts.9.34">34</ref>. †</sense>
  </entry>
 
- <pb n="13" /> <!-- typed="DS" checked="" --> 
+ <pb n="13" /> <!-- typed="DS" checked="" -->
 
 <entry n="αἴνεσις|G133">
  <note type="occurrencesNT">1</note>
@@ -2487,7 +2489,7 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
  <sense><gloss>greedy of base gains</gloss>: <ref osisRef="1Tim.3.3">I Ti 3:3</ref>,<ref osisRef="1Tim.3.8">8</ref> <note>Abbot-Smith omits I Ti 3:3</note>, <ref osisRef="Titus.1.7">Tit 1:7</ref>. †</sense>
  </entry>
 
- <pb n="14" /> <!-- typed="DS" checked="" --> 
+ <pb n="14" /> <!-- typed="DS" checked="" -->
 
 <entry n="αἰσχροκερδῶς|G147">
  <note type="occurrencesNT">1</note>
@@ -2533,8 +2535,7 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
 <entry n="αἰτέω|G154">
  <note type="occurrencesNT">70</note>
  <form><orth>αἰτέω, -ῶ</orth>, [in LXX chiefly for <foreign xml:lang="heb">שׁאל</foreign> ;] </form>
- <sense><gloss>to ask, request</gloss>: absol., <ref osisRef="Matt.7.7">Mt 7:7</ref>, <ref osisRef="Jas.1.6">Ja 1:6</ref>; c. acc. pers., <ref osisRef="Matt.5.42">Mt 5:42</ref>, <ref osisRef="Luke.6.30">Lk 6:30</ref>; c. acc. rei, seq. <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Matt.20.20">Mt 20:20</ref>, <ref osisRef="1John.5.15">I Jo 5:15</ref>; id. seq. <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="Acts.3.2">Ac 3:2</ref>, <ref osisRef="Jas.1.5">Ja 1:5</ref>; c. dupl. acc. <ref osisRef="Matt.7.9">Mt 7:9</ref>, <ref osisRef="Mark.6.22">Mk 6:22</ref>, <ref osisRef="John.16.23">Jo 16:23</ref>. Mid. (on the distinction bet. mid. and act., v. M, <emph>Pr.</emph>, 160): absol., <ref osisRef="Mark.15.8">Mk 15:8</ref>, <ref osisRef="John.16.26">Jo 16:26</ref>, <ref osisRef="Jas.4.3">Ja 4:3</ref>; c. acc. rei, <ref osisRef="Matt.14.7">Mt 14:7</ref>, <ref osisRef="Mark.6.24">Mk 6:24</ref>, al.; c. acc. pers., <ref osisRef="Matt.27.20">Mt 27:20</ref>, <ref osisRef="Luke.23.25">Lk 23:25</ref>; c. acc.
- rei, seq. <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="Acts.9.2">Ac 9:2</ref>; c. acc. et inf., <ref osisRef="Luke.23.23">Lk 23:23</ref>. c. inf. <ref osisRef="Acts.7.46">Ac 7:46</ref>, <ref osisRef="Eph.3.13">Eph 3:13</ref> (cf. <foreign xml:lang="grc">ἀπ-</foreign>, <foreign xml:lang="grc">ἐξ-</foreign>, <foreign xml:lang="grc">ἐπ-</foreign>, <foreign xml:lang="grc">παρ-</foreign>, <foreign xml:lang="grc">προσ- αιτέω</foreign>). 
+ <sense><gloss>to ask, request</gloss>: absol., <ref osisRef="Matt.7.7">Mt 7:7</ref>, <ref osisRef="Jas.1.6">Ja 1:6</ref>; c. acc. pers., <ref osisRef="Matt.5.42">Mt 5:42</ref>, <ref osisRef="Luke.6.30">Lk 6:30</ref>; c. acc. rei, seq. <foreign xml:lang="grc">ἀπό</foreign>, <ref osisRef="Matt.20.20">Mt 20:20</ref>, <ref osisRef="1John.5.15">I Jo 5:15</ref>; id. seq. <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="Acts.3.2">Ac 3:2</ref>, <ref osisRef="Jas.1.5">Ja 1:5</ref>; c. dupl. acc. <ref osisRef="Matt.7.9">Mt 7:9</ref>, <ref osisRef="Mark.6.22">Mk 6:22</ref>, <ref osisRef="John.16.23">Jo 16:23</ref>. Mid. (on the distinction bet. mid. and act., v. M, <emph>Pr.</emph>, 160): absol., <ref osisRef="Mark.15.8">Mk 15:8</ref>, <ref osisRef="John.16.26">Jo 16:26</ref>, <ref osisRef="Jas.4.3">Ja 4:3</ref>; c. acc. rei, <ref osisRef="Matt.14.7">Mt 14:7</ref>, <ref osisRef="Mark.6.24">Mk 6:24</ref>, al.; c. acc. pers., <ref osisRef="Matt.27.20">Mt 27:20</ref>, <ref osisRef="Luke.23.25">Lk 23:25</ref>; c. acc. rei, seq. <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="Acts.9.2">Ac 9:2</ref>; c. acc. et inf., <ref osisRef="Luke.23.23">Lk 23:23</ref>. c. inf. <ref osisRef="Acts.7.46">Ac 7:46</ref>, <ref osisRef="Eph.3.13">Eph 3:13</ref> (cf. <foreign xml:lang="grc">ἀπ-</foreign>, <foreign xml:lang="grc">ἐξ-</foreign>, <foreign xml:lang="grc">ἐπ-</foreign>, <foreign xml:lang="grc">παρ-</foreign>, <foreign xml:lang="grc">προσ- αιτέω</foreign>). 
   <lb /><emph>SYN.</emph>: <foreign xml:lang="grc">ἐρωτάω</foreign>, q.v., <foreign xml:lang="grc">πυνθάνομαι</foreign>. On the proper distinction between these words, v. Tr., <emph>Syn.</emph>, § xl, Thayer, s.v. <foreign xml:lang="grc">αἰ.</foreign> In late Gk., however, <foreign xml:lang="grc">αἰ.</foreign> and <foreign xml:lang="grc">ἐ.</foreign> seem to have become practically synonymous (cf. <ref osisRef="Acts.3.2">Ac 3:2</ref>,<ref osisRef="Acts.3.3">3</ref>; v. Field, <emph>Notes</emph>, 101 f.; M, <emph>Th.</emph>, I, 4:1; M, <emph>Pr.</emph>, 66<hi rend="subscript">n</hi>; MM, <emph>VGT</emph>, s.v.). </sense>
  </entry>
 
@@ -2642,7 +2643,7 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
 <entry n="ἀκαθαρσία|G167">
  <note type="occurrencesNT">10</note>
  <form><orth>ἀκαθαρσία, -ας, ἡ</orth> (&lt; <foreign xml:lang="grc">ἀκάθαρτος</foreign>), [in LXX chiefly for <foreign xml:lang="heb">טֻמְאָה</foreign>, <foreign xml:lang="heb">טָמֵא</foreign> ;] </form>
- <sense><gloss>uncleanness, impurity,</gloss> 
+ <sense><gloss>uncleanness, impurity,</gloss>
    <sense n="(a)">physical (MM, <emph>VGT</emph>, s.v.): <ref osisRef="Matt.23.27">Mt 23:27</ref>;</sense>
    <sense n="(b)">moral: <ref osisRef="Rom.1.24">Ro 1:24</ref> <ref osisRef="Rom.6.19">6:19</ref>, <ref osisRef="2Cor.12.21">II Co 12:21</ref>, <ref osisRef="Gal.5.19">Ga 5:19</ref>, <ref osisRef="Eph.4.19">Eph 4:19</ref> <ref osisRef="Eph.5.3">5:3</ref>, <ref osisRef="Col.3.5">Col 3:5</ref>, <ref osisRef="1Thess.2.3">I Th 2:3</ref> <ref osisRef="1Thess.4.7">4:7</ref>. </sense> †
  </sense>
@@ -2744,7 +2745,7 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
  <sense><gloss>that cannot cease, not to be restrained</gloss>: c. gen. rei, <ref osisRef="2Pet.2.14">II Pe 2:14</ref>, T, Tr. txt. †</sense>
  </entry>
 
- <pb n="17" /> <!-- typed="" checked="" --> 
+ <pb n="17" /> <!-- typed="" checked="" -->
 
 <entry n="ἀκαταστασία|G181">
  <note type="occurrencesNT">5</note>
@@ -2820,7 +2821,7 @@ Heb.9.14">14</ref> <ref osisRef="Heb.10.19">10:19</ref>,<ref osisRef="Heb.10.29"
   <form><orth>ἀκούω</orth>, [in LXX chiefly for <foreign xml:lang="heb">שׁמע</foreign>] </form>
   <sense><gloss>to hear, listen, attend, perceive by hearing, comprehend by hearing</gloss>. 
     <sense n="1.">Intrans.: <ref osisRef="Mark.4.3">Mk 4:3</ref>  <ref osisRef="Mark.7.37">7:37</ref>, <ref osisRef="Jas.2.5">Ja 2:5</ref>, <ref osisRef="Rev.2.7">Re 2:7</ref>, al.; <foreign xml:lang="grc">τ. ὠσίν</foreign>, <ref osisRef="Matt.13.15">Mt 13:15</ref> <hi rend="superscript">(LXX)</hi>; c. cogn. dat., <foreign xml:lang="grc">ακοῇ ἀ.</foreign> (v.s. <foreign xml:lang="grc">ἀκοή</foreign>), <ref osisRef="Matt.13.14">Mt 13:14</ref>, <ref osisRef="Acts.28.26">Ac 28:26</ref> <hi rend="superscript">(LXX)</hi>; <foreign xml:lang="grc">ὁ ἔχων ὦτα (οὖς) ἀκούειν, ἀκουσάτω</foreign>, <ref osisRef="Matt.11.15">Mt 11:15</ref>, <ref osisRef="Mark.4.23">Mk 4:23</ref>, <ref osisRef="Rev.2.7">Re 2:7</ref>, al. </sense>
-    <sense n="2.">Trans., prop. c. acc. rei, of thing heard, gen. pers., from whom heard (LS, s.v.): <ref osisRef="Acts.1.4">Ac 1:4</ref>; c. acc. rei, <ref osisRef="Matt.12.19">Mt 12:19</ref>, <ref osisRef="John.3.8">Jo 3:8</ref> (Abbott, <emph>JG</emph>, 76), <ref osisRef="Acts.22.9">Ac 22:9</ref>, al.; c. dupl. acc., <ref osisRef="John.12.18">Jo 12:18</ref>, <ref osisRef="1Cor.11.18">I Co 11:18</ref>; c. gen. rei, <ref osisRef="John.7.40">Jo 7:40</ref> (Abbott, <emph>JV</emph>, 116); <foreign xml:lang="grc">τ. φωνῆς</foreign> (cf. Heb. <foreign xml:lang="heb">שָׁמַע בְּקֹול</foreign>, <ref osisRef="Exod.18.19">Ex 18:19</ref>), <ref osisRef="John.5.25">Jo 5:25</ref>,  <ref osisRef="John.5.28">28</ref> <ref osisRef="Acts.9.7">Ac 9:7</ref> (on the distinction bet. this and <foreign xml:lang="grc">ἀ. φωνήν</foreign>, <ref osisRef="Acts.9.4">ib. 4</ref>, v. M, <emph>Pr.</emph>, 66; Field, <emph>Notes</emph>, 117; Abbott, <emph>Essays</emph>, 93f.); of God answering <pb n="18" /> <!-- typed="" checked="" --> 
+    <sense n="2.">Trans., prop. c. acc. rei, of thing heard, gen. pers., from whom heard (LS, s.v.): <ref osisRef="Acts.1.4">Ac 1:4</ref>; c. acc. rei, <ref osisRef="Matt.12.19">Mt 12:19</ref>, <ref osisRef="John.3.8">Jo 3:8</ref> (Abbott, <emph>JG</emph>, 76), <ref osisRef="Acts.22.9">Ac 22:9</ref>, al.; c. dupl. acc., <ref osisRef="John.12.18">Jo 12:18</ref>, <ref osisRef="1Cor.11.18">I Co 11:18</ref>; c. gen. rei, <ref osisRef="John.7.40">Jo 7:40</ref> (Abbott, <emph>JV</emph>, 116); <foreign xml:lang="grc">τ. φωνῆς</foreign> (cf. Heb. <foreign xml:lang="heb">שָׁמַע בְּקֹול</foreign>, <ref osisRef="Exod.18.19">Ex 18:19</ref>), <ref osisRef="John.5.25">Jo 5:25</ref>,  <ref osisRef="John.5.28">28</ref> <ref osisRef="Acts.9.7">Ac 9:7</ref> (on the distinction bet. this and <foreign xml:lang="grc">ἀ. φωνήν</foreign>, <ref osisRef="Acts.9.4">ib. 4</ref>, v. M, <emph>Pr.</emph>, 66; Field, <emph>Notes</emph>, 117; Abbott, <emph>Essays</emph>, 93f.); of God answering <pb n="18" /> <!-- typed="" checked="" -->
 prayer, <ref osisRef="John.9.31">Jo 9:31</ref>, I <ref osisRef="John.5.14">Jo 5:14</ref>, 15; c. acc. rei, seq. <foreign xml:lang="grc">παρά</foreign>, <ref osisRef="John.8.26">Jo 8:26</ref>,  <ref osisRef="John.8.40">40</ref> <ref osisRef="Acts.10.22">Ac 10:22</ref>, <ref osisRef="2Tim.2.2">II Ti 2:2</ref>; id. seq. <foreign xml:lang="grc">ἀπό</foreign>, I <ref osisRef="John.1.5">Jo 1:5</ref>; c. gen. pars. seq. ptcp., <ref osisRef="Mark.14.58">Mk 14:58</ref>, <ref osisRef="Luke.18.36">Lk 18:36</ref>, al. (On NT usage generally, v. Bl., §36, 5; Cremer, 82.) </sense>
   </sense>
 </entry>
