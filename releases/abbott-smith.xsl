@@ -175,7 +175,9 @@
 </xsl:template>
 
 <xsl:template match="tei:sense">
+		<div class="sense">
     	<strong><xsl:value-of select="./@n"/><xsl:text> </xsl:text></strong><xsl:apply-templates/>
+		</div>
 </xsl:template>
 
 <xsl:template match="tei:gloss">

@@ -42,7 +42,7 @@ p
 }
 
 p.entry {
-  text-indent: 5em;
+  padding-left: 5em;
   position: relative;
   line-height: 1.3;
 }
@@ -66,18 +66,24 @@ span.greek
 {
   font-family:"SBL Greek", "Gentium", serif;
   font-size: 1.2em;
+  color: red;
 }
 span.hebrew
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
   margin-left: .3em;
   margin-right: .3em;
+  font-size: 1.5em;
+  color: orange;
 }
 span.aramaic
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
   margin-left: .3em;
   margin-right: .3em;
+  font-size: 1.5em;
+  color: brown;
+}
 span.latin
 {
   font-family: "Times New Roman";
@@ -91,15 +97,39 @@ span.foreign
 
 a.pagenum
 {
-   color: red;
    font-family: sans-serif;
    vertical-align:bottom;
    font-style: normal;
-   font-weight: normal;
+   font-weight: bold;
    text-decoration: none;
+   display: block;
+
+   border-bottom: 1px solid #000;
+   margin-bottom: 10px;
+   text-align: center;
+   font-size: 12px;
 }
 
 span.pos
 {
    color: green;
 }
+
+.sense {
+	border-left: 1px solid #ccc;
+	padding-left: 1em;
+}
+
+.sense .sense {
+	border-left: none;
+	margin: 10px 0;
+	padding-left: 0;
+}
+
+.sense .sense .sense {
+	margin: 5px 0;
+	margin-left: 1em;
+}
+
+
+
