@@ -14,6 +14,7 @@ foreach $line (@data) {
 	$line =~ s/osisRef="Deu\.([^"]+)">Deu\.([^\.]+)\.([^<]+)</osisRef="Deut\.$1">De $2:$3</g;
 	$line =~ s/osisRef="Jos\.([^"]+)">Jos\.([^\.]+)\.([^<]+)</osisRef="Josh\.$1">Jos $2:$3</g;	
 	$line =~ s/osisRef="Jdg\.([^"]+)">Jdg\.([^\.]+)\.([^<]+)</osisRef="Judg\.$1">Jg $2:$3</g;
+	$line =~ s/osisRef="Rth\.([^"]+)">Rth\.([^\.]+)\.([^<]+)</osisRef="Ruth\.$1">Ru $2:$3</g;
 	$line =~ s/osisRef="2Ki\.([^"]+)">2Ki\.([^\.]+)\.([^<]+)</osisRef="2Kgs\.$1">IV Ki $2:$3</g;
 	$line =~ s/osisRef="1Ki\.([^"]+)">1Ki\.([^\.]+)\.([^<]+)</osisRef="1Kgs\.$1">III Ki $2:$3</g;
 	$line =~ s/osisRef="2Sa\.([^"]+)">2Sa\.([^\.]+)\.([^<]+)</osisRef="2Sam\.$1">II Ki $2:$3</g;
