@@ -77,9 +77,9 @@ foreach $line (@data) {
 	$line =~ s/osisRef="Phm\.([^"]+)">Phm\.([^\.]+)\.([^<]+)</osisRef="Phlm\.$1">Phm $3</g;
 	$line =~ s/osisRef="([^"]+)">Heb\.([^\.]+)\.([^<]+)</osisRef="$1">He $2:$3</g;
 	$line =~ s/osisRef="([^"]+)">Jas\.([^\.]+)\.([^<]+)</osisRef="$1">Ja $2:$3</g;
-	$line =~ s/osisRef="1Jn\.([^"]+)">1Jn\.([^\.]+)\.([^<]+)</osisRef="1John\.$1">Jn $2:$3</g;
-	$line =~ s/osisRef="2Jn\.([^"]+)">2Jn\.([^\.]+)\.([^<]+)</osisRef="2John\.$1">Jn $3</g;
-	$line =~ s/osisRef="3Jn\.([^"]+)">3Jn\.([^\.]+)\.([^<]+)</osisRef="3John\.$1">Jn $3</g;
+	$line =~ s/osisRef="1Jn\.([^"]+)">1Jn\.([^\.]+)\.([^<]+)</osisRef="1John\.$1">I Jn $2:$3</g;
+	$line =~ s/osisRef="2Jn\.([^"]+)">2Jn\.([^\.]+)\.([^<]+)</osisRef="2John\.$1">II Jn $3</g;
+	$line =~ s/osisRef="3Jn\.([^"]+)">3Jn\.([^\.]+)\.([^<]+)</osisRef="3John\.$1">III Jn $3</g;
 	$line =~ s/osisRef="1Pe\.([^"]+)">1Pe\.([^\.]+)\.([^<]+)</osisRef="1Pet\.$1">I Pe $2:$3</g;
 	$line =~ s/osisRef="2Pe\.([^"]+)">2Pe\.([^\.]+)\.([^<]+)</osisRef="2Pet\.$1">II Pe $2:$3</g;
 	$line =~ s/osisRef="Jud\.([^"]+)">Jud\.([^\.]+)\.([^<]+)</osisRef="Jude\.$1">Ju $3</g;
