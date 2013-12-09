@@ -82,6 +82,7 @@ foreach $line (@data) {
 	$line =~ s/osisRef="1Pe\.([^"]+)">1Pe\.([^\.]+)\.([^<]+)</osisRef="1Pet\.$1">I Pe $2:$3</g;
 	$line =~ s/osisRef="2Pe\.([^"]+)">2Pe\.([^\.]+)\.([^<]+)</osisRef="2Pet\.$1">II Pe $2:$3</g;
 	$line =~ s/osisRef="Jud\.([^"]+)">Jud\.([^\.]+)\.([^<]+)</osisRef="Jude\.$1">Ju $3</g;
+	$line =~ s/osisRef="([^"]+)">Rev\.([^\.]+)\.([^<]+)</osisRef="$1">Re $2:$3</g;
 		
 	$line =~ s/osisRef="([^\.]+)\.(\d+)\.(\d+)-(\d+)"/osisRef="$1\.$2\.$3-$1\.$2\.$4"/g; # Fixes verse ranges
 
