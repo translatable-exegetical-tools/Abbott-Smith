@@ -687,15 +687,6 @@ Each row includes the following information:
 <tr><td>0867</td><td>ἀψευδής</td><td>G893</td><td>1</td></tr>
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
-<tr><td>1112</td><td>Δαβίδ</td><td>G1138</td><td>54</td><td>KJV</td></tr>
-<tr><td>1113</td><td>δαιμονίζομαι</td><td>G1139</td><td>13</td></tr>
-<tr><td>1114</td><td>δαιμόνιον</td><td>G1140</td><td>63</td></tr>
-<tr><td>1115</td><td>δαιμονιώδης</td><td>G1141</td><td>1</td></tr>
-<tr><td>1116</td><td>δαίμων</td><td>G1142</td><td>1</td></tr>
-<tr><td>1117</td><td>δάκνω</td><td>G1143</td><td>1</td></tr>
-<tr><td>1118</td><td>δάκρυον</td><td>G1144</td><td>10</td></tr>
-<tr><td>1119</td><td>δακρύω</td><td>G1145</td><td>1</td></tr>
-<tr><td>1120</td><td>δακτύλιος</td><td>G1146</td><td>1</td></tr>
 <tr><td>1121</td><td>δάκτυλος</td><td>G1147</td><td>8</td></tr>
 <tr><td>1122</td><td>Δαλμανουθά</td><td>G1148</td><td>1</td></tr>
 <tr><td>1123</td><td>Δαλματία</td><td>G1149</td><td>1</td></tr>
