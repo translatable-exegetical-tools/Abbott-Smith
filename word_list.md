@@ -688,12 +688,6 @@ Each row includes the following information:
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
 
-<tr><td>1134</td><td>δαπάνη</td><td>G1160</td><td>1</td></tr>
-<tr><td>1136</td><td>δέησις</td><td>G1162</td><td>18</td></tr>
-<tr><td>1137</td><td>δεῖ</td><td>G1163</td><td>11</td></tr>
-<tr><td>1138</td><td>δεῖγμα</td><td>G1164</td><td>1</td></tr>
-<tr><td>1139</td><td>δειγματίζω</td><td>G1165</td><td>2</td></tr>
-<tr><td>1140</td><td>δείκνυμι</td><td>G1166</td><td>33</td></tr>
 <tr><td>1141</td><td>δειλία</td><td>G1167</td><td>1</td></tr>
 <tr><td>1142</td><td>δειλιάω</td><td>G1168</td><td>1</td></tr>
 <tr><td>1143</td><td>δειλός</td><td>G1169</td><td>3</td></tr>
