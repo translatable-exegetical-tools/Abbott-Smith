@@ -688,20 +688,6 @@ Each row includes the following information:
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
 
-<tr><td>1141</td><td>δειλία</td><td>G1167</td><td>1</td></tr>
-<tr><td>1142</td><td>δειλιάω</td><td>G1168</td><td>1</td></tr>
-<tr><td>1143</td><td>δειλός</td><td>G1169</td><td>3</td></tr>
-<tr><td>1144</td><td>δεῖνα</td><td>G1170</td><td>1</td></tr>
-<tr><td>1145</td><td>δεινῶς</td><td>G1171</td><td>2</td></tr>
-<tr><td>1146</td><td>δειπνέω</td><td>G1172</td><td>4</td></tr>
-<tr><td>1147</td><td>δεῖπνον</td><td>G1173</td><td>16</td></tr>
-<tr><td>1148</td><td>δεισιδαιμονέστερος</td><td>G1174</td><td>1</td><td>KJV</td></tr>
-<tr><td>1149</td><td>δεισιδαιμονία</td><td>G1175</td><td>1</td></tr>
-<tr><td>1150</td><td>δέκα</td><td>G1176</td><td>25</td></tr>
-<tr><td>1151</td><td>δεκαδύο</td><td>G1177</td><td>2</td><td>KJV</td></tr>
-<tr><td>1152</td><td>δεκαπέντε</td><td>G1178</td><td>3</td></tr>
-<tr><td>1153</td><td>Δεκάπολις</td><td>G1179</td><td>3</td></tr>
-<tr><td>1154</td><td>δεκατέσσαρες</td><td>G1180</td><td>5</td></tr>
 <tr><td>1155</td><td>δεκάτη</td><td>G1181</td><td>4</td></tr>
 <tr><td>1156</td><td>δέκατος</td><td>G1182</td><td>3</td></tr>
 <tr><td>1157</td><td>δεκατόω</td><td>G1183</td><td>2</td></tr>
