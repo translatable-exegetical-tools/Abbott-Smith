@@ -1,19 +1,19 @@
 Markup Instructions for Contributors
-=
+============================
 
 This file describes and illustrates the TEI markup practices employed in this project. To contribute you must be familiar with the basics of how XML works. For an introduction, see http://www.w3schools.com/xml/xml_whatis.asp. 
 
 This project follows several markup practices. Here are several of the most important ones:
 
 Structure of Lexicon Entries
--
+----------------------------------
 
 Every entry is nested in an `<entry>` element with an id (@n), which should be the Greek lemma, with a pipe `|` separating it from any Strong's numbers. If there are multiple options at the head of the entry, choose the first.
 
-Nested within `<entry>` are several elements: `<note type="occurrencesNT">`, `<form>`, `<gramGrp>`, and `<sense>`. `<note type="occurrencesNT">` and `<form>` only appear once in each entry. Note that all text in the entry must fall within one of these four elements, not directly under `<entry>`. 
+Nested within `<entry>` are several elements: `<note type="occurrencesNT">`, `<form>`, `<gramGrp>`, `<etym>`, `<sense>`, and `<re>`. `<note type="occurrencesNT">` and `<form>` only appear once in each entry. Note that all text in the entry must fall within one of these six elements, not directly under `<entry>`. 
 
 Specific Elements of Each Entry
--
+---------------------------------------
 
 ### `<note type="occurrencesNT">`
 
@@ -28,10 +28,18 @@ Typically this will include all information prior to the first definition. A com
 This element is for gramatical information that does not involve the form of the word. If some grammatical information is given in the entry such as part of speech `<pos>` or some other subcategorization `<subc>`, it would be marked up in this way: 
 
     <gramGrp><pos>verb</pos>, <subc>intransitive</subc></gramGrp>
+
+### `<etym>`
+
+Etymology concerns the history of a word. Abbott-Smith regularly gives information about the derivation of a word and its use in the Septuagint. This information should fall within `<sense>`. For derivation information (usually marked by a less-than sign and another Greek word), it should be within `<span type="derivation">`. Information about usage in the Septuagint should be within `<span type="septuagint">`.
  
 ### `<sense>`
 
 Anything related to the meaning of a word should occur in this element. Glosses (usually anything in italics) should also be within `<gloss>`. If sense numbers are given, include it in @n in `<sense>` but not in the text as it is written in the lexicon. That can be included later using XSL. Ideally all `<sense>` elements should be nested within a single `<sense>` element.
+
+### `<re>`
+
+At the end of many entries is information about related words. In TEI, this information is placed within  `<re>` for "related entry."
 
 Other Elements
 -
@@ -111,8 +119,7 @@ EXAMPLE MARKUP
     
     <entry n="Ἀαρών"> 
       <note type="occurrencesNT">5</note>
-      <form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indec
-      l. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
+      <form><foreign xml:lang="grc">Ἀαρών</foreign> (Heb. <foreign xml:lang="heb">אַהֲרוֹן</foreign>), indecl. (in FlJ, <foreign xml:lang="grc">-ῶνος</foreign>), </form>
       <sense><gloss>Aaron</gloss> (<ref osisRef="Exod.4.14">Ex 4:14</ref>, al.): <ref osisRef="Luke.1.5">Lk 1:5</ref>, 
       <ref osisRef="Acts.7.40">Ac 7:40</ref>, <ref osisRef="Heb.5.4">He 5:4</ref>, <ref osisRef="Heb.7.11">7:11</ref>, 
       <ref osisRef="Heb.9.4">9:4</ref>.† </sense>
