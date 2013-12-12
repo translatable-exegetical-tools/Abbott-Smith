@@ -131,16 +131,3 @@ EXAMPLE MARKUP
       <gramGrp><pos>adv.</pos>, </gramGrp>
       <sense><gloss>purely</gloss>, <gloss>with pure motives</gloss>: <ref osisRef="Phil.1.17">Phl 1:17</ref>. †</sense>
     </entry>
-
-ENTRY TEMPLATE
-=
-
-    <entry n=""> 
-      <form><foreign xml:lang="grc"></foreign></form>
-      <gramGrp></gramGrp>
-      <sense>
-      <gloss></gloss>
-      <ref osisRef=""></ref>
-      </sense>
-      <sense n="1">†</sense> 
-    </entry> 
