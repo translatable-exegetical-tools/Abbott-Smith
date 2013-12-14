@@ -688,15 +688,6 @@ Each row includes the following information:
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
 
-<tr><td>1155</td><td>δεκάτη</td><td>G1181</td><td>4</td></tr>
-<tr><td>1156</td><td>δέκατος</td><td>G1182</td><td>3</td></tr>
-<tr><td>1157</td><td>δεκατόω</td><td>G1183</td><td>2</td></tr>
-<tr><td>1158</td><td>δεκτός</td><td>G1184</td><td>5</td></tr>
-<tr><td>1159</td><td>δελεάζω</td><td>G1185</td><td>3</td></tr>
-<tr><td>1160</td><td>δένδρον</td><td>G1186</td><td>25</td></tr>
-<tr><td>1161</td><td>δεξιολάβος</td><td>G1187</td><td>1</td></tr>
-<tr><td>1162</td><td>δεξιός</td><td>G1188</td><td>54</td></tr>
-<tr><td>1163</td><td>δέομαι</td><td>G1189</td><td>12</td></tr>
 <tr><td>1164</td><td>Δερβαῖος</td><td>G1190</td><td>1</td></tr>
 <tr><td>1165</td><td>Δέρβη</td><td>G1191</td><td>3</td></tr>
 <tr><td>1166</td><td>δέρμα</td><td>G1192</td><td>1</td></tr>
