@@ -120,7 +120,8 @@
     <a class="pagenum">
         <xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute>
         <!-- <xsl:attribute name="href">http://archive.org/stream/manualgreeklexic00abborich#page/<xsl:value-of select="./@n" />/mode/1up</xsl:attribute> -->
-		<xsl:attribute name="href">http://ia700301.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualgreeklexic00abborich/manualgreeklexic00abborich_jp2.zip&amp;file=manualgreeklexic00abborich_jp2/manualgreeklexic00abborich_<xsl:value-of select="format-number(./@n + 20, '0000')" />.jp2&amp;scale=2&amp;rotate=0</xsl:attribute>
+		<!-- <xsl:attribute name="href">http://ia7003/01.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualgreeklexic00abborich/manualgreeklexic00abborich_jp2.zip&amp;file=manualgreeklexic00abborich_jp2/manualgreeklexic00abborich_<xsl:value-of select="format-number(./@n + 20, '0000')" />.jp2&amp;scale=2&amp;rotate=0</xsl:attribute> -->
+		<xsl:attribute name="href">http://heml.mta.ca/lace/sidebysideview2/<xsl:value-of select="format-number(./@n + 10970913, '0000')" /></xsl:attribute>
         <xsl:attribute name="target">_blank</xsl:attribute>
         <sub><xsl:text> [p. </xsl:text> <xsl:value-of select="./@n"/><xsl:text>] </xsl:text></sub>
     </a>
