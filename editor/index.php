@@ -2,9 +2,7 @@
 
 header('Content-type: text/html; charset=utf-8;');
 
-include "translit.php";
-
-$src = 'abbott-smith.tei.xml';
+$src = '../abbott-smith.tei.xml';
 $data = file_get_contents($src);
 
 $offset = -1;
@@ -27,18 +25,9 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 		$offset = $matches[0][1];
 		$end = $matches[0][1] + strlen("#</$tag>");
 
-		if (isset($id_list[$id])) {
-			echo("Duplicated entry $id<br>");
-		}
-
 		$id_list[$id] = array('start' => $start, 'end' => $end);
 	}
 }
-
-
-
-
-
 
 function pr($a) {
 	echo '<pre>';
@@ -53,8 +42,10 @@ function pr($a) {
 <head>
 <title>Editor</title>
 
-<link rel="stylesheet" href="abbott-smith.css" />
-<link rel="stylesheet" href="editor.css" />
+<link rel="stylesheet" href="css/abbott-smith.css">
+<link rel="stylesheet" href="css/editor.css">
+<link rel="stylesheet" href="js/lib/codemirror.css">
+<link rel="stylesheet" href="js/lib/hint/show-hint.css">
 </head>
 <body>
 <div id="index">
@@ -73,8 +64,6 @@ function pr($a) {
 	</div>
 	<div id="preview"></div>
 
-	<input type="hidden" name="id">
-	<textarea name="text"></textarea>
 	<div class="buttons">
 		<button name="prev">Prev</button>
 		<button name="preview">Preview</button>		
@@ -82,9 +71,17 @@ function pr($a) {
 		<button name="savenext">Save &amp; Next</button>
 		<button name="next">Next</button>
 	</div>
+
+	<input type="hidden" name="id">
+	<textarea name="text" id="code"></textarea>
 </div>
 
-<script src="jquery.min.js"></script>
-<script src="editor.js"></script>
+<script src="js/lib/jquery.min.js"></script>
+<script src="js/lib/codemirror.js"></script>
+<script src="js/lib/mode/xml/xml.js"></script>
+<script src="js/lib/hint/show-hint.js"></script>
+<script src="js/lib/hint/xml-hint.js"></script>
+<script src="js/autocomplete.js"></script>
+<script src="js/editor.js"></script>
 </body>
 </html>

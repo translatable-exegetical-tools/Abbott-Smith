@@ -27,7 +27,9 @@ body {
 #preview {
 	padding: 10px;
 	border: 1px solid #ccc;
-	margin: 10px 0 20px;
+	margin: 0;
+	height: 240px;
+	overflow: auto;
 }
 
 #form {
@@ -38,6 +40,7 @@ body {
 
 .buttons {
 	text-align: center;
+	margin: 10px 0;
 }
 
 #form textarea {

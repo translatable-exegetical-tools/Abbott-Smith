@@ -2,18 +2,15 @@
 
 header('Content-type: application/json;');
 
-include "translit.php";
-
-$src = 'abbott-smith.tei.xml';
+$src = '../abbott-smith.tei.xml';
 $data = file_get_contents($src);
-
-$search = $_GET['id'];
 
 $offset = -1;
 $matches = array();
 
 $found = false;
-
+$search = $_POST['id'];
+$replace = $_POST['text'];
 
 while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OFFSET_CAPTURE, $offset + 1)) {
 
@@ -28,21 +25,22 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 		$offset = $matches[0][1];
 		$end = $matches[0][1] + strlen("#</$tag>");
 
-		if (isset($id_list[$id])) {
-			echo("Duplicated entry $id<br>");
-		}
-
 		if ($id == $search) {
 			$len = $end - $start;
-			$found = substr($data, $start, $len);
+			$data = substr_replace($data, $replace, $start, $len);
+			$found = true;
 			break;
 		}
 	}
 }
 
+if ($found) {
+	file_put_contents($src, $data);
+}
 
 echo json_encode(array(
-	'found' => $found
+	'saved' => $found,
+	'id' => $search
 ));
 
 
