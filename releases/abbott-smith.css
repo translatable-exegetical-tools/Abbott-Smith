@@ -95,7 +95,22 @@ span.foreign
   font-style:italic;
 }
 
-a.pagenum
+a.pagenum-top
+{
+   font-family: sans-serif;
+   vertical-align:bottom;
+   font-style: normal;
+   font-weight: bold;
+   text-decoration: none;
+   display: block;
+
+   border-top: 1px solid #000;
+   margin-top: 10px;
+   text-align: right;
+   font-size: 12px;
+}
+
+a.pagenum-bottom
 {
    font-family: sans-serif;
    vertical-align:bottom;

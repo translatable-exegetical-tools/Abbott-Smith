@@ -1,0 +1,50 @@
+body {
+	width: 100%;
+}
+
+#index {
+	margin: 35px 0 0 10px;
+	border: 1px solid #ccc;
+	padding: 10px;
+	width: 200px;
+	height: 400px;
+	overflow: auto;
+	float: left;
+}
+
+#index a {
+	display: block;
+	text-decoration: none;
+	font-family:"SBL Greek", "Gentium", serif;
+	font-size: 1.2em;
+	color: #000;
+}
+
+#index .current {
+	font-weight: bold;
+}
+
+#preview {
+	padding: 10px;
+	border: 1px solid #ccc;
+	margin: 0;
+	height: 240px;
+	overflow: auto;
+}
+
+#form {
+	margin-left: 240px;
+	margin-right: 10px;
+	width: auto;
+}
+
+.buttons {
+	text-align: center;
+	margin: 10px 0;
+}
+
+#form textarea {
+	width: 100%;
+	height: 20em;
+}
+

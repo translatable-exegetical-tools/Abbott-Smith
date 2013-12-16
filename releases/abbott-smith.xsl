@@ -117,19 +117,30 @@
 </xsl:template>
 
 <xsl:template match="tei:pb">
-    <a class="pagenum">
+    <a class="pagenum-bottom">
+        <xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute>
+		<xsl:attribute name="href">http://heml.mta.ca/lace/sidebysideview2/<xsl:value-of select="(./@n + 10970912)" /></xsl:attribute>
+        <xsl:attribute name="target">_blank</xsl:attribute>
+        <sub><xsl:text> [p. </xsl:text> <xsl:value-of select="(./@n - 1)"/><xsl:text>] </xsl:text></sub>
+    </a>
+
+    <a class="pagenum-top">
         <xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute>
         <!-- <xsl:attribute name="href">http://archive.org/stream/manualgreeklexic00abborich#page/<xsl:value-of select="./@n" />/mode/1up</xsl:attribute> -->
-		<xsl:attribute name="href">http://ia700301.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualgreeklexic00abborich/manualgreeklexic00abborich_jp2.zip&amp;file=manualgreeklexic00abborich_jp2/manualgreeklexic00abborich_<xsl:value-of select="format-number(./@n + 20, '0000')" />.jp2&amp;scale=2&amp;rotate=0</xsl:attribute>
+		<!-- <xsl:attribute name="href">http://ia7003/01.us.archive.org/BookReader/BookReaderImages.php?zip=/30/items/manualgreeklexic00abborich/manualgreeklexic00abborich_jp2.zip&amp;file=manualgreeklexic00abborich_jp2/manualgreeklexic00abborich_<xsl:value-of select="format-number(./@n + 20, '0000')" />.jp2&amp;scale=2&amp;rotate=0</xsl:attribute> -->
+		<xsl:attribute name="href">http://heml.mta.ca/lace/sidebysideview2/<xsl:value-of select="./@n + 10970913" /></xsl:attribute>
         <xsl:attribute name="target">_blank</xsl:attribute>
         <sub><xsl:text> [p. </xsl:text> <xsl:value-of select="./@n"/><xsl:text>] </xsl:text></sub>
     </a>
 </xsl:template>
 
 <xsl:template match="tei:entry">
-    <p class="entry"><bdo dir="ltr">
+    <p class="entry">
+		<xsl:attribute name="id"><xsl:value-of select="substring-before(./@n, '|')" /></xsl:attribute>
+		<bdo dir="ltr">
     	<xsl:apply-templates/>
-    </bdo></p>
+	    </bdo>
+	</p>
 </xsl:template>
 
 <xsl:template match="tei:entry/form">
@@ -194,8 +205,21 @@
 
 <xsl:template match="tei:ref">
 <xsl:element name="a">
-<xsl:attribute name="href">http://www.crosswire.org/study/passagestudy.jsp?key=<xsl:value-of select="./@osisRef"/>&amp;mod=SBLGNT</xsl:attribute>
-<xsl:attribute name="target">_blank</xsl:attribute>
+
+<xsl:choose>
+  <xsl:when test="./@osisRef">
+	<xsl:attribute name="href">http://www.crosswire.org/study/passagestudy.jsp?key=<xsl:value-of select="./@osisRef"/>&amp;mod=SBLGNT</xsl:attribute>
+	<xsl:attribute name="target">_blank</xsl:attribute>
+  </xsl:when>
+  <xsl:when test="./@target">
+    <xsl:attribute name="href"><xsl:value-of select="./@target"/></xsl:attribute>
+  </xsl:when>
+  <xsl:otherwise>
+    <xsl:attribute name="href">#<xsl:value-of select="."/></xsl:attribute>
+  </xsl:otherwise>
+</xsl:choose>
+
+
 <xsl:apply-templates/>
 </xsl:element>
 </xsl:template>
