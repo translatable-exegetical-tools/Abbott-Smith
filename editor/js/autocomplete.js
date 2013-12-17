@@ -63,9 +63,10 @@ function completeIfInTag(cm) {
 	});
 }
 
+var wrap = $('#form input[name=wrap]').get(0).checked ? true : false;
 var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
 	mode: "text/html",
-	lineNumbers: true,
+	lineWrapping: wrap,
 	extraKeys: {
 		"'<'": completeAfter,
 		"'/'": completeIfAfterLt,
@@ -77,3 +78,7 @@ var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
 	}
 });
 
+$('#form input[name=wrap]').change(function(evt) {
+	var wrap = this.checked ? true : false;
+	editor.setOption('lineWrapping', wrap);
+});
