@@ -1,5 +1,7 @@
 body {
 	width: 100%;
+	margin: 0;
+	padding: 0;
 }
 
 #index {
@@ -7,7 +9,7 @@ body {
 	border: 1px solid #ccc;
 	padding: 10px;
 	width: 200px;
-	height: 400px;
+	height: 550px;
 	overflow: auto;
 	float: left;
 }
