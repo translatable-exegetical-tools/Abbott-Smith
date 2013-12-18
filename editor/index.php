@@ -1,6 +1,7 @@
 <?php
 
 header('Content-type: text/html; charset=utf-8;');
+require_once 'fix_magic_quotes.php';
 
 $src = '../abbott-smith.tei.xml';
 $data = file_get_contents($src);
