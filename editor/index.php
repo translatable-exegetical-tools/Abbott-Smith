@@ -56,13 +56,6 @@ function pr($a) {
 </div>
 
 <div id="form">
-	<div class="buttons">
-		<button name="prev">Prev</button>
-		<button name="preview">Preview</button>	
-		<button name="save">Save</button>
-		<button name="savenext">Save &amp; Next</button>
-		<button name="next">Next</button>
-	</div>
 	<div id="preview"></div>
 
 	<div class="buttons">
@@ -72,6 +65,13 @@ function pr($a) {
 		<button name="savenext">Save &amp; Next</button>
 		<button name="next">Next</button>
 		<label><input type="checkbox" name="wrap" value="1" checked="checked"> Line Wrap</label>
+	</div>
+
+	<div class="buttons">
+		<button name="replace" data-text="gloss">gloss</button>
+		<button name="replace" data-text="emph">emph</button>
+		<button name="replace" data-text="grc">grc</button>
+		<button name="replace" data-text="heb">heb</button>
 	</div>
 
 	<input type="hidden" name="id">

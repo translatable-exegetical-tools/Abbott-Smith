@@ -82,3 +82,20 @@ $('#form input[name=wrap]').change(function(evt) {
 	var wrap = this.checked ? true : false;
 	editor.setOption('lineWrapping', wrap);
 });
+
+
+function editor_replace(key) {
+	var tags = {
+		'gloss': {open: '<gloss>', close: '</gloss>'},
+		'emph': {open: '<emph>', close: '</emph>'},
+		'grc': {open: '<foreign lang="grc">', close: '</foreign>'},
+		'heb': {open: '<foreign lang="heb">', close: '</foreign>'}
+	}
+	if (typeof(tags[key]) == 'undefined') {
+		return;
+	}
+
+	var text = editor.getSelection();
+	text = tags[key]['open'] + text + tags[key]['close'];
+	editor.replaceSelection(text);
+}

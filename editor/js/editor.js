@@ -35,6 +35,7 @@ $('#form button').click(function(evt) {
 		case 'preview': preview(); break;
 		case 'save': save(false); preview(); break;
 		case 'savenext': save(true); break;
+		case 'replace': editor_replace($(this).attr('data-text')); break;
 
 		default: break;
 	}

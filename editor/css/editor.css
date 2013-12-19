@@ -5,7 +5,7 @@ body {
 }
 
 #index {
-	margin: 35px 0 0 10px;
+	margin: 0 0 0 10px;
 	border: 1px solid #ccc;
 	padding: 10px;
 	width: 200px;
@@ -35,8 +35,7 @@ body {
 }
 
 #form {
-	margin-left: 240px;
-	margin-right: 10px;
+	margin: 15px 10px 0 240px;
 	width: auto;
 }
 
