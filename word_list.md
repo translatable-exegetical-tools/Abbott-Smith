@@ -688,20 +688,6 @@ Each row includes the following information:
 <tr><td>0868</td><td>Ἄψινθος</td><td>G894</td><td>2</td></tr>
 <tr><td>0869</td><td>ἄψυχος</td><td>G895</td><td>1</td></tr>
 
-<tr><td>1164</td><td>Δερβαῖος</td><td>G1190</td><td>1</td></tr>
-<tr><td>1165</td><td>Δέρβη</td><td>G1191</td><td>3</td></tr>
-<tr><td>1166</td><td>δέρμα</td><td>G1192</td><td>1</td></tr>
-<tr><td>1167</td><td>δερμάτινος</td><td>G1193</td><td>2</td></tr>
-<tr><td>1168</td><td>δέρω</td><td>G1194</td><td>15</td></tr>
-<tr><td>1169</td><td>δεσμεύω</td><td>G1195</td><td>3</td></tr>
-<tr><td>1170</td><td>δεσμέω</td><td>G1196</td><td>1</td><td>KJV</td></tr>
-<tr><td>1171</td><td>δέσμη</td><td>G1197</td><td>1</td></tr>
-<tr><td>1172</td><td>δέσμιος</td><td>G1198</td><td>16</td></tr>
-<tr><td>1173</td><td>δεσμόν</td><td>G1199</td><td>3</td></tr>
-<tr><td>1174</td><td>δεσμοφύλαξ</td><td>G1200</td><td>3</td></tr>
-<tr><td>1175</td><td>δεσμωτήριον</td><td>G1201</td><td>4</td></tr>
-<tr><td>1176</td><td>δεσμώτης</td><td>G1202</td><td>2</td></tr>
-<tr><td>1177</td><td>δεσπότης</td><td>G1203</td><td>10</td></tr>
 <tr><td>1178</td><td>δεῦρο</td><td>G1204</td><td>9</td></tr>
 <tr><td>1179</td><td>δεῦτε</td><td>G1205</td><td>12</td></tr>
 <tr><td>1180</td><td>δευτεραῖος</td><td>G1206</td><td>1</td></tr>

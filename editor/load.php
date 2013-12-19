@@ -1,6 +1,7 @@
 <?php
 
 header('Content-type: application/json;');
+require_once 'fix_magic_quotes.php';
 
 $src = '../abbott-smith.tei.xml';
 $data = file_get_contents($src);
