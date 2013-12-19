@@ -66,7 +66,6 @@ span.greek
 {
   font-family:"SBL Greek", "Gentium", serif;
   font-size: 1.2em;
-  color: red;
 }
 span.hebrew
 {
@@ -74,7 +73,6 @@ span.hebrew
   margin-left: .3em;
   margin-right: .3em;
   font-size: 1.5em;
-  color: orange;
 }
 span.aramaic
 {
@@ -82,7 +80,6 @@ span.aramaic
   margin-left: .3em;
   margin-right: .3em;
   font-size: 1.5em;
-  color: brown;
 }
 span.latin
 {
@@ -95,15 +92,17 @@ span.foreign
   font-style:italic;
 }
 
-a.pagenum-top
-{
+a.pagenum {
    font-family: sans-serif;
    vertical-align:bottom;
    font-style: normal;
    font-weight: bold;
    text-decoration: none;
-   display: block;
+}
 
+a.pagenum-top
+{
+   display: block;
    border-top: 1px solid #000;
    margin-top: 10px;
    text-align: right;
@@ -112,13 +111,7 @@ a.pagenum-top
 
 a.pagenum-bottom
 {
-   font-family: sans-serif;
-   vertical-align:bottom;
-   font-style: normal;
-   font-weight: bold;
-   text-decoration: none;
    display: block;
-
    border-bottom: 1px solid #000;
    margin-bottom: 10px;
    text-align: center;
