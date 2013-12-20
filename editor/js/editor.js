@@ -22,8 +22,7 @@ $("#index a").click(function(e) {
 function onLoad() {
 	if (window.location.hash.length) {
 		var key = window.location.hash.substr(1);
-		loadKey(key);
-		$('#index a[href=#'+key+']').addClass("current").get(0).scrollIntoView();
+		$('#index a[href=#'+key+']').click();
 	}
 }
 
