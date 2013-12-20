@@ -16,6 +16,12 @@ $("#index a").click(function(e) {
 	$(this).addClass("current");
 	top.location.hash = "#" + key;
 
+	var page = $(this).attr('data-page');
+	//$('a.view-page').attr('href', "http://archive.org/stream/manualgreeklexic00abborich#page/"+page+"/mode/1up");
+	$('a.view-page').attr('href', "http://heml.mta.ca/lace/sidebysideview2/"+(parseInt(page) + 10970913));
+	$('a.view-page .page').html(page);
+
+
 	$(this).get(0).scrollIntoView();
 });
 

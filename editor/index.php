@@ -13,6 +13,10 @@ $id_list = array();
 
 $prev = '';
 
+$page = 1;
+$start = 0;
+$end = 0;
+
 while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OFFSET_CAPTURE, $offset + 1)) {
 
 	$offset = $matches[0][1];
@@ -22,11 +26,25 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 
 	$start = $matches[0][1];
 
+	if ($end) {
+		$len = $start - $end;
+		$between = substr($data, $end, $len);
+		if (preg_match('#<pb n="([0-9]+)"#', $between, $matches)) {
+			$page = $matches[1];
+		}
+	}
+
 	if (preg_match("#</$tag>#", $data, $matches, PREG_OFFSET_CAPTURE, $offset + 1)) {
 		$offset = $matches[0][1];
 		$end = $matches[0][1] + strlen("#</$tag>");
+		$id_list[$id] = array('start' => $start, 'end' => $end, 'page' => $page);
 
-		$id_list[$id] = array('start' => $start, 'end' => $end);
+		$len = $end - $start;
+		$entry = substr($data, $start, $len);
+		if (preg_match('#<pb n="([0-9]+)"#', $entry, $matches)) {
+			$page = $matches[1];
+		}
+
 	}
 }
 
@@ -51,7 +69,7 @@ function pr($a) {
 <body>
 <div id="index">
 <? foreach($id_list as $id => $offsets): ?>
-	<a href="#<?= ($id) ?>"><?= ($id) ?></a>
+	<a href="#<?= ($id) ?>" data-page="<?= $offsets['page'] ?>"><?= ($id) ?></a>
 <? endforeach ?>
 </div>
 
@@ -75,6 +93,7 @@ function pr($a) {
 		<button name="replace" data-text="sense">sense</button>
 		<button name="replace" data-text="orth">orth</button>
 		<button name="replace" data-text="entry">entry</button>
+		<a class="view-page" href="#" target="_blank">View Page (<span class="page"></span>)</a>
 	</div>
 
 	<input type="hidden" name="id">
