@@ -72,6 +72,9 @@ function pr($a) {
 		<button name="replace" data-text="emph">emph</button>
 		<button name="replace" data-text="grc">grc</button>
 		<button name="replace" data-text="heb">heb</button>
+		<button name="replace" data-text="sense">sense</button>
+		<button name="replace" data-text="orth">orth</button>
+		<button name="replace" data-text="entry">entry</button>
 	</div>
 
 	<input type="hidden" name="id">

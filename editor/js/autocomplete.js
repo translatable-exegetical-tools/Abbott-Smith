@@ -88,8 +88,12 @@ function editor_replace(key) {
 	var tags = {
 		'gloss': {open: '<gloss>', close: '</gloss>'},
 		'emph': {open: '<emph>', close: '</emph>'},
-		'grc': {open: '<foreign lang="grc">', close: '</foreign>'},
-		'heb': {open: '<foreign lang="heb">', close: '</foreign>'}
+		'grc': {open: '<foreign xml:lang="grc">', close: '</foreign>'},
+		'heb': {open: '<foreign xml:lang="heb">', close: '</foreign>'},
+		'sense': {open: '<sense>', close: '</sense>'},
+		'orth': {open: '<orth>', close: '</orth>'},
+		'entry': {open: '<entry>\n  ', close: '\n</entry>'}
+
 	}
 	if (typeof(tags[key]) == 'undefined') {
 		return;
