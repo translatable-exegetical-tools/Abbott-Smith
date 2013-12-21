@@ -32,6 +32,11 @@ function onLoad() {
 	}
 }
 
+$(window).on('hashchange', function(evt) {
+    var key = window.location.hash.substr(1);
+	var link = $('#index a[href=#'+key+']').not('.current').click();
+});
+
 $('#form button').click(function(evt) {
 	var action = $(this).attr('name');
 	switch(action) {
