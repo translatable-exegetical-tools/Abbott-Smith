@@ -4,7 +4,7 @@ header('Content-type: text/html; charset=utf-8;');
 
 include "translit.php";
 
-$src = 'abbott-smith.tei.xml';
+$src = '../abbott-smith.tei.xml';
 $data = file_get_contents($src);
 
 $offset = -1;
