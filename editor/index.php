@@ -68,9 +68,9 @@ function pr($a) {
 </head>
 <body>
 <div id="index">
-<? foreach($id_list as $id => $offsets): ?>
-	<a href="#<?= ($id) ?>" data-page="<?= $offsets['page'] ?>"><?= ($id) ?></a>
-<? endforeach ?>
+<?php foreach($id_list as $id => $offsets): ?>
+	<a href="#<?php echo ($id); ?>" data-page="<?php echo $offsets['page']; ?>"><?php echo ($id); ?></a>
+<?php endforeach; ?>
 </div>
 
 <div id="form">
