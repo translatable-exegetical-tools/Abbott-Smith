@@ -10,7 +10,7 @@
 		<head>
 			<title>A MANUAL GREEK LEXICON OF THE NEW TESTAMENT</title>
 		</head>
-		<link rel="stylesheet" type="text/css" href="abbott-smith.css"/>
+		<link rel="stylesheet" type="text/css" href="./releases/abbott-smith.css"/>
 		<body>
 			<xsl:apply-templates/>
 		</body>
