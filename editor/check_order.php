@@ -34,8 +34,8 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 		$id_list[$id] = array('start' => $start, 'end' => $end);
 	}
 
-	$s_id = strip_diacritics(str_replace('_', ' ', $id));
-	$s_prev = strip_diacritics(str_replace('_', ' ', $prev));
+	$s_id = strip_diacritics(str_replace('_', '', $id));
+	$s_prev = strip_diacritics(str_replace('_', '', $prev));
 
 	if (strcasecmp($s_id, $s_prev) < 0) {
 		echo("$id after $prev ($s_id after $s_prev)<br>");
