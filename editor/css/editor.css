@@ -22,6 +22,11 @@ body {
 	color: #000;
 }
 
+#index a.page-sep {
+	color: blue;
+	text-align: center;
+}
+
 #index .current {
 	font-weight: bold;
 }

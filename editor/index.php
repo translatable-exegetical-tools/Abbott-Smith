@@ -68,7 +68,12 @@ function pr($a) {
 </head>
 <body>
 <div id="index">
-<?php foreach($id_list as $id => $offsets): ?>
+<?php
+$page = 0;
+foreach($id_list as $id => $offsets): ?>
+	<?php if ($offsets['page'] != $page): $page = $offsets['page']; ?>
+	<a class="page-sep" target="_blank" href="<?php echo "http://heml.mta.ca/lace/sidebysideview2/" . ($offsets['page'] + 10970913); ?>">-Page <?php echo $offsets['page']; ?>-</a>
+	<?php endif; ?>
 	<a href="#<?php echo ($id); ?>" data-page="<?php echo $offsets['page']; ?>"><?php echo ($id); ?></a>
 <?php endforeach; ?>
 </div>

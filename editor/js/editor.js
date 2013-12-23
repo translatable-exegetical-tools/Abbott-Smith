@@ -9,7 +9,7 @@ $.get('edit.xsl', function(response) {
 });
 
 
-$("#index a").click(function(e) {
+$("#index a").not('.page-sep').click(function(evt) {
 	var key = $(this).attr('href').substr(1);
 	loadKey(key);
 	$("#index .current").removeClass("current");
