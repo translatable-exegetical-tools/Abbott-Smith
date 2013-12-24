@@ -189,7 +189,7 @@
 
 
 <xsl:template match="tei:gloss">
-    	<em><xsl:apply-templates/></em>
+    	<span class="gloss"><xsl:apply-templates/></span>
 </xsl:template>
 
 <xsl:template match="tei:ref">

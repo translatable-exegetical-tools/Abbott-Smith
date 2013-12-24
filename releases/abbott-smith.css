@@ -70,15 +70,15 @@ span.greek
 span.hebrew
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
-  margin-left: .3em;
-  margin-right: .3em;
+  margin-left: .1em;
+  margin-right: .1em;
   font-size: 1.5em;
 }
 span.aramaic
 {
   font-family:"SBL Hebrew", "Ezra SIL", serif;
-  margin-left: .3em;
-  margin-right: .3em;
+  margin-left: .1em;
+  margin-right: .1em;
   font-size: 1.5em;
 }
 span.latin
@@ -123,6 +123,13 @@ span.pos
    color: green;
 }
 
+span.gloss
+{
+  font-weight: bold;
+  font-style:italic;
+}
+
+
 .sense {
 	border-left: 1px solid #ccc;
 	padding-left: 1em;
@@ -140,7 +147,9 @@ span.pos
 }
 
 .re {
-	margin-top: 1em;
+  margin-top: 1em;
+  margin-left: 5em;
+  font-family: serif, "Times New Roman", "Gentium";
 }
 
 .re .sense {
