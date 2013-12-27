@@ -14,6 +14,8 @@ $id_list = array();
 
 $prev = '';
 
+echo "<div style='font-family: gentium; font-size: 1.5em;'>";
+
 while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OFFSET_CAPTURE, $offset + 1)) {
 
 	$offset = $matches[0][1];
@@ -28,7 +30,7 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 		$end = $matches[0][1] + strlen("#</$tag>");
 
 		if (isset($id_list[$id])) {
-			echo("Duplicated entry $id<br>");
+			echo("<div style='color:red;'>Duplicated entry $id</div>");
 		}
 
 		$id_list[$id] = array('start' => $start, 'end' => $end);
@@ -38,14 +40,17 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 	$s_prev = strip_diacritics(str_replace('_', '', $prev));
 
 	if (strcasecmp($s_id, $s_prev) < 0) {
-		echo("$id after $prev ($s_id after $s_prev)<br>");
+		echo("<div><b>$id</b> after <b>$prev</b> ($s_id after $s_prev)</div>");
 	}
 
 	$prev = $id;
 }
+
+echo "</div>";
 
 function pr($a) {
 	echo '<pre>';
 	print_r($a);
 	echo '</pre>';
 }
+
