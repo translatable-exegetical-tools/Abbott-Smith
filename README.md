@@ -35,6 +35,7 @@ Current contributors include:
 * Chuck Bearden
 * Patrick Durusau
 * Jonathan Robie
+* Stephen Hughes (aka Στέφανος)
 
 Markup Information
 ==================
