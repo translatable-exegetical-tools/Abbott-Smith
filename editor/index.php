@@ -36,7 +36,7 @@ while (preg_match('#<(superEntry|entry) n="([^"]+)">#', $data, $matches, PREG_OF
 
 	if (preg_match("#</$tag>#", $data, $matches, PREG_OFFSET_CAPTURE, $offset + 1)) {
 		$offset = $matches[0][1];
-		$end = $matches[0][1] + strlen("#</$tag>");
+		$end = $matches[0][1] + strlen("</$tag>");
 		$id_list[$id] = array('start' => $start, 'end' => $end, 'page' => $page);
 
 		$len = $end - $start;
