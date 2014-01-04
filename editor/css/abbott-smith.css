@@ -34,18 +34,15 @@ p
   font-family: serif, "Times New Roman", "Gentium";
 }
 
-p.entry {
-  padding-left: 5em;
+.entry {
+  padding-left: 1em;
   position: relative;
   line-height: 1.3;
 }
 
 sup.count
 {
-  position: absolute;
-  left: 0;
-  text-indent: 0;
-  color: #999;
+  float: right;
 }
 
 span.orth
