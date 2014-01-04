@@ -40,8 +40,8 @@ $(window).on('hashchange', function(evt) {
 $('#form button').click(function(evt) {
 	var action = $(this).attr('name');
 	switch(action) {
-		case 'next': $('#index .current').next('a').click(); break;
-		case 'prev': $('#index .current').prev('a').click(); break;
+		case 'next': $('#index .current').nextAll(':not(.page-sep):eq(0)').click(); break;
+		case 'prev': $('#index .current').prevAll(':not(.page-sep):eq(0)').click(); break;
 		case 'preview': preview(); break;
 		case 'save': save(false); preview(); break;
 		case 'savenext': save(true); break;

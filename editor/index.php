@@ -86,6 +86,7 @@ foreach($id_list as $id => $offsets): ?>
 		<button name="preview">Preview</button>		
 		<button name="save">Save</button>
 		<button name="savenext">Save &amp; Next</button>
+		<button name="prev">Prev</button>
 		<button name="next">Next</button>
 		<label><input type="checkbox" name="wrap" value="1" checked="checked"> Line Wrap</label>
 	</div>
