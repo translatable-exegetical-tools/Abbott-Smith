@@ -10,7 +10,7 @@ var tags = {
 		children: ["pos"]
 	},
     form: {
-		children: ["orth", "foreign"]
+		children: ["orth", "foreign", "xr", "ref"]
 	},
 	sense: {
 		children: ["sense", "foreign", "gloss", "emph", "hi", "xr", "ref"]
@@ -92,6 +92,7 @@ function editor_replace(key) {
 		'heb': {open: '<foreign xml:lang="heb">', close: '</foreign>'},
 		'sense': {open: '<sense>', close: '</sense>'},
 		'orth': {open: '<orth>', close: '</orth>'},
+		'ref': {open: '<ref>', close: '</ref>'},
 		'entry': {open: '<entry>\n  ', close: '\n</entry>'}
 
 	}

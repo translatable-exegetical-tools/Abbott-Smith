@@ -99,6 +99,7 @@ foreach($id_list as $id => $offsets): ?>
 		<button name="replace" data-text="sense">sense</button>
 		<button name="replace" data-text="orth">orth</button>
 		<button name="replace" data-text="entry">entry</button>
+		<button name="replace" data-text="ref">ref</button>
 		<a class="view-page" href="#" target="_blank">View Page (<span class="page"></span>)</a>
 	</div>
 
