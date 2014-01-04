@@ -178,7 +178,12 @@
 </xsl:template>
 
 <xsl:template match="tei:sense">
-    	<strong><xsl:value-of select="./@n"/><xsl:text> </xsl:text></strong><xsl:apply-templates/>
+  <div class="sense">
+    <xsl:if test="./@n">
+    <strong><xsl:value-of select="./@n"/></strong><xsl:text> </xsl:text>
+    </xsl:if>
+    <xsl:apply-templates/>
+  </div>
 </xsl:template>
 
 <xsl:template match="tei:re">
