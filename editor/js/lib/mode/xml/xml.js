@@ -107,7 +107,7 @@ CodeMirror.defineMode("xml", function(config, parserConfig) {
       return "tag";
     } else if (ch == "=") {
       type = "equals";
-      return null;
+      return "operator";
     } else if (ch == "<") {
       state.tokenize = inText;
       var next = state.tokenize(stream, state);

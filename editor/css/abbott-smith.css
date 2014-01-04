@@ -35,6 +35,7 @@ p
 }
 
 .entry {
+  font-family: serif, "Times New Roman", "Gentium";
   padding-left: 1em;
   position: relative;
   line-height: 1.3;
