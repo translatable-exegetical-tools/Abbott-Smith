@@ -11,7 +11,9 @@ $.get('edit.xsl', function(response) {
 
 $("#index a").not('.page-sep').click(function(evt) {
 	var key = $(this).attr('href').substr(1);
-	loadKey(key);
+	if (!loadKey(key)) {
+		return;
+	}
 	$("#index .current").removeClass("current");
 	$(this).addClass("current");
 	top.location.hash = "#" + key;
@@ -33,7 +35,7 @@ function onLoad() {
 }
 
 $(window).on('hashchange', function(evt) {
-    var key = window.location.hash.substr(1);
+	var key = window.location.hash.substr(1);
 	var link = $('#index a[href=#'+key+']').not('.current').click();
 });
 
@@ -64,6 +66,9 @@ function save(next) {
 			alert("Entry '" + id + "' not found.");
 			return;
 		}
+		if (typeof(editor) != 'undefined') {
+			editor.markClean();
+		}
 		if (next) {
 			$('#index .current').next('a').click();
 		}
@@ -84,6 +89,12 @@ function preview() {
 
 
 function loadKey(key) {
+	if (typeof(editor) != 'undefined' && !editor.isClean()) {
+		if (!confirm("Changes not saved, discard changes?")) {
+			return false;
+		}
+	}
+
 	$.get('load.php', {id: key}, function(response) {
 		if (!response.found) {
 			alert("Entry '" + key + "' not found.");
@@ -95,10 +106,12 @@ function loadKey(key) {
 
 		if (typeof(editor) != 'undefined') {
 			editor.setValue(response.found);
+			editor.markClean();
 		}
 
 		preview();
-	})
+	});
+	return true;
 }
 
 
