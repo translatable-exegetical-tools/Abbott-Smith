@@ -57,7 +57,7 @@ span.greek
 {
   font-family:"SBL Greek", "Gentium", serif;
   font-size: 1.2em;
-  color: red;
+  color: #c33;
 }
 span.hebrew
 {
@@ -84,6 +84,16 @@ span.latin
 span.foreign
 {
   font-style:italic;
+}
+
+a.pagenum {
+   font-family: sans-serif;
+   vertical-align:bottom;
+   font-style: normal;
+   font-weight: bold;
+   text-decoration: none;
+   color: red;
+   font-size: 80%;
 }
 
 a.pagenum-top
@@ -124,10 +134,12 @@ span.pos
 .sense {
 	border-left: 1px solid #ccc;
 	padding-left: 1em;
+	margin-bottom: 1em;
 }
 
 .sense .sense {
 	border-left: none;
+	margin-bottom: 0;
 }
 
 .sense .sense .sense {
@@ -143,3 +155,8 @@ span.pos
 	margin: 0;
 	display: inline;
 }
+
+.gloss {
+	color: #08f;
+}
+

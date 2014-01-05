@@ -109,7 +109,7 @@
 </xsl:template>
 
 <xsl:template match="tei:pb">
-  <a class="pagenum-bottom">
+  <a class="pagenum">
     <xsl:attribute name="id">p<xsl:value-of select="./@n" /></xsl:attribute>
     <xsl:attribute name="href">http://heml.mta.ca/lace/sidebysideview2/<xsl:value-of select="(./@n + 10970912)" /></xsl:attribute>
     <xsl:attribute name="target">_blank</xsl:attribute>
@@ -185,7 +185,7 @@
 </xsl:template>
 
 <xsl:template match="tei:gloss">
-  <em><xsl:apply-templates/></em>
+  <em class="gloss"><xsl:apply-templates/></em>
 </xsl:template>
 
 <xsl:template match="tei:ref">

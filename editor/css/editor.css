@@ -37,6 +37,7 @@ body {
 	margin: 0;
 	height: 240px;
 	overflow: auto;
+	font-size: 120%;
 }
 
 #form {
