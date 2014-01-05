@@ -84,7 +84,7 @@ function preview() {
 	var fragment = parser.parseFromString('<TEI xmlns="http://www.crosswire.org/2008/TEIOSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.crosswire.org/2008/TEIOSIS/namespace http://www.crosswire.org/OSIS/teiP5osis.1.4.xsd">' + xml + '</TEI>', "application/xml");
 
 	var resultDocument = xsltProcessor.transformToFragment(fragment, document);
-	$("#preview").html(resultDocument);	
+	$("#preview").html(resultDocument);
 }
 
 
@@ -114,5 +114,68 @@ function loadKey(key) {
 	return true;
 }
 
+function getSelectedText() {
+	if (window.getSelection) {
+		return window.getSelection().toString();
+	} else if (document.selection) {
+		return document.selection.createRange().text;
+	}
+	return '';
+}
 
+function getSelectionRange() {
+	if (window.getSelection) {
+		return window.getSelection().getRangeAt(0);
+	} else if (document.selection) {
+		return document.selection.getRangeAt(0);
+	}
+}
+
+
+function escapeRegExp(str) {
+	return str.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&");
+}
+
+$('#preview').mouseup(function(evt) {
+	sel_text = getSelectedText();
+	if (!sel_text.length) {
+		return;
+	}
+	var rx = new RegExp("<([a-z]+)[^>]*>[ ]*"+escapeRegExp(sel_text)+"[ ]*</\\1>|"+escapeRegExp(sel_text), 'g');
+	var found = [];
+
+	var line = 0;
+	editor.eachLine(function(l) {
+		var all_matches = l.text.match(rx);
+		if (all_matches) {
+			var offset = 0;
+			for (var i = 0; i < all_matches.length ; i++) {
+				var matches = all_matches[i];
+				var pos = l.text.indexOf(matches, offset)
+				var end = pos + matches.length;
+				offset = end;
+				found.push({line: line, start: pos, end: end, text: matches});
+			}
+
+		}
+		++line;
+	});
+
+	if (found.length == 1) {
+		var sel = found[0];
+		editor.setSelection({line: sel.line, ch: sel.start}, {line: sel.line, ch: sel.end});
+		return;
+	}
+
+	var range = getSelectionRange();
+	range.setEnd(range.startContainer, range.startOffset);
+	range.setStart(document.getElementById('preview'), 0);
+
+	var skip = range.toString().match(rx);
+	var idx = skip ? skip.length : 0;
+	if (found[idx]) {
+		var sel = found[idx];
+		editor.setSelection({line: sel.line, ch: sel.start}, {line: sel.line, ch: sel.end});
+	}
+});
 
