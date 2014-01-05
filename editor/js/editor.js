@@ -141,7 +141,7 @@ $('#preview').mouseup(function(evt) {
 	if (!sel_text.length) {
 		return;
 	}
-	var rx = new RegExp("<([a-z]+)[^>]*>[ ]*"+escapeRegExp(sel_text)+"[ ]*</\\1>|"+escapeRegExp(sel_text), 'g');
+	var rx = new RegExp("<([a-z]+)[^>]*>[ ]*"+escapeRegExp(sel_text)+"[ ]*</\\1>|[^\"]"+escapeRegExp(sel_text), 'g');
 	var found = [];
 
 	var line = 0;
@@ -150,8 +150,9 @@ $('#preview').mouseup(function(evt) {
 		if (all_matches) {
 			var offset = 0;
 			for (var i = 0; i < all_matches.length ; i++) {
-				var matches = all_matches[i];
-				var pos = l.text.indexOf(matches, offset)
+				var matches = all_matches[i].substring(0, 1) == '<' ? all_matches[i] : all_matches[i].substring(1);
+
+				var pos = l.text.indexOf(matches, offset);
 				var end = pos + matches.length;
 				offset = end;
 				found.push({line: line, start: pos, end: end, text: matches});
