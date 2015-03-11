@@ -1,4 +1,3 @@
-
 open (INF, "../abbott-smith.tei.xml");
 my @data = <INF>;
 close (INF);
