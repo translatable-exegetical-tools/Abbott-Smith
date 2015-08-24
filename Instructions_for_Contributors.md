@@ -1,3 +1,14 @@
+Using the Editor
+============
+
+In /editor there is a handy browser-based editor. Simply place your Github repository in a local web server and navigate to [localhost/Abbott-Smith/editor/index.php](localhost/Abbott-Smith/editor/index.php), and you will find entries displayed in pretty HTML as well as a window to edit the file. Once you finish editing an entry click Save or Save and Next to proceed. 
+
+Once a complete page has been checked, open the raw xml file (abbott-smith.tei.xml), find the <pb> element for that page, and add your initials inside the comment (checked="[your initials here]").
+
+Note: Mac users may need to change the permissions for abbott-smith.tei.xml to allow the web server to write to the file. Simply run: 
+
+	sudo chmod 666 abbott-smith.tei.xml
+
 Markup Instructions for Contributors
 ============================
 
@@ -115,3 +126,4 @@ EXAMPLE MARKUP
       	<emph>SYN.</emph>: <foreign xml:lang="grc">καλός, δίκαιος</foreign>. <foreign xml:lang="grc">κ.</foreign> properly refers to <gloss>goodliness</gloss> as manifested in form: <foreign xml:lang="grc">ἀ.</foreign> to inner excellence (cf. the cl. <foreign xml:lang="grc">καλὸς κἀγαθός</foreign> and <foreign xml:lang="grc">ἐν καρδία κ. καὶ ἀ.</foreign>, <ref osisRef="Luke.8.15">Lk 8:15</ref>). In <ref osisRef="Rom.5.7">Ro 5:7</ref>, where it is contrasted with <foreign xml:lang="grc">δ.</foreign>, <foreign xml:lang="grc">ἀ.</foreign> implies a kindliness and attractiveness not necessarily possessed by the <foreign xml:lang="grc">δίκαιος</foreign>, who merely measures up to a high standard of rectitude (cf. <foreign xml:lang="grc">ἀγαθωσύνη</foreign>).
       </re>
     </entry>
+    
