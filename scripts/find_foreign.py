@@ -36,7 +36,7 @@ NSMAP = {
   'xsi' : "http://www.w3.org/2001/XMLSchema-instance",
 }
 
-ourdiv_xp = etree.XPath('/tei:TEI/tei:text/tei:body/tei:div[5]', namespaces=NSMAP) 
+ourdiv_xp = etree.XPath('/tei:TEI/tei:text/tei:body/tei:div[1]', namespaces=NSMAP) 
 text_xp = etree.XPath('self::*/descendant::text()[not(parent::tei:foreign)][not(parent::tei:orth)]', namespaces=NSMAP)
 parent_xp = etree.XPath('self::node()/parent::*', namespaces=NSMAP)
 parent = node_singleton(parent_xp)
@@ -44,22 +44,28 @@ ancestor_entry_xp = etree.XPath('ancestor::tei:entry[1]', namespaces=NSMAP)
 ancestor_entry = node_singleton(ancestor_entry_xp)
 thispage_xp = etree.XPath('preceding::tei:pb[1]/@n', namespaces=NSMAP)
 
-doco = etree.parse(open('abbott-smith.tei.xml'))
-ourdiv = ourdiv_xp(doco)[0]
-texty = text_xp(ourdiv)
 
-print "page\tentry\tparent\tdata"
-for text_node in texty:
-    if foreign_match(text_node):
-        parent_elem = get_text_parent(text_node)
-        if parent_elem.tag[:len(delenda)] == delenda:
-            parent_elem_tag = parent_elem.tag[len(delenda):]
-        else:
-            parent_elem_tag = parent_elem.tag
-        page_no = thispage_xp(parent_elem)[0]
-        entry = ancestor_entry(parent_elem)
-        if entry is not None:
-            entry_name = ancestor_entry_xp(parent_elem)[0].get('n')
-        else:
-            entry_name = ''
-        print '\t'.join([page_no, entry_name, parent_elem_tag, text_node]).encode('utf-8')
+if __name__ == '__main__':
+    doco = etree.parse(open('abbott-smith.tei.xml'))
+    ourdiv = ourdiv_xp(doco)[0]
+    texty = text_xp(ourdiv)
+    
+    output = []
+    
+    output.append(['page', 'entry', 'parent', 'data'])
+    for text_node in texty:
+        if foreign_match(text_node):
+            parent_elem = get_text_parent(text_node)
+            if parent_elem.tag[:len(delenda)] == delenda:
+                parent_elem_tag = parent_elem.tag[len(delenda):]
+            else:
+                parent_elem_tag = parent_elem.tag
+            page_no = thispage_xp(parent_elem)[0]
+            entry = ancestor_entry(parent_elem)
+            if entry is not None:
+                entry_name = ancestor_entry_xp(parent_elem)[0].get('n')
+            else:
+                entry_name = ''
+            output.append([page_no, entry_name, parent_elem_tag, text_node])
+    for item in output:
+        print '\t'.join(item).encode('utf-8')
