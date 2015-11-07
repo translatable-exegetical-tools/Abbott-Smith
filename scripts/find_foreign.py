@@ -27,16 +27,26 @@ def get_text_parent(text_node):
     return tp
 
 greek_re = re.compile(u'[\u0374-\u03ff]')
+greek_reg = re.compile(u'''
+  -?
+  [\u0370-\u03ff\u1d26-\u1ffe\u2019]+
+  [\u0370-\u03ff\u1d26-\u1ffe1\.,\-\s\u2019]*
+  [\u0370-\u03ff\u1d26-\u1ffe\.\-\u2019]*
+''', re.X)
+
 hebrew_re = re.compile(u'[\u0591-\u05f4]|[\ufb1d-\ufb4f]')
 
 foreign_match = lambda text_node: greek_re.search(text_node) or hebrew_re.search(text_node)
+foreign_match = lambda text_node: greek_reg.search(text_node)
 
 NSMAP = {
   'tei' : "http://www.crosswire.org/2013/TEIOSIS/namespace",
   'xsi' : "http://www.w3.org/2001/XMLSchema-instance",
 }
 
-ourdiv_xp = etree.XPath('/tei:TEI/tei:text/tei:body/tei:div[1]', namespaces=NSMAP) 
+DIV = 1
+
+ourdiv_xp = etree.XPath("/tei:TEI/tei:text/tei:body/tei:div[{div:d}]".format(div=DIV), namespaces=NSMAP) 
 text_xp = etree.XPath('self::*/descendant::text()[not(parent::tei:foreign)][not(parent::tei:orth)]', namespaces=NSMAP)
 parent_xp = etree.XPath('self::node()/parent::*', namespaces=NSMAP)
 parent = node_singleton(parent_xp)
