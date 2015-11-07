@@ -44,10 +44,10 @@ NSMAP = {
   'xsi' : "http://www.w3.org/2001/XMLSchema-instance",
 }
 
-DIV = 1
+DIV = 7
 
 ourdiv_xp = etree.XPath("/tei:TEI/tei:text/tei:body/tei:div[{div:d}]".format(div=DIV), namespaces=NSMAP) 
-text_xp = etree.XPath('self::*/descendant::text()[not(parent::tei:foreign)][not(parent::tei:orth)]', namespaces=NSMAP)
+text_xp = etree.XPath('self::*/descendant::text()[not(parent::tei:foreign)][not(parent::tei:ref[parent::tei:foreign])][not(parent::tei:orth)]', namespaces=NSMAP)
 parent_xp = etree.XPath('self::node()/parent::*', namespaces=NSMAP)
 parent = node_singleton(parent_xp)
 ancestor_entry_xp = etree.XPath('ancestor::tei:entry[1]', namespaces=NSMAP)
