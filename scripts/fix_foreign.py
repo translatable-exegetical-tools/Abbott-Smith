@@ -13,9 +13,13 @@ greek_reg = re.compile(u'''(
     [\u0370-\u03ff\u1d26-\u1ffe\.\-\u2019]+)?
 )''', re.X)
 
+splitter = lambda x: x.split('\t')
+flitter = lambda x: x[2] != 'head' and x[2] != 'parent'
+fourth = lambda x: x[3]
+
 def get_fixmes(fh):
     lines = map(lambda x: x.strip(), fh.readlines())
-    fixmes1 = map(lambda x: x.split('\t')[3], lines)
+    fixmes1 = map(fourth, filter(flitter, map(splitter, lines)))
     fixmes2 = map(lambda x: x.replace('<', '&lt;'), fixmes1)
     return map(lambda x: x.decode('utf-8'), fixmes2)
 
