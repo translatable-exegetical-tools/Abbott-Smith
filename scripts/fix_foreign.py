@@ -12,6 +12,8 @@ greek_reg = re.compile(u'''(
     (?:[\u0370-\u03ff\u1d26-\u1ffe1\.,\-\s\u2019]+)?
     [\u0370-\u03ff\u1d26-\u1ffe\.\-\u2019]+)?
 )''', re.X)
+hebrew_reg = re.compile(u'((?:[\u0591-\u05f4]|[\ufb1d-\ufb4f])+)')
+
 
 splitter = lambda x: x.split('\t')
 flitter = lambda x: x[2] != 'head' and x[2] != 'parent'
@@ -33,7 +35,7 @@ def apply_fixmes(fixmes, unfixed, fixed):
         pdb.set_trace()
         raise Exception
     seen = unfixed[:start]
-    newly_fixed = greek_reg.sub(r'<foreign xml:lang="grc">\1</foreign>', unfixed[start:end])
+    newly_fixed = hebrew_reg.sub(r'<foreign xml:lang="heb">\1</foreign>', unfixed[start:end])
     return apply_fixmes(fixmes[1:], unfixed[end:], fixed + seen + newly_fixed)
 
 
