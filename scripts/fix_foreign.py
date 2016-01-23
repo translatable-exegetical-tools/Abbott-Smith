@@ -25,7 +25,7 @@ def get_fixmes(fh):
     fixmes2 = map(lambda x: x.replace('<', '&lt;'), fixmes1)
     return map(lambda x: x.decode('utf-8'), fixmes2)
 
-def apply_fixmes(fixmes, unfixed, fixed):
+def apply_fixmes(fixmes, unfixed, fixed, wanted_reg, lang):
     if len(fixmes) == 0:
         return fixed + unfixed
     fixme = fixmes[0]
@@ -35,14 +35,16 @@ def apply_fixmes(fixmes, unfixed, fixed):
         pdb.set_trace()
         raise Exception
     seen = unfixed[:start]
-    newly_fixed = hebrew_reg.sub(r'<foreign xml:lang="heb">\1</foreign>', unfixed[start:end])
-    return apply_fixmes(fixmes[1:], unfixed[end:], fixed + seen + newly_fixed)
+    newly_fixed = wanted_reg.sub(r'<foreign xml:lang="{0}">\1</foreign>'.format(lang), unfixed[start:end])
+    return apply_fixmes(fixmes[1:], unfixed[end:], fixed + seen + newly_fixed, wanted_reg, lang)
 
 
 if __name__ == '__main__':
+    wanted_reg = greek_reg
+    lang = 'grc'
     doc_string = open('abbott-smith.tei.xml').read().decode('utf-8')
     fixmes = get_fixmes(open('fixmes.tsv'))
-    fixed_doc = apply_fixmes(fixmes, doc_string, '')
+    fixed_doc = apply_fixmes(fixmes, doc_string, '', wanted_reg, lang)
     ofh = open('abbott-smith.tei.xml', 'w')
     ofh.write(fixed_doc.encode('utf-8'))
     ofh.close()
