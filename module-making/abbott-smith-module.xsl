@@ -12,6 +12,7 @@
 
   <!--Remove these elements-->  
   <xsl:template match="TEI:front"/>
+  <xsl:template match="TEI:back"/>
   <xsl:template match="TEI:pb"/>
   <xsl:template match="TEI:head"/>
   <xsl:template match="comment()"/>
