@@ -17,8 +17,7 @@
   <xsl:template match="TEI:head"/>
   <xsl:template match="comment()"/>
   <xsl:template match="TEI:note"/>  
-  <xsl:template match="div[@type='section'] " />
-  
+
 <xsl:template match="TEI:emph">
 	<hi rend="italic"><xsl:apply-templates/></hi>
 </xsl:template>
