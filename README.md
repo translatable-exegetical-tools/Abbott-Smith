@@ -13,7 +13,7 @@ The lexicon (abbott-smith.tei.xml), including the marked up version in this repo
 Viewing and Downloading
 =======================
 
-The main file in this repository is [abbott-smith.tei.xml](https://github.com/translatable-exegetical-tools/Abbott-Smith/blob/master/abbott-smith.tei.xml). This file can be used  
+The main file in this repository is [abbott-smith.tei.xml](https://github.com/translatable-exegetical-tools/Abbott-Smith/blob/master/abbott-smith.tei.xml). 
 
 To use the lexicon, download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
 
