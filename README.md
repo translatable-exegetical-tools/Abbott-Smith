@@ -36,6 +36,11 @@ Current contributors include:
 * Patrick Durusau
 * Jonathan Robie
 * Stephen Hughes (aka Στέφανος)
+* David Statezni
+* Bram vandenHeuvel
+* Drew Curley
+* Chapel Presson
+* Todd L. Price
 
 Markup Information
 ==================
