@@ -1,7 +1,7 @@
 Abbott-Smith - Summary
 ======================
 
-Abbott-Smith is a project to mark up the G. Abbott-Smith's *A Manual Greek Lexicon of the New Testament* (New York: Scribner's, 1922) using TEI. Contributors are welcome. This document records important source information and markup standards.
+Abbott-Smith is a project to mark up the G. Abbott-Smith's *A Manual Greek Lexicon of the New Testament* (New York: Scribner's, 1922) using TEI.
 
 Source and Copyright
 ====================
@@ -13,22 +13,16 @@ The lexicon (abbott-smith.tei.xml), including the marked up version in this repo
 Viewing and Downloading
 =======================
 
-It is not recommended that you use abbott-smith.tei.xml in this folder for anything but cleaning up and marking up entries because it contains text recognized by OCR that needs to be cleaned up. To use the lexicon, [view the current release online](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.html) or download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
+The main file in this repository is [abbott-smith.tei.xml](https://github.com/translatable-exegetical-tools/Abbott-Smith/blob/master/abbott-smith.tei.xml). 
 
-Contributing
+To use the lexicon, download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
+
+Also, a module for the SWORD Library is available from [CrossWire](http://www.crosswire.org).
+
+Contributors
 ============
 
-All are welcome to contribute to this project by:
-
-* Proofreading marked up entries
-* Improving the XSL and CSS stylestheets
-* Forking the lexicon and translating it into another language
-
-Those interested should send an email to editors at textonline dot org (deleting the spaces and replacing "at" and "dot" with the appropriate characters). 
-
-We keep track of what pages contributors are working on at the [Task Assignments](https://github.com/translatable-exegetical-tools/Abbott-Smith/wiki/Task-Assignments) page on the wiki. 
-
-Current contributors include: 
+The work of marking up and checking the text are complete. Many thanks to all those who devoted time and expertise: 
 
 * Daniel Owens
 * Dardo Sordi
@@ -36,18 +30,20 @@ Current contributors include:
 * Patrick Durusau
 * Jonathan Robie
 * Stephen Hughes (aka Στέφανος)
+* David Statezni
+* Bram vandenHeuvel
+* Drew Curley
+* Chapel Presson
+* Todd L. Price
 
 Markup Information
 ==================
 
-All text from the lexicon will be included and marked up using CrossWire.org's iteration of TEI XML, which supports several features of OSIS XML that are relevant to biblical studies (especially biblical references). For helpful documentation on this iteration of TEI, see http://www.crosswire.org/wiki/TEI_Dictionaries. For the schema definition, see http://www.crosswire.org/OSIS/teiP5osis.1.4.xsd. For detailed documentation on TEI dictionaries, see http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DI.html. 
-
-If you want just the basics or a handy cheatsheet, see [Instructions_for_Contributors.md](https://github.com/translatable-exegetical-tools/Abbott-Smith/blob/master/Instructions_for_Contributors.md).
-
-Note that until markup is complete, the file will not validate because the &lt;body> and &lt;div> elements cannot contain text (only certain elements), but the text layer provides such text. However, a validator can be used to identify other problems in the document and the raw text be deleted if one wishes to work with text that has already been cleaned up.
+All text from the lexicon is marked up using CrossWire.org's iteration of TEI XML, which supports several features of OSIS XML that are relevant to biblical studies (especially biblical references). For helpful documentation on this iteration of TEI, see http://www.crosswire.org/wiki/TEI_Dictionaries. For the schema definition, see http://www.crosswire.org/OSIS/teiP5osis.1.4.xsd. For detailed documentation on TEI dictionaries, see http://www.tei-c.org/release/doc/tei-p5-doc/en/html/DI.html. 
 
 Changelog
 =========
+2017/02/03 - Release of v. 1.0: This release comes thanks to the work of David Statezni, Bram vandenHeuvel, Drew Curley, Chapel Presson, and Todd L. Price to complete the markup and checking of the lexicon. The lexicon is complete. 
 
 2013/12/12 - Release of v. 0.5: This release contains the majority of entries in Abbott-Smith, some of which have been marked up very carefully but many others that require manual editing. The release includes numerous fixes to the data from DSAW's version, particularly correcting references and restoring &lt;div> elements and page numbers. Also added: &lt;etym> for etymological data and &lt;re> for related entry information (mostly for synonyms). Many thanks to Jonathan Robie and Patrick Durusau for collating the data and to Dardo Sordi for working countless hours to improve the data. From this point forward we will use the Github release feature since there is no longer any nonsense OCR text to remove before release. However, much editing remains to be done, and there may be errors. Note the Total entries: 5,726. Total pages checked: 4/526.
 
