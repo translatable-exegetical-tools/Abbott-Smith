@@ -53,3 +53,11 @@ module-making/modules/lexdict/zld/abbottsmithstrongs/dict.zdt
 module-making/sword.zip
 
 module-making/modules/lexdict/zld/abbottsmithstrongs/dict.dat
+
+module-making/AbbottSmithStrongs-2017-02-10/abbottsmithstrongs.xml
+
+module-making/AbbottSmithStrongs-2017-02-10/abbottsmithstrongs.conf
+
+module-making/generate-module.sh
+
+module-making/teiP5osis.2.5.0.xsd
