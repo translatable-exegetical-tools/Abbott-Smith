@@ -10,5 +10,5 @@ tei2mod modules/lexdict/zld/abbottsmithstrongs/ abbott-smith.tei-strongs.xml -z
 ### Bundles the module.
 zip sword.zip ./mods.d/abbottsmithstrongs.conf ./modules/lexdict/zld/abbottsmithstrongs/*
 
-#rm abbott-smith.tei-simple.xml 
+#rm abbott-smith.tei-simple.xml
 #rm abbott-smith.tei-current.xml
