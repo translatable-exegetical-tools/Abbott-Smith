@@ -15,7 +15,7 @@ Viewing and Downloading
 
 The main file in this repository is [abbott-smith.tei.xml](https://github.com/translatable-exegetical-tools/Abbott-Smith/blob/master/abbott-smith.tei.xml). 
 
-To use the lexicon, download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
+To use the lexicon, download any release from the [Releases page](https://github.com/translatable-exegetical-tools/Abbott-Smith/releases).
 
 Also, a module for the SWORD Library is available from [CrossWire](http://www.crosswire.org).
 
