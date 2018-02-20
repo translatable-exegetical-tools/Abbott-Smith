@@ -61,3 +61,5 @@ module-making/AbbottSmithStrongs-2017-02-10/abbottsmithstrongs.conf
 module-making/generate-module.sh
 
 module-making/teiP5osis.2.5.0.xsd
+
+module-making/fix.sh
