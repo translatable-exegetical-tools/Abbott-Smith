@@ -15,6 +15,8 @@ Viewing and Downloading
 
 It is not recommended that you use abbott-smith.tei.xml in this folder for anything but cleaning up and marking up entries because it contains text recognized by OCR that needs to be cleaned up. To use the lexicon, [view the current release online](http://www.textonline.org/files/abbott-smith/abbott-smith.current_release.html) or download any release from the [Downloads page](https://github.com/translatable-exegetical-tools/Abbott-Smith/downloads).
 
+Use the editor at https://translatable-exegetical-tools.github.io/Abbott-Smith/editor/.
+
 Contributing
 ============
 
