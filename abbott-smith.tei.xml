@@ -19089,6 +19089,27 @@ WH, mg., R, txt., v.s. <foreign xml:lang="grc">ἐξωθέω</foreign>.†</sens
   <sense><gloss>ninth</gloss>: <ref osisRef="Rev.21.20">Re 21:20</ref>; of the ninth hour (3 o'clock, p.m.), <ref osisRef="Matt.20.5">Mt 20:5</ref> <ref osisRef="Matt.27.45">27:45</ref>,  <ref osisRef="Matt.27.46">46</ref>, <ref osisRef="Mark.15.33">Mk 15:33</ref>, <ref osisRef="Mark.15.34">34</ref>, <ref osisRef="Luke.23.44">Lk 23:44</ref>, <ref osisRef="Acts.3.1">Ac 3:1</ref> <ref osisRef="Acts.10.3">10:3</ref>, <ref osisRef="Acts.10.30">30</ref>.†</sense>
 </entry>
 
+<entry key="ἐνγράφω" n="G1449">
+  <note type="occurrencesNT">2</note>
+  <form>† <orth>ἐγ-γράφω</orth>, <foreign xml:lang="grc">-ψω</foreign></form>
+  <etym>
+    <seg type="root"><foreign xml:lang="grc">γράφω</foreign></seg>
+    <seg type="usage">[in LXX chiefly for <foreign xml:lang="heb" n="H3789">כָּתַב</foreign>;]</seg>
+  </etym>
+  <sense>
+    <gloss>to inscribe, write in</gloss>; 
+    <term type="voice">pass.</term> seq. <foreign xml:lang="grc">ἐν</foreign>,
+    <ref osisRef="2Cor.3.2">II Co 3:2–3</ref>.
+  </sense>
+  <sense n="2">
+    <gloss>to enter in a register, enroll</gloss>; 
+    <term type="voice">pass.</term>,
+    <ref osisRef="Luke.10.20">Lk 10:20</ref> 
+    (cf. <ref osisRef="1Macc.13.40">I Mac 13:40</ref>; v. Dalman, <title>Words</title>, p. 209).†
+  </sense>
+</entry>
+
+
 <entry key="ἐνδεής" n="G1729">
   <note type="occurrencesNT">1</note>
   <form><orth>ἐνδεής</orth>, <foreign xml:lang="grc">-ές</foreign></form>
