@@ -35340,7 +35340,24 @@ indecl., <foreign xml:lang="grc">ὁ</foreign> (Heb. <foreign xml:lang="heb" n="
   <sense><gloss>with toil</gloss> or <gloss>difficulty</gloss>, <gloss>hardly</gloss>: <ref osisRef="Luke.9.39">Lk 9:39</ref> (<foreign xml:lang="grc">μόγις</foreign>, WH).†</sense>
 </entry>
 
-<entry key="μοιχαλίς" n="G3426">
+<entry key="μόδιος" n="G3426">
+  <note type="occurrencesNT">3</note>
+  <form>† <orth>μόδιος</orth>, <foreign xml:lang="grc">-ου, ὁ</foreign></form>
+  <etym>
+    <seg type="derivation">(<foreign xml:lang="la">modius</foreign>, a Latin measure),</seg>
+    <seg type="definition">a measure (about sixteen sextarii, roughly one peck, or a little more than eight litres),</seg>
+    <seg type="usage">used for a bushel or basket for measuring grain.</seg>
+  </etym>
+  <sense>
+    <gloss>a dry measure, a bushel</gloss>;
+    metaphorically, the vessel used as a covering for a lamp:
+    <ref osisRef="Matt.5.15">Mt 5:15</ref>,
+    <ref osisRef="Mark.4.21">Mk 4:21</ref>,
+    <ref osisRef="Luke.11.33">Lk 11:33</ref>.
+  </sense>
+</entry>
+
+<entry key="μοιχαλίς" n="G3428">
   <note type="occurrencesNT">7</note>
   <form>† <orth>μοιχαλίς</orth>, <foreign xml:lang="grc">-ίδος, ἡ</foreign></form>
 <etym>
