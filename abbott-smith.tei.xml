@@ -44456,7 +44456,7 @@ Metaph.,
                </etym>
                <sense n="1.">
                   <gloss>a spear-head</gloss>.</sense>
-               <sense xml:id="2.">
+               <sense n="2.">
                   <gloss>a lance</gloss>, <gloss>spear</gloss>:
     <ref osisRef="Matt.27.49">Mt 27:49</ref> (WH, R, mg.),
     <ref osisRef="John.19.34">Jo 19:34</ref>.†</sense>
@@ -49966,7 +49966,7 @@ indecl., <foreign xml:lang="grc">ὁ</foreign> (Heb. <foreign xml:lang="heb" n="
          </div>
          <div type="letter" n="Ο">
             <head type="heading2">Ο</head>
-            <entry corresp="ὁ G3588">
+            <entry n="ὁ" corresp="G3588">
                <note type="occurrencesNT">20225</note>
                <form>
                   <orth>ὁ</orth>, <foreign xml:lang="grc">ἡ, τό</foreign>,</form>
